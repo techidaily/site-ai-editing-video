@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Change Background Color in After Effects
-date: 2024-12-05T07:54:26.979Z
-updated: 2024-12-12T01:36:39.060Z
+date: 2024-12-15T21:57:11.490Z
+updated: 2024-12-18T17:00:35.699Z
 tags: 
   - ai
   - animation videos
@@ -113,6 +113,10 @@ Import your video clip with a solid background color and place it on Timeline. G
 
 The steps for After Effects how to change background color solid involve removing the background color and adding a layer of solid color to replace the transparency of the video. Go to Layer> New> Solid. Under Solid Settings window, go to Color and select the desired color from Color option and click on OK button. The new color will get reflected in the background of the video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. How do you add a white background in After Effects?
 
 Go to Layer> New> Solid and add a white color solid first. However, this white color layer will not be visible unless you turn the background of your video transparent. Go to Effects & Presets and search for Luma Key and drop Luma Key on your video. Set Key type as Brighter and the threshold of the Lema key as per suitability on your video to see the white background appear.
@@ -161,10 +165,6 @@ Before we begin to edit our video, make sure you download Wondershare Filmora. F
 * Now, drag the Video and drop it in the editing timeline below.
 
 ![add video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step2 Add the Same Video again
 
@@ -226,6 +226,10 @@ It would help if you created multiple outlines to achieve the Neon Dance effect.
 
 ![export the video](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * When you have exported the video, move back to the timeline to edit again.
 * As we had selected the **Blue** color for reference, now choose another color you wish.
 * After changing the video, export it again.
@@ -251,10 +255,6 @@ It would help if you created multiple outlines to achieve the Neon Dance effect.
 
 ![offset the videos by a few seconds](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To efficiently blend the outlines with the green screen, you can change the blending mode of each of the exported videos to "**Lighten**."
 
 * Double-click on each video.
@@ -262,6 +262,10 @@ To efficiently blend the outlines with the green screen, you can change the blen
 * From there, select the "**Lighten**" option.
 
 ![change the blending mode to lighten](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step8 Add the Glow effect
 
@@ -271,6 +275,10 @@ To make the outlines glow like Neon lights, we will need to add another effect f
 * Click and **drag** the glow effect to each of the exported videos.
 
 ![add the glow effect](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-11.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can make it more fun by going one step further!
 
@@ -325,10 +333,6 @@ We aim to create a black background for the original video we imported above. To
 
 ![adding the same video again](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Go into the Compositing Mode
 
 After adding the same video, now convert BG into a black screen. For this, follow the given steps:
@@ -379,6 +383,10 @@ It would help if you created multiple outlines to achieve the Neon Dance effect.
 * When you have selected the color for your outline, export the video by clicking on the **Export** icon in the top right corner.
 
 ![export the video](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * When you have exported the video, move back to the timeline to edit again.
 * As we had selected the **Blue** color for reference, now choose another color you wish.
@@ -443,7 +451,7 @@ You will immediately see changes to your video in the main play window. Play the
 ![final results of neon dance effect](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-12.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Congratulations! You have successfully created Neon Dance effects by using the user-friendly Wondershare Filmora.
@@ -501,10 +509,6 @@ Step3 Next, click the **“Filters”** option from the top toolbar, select **�
 
 Step4 Once you are satisfied with your changes, click **“OK”** to apply the effect to the image, and make some other edits if needed. Finally, click **“File”** from the top toolbar, choose **“Export As,”** click **“File Type”** to select the format, and select the **“Export”** option to save your file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus Tips – The Alternative To GIMP To Create Motion Blur Effect
 
 GIMP is a popular image editor that you can use to create motion blur effects. However, some users find it difficult to use the software for this purpose.
@@ -529,6 +533,10 @@ Step1 Download the Filmora software on your PC, launch it, and click **“Create
 
 ![importing file to filmora to add motion blur](https://images.wondershare.com/filmora/article-images/2023/02/importing-file-to-filmora-to-add-motion-blur.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
 
 ![adding motion blur effect using filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-using-filmora.png)
@@ -567,10 +575,6 @@ Step1 Download the Filmora software on your PC, launch it, and click **“Create
 
 ![importing file to filmora to add motion blur](https://images.wondershare.com/filmora/article-images/2023/02/importing-file-to-filmora-to-add-motion-blur.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
 
 ![adding motion blur effect using filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-using-filmora.png)
@@ -584,10 +588,6 @@ Step5 Once satisfied with the outcome, click the "Export" option, go to the **"L
 ![exporting file from filmora](https://images.wondershare.com/filmora/article-images/2023/02/exporting-file-from-filmora.png)
 
 Filmora offers many export options, such as your device, YouTube, Vimeo, and DVD, with just a few clicks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -611,6 +611,10 @@ To improve the quality of your GIFs, you can convert your MP4 videos to 60 FPS (
 
 ![convert mp4 video to 60 fps gif](https://images.wondershare.com/filmora/article-images/convert-mp4-video-60-fps-gif.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Convert MP4 to 60-FPS GIF?
 
 GIFs are a great way to share short, eye-catching videos online, but not all are made the same. GIFs with low frame rates tend to look choppy, and the motion could be smoother, making the video look unprofessional and detracting from the overall viewing experience. On the other hand, GIFs with higher frame rates look smoother, and the motion is more fluid, making the video more visually appealing.
@@ -630,10 +634,6 @@ Converting MP4s to GIFs is a great way to improve the overall quality of your GI
 While it's true that many people search for 60 FPS GIFs, it's important to understand that there is no such thing as a true 60 FPS GIF.
 
 ![60 fps gif](https://images.wondershare.com/filmora/article-images/60-fps-gif.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 GIFs are an image format designed to display simple animations. [GIF files store delay time between frames](https://en.wikipedia.org/wiki/GIF) which is defined as multiples of 1/100th of a second. Value 1 would give you 100 FPS; value 2 would already have half of 100 FPS, that is, 50 FPS; value 3 would give you 33.3 FPS GIF, etc. So there are 20 FPS GIFs, 33.3 FPS GIFs, 50 FPS GIFs, and 100 FPS GIFs.
 
@@ -693,6 +693,10 @@ Step1 Upload a video from your computer or **drag** and **drop** it onto the pag
 
 ![media io upload video](https://images.wondershare.com/filmora/article-images/media-io-upload-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Customize the output size, frame rate, and length, and add text before creating your GIF.
 
 ![media io edit settings](https://images.wondershare.com/filmora/article-images/media-io-edit-settings.jpg)
@@ -702,7 +706,7 @@ Step3 Download the resulting GIF file or **save** it for later.
 ![media io download gif](https://images.wondershare.com/filmora/article-images/media-io-download-gif.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## People Also Ask
@@ -734,10 +738,6 @@ There are various tools available, both online and desktop-based, that can conve
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Not only does it allow you to easily convert your videos to GIFs, but it also allows you to customize the frame rate and other settings to get the perfect results. With its user-friendly interface and powerful features, Filmora makes it simple for anyone to create high-quality GIFs that are perfect for sharing on social media or other platforms.
 
@@ -823,16 +823,22 @@ There are various tools available, both online and desktop-based, that can conve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-preeminent-online-spaces-enhancing-youtube-traffic/"><u>[New] In 2024, Preeminent Online Spaces Enhancing YouTube Traffic</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nderstanding-the-impact-of-youtubes-creative-commons-on-videos/"><u>[New] Understanding the Impact of YouTube's Creative Commons on Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-capturing-and-reducing-speed-with-iphone-a-step-by-step-guide/"><u>[Updated] Capturing and Reducing Speed with iPhone A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>2024 Approved How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-farm-to-feast-shooting-gourmet-films-with-grace-for-2024/"><u>From Farm to Feast Shooting Gourmet Films with Grace for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-device-ready-with-mediatek-usb-vcom-driver-easy-download-steps/"><u>Get Your Device Ready with MediaTek USB VCOM Driver - Easy Download Steps</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-download-and-use-windows-movie-maker-10-for-2024/"><u>How to Download and Use Windows Movie Maker 10 for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-innovators-to-watch-leading-av-and-acoustic-artisans/"><u>In 2024, Innovators to Watch Leading Av & Acoustic Artisans</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rev-up-your-soundscape-overcoming-sound-challenges-in-forza-horizon-4/"><u>Rev Up Your Soundscape: Overcoming Sound Challenges in Forza Horizon 4</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-best-laptops-for-video-editing/"><u>The Best Laptops For Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-this-article-talks-in-detail-about-how-to-convert-time-lapse-to-normal-video-using-certain-methods-on-iphone-online-tools-and-so-on-it-further-discu/"><u>Updated This Article Talks in Detail About How to Convert Time-Lapse to Normal Video Using Certain Methods on iPhone, Online Tools, and so On. It Further Discusses Converting Time-Lapse Video to Normal on the Computer. Check Out</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-youtube-spots-for-video-marketing-success/"><u>[New] 2024 Approved Top YouTube Spots for Video Marketing Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-a-complete-guide-about-video-resolution-for-beginners/"><u>[New] In 2024, A Complete Guide About Video Resolution for Beginners</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-significant-aspects-in-techno-narrative-design-for-2024/"><u>[New] Significant Aspects in Techno Narrative Design for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-legal-means-to-elevate-your-youtube-popularity-by-one-million/"><u>[Updated] Legal Means to Elevate Your YouTube Popularity by One Million</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-all-things-about-adding-effects-in-kinemaster/"><u>2024 Approved All Things About Adding Effects In Kinemaster</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fixing-the-facial-flaws-in-iphone-xs-security-feature/"><u>2024 Approved Fixing the Facial Flaws in iPhone X's Security Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiled-top-6-tools-to-purify-signature-images-online/"><u>In 2024, Unveiled Top 6 Tools to Purify Signature Images Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-know-how-ai-is-helping-video-editors-and-enthusiasts-many-video-editing-software-allows-an-auto-reframe-option-to-use-that-can-help-manage-videos/"><u>New Do You Know How AI Is Helping Video Editors and Enthusiasts? Many Video Editing Software Allows an Auto Reframe Option to Use that Can Help Manage Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-green-screen-video-in-after-effects/"><u>New How To Create A Green Screen Video In After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-film-a-slow-motion-video-for-2024/"><u>New How To Film a Slow Motion Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/precision-in-action-3-methods-for-gaming-footage-for-2024/"><u>Precision in Action 3 Methods for Gaming Footage for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-font-effects-to-videos/"><u>Updated 2024 Approved How to Add Font Effects to Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-fade-in-windows-video-editor-for-2024/"><u>Updated How To Add Fade In Windows Video Editor for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-correct-lens-distortion-with-filmora/"><u>Updated In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028714113-windows-and-mac4/"><u>Windows & Mac向けに、動画の画角を落とすための4つの効果的なテクニック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3gpp-3gp-movavi/"><u>무료 원조 - 3GPP 3GP 되착포를 위한 Movavi의 가상 서비스</u></a></li>
 </ul></div>
 

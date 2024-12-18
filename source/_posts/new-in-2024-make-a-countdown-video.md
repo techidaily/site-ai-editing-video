@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Make A Countdown Video
-date: 2024-12-04T18:20:49.468Z
-updated: 2024-12-11T19:41:04.804Z
+date: 2024-12-12T19:44:46.350Z
+updated: 2024-12-18T17:19:22.956Z
 tags: 
   - ai
   - animation videos
@@ -114,11 +114,11 @@ In an adjustment layer in Premiere Pro, you can add multiple effects to create a
 
 ![adjustment layer in premiere pro](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-2.jpg)
 
-Furthermore, you can also remove the adjustment layer from your timeline easily without modifying the composition settings of your video. If you get a basic understanding of creating and managing the adjustment layer in Premiere Pro, you can efficiently enhance the visual appeal of your videos. To learn more about the **Premiere Pro adjustment layer**, continue reading.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Furthermore, you can also remove the adjustment layer from your timeline easily without modifying the composition settings of your video. If you get a basic understanding of creating and managing the adjustment layer in Premiere Pro, you can efficiently enhance the visual appeal of your videos. To learn more about the **Premiere Pro adjustment layer**, continue reading.
 
 ## Part 2: How to Add an Adjustment Layer in Premiere Pro?
 
@@ -127,6 +127,10 @@ In this section, we will briefly address **how to add an adjustment layer in Pre
 Step1 Once you have uploaded your project in Premiere Pro, go to the "File" tab and select the "New" option. Afterward, tap on "Adjustment Layer."
 
 ![select the adjustment layer option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 You can also go to the bottom of your project's panel and tap on the "New Item" icon. After clicking on this icon, you can click on the “Adjustment layer” option. Afterward, you can modify the video settings to change the settings of the adjustment layer. Once done, hit the “OK” button.
 
@@ -167,10 +171,6 @@ By using masks in Premiere Pro, you can efficiently blur, highlight, or add an e
 Step1 Add the adjustment layer to the timeline and head to the “Effects” library to locate the “Crop” effect. Add this effect to the adjustment layer and then head to the Effects control.
 
 ![add the crop effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Now enhance the top and bottom properties to 15%. You can also adjust the headspace of the person accordingly. Also, you can animate the black bars to produce a more cinematic look in your video.
 
@@ -206,6 +206,10 @@ In an adjustment layer in Premiere Pro, you can add multiple effects to create a
 
 Furthermore, you can also remove the adjustment layer from your timeline easily without modifying the composition settings of your video. If you get a basic understanding of creating and managing the adjustment layer in Premiere Pro, you can efficiently enhance the visual appeal of your videos. To learn more about the **Premiere Pro adjustment layer**, continue reading.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Add an Adjustment Layer in Premiere Pro?
 
 In this section, we will briefly address **how to add an adjustment layer in Premiere Pro** in a simpler manner.
@@ -234,10 +238,6 @@ Step1 After uploading the video clip in Premiere Pro, create a new adjustment la
 
 ![select the film convert nitrate option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Apply this effect to the adjustment layer and choose your camera to match the color profile. Afterward, you can adjust the saturation, exposure filmstock, and curves according to your choice. You can also increase the vibrancy and hue saturation curves for more enhancement. You can also navigate to the basic correction section to modify the contrast value accordingly.
 
 ### 2\. Transition
@@ -249,10 +249,6 @@ Step1 First, drag and drop your video clips into the timeline. Once done, create
 Step2 Now add the keyframe to the position where you want to start and end the transition effect. Afterward, right-click on the first keyframe and select "Temporal Interpolation." From there, choose "Ease Out." Repeat the same process with the last keyframe. Once done, add the “Directional blur” effect to the adjustment layer for a smoother look.
 
 ![select the ease-out option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Mask
 
@@ -275,6 +271,10 @@ To fix grayed adjustment layer in Premiere Pro, there are two methods that you c
 **Method 1:** At the bottom of your project panel, click on the “New Item” icon and select “Adjustment Layer.” Once done, adjust the settings and press the “OK” button. Now you can drag and drop the adjustment layer in the timeline.
 
 **Method 2:** Click on your “Project Panel” and then navigate to the “File” tab. From there, select “New” and then click on “Adjustment Layer.” Once done, you can drag and drop the adjustment layer at the timeline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -484,6 +484,10 @@ Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change 
 
 ![glowing edge color](https://images.wondershare.com/filmora/article-images/2023/01/color.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6
 
 Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video → Basic.** Scroll down and change the **Blending Mode** to “**Difference**”. Click **OK** and **Export** the clip at a higher rate. Click on the blue Export button at the top center.
@@ -570,10 +574,6 @@ Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video
 
 ![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 7
 
 Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
@@ -632,10 +632,6 @@ It’s is so simple and will not take much of your time.
 
 Let’s dive in…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Rotating videos in google photos**
 
 Rotating a video in google photos is pretty simple and will not take much of your time. You can easily fix the rotation and aspect ratio of your videos. But it’s a little tricky.
@@ -654,10 +650,6 @@ Once you're happy, in the top right hand corner, hit Save Copy and that's it, th
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **An easier way to rotate videos in Google Photos**
 
 If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
@@ -688,6 +680,10 @@ You can also rotate the video by using the **Transform** tab located at the top 
 * Here you can move the rotate slider or directly enter the rotating value.
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You will notice that I have changed the rotation of my video from its original position to the rotated angle.
 
@@ -794,6 +790,10 @@ Just go ahead and start…
 
  Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **What’s more you can do with Filmora**
 
 **Changing the Aspect ratio**
@@ -872,6 +872,10 @@ Here, you can **Flip** function your video to change the direction. Like in this
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
 
 Just go ahead and start…
@@ -889,6 +893,10 @@ After you rotate the video at an angle you like. You can change the aspect ratio
 * Press **OK**
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
 
@@ -909,10 +917,6 @@ You will see a diamond with a circular arrow on it. You're going to hit that unt
 Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **An easier way to rotate videos in Google Photos**
 
@@ -945,10 +949,6 @@ You can also rotate the video by using the **Transform** tab located at the top 
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You will notice that I have changed the rotation of my video from its original position to the rotated angle.
 
 You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
@@ -963,6 +963,10 @@ Similarly, you can drag the video from the preview panel and adjust it as requir
 Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
 
@@ -983,10 +987,6 @@ After you rotate the video at an angle you like. You can change the aspect ratio
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
 
 By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -1014,17 +1014,16 @@ A good destiny is waiting for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-discover-11-secrets-of-windows-11-for-2024/"><u>[New] Discover 11 Secrets of Windows 11 for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-download-youtube-tunes-with-these-10plus-no-cost-audio-crackers-for-2024/"><u>[New] Download YouTube Tunes with These 10+ No-Cost Audio Crackers for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-2023-play-facebook-videos-on-tv/"><u>[Updated] 2024 Approved 2023 | Play Facebook Videos on TV?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mxf-mkv-movavi/"><u>「オンラインで免責提供: MXF MKVファイルを簡単に変換する - Movavi」</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-put-a-filter-on-a-video-in-imovie/"><u>In 2024, How to Put a Filter on a Video in iMovie</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-pip-functions-on-apple-devices/"><u>In 2024, Mastering PIP Functions on Apple Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-social-media-roadmap-for-business-growth/"><u>In 2024, The Social Media Roadmap for Business Growth</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f14-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F14 5GFRP Lock</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/speedy-windowed-image-viewer/"><u>Speedy Windowed Image Viewer</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-convert-your-videos-to-60-fps-using-these-excellent-tools/"><u>Updated In 2024, Convert Your Videos to 60 FPS Using These Excellent Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-something-about-skin-care-vlog-ideas/"><u>Updated Something About Skin Care Vlog Ideas</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-classic-comedy-compilation-a-goofy-movie-review/"><u>[New] 2024 Approved Classic Comedy Compilation A 'Goofy Movie' Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-virtual-reality-development-tools-gamers/"><u>[New] 2024 Approved Top Virtual Reality Development Tools Gamers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>2024 Approved Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/frame-rate-selection-made-simple-pros-and-cons-of-30fps-and-60hz-for-2024/"><u>Frame Rate Selection Made Simple Pros and Cons of 30Fps and 60Hz for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/handbrake-troubleshooting-guide-solving-crashes-and-unresponsiveness-on-windows-10-devices/"><u>Handbrake Troubleshooting Guide: Solving Crashes & Unresponsiveness on Windows 10 Devices!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-google-meet-excellence-on-the-house-complete-guide-for-all-users/"><u>In 2024, Google Meet Excellence on the House Complete Guide for All Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
 </ul></div>
 

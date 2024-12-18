@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Correct Lens Distortion With Filmora
-date: 2024-12-10T08:33:05.394Z
-updated: 2024-12-12T11:03:50.563Z
+date: 2024-12-14T18:23:58.149Z
+updated: 2024-12-18T22:09:10.400Z
 tags: 
   - ai
   - animation videos
@@ -95,6 +95,10 @@ Step4 Lastly, if you play the video back, you will see the video look much bette
 
 ![play the video back](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-4.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to avoid distorted lens while shooting?
 
 **1\. Avoid very wide-angle lenses**
@@ -148,6 +152,10 @@ Step2 Select the video from your iPhone that you want to edit and add filters. A
 
 ![create movie in imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/create-movie-in-imovie-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Your selected video will now be available on the Timeline where you can edit your video. Tap on Filters icon located at the bottom-right corner.
 
 ![filter timeline iphone imovie](https://images.wondershare.com/filmora/article-images/2022/07/filter-timeline-iphone-imovie.jpg)
@@ -164,10 +172,6 @@ Step6 Tap on Share icon at the bottom and then tap on Save Video option to save 
 
 ![save video imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/save-video-imovie-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to add filters on Mac iMovie
 
 If you are someone who regularly makes videos for social media account or video streaming channel, you are more likely to record your video using a video camera and transfer the recorded video to you Mac for editing purposes. iMovie comes pre-installed on Mac, and therefore, once you have transferred the video, you can get started with editing and adding filters immediately. Here are the steps on how to add filters to iMovie on your Mac.
@@ -175,10 +179,6 @@ If you are someone who regularly makes videos for social media account or video 
 Step1 Launch iMovie from Applications folder. Click on Create New option to start a new Project.
 
 ![create new projects imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/create-new-projects-imovie-mac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Drag and drop the target video from Photos app to Desktop. Thereafter, drag and drop the video file from Desktop to the Timeline of iMovie project.
 
@@ -191,6 +191,10 @@ Step4 Click on Clip Filter option and you will see different filters in a window
 ![apply filters imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/apply-filters-imovie-mac.jpg)
 
 Step5 Once you are satisfied with a filter, click on that filter to apply it to the video clip.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. iMovie Alternative to add filters on Computer
 
@@ -289,6 +293,10 @@ Another possible disadvantage is the time required for downloading the various r
 
 FFmpeg can be used to speed up videos. It's not the only option, but it's one of the most common ways to make your videos faster. If you want your video to be faster, then FFmpeg is the right tool for the job. Some speed-up features include: FFmpeg speed up video and audio, ffmpeg speed up video mp4, ffmpeg change video speed, and so on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Ultimate Step-by-Step Guide to speed up a video in FFmpeg
 
 The presentation timestamp (PTS) of each video frame can be modified to alter the pace of a video stream.
@@ -310,6 +318,10 @@ Step5 Click Enter.
 ![click enter](https://images.wondershare.com/filmora/article-images/2023/01/change-video-speed-ffmeg-4.png)
 
 Step6 The result would be a sped-up version of your video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. An Alternative to FFmpeg: Wondershare Filmora
 
@@ -389,10 +401,6 @@ Filmora also offers extensive editing features, including:
 * **Mask and Blend:** The masking and blending features in Filmora are user-friendly and packed with valuable capabilities.
 * **AI Portrait:** Easily identify people in your film and increase the fun factor when editing it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Major approaches to speed up a video in Filmora
 
 As we know that Filmora has the option to change the speed of a video, so let's find out step-by-step how to do that; you can also watch this [Tutorial on Youtube](https://www.youtube.com/watch?v=4w6CEhFHnII):
@@ -408,6 +416,10 @@ You need to check your video's FPS and import your clip first.
 Pick your preferred video. Go to the menu and select "Download." After hitting the "Plus" button, you may maintain the video's quality by choosing "Match to Media."
 
 ![go to the menu](https://images.wondershare.com/filmora/article-images/2022/05/change-video-speed-2.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After the movie has loaded, you have two options: double-clicking the clip or selecting the speed option provided below the screen.
 
@@ -433,10 +445,6 @@ Moving these keyframes higher will make the video go more quickly, while moving 
 
 Watch this video and know more about speed ramping.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In conclusion, the first thing you can do to speed up your video is to use FFmpeg. The FFmpeg project is a community-driven, non-profit collaborative project to develop and maintain an open-source code library for handling multimedia files, including video. It has many features including ffmpeg speed-up video, ffmpeg slow-down video, etc. FFmpeg is free software and supports many platforms, including Linux, macOS, iOS, and Android.
@@ -448,6 +456,10 @@ Filmora is another great alternative that allows users to speed up their videos 
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Merging Videos Like a Pro: A Step-by-Step Guide to Use FFmpeg
 
@@ -499,10 +511,6 @@ _file /Users/Video/input2.mp4_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** You can add more than two video files.
 
 Step2 **Run** the FFmpeg command:
@@ -510,10 +518,6 @@ Step2 **Run** the FFmpeg command:
 _ffmpeg -f concat -safe 0 -i join\_video.txt -c copy output\_demuxer.mp4_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note: _\-safe 0_** is added to accept any file name.
 
@@ -532,10 +536,6 @@ Step1 **Run** the FFmpeg command:
 _ffmpeg -i "concat:input1.ts|input2.ts" -c copy output\_protocol.ts_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** The concat protocol allows you to "stream copy" the files by adding the option **_\-c copy_**.
 
@@ -594,6 +594,10 @@ Step2 **Use** the **filter\_complex** parameter in FFmpeg to specify the input s
 _\[0:0\] \[0:1\] \[0:2\] \[1:0\] \[1:1\] \[1:2\] \[2:0\] \[2:1\] \[2:2\]_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note: Single video stream** (\[0:0\], \[1:0\], \[2:0\])
 
@@ -651,6 +655,10 @@ _ffmpeg -f concat -safe 0 -i join\_video.txt -c copy output\_demuxer.mp4_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note: _\-safe 0_** is added to accept any file name.
 
 **_\-c copy_** will copy all the streams.
@@ -680,10 +688,6 @@ _ffmpeg -i "concat:input1.mp4|input2.mp4" -c copy output\_protocol.mp4_
 **Note:** If you try to use this method on video formats that are not supported, only the first input video will be saved in the output video. And the video ends after the first video.
 
 Although this method is limited in terms of supported video formats, it's very easy to use if you merge videos in the supported formats. It's a single command in the terminal without needing a text file. Additionally, using the -c copy option makes it efficient as it doesn’t require re-encoding, saving time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Concatenate MP4 Video Files of Different Codecs & Resolutions Using FFmpeg
 
@@ -770,7 +774,7 @@ Step3 **Drag** and **drop** the files you want to merge from the media library t
 ![filmora add media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 **Edit** your video.
@@ -780,10 +784,6 @@ Step4 **Edit** your video.
 Step5 After editing, **click** the "**Export**" tab to **save** your videos.
 
 ![filmora export video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -805,19 +805,20 @@ FFmpeg is a powerful tool that allows you to concatenate videos in various ways.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-clear-sky-route-to-free-unmarked-tiktok-videos/"><u>[New] The Clear-Sky Route to Free, Unmarked TikTok Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-video-capture-on-periscope-a-comprehensive-manual/"><u>[Updated] 2024 Approved Mastering Video Capture on Periscope A Comprehensive Manual</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gimbal-mastery-7-drone-pros-recommended/"><u>[Updated] Gimbal Mastery 7 Drone Pros Recommended</u></a></li>
-<li><a href="https://fox-info.techidaily.com/foremost-companies-pioneering-vr-technology/"><u>Foremost Companies Pioneering VR Technology</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-enable-the-motion-blur-effect-while-playing-dying-light-2-read-this-article-to-find-out-how-to-use-dying-light-2-motion-blur-for-a-gr/"><u>In 2024, Do You Want to Enable the Motion Blur Effect While Playing Dying Light 2? Read This Article to Find Out How to Use Dying Light 2 Motion Blur for a Great Gaming Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-xr-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone XR Passcode Easily Video Inside</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-srt-demystified-in-depth-analysis-and-tips/"><u>In 2024, SRT Demystified In-Depth Analysis and Tips</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-id/"><u>New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-export-video-in-filmora/"><u>New In 2024, How To Export Video in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-of-the-ultra-portable-amazon-basics-tablet-stand-fits-right-in-your-pocket/"><u>Review of the Ultra-Portable Amazon Basics Tablet Stand: Fits Right in Your Pocket!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-how-to-repair-non-functional-volume-controls/"><u>Troubleshooting iPhone: How to Repair Non-Functional Volume Controls</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-shoot-video-with-virtual-green-screen/"><u>Updated Shoot Video with Virtual Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-text-animation-intro-tutorial-in-filmora/"><u>Updated Text Animation Intro Tutorial in Filmora</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exploring-platform-variations-youtube-vs-dailymention/"><u>[New] 2024 Approved Exploring Platform Variations YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-9-prime-live-streaming-venues-for-gamers/"><u>[New] 9 Prime Live Streaming Venues for Gamers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-simple-steps-for-iphone-to-pc-file-shift/"><u>[New] In 2024, Simple Steps for iPhone-to-PC File Shift</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-xiaomi-14-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Xiaomi 14 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-common-mic-problems-in-windows-7-step-by-step/"><u>How to Fix Common Mic Problems in Windows 7 - Step by Step</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-pinnacle-play-best-of-royale-multiplayer-matches/"><u>In 2024, Pinnacle Play Best of Royale Multiplayer Matches</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-edit-facebook-video-ads-for-e-commerce-business/"><u>New In 2024, How to Edit Facebook Video Ads for E-Commerce Business</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-dual-face-of-fb-expat-collectives/"><u>The Dual Face of FB Expat Collectives</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-infinix-note-30-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Infinix Note 30 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
 </ul></div>
 

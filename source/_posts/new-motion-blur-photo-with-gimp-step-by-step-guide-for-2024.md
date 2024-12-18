@@ -1,7 +1,7 @@
 ---
 title: New Motion Blur Photo With GIMP Step-By-Step Guide for 2024
-date: 2024-12-08T00:48:15.848Z
-updated: 2024-12-11T21:23:33.638Z
+date: 2024-12-16T21:53:47.284Z
+updated: 2024-12-18T16:42:15.337Z
 tags: 
   - ai
   - animation videos
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 GIMP is a cross-platform image editing software that you can use to edit photos and create graphics. The software is available for Linux, Windows, and macOS and can add a motion blur effect (A sense of movement in the photo), making your pictures look more realistic and professional.
 
 So to help you tone your skills, we've written a comprehensive guide on how to apply the **GIMP motion blur effect** to your photos!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part I. What Is GIMP?
 
@@ -83,6 +79,10 @@ To add the radial blur effect to images using Filmora, here are the quick and ea
 Step1 Download the Filmora software on your PC, launch it, and click **“Create New Project”** on the main panel. Use the **“Click Here to Import your Media File”** option to import your photo and drag and drop it into the timeline.
 
 ![importing file to filmora to add motion blur](https://images.wondershare.com/filmora/article-images/2023/02/importing-file-to-filmora-to-add-motion-blur.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
 
@@ -179,10 +179,6 @@ After preparing everything, you need to go to Filmora 11 and start editing. If y
 
 ![go to filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Editing Tutorial
 
 Step1 First, drag and drop the arm video clip onto the first video track and the tattoo picture on the second video track.
@@ -205,13 +201,13 @@ Step5 Go to do colour correction on the tattoo image so that it matches better w
 
 ![go to do colour correction](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Afterwards, open the "White Balance"menu and adjust the temperature. Indeed, you can also adjust the contrast and saturation if needed. Once done, click "OK." The tattoo should look like it blends into the arm video.
 
 ![open the white balance menu](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Make the tattoo disappear
 
@@ -299,10 +295,6 @@ Step 2: Go to Media and click on Import Media. Import all the media files starti
 
 ![camtasia import media](https://images.wondershare.com/filmora/article-images/camtasia-import-media.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: From Media Bin, drag and drop the media files to the timeline. Keep the video files in one track, audio files in another track, and likewise. Arrange them properly so that they are placed sequentially. You can trim them directly from the timeline and stretch the music file to cover the entire video as required.
 
 ![camtasia media bin to timeline](https://images.wondershare.com/filmora/article-images/camtasia-media-bin-to-timeline.jpg)
@@ -316,6 +308,10 @@ Step 5: Go to Audio Effects to enhance the audio of the video. Moreover, you can
 Step 6: On the canvas, check out how your edited video looks like. Once you are satisfied, click on Export button to save the video on your hard drive.
 
 ![camtasia save the video](https://images.wondershare.com/filmora/article-images/camtasia-save-the-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Camtasia Alternative to Edit Videos
 
@@ -340,7 +336,7 @@ Step 3: Drag and place the video files one by one on the timeline as per your re
 ![filmora timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Go to Transitions located at the top bar and drag and drop any transition in between video clips and photos wherever required. You can also insert Titles, Effects, and Elements from the top bar.
@@ -391,10 +387,6 @@ Step 4: Go to Transitions located at the top bar and drag and drop any transitio
 
 ![filmora edit videos](https://images.wondershare.com/filmora/guide/filmora-split-video-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Go to Audio located at the top bar, and drag and drop audio effects on the audio files on the timeline. You can also check the Stock Media and use them in your video as required.
 
 Step 6: Play the video once everything is done, and click on Export button to save the video file on your hard drive.
@@ -438,10 +430,6 @@ Step 3: Drag and place the video files one by one on the timeline as per your re
 Step 4: Go to Transitions located at the top bar and drag and drop any transition in between video clips and photos wherever required. You can also insert Titles, Effects, and Elements from the top bar.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/guide/filmora-split-video-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: Go to Audio located at the top bar, and drag and drop audio effects on the audio files on the timeline. You can also check the Stock Media and use them in your video as required.
 
@@ -570,7 +558,7 @@ Expand the timeline to see the ramping line. Now click on the ramping line by us
 ![add a new keyframe](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3
@@ -584,6 +572,10 @@ Move the timeline cursor to the right side and add another keyframe there. Now, 
 You might have gotten the answer to “**how to make slow-motion video in Premiere Pro**” until now. But another question comes into mind: “[How to make slow-mo videos easily](https://tools.techidaily.com/wondershare/filmora/download/)?” Using Adobe Premiere Pro can be tricky for starters, so they look for alternative tools. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great option if you struggle with using Adobe Premier Pro.
 
 The tool is easy to use and can process heavy videos, keeping its quality intact. With its AI features, the edits that used to take hours can now be done within minutes. The tool has amazing options for all kinds of media editing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Perform Slow Motion in Filmora Using Different Methods
 
@@ -602,10 +594,6 @@ Using this method, you can slow down your video smartly with the help of AI. Som
 Install Filmora 13 on your device and open it to access “New Project” from the main interface. When you enter the editing window, import your file into the media panel.
 
 ![create new project in filmora](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 2Adjust the Speed and Other Use Advanced Options
 
@@ -632,6 +620,10 @@ Tap the “Speed Ramping” next to the “Uniform Speed” in the right-side pa
 In the Speed Ramping Section, you will get 6 templates. Pick one or hit the “Customize” to design your own speed ramping in videos. Later, move to the toolbar of the timeline section and choose “Render Preview” next to the “Copilot” icon. It will bring a smooth playback of your speed ramping in videos.
 
 ![apply changes and render preview](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Matchless Features of Wondershare Filmora
 
@@ -693,6 +685,10 @@ Move the timeline cursor to the right side and add another keyframe there. Now, 
 
 ![adjust speed using keyframe](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Quick Alternative: Wondershare Filmora and Slow-Motion Clips
 
 You might have gotten the answer to “**how to make slow-motion video in Premiere Pro**” until now. But another question comes into mind: “[How to make slow-mo videos easily](https://tools.techidaily.com/wondershare/filmora/download/)?” Using Adobe Premiere Pro can be tricky for starters, so they look for alternative tools. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great option if you struggle with using Adobe Premier Pro.
@@ -723,6 +719,10 @@ Later, drag that file to the timeline and right-click on it to get a list. Selec
 
 ![choose uniform speed from drop down](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Otherwise, check the “Ripple Edit” and “Maintain Pitch” option for good. Now, extend the “AI Interpolation” menu and choose “Optical Flow.” It will let AI automatically adjust the video speed in slow motion with high quality.
 
 ![select ai frame and custom settings](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-9.jpg)
@@ -744,7 +744,7 @@ In the Speed Ramping Section, you will get 6 templates. Pick one or hit the “C
 ![apply changes and render preview](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Matchless Features of Wondershare Filmora
@@ -779,17 +779,16 @@ Regular videos do not always generate the same level of response from viewers. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-the-monetized-space-a-buyers-primer/"><u>[Updated] 2024 Approved Mastering the Monetized Space A Buyer's Primer</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unraveling-the-best-free-srt-translators-your-essential-guidebook/"><u>[Updated] 2024 Approved Unraveling the Best Free SRT Translators Your Essential Guidebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-curate-a-perfect-playlist-on-youtube-a-step-by-step-guide/"><u>[New] 2024 Approved Curate a Perfect Playlist on YouTube A Step-by-Step Guide</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-slow-motion-videos-using-final-cut-pro-with-ease/"><u>2024 Approved Create Slow Motion Videos Using Final Cut Pro with Ease</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-overlay-video-in-premiere-pro/"><u>2024 Approved How to Overlay Video in Premiere Pro</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-asus-rog-phone-7-ultimate-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Asus ROG Phone 7 Ultimate Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-sitelinks-in-seo-in-depth-analysis-with-effective-optimization-techniques/"><u>Mastering Sitelinks in SEO: In-Depth Analysis with Effective Optimization Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/momentfreeze-immediate-screen-grab-guide-for-2024/"><u>MomentFreeze Immediate Screen Grab Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/navigate-to-full-screen-bliss-on-facebook-for-2024/"><u>Navigate to Full-Screen Bliss on Facebook for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/secure-and-fast-instagram-to-mp4-conversion-for-windowsmac-users-for-2024/"><u>Secure & Fast Instagram to MP4 Conversion for Windows/Mac Users for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-achieving-gopro-slow-motion-with-quality-an-in-depth-overview/"><u>Updated 2024 Approved Achieving GoPro Slow Motion with Quality An In-Depth Overview</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-access-a-wide-range-of-free-tunes-our-ultimate-list-of-sites/"><u>How to Access a Wide Range of Free Tunes: Our Ultimate List of Sites</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-6-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 6 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-x9b-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor X9b Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-f25-pro-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Oppo F25 Pro 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-volume-buttons-not-working-try-these-7-fixes/"><u>IPhone Volume Buttons Not Working? Try These 7 Fixes</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>

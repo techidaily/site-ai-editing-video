@@ -1,7 +1,7 @@
 ---
 title: New Create Glitch Text Effect for 2024
-date: 2024-12-04T20:07:24.543Z
-updated: 2024-12-12T00:04:34.600Z
+date: 2024-12-11T16:13:57.577Z
+updated: 2024-12-18T21:20:18.085Z
 tags: 
   - ai
   - animation videos
@@ -37,6 +37,10 @@ Step2 Go to File> Import Media > Import Media Files to import the video clips wh
 
 ![go to file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Go to Titles tab located at the top. From the left panel, click on Titles option. Search “glitch” in the search field and you will see all the glitch text effects that you can apply to the text in your video.
 
 ![fast glitch title filmora](https://images.wondershare.com/filmora/article-images/2022/07/fast-glitch-title-filmora.jpg)
@@ -48,6 +52,10 @@ Step4 Select any glitch text effect and drop it into the Timeline above the vide
 Step5 Double-click on the glitch text effect located on Timeline and edit the text, style, and other parameters as per your preference. Click on Ok and play the video to see your edited video with the glitch text effect.
 
 ![customize text effect filmora](https://images.wondershare.com/filmora/article-images/2022/07/customize-text-effect-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Make Glitch Text Effect with Premiere Pro
 
@@ -69,17 +77,21 @@ Step4 Under Effect Controls tab, you will find all the different parameters that
 
 ![adjust parameters glitch text pr](https://images.wondershare.com/filmora/article-images/2022/07/adjust-parameters-glitch-text-pr.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 Turn on Master Amplitude and add multiple keyframes as different points in the Timeline and change the distortion value to make the effect prominent.
 
 ![add keyframes premiere](https://images.wondershare.com/filmora/article-images/2022/07/add-keyframes-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6 Go to the first keyframe and turn on Random Seed effect. Go to the last keyframe and turn on Random Seed effect and change the value to 75\. Play the video to check the entire video with glitch text effect.
 
 ![check video glitch effects pr](https://images.wondershare.com/filmora/article-images/2022/07/check-video-glitch-effects-pr.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Use VSDC Video Editor to Create Glitch Text
 
@@ -254,10 +266,6 @@ You can select a virtual background before beginning a meeting or during an ongo
 * Click Add to add your own image as a background.
 * Click on Join Now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### During a video conference
 
 * Click More at the bottom of the page.
@@ -267,10 +275,6 @@ You can select a virtual background before beginning a meeting or during an ongo
 * Click a background to select a previously downloaded backdrop.
 * Click Add to add your own image as a background.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Extra Tips
 
 ### How to Add Green Screen to Meeting Video
@@ -339,10 +343,6 @@ During a video conference
 
 ## Extra Tips
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Add Green Screen to Meeting Video
 
 ### Prior to a video call
@@ -407,12 +407,16 @@ During a video conference
 * Click a background to select a previously downloaded backdrop.
 * Click Add to add your own image as a background.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Extra Tips
 
 ### How to Add Green Screen to Meeting Video
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prior to a video call
@@ -574,10 +578,6 @@ In simple words, Ray Tracing is a computer graphics technique for generating rea
 
 ![ray tracing technology](https://images.wondershare.com/filmora/article-images/2022/07/ray-tracing-technology.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Overview Of Ray Tracing
 
 In this part, we will explain what Ray Tracing is from the following sides and for your better understanding.
@@ -607,15 +607,15 @@ Ray Tracking uses the process of denoising. The algorithm starts with the camera
 
 Ray Tracing uses machine learning to fill in the gaps to form a realistic image. The brighter the scene, the higher the graphics quality; the higher the quality, the more expensive it is. This is why Ray Tracing didn't become popular in the video game industry until recently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. Ray Tracing In Adobe After Effects
 
 After the introduction of Ray Tracing, we will combine it with a popular video editor - Adobe After Effects to see how it works. Adobe After Effects is a useful and powerful tool for creating visual effects and animated graphics. Adobe introduced Ray Tracing or **Ray-Traced 3D** feature in After Effect to help graphic designers create photorealistic 3D images and render light and shadow. This feature was added in 2012 with the release of After Effects CS 6.
 
 ![ray tracing in adobe after effects](https://images.wondershare.com/filmora/article-images/2022/07/ray-tracing-in-adobe-after-effects.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 However, the Ray Tracing feature was later removed from After Effects in 2020 due to multiple reasons:
 
@@ -735,10 +735,6 @@ After the introduction of Ray Tracing, we will combine it with a popular video e
 
 ![ray tracing in adobe after effects](https://images.wondershare.com/filmora/article-images/2022/07/ray-tracing-in-adobe-after-effects.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 However, the Ray Tracing feature was later removed from After Effects in 2020 due to multiple reasons:
 
 * The Ray Tracing tool always faced bugs and glitches.
@@ -786,6 +782,10 @@ Here're some instances of when to use **Ray-Traced 3D** compositions in After Ef
 * When you want to create realistic shadows or reflections to create stunning motion graphics.
 * You can also use it to create realistic images or simulate lighting effects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ray Traced 3D After Effects Plugin Download
 
 Zaxwerks ProAnimator AE is a 3D animation plugin for After Effects that makes it easier to animate objects in three dimensions. With ProAnimator AE, you don't have to use keyframes to animate objects.
@@ -810,13 +810,13 @@ Hopefully, your queries have been resolved, and you now fully understand the Ray
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Make Super Easy Coin Magic With Filmora
 
 Do you want to become a magician in your videos? Now, everyone can look like a magician with the magic of editing. This article will show you how to do a cool coin trick in [Filmora 11](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the filmmaking technique "Cutting on action"
 
@@ -844,10 +844,6 @@ Step2 After that, you need to hold the coin with the fingers part of one hand an
 
 ![hold the coin with the fingers](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 You need someone else to drop the other coin from the top. Meanwhile, you are pretending to tap a coin on the glass. You don't need to worry about someone else hand in the frame. Since you can remove it easily with the masking feature in Filmora.
 
 ![drop the other coin from the top](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-6.jpg)
@@ -865,6 +861,10 @@ Step1 If you have not downloaded Filmora, you can visit filmora.wondershare.com 
 Step2 Drag and drop the clip onto the first track of the timeline.Afterward, move the playhead to the right and find the spot where you tapped the coin last time before your friend drops the other coin. Additionally, make sure it is in the middle of the tapping action and cut.
 
 ![drag and drop the clip onto the first track](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Then move the playhead to the right and find the spot where your friend drops the coin while you tap without the coin in your hand. Make sure it is in the middle of the tapping action, and the position of your hand roughly matches that in the last cut and make a cut.
 
@@ -918,20 +918,20 @@ That's how to make a coin move through a glass-like MAGIC with the cutting on ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-wired-versus-broadcasted-analyzing-wirecast-and-obs/"><u>[New] 2024 Approved Wired versus Broadcasted Analyzing Wirecast and OBS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-detailed-exploration-of-the-background-eraser-feature-in-photoshop/"><u>[Updated] 2024 Approved Detailed Exploration of the Background Eraser Feature in Photoshop</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-stabilizing-handheld-gopro-videos/"><u>[Updated] Mastering the Art of Stabilizing Handheld GoPro Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-slay-the-game-designing-quirky-text-memes/"><u>2024 Approved Slay the Game Designing Quirky Text Memes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-12-pro-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 12 Pro</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192671-discover-the-ideal-free-pdf-modification-apps-and-online-utilities-ranked-for-you/"><u>Discover the Ideal Free PDF Modification Apps & Online Utilities – Ranked for You</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/exploring-flexus-200-a-revolutionary-audio-experience/"><u>Exploring Flexus 200: A Revolutionary Audio Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-common-issues-with-steam-remote-play-for-a-seamless-gaming-experience/"><u>Fixing Common Issues with Steam Remote Play for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-performance-lags-and-stutter-in-modern-warfare-2-on-windows-systems/"><u>Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems</u></a></li>
-<li><a href="https://video-capture.techidaily.com/immersive-gameplay-capture-roblox-and-macos-synergy/"><u>Immersive Gameplay Capture Roblox & macOS Synergy</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-social-simulacrum-sculpting-constructing-playful-profiles/"><u>In 2024, Social Simulacrum Sculpting Constructing Playful Profiles</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unlock-more-fun-on-your-nes-classic-with-essential-game-installation-techniques/"><u>Unlock More Fun on Your NES Classic with Essential Game Installation Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vyncs-link-analysis-unrivaled-monitoring-capabilities-overshadowed-by-puzzling-pricing-structures/"><u>Vyncs Link Analysis: Unrivaled Monitoring Capabilities Overshadowed by Puzzling Pricing Structures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-windowsmac-meeting-record-skype-guide/"><u>[Updated] 2024 Approved Windows/Mac Meeting Record - Skype Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-assessment-of-various-camera-types-for-videos/"><u>[Updated] Assessment of Various Camera Types for Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-essential-tips-for-crafting-perfect-drone-video-edits/"><u>[Updated] Essential Tips for Crafting Perfect Drone Video Edits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-synchronizing-creatives-videos-to-amplify-your-presence/"><u>[Updated] In 2024, Synchronizing Creatives Videos to Amplify Your Presence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-10-tools-for-masterful-online-subtitle-edits/"><u>[Updated] Pinnacle 10 Tools for Masterful Online Subtitle Edits</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-firefox-picture-in-picture-explained-for-efficiency/"><u>2024 Approved Firefox Picture-in-Picture Explained for Efficiency</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/cut-down-input-lag-in-cyberpunk-2077-tips-and-tricks-to-enhance-your-gaming-experience/"><u>Cut Down Input Lag in Cyberpunk 2077: Tips & Tricks to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/intro-ideas-free-download-options-for-2024/"><u>Intro Ideas Free Download Options for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/local-vs-global-is-a-local-large-language-model-right-for-your-needs/"><u>Local vs Global: Is a Local Large Language Model Right for Your Needs?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/reviven-tus-archivos-desaparecidos-guia-paso-a-paso-sobre-como-recuperar-datos-eliminados-del-cache-en-windows/"><u>Reviven Tus Archivos Desaparecidos: Guía Paso a Paso Sobre Cómo Recuperar Datos Eliminados Del Caché en Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
 </ul></div>
 
