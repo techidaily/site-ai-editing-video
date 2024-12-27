@@ -1,7 +1,7 @@
 ---
 title: New Create Glitch Text Effect for 2024
-date: 2024-12-11T16:13:57.577Z
-updated: 2024-12-18T21:20:18.085Z
+date: 2024-12-24T20:23:44.856Z
+updated: 2024-12-27T02:50:37.141Z
 tags: 
   - ai
   - animation videos
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 Glitch text effect is a trending video effect whereby the texts get distorted for a few seconds. The effect is comparable to the glitch you face when your screen starts to malfunction, and the screen appears to be wavy and disoriented. A glitch text effect is better than a regular animated text effect as it helps to get the attention of the viewers immediately and get the message across clearly.
 
 The glitch effect can be applied to the entire video as well as the text as per your preference. There are several video editors available where the glitch text effect comes pre-loaded. All you need to do is to apply it to the text and get it done in a few steps. We will illustrate how to add glitch text effect Premiere Pro. But we recommend Filmora for the best glitter text effect that you can add to your video instantly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Create Glitch Text in Video with Filmora
 
@@ -37,10 +41,6 @@ Step2 Go to File> Import Media > Import Media Files to import the video clips wh
 
 ![go to file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Go to Titles tab located at the top. From the left panel, click on Titles option. Search “glitch” in the search field and you will see all the glitch text effects that you can apply to the text in your video.
 
 ![fast glitch title filmora](https://images.wondershare.com/filmora/article-images/2022/07/fast-glitch-title-filmora.jpg)
@@ -52,10 +52,6 @@ Step4 Select any glitch text effect and drop it into the Timeline above the vide
 Step5 Double-click on the glitch text effect located on Timeline and edit the text, style, and other parameters as per your preference. Click on Ok and play the video to see your edited video with the glitch text effect.
 
 ![customize text effect filmora](https://images.wondershare.com/filmora/article-images/2022/07/customize-text-effect-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to Make Glitch Text Effect with Premiere Pro
 
@@ -81,17 +77,9 @@ Step5 Turn on Master Amplitude and add multiple keyframes as different points in
 
 ![add keyframes premiere](https://images.wondershare.com/filmora/article-images/2022/07/add-keyframes-premiere.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Go to the first keyframe and turn on Random Seed effect. Go to the last keyframe and turn on Random Seed effect and change the value to 75\. Play the video to check the entire video with glitch text effect.
 
 ![check video glitch effects pr](https://images.wondershare.com/filmora/article-images/2022/07/check-video-glitch-effects-pr.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Use VSDC Video Editor to Create Glitch Text
 
@@ -200,6 +188,10 @@ Step3 Double-click on the text layer on Timeline and go to Video Effects> Specia
 Step4 A window will appear where you can set the starting point, duration, and different parameters. Click on Ok button.
 
 ![check settings parameter vsdc](https://images.wondershare.com/filmora/article-images/2022/07/check-settings-parameter-vsdc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Go to Properties Windows and click on Presets to select different types of glitch text effects. You can also adjust the intensity of the text effects and other parameters as you feel.
 
@@ -266,6 +258,10 @@ You can select a virtual background before beginning a meeting or during an ongo
 * Click Add to add your own image as a background.
 * Click on Join Now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### During a video conference
 
 * Click More at the bottom of the page.
@@ -279,6 +275,10 @@ You can select a virtual background before beginning a meeting or during an ongo
 
 ### How to Add Green Screen to Meeting Video
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prior to a video call
 
 * Go to Google Meet and select a meeting.
@@ -408,16 +408,12 @@ During a video conference
 * Click Add to add your own image as a background.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Extra Tips
 
 ### How to Add Green Screen to Meeting Video
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Prior to a video call
 
@@ -482,6 +478,10 @@ During a video conference
 * Click Add to add your own image as a background.
 
 ## Extra Tips
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Green Screen to Meeting Video
 
@@ -607,10 +607,6 @@ Ray Tracking uses the process of denoising. The algorithm starts with the camera
 
 Ray Tracing uses machine learning to fill in the gaps to form a realistic image. The brighter the scene, the higher the graphics quality; the higher the quality, the more expensive it is. This is why Ray Tracing didn't become popular in the video game industry until recently.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4\. Ray Tracing In Adobe After Effects
 
 After the introduction of Ray Tracing, we will combine it with a popular video editor - Adobe After Effects to see how it works. Adobe After Effects is a useful and powerful tool for creating visual effects and animated graphics. Adobe introduced Ray Tracing or **Ray-Traced 3D** feature in After Effect to help graphic designers create photorealistic 3D images and render light and shadow. This feature was added in 2012 with the release of After Effects CS 6.
@@ -622,6 +618,10 @@ However, the Ray Tracing feature was later removed from After Effects in 2020 du
 * The Ray Tracing tool always faced bugs and glitches.
 * This feature did not work correctly if you were not using Adobe Media Encoder.
 * NVIDIA would change the standards from time to time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Functions
 
@@ -699,6 +699,10 @@ This results in more lifelike shadows, reflections, and translucence. Ray Tracin
 In simple words, Ray Tracing is a computer graphics technique for generating realistic images and works by tracing the light's path from the camera through the scene. This allows for accurate simulations of light interactions, such as reflection, refraction, and shadows.
 
 ![ray tracing technology](https://images.wondershare.com/filmora/article-images/2022/07/ray-tracing-technology.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Overview Of Ray Tracing
 
@@ -782,10 +786,6 @@ Here're some instances of when to use **Ray-Traced 3D** compositions in After Ef
 * When you want to create realistic shadows or reflections to create stunning motion graphics.
 * You can also use it to create realistic images or simulate lighting effects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Ray Traced 3D After Effects Plugin Download
 
 Zaxwerks ProAnimator AE is a 3D animation plugin for After Effects that makes it easier to animate objects in three dimensions. With ProAnimator AE, you don't have to use keyframes to animate objects.
@@ -814,10 +814,6 @@ Hopefully, your queries have been resolved, and you now fully understand the Ray
 
 Do you want to become a magician in your videos? Now, everyone can look like a magician with the magic of editing. This article will show you how to do a cool coin trick in [Filmora 11](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is the filmmaking technique "Cutting on action"
 
 Cutting on action is a technique the editors use to cut in the middle of an action to another shot that matches the first shot's action. Typically, the subject starts an action in one shot and continues the action in another, creating a smooth transition. For example, when you make the coin trick video, you need to cut on the tapping so it can trick the eyes, and the cut won't be noticeable.
@@ -829,6 +825,10 @@ Cutting on action is a technique the editors use to cut in the middle of an acti
 1. Glass and two coins
 
 ![glass and coins](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Set the phone on a tripod. Because utilizing a tripod can significantly improve the recording's stability.
 
@@ -862,10 +862,6 @@ Step2 Drag and drop the clip onto the first track of the timeline.Afterward, mov
 
 ![drag and drop the clip onto the first track](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Then move the playhead to the right and find the spot where your friend drops the coin while you tap without the coin in your hand. Make sure it is in the middle of the tapping action, and the position of your hand roughly matches that in the last cut and make a cut.
 
 ![move the playhead to the right](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-10.jpg)
@@ -885,6 +881,10 @@ Step6 Next, double-click the clip to open the setting video. Find the Mask Secti
 Step7 Here you can see the mask is applied.First, adjust the angle and position of the mask to only show the top part of the frame. Then you have to change the Blur Strength to add more blur to the edge of the mask.
 
 ![adjust the angle and position of the mask](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step8 With the mask finalized, unhide the first video track and adjust the length of the clip on the timeline. Finally, playback the video and see how it looks.
 
@@ -918,20 +918,19 @@ That's how to make a coin move through a glass-like MAGIC with the cutting on ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-windowsmac-meeting-record-skype-guide/"><u>[Updated] 2024 Approved Windows/Mac Meeting Record - Skype Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-assessment-of-various-camera-types-for-videos/"><u>[Updated] Assessment of Various Camera Types for Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-essential-tips-for-crafting-perfect-drone-video-edits/"><u>[Updated] Essential Tips for Crafting Perfect Drone Video Edits</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-synchronizing-creatives-videos-to-amplify-your-presence/"><u>[Updated] In 2024, Synchronizing Creatives Videos to Amplify Your Presence</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-10-tools-for-masterful-online-subtitle-edits/"><u>[Updated] Pinnacle 10 Tools for Masterful Online Subtitle Edits</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-firefox-picture-in-picture-explained-for-efficiency/"><u>2024 Approved Firefox Picture-in-Picture Explained for Efficiency</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/cut-down-input-lag-in-cyberpunk-2077-tips-and-tricks-to-enhance-your-gaming-experience/"><u>Cut Down Input Lag in Cyberpunk 2077: Tips & Tricks to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/intro-ideas-free-download-options-for-2024/"><u>Intro Ideas Free Download Options for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/local-vs-global-is-a-local-large-language-model-right-for-your-needs/"><u>Local vs Global: Is a Local Large Language Model Right for Your Needs?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/reviven-tus-archivos-desaparecidos-guia-paso-a-paso-sobre-como-recuperar-datos-eliminados-del-cache-en-windows/"><u>Reviven Tus Archivos Desaparecidos: Guía Paso a Paso Sobre Cómo Recuperar Datos Eliminados Del Caché en Windows</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-aurora-high-dynamic-range-review-pros-and-cons/"><u>[New] In 2024, Aurora High-Dynamic Range Review – Pros & Cons</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-proven-methods-to-supercharge-your-spotify-ad-results/"><u>[New] Proven Methods to Supercharge Your Spotify Ad Results</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-video-calls-that-protect-our-selection-of-the-best-free-secure-applications-for-mobile-tech-for-2024/"><u>[New] Video Calls That Protect Our Selection of the Best Free, Secure Applications for Mobile Tech for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-avoiding-common-mistakes-in-screencasting/"><u>[Updated] Avoiding Common Mistakes in Screencasting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/innovative-home-kit-options-for-budget-builders-discover-the-top-5-prefabricated-houses-from-a-box-below-50k-zdnet/"><u>Innovative Home Kit Options for Budget Builders: Discover the Top 5 Prefabricated Houses From a Box Below $50K | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-chips-propel-modelfarms-unreal-engine-success-cutting-down-failure-rates-transition-to-amd-ryzen-for-faster-single-threaded-performance/"><u>Intel Chips Propel ModelFarm's Unreal Engine Success: Cutting Down Failure Rates, Transition to AMD Ryzen for Faster Single-Threaded Performance</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mastering-data-protection-the-complete-guide-to-using-windows-11s-wd-backup-feature/"><u>Mastering Data Protection: The Complete Guide to Using Windows 11'S WD Backup Feature</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video-for-2024/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>New How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review/"><u>New VSDC Free Video Editor Review</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-non-working-file-segmentation-fixes/"><u>Reversing Non-Working File Segmentation Fixes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/troubleshooting-messengers-failure-send-videos-without-issues-androidiphone/"><u>Troubleshooting Messenger's Failure Send Videos without Issues (Android/iPhone)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
 </ul></div>
 

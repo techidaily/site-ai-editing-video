@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Add Text Animation to A Video Online
-date: 2024-12-17T21:22:21.772Z
-updated: 2024-12-18T20:43:33.512Z
+date: 2024-12-26T06:44:08.558Z
+updated: 2024-12-26T21:35:02.823Z
 tags: 
   - ai
   - animation videos
@@ -26,10 +26,6 @@ Text animation and short captions can broaden the audience for your content as m
 You can use the potent online editor Kapwing to **add animated text to videos online**, utilizing music, videos, GIFs, and images. There are no downloads required because everything is already present inside the browser. Kapwing is a capable tool for content production that is simple enough for everyone to use. The majority of video formats, GIF and image, including avi, png, jpg, gif, MOV, mp4, and more, are supported by Kapwing.
 
 ![kapwing animation text editor](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-animation-text-editor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step1 Upload the Video to Kapwing
 
@@ -169,10 +165,6 @@ For the first shot, stay on one side of the frame and do the first action. For e
 
 ![shooting the first clip](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-1.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To make it more realistic, make an interaction by reacting to the "clone" while facing the other direction.
 
 ![make an interaction](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-2.jpg)
@@ -184,10 +176,6 @@ Then, shoot for the second clip without changing the frame. You will have to go 
 ![shooting the second clip](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-3.gif)
 
 Act as if you have just appeared there and give a reaction to the other side as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Do the Clone Effect with Filmora?
 
@@ -203,6 +191,10 @@ Step1 Bring the first clip to the timeline and cut the clip where you pretend to
 
 ![bring the first clip to the timeline](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 After you have the first part of the effect ready, let's start working on the clone part using masking.
 
 First, place the second clip on a different window track, and the starting point is where you react to the "clone."
@@ -213,13 +205,13 @@ Then, double-click the second clip and go to the Filmora setting window. Tap on 
 
 ![tap on mask section](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 On the preview screen, adjust the position of the mask to only show "the clone."
 
 ![adjust the position of the mask](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-7.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Set the blur strength on the setting to make a smoother edge transition.
 
@@ -271,6 +263,10 @@ First, place the second clip on a different window track, and the starting point
 
 ![place the second clip on a different window track](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, double-click the second clip and go to the Filmora setting window. Tap on the **Mask** section > **Single line**.
 
 ![tap on mask section](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-6.jpg)
@@ -302,10 +298,6 @@ Step1 Open the **Effects** window and search for "up down 1."
 Step2 Drag and drop the effect onto the timeline where the first cut is set. Adjust the effect length to match the action.
 
 ![drag and drop the effect onto the timeline](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then, drag and drop the effect again in the transition between the first and the second clip. Adjust it to the appropriate length, then it will give a more dramatic effect.
 
@@ -420,6 +412,10 @@ Step2 Choose your desired Filter effects depending on your preferred category.
 
 ![apply filter movavi slideshow maker](https://images.wondershare.com/filmora/article-images/2022/11/apply-filter-movavi-slideshow-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 You can see the preview of a Filter effect by clicking it before applying it to your desired video to be edited.
 
 ![preview filter effect movavi slideshow maker](https://images.wondershare.com/filmora/article-images/2022/11/preview-filter-effect-movavi-slideshow-maker.jpg)
@@ -435,6 +431,10 @@ Step5 And now you will see the changes. The “star” symbol on the imported vi
 _Raw Footage_
 
 ![raw footage movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/raw-footage-movavi-slideshow.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Brush – Sketch Filter effect_
 
@@ -536,13 +536,25 @@ Step1 Click the **Title** tab.
 
 ![select title movavi slideshow maker](https://images.wondershare.com/filmora/article-images/2022/11/select-title-movavi-slideshow-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Choose your desired Titling motion effect depending on your preferred category. You can also see the preview of a title effect by clicking it before applying it to your selected video to be edited.
 
 ![select title motion movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/select-title-motion-movavi-slideshow.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 To apply the Title Motion effect, drag the effect onto the title track, just above the video track.
 
 ![drag title motion track movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/drag-title-motion-track-movavi-slideshow.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 You can place your Title Motion effect on your desired time where you want it to appear.
 
@@ -563,10 +575,6 @@ Step7 You can also adjust the time duration of the Titling Motion effect in two 
 These are some ways to apply effects on Movavi Slideshow Maker video editing software. You can choose your desired effects that can make an excellent contribution to your video project. You can download other effects not included in this software by simply going to their store. Click the Help tab to find “Movavi Store” or “Movavi Effects Store.”
 
 ![click movavi effects store](https://images.wondershare.com/filmora/article-images/2022/11/click-movavi-effects-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You know many video editing software you can find on the internet, and most of them need your subscription to unlock all their features. But of course, there are also several video editing software that is free to use, which could be very helpful for you, especially when you are just a beginner in this field. Choosing the best video editing software is recommended to develop your skills gradually. You can start with a basic one before working on a professional type of video editing software.
 
@@ -616,10 +624,6 @@ Step1 After you have placed the video clip onto the timeline, select the clip an
 
 ![placed the video clip](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Tap "Change Clip Speed…" option.
 
 ![change clip speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-2.jpg)
@@ -629,6 +633,10 @@ Step3 Once the Change Clip Speed dialog box opens, modify the speed from 100% to
 ![once the change clip](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-3.jpg)
 
 Step4 Click on the Change button when you are happy with the result.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2\. Speed Ramping Option
 
@@ -645,14 +653,6 @@ Step2 Move the play head where you want to change the speed. Click the arrow nex
 Step3 Click on the arrow next to 100% to change the speed between two-speed points. Go to the Change Speed option and select from the preset. Based on your preset speed selection, the video's speed within the speed points will change.
 
 ![arrow next to 100](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part III. Pros and Cons
 
@@ -722,10 +722,6 @@ Step3 Adjust the speed slider to change the video speed as you need.
 
 Step4 After setting the speed, click on the Ok button. Then you can export the video in any file format.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Use Speed Ramping
 
 Speed ramping provides you with a graph to customize the video speed. You can speed up and slow down different parts of your video as you think appropriate. As per the graph's crests and troughs, the video's speed varies. Here are the steps to execute.
@@ -793,6 +789,10 @@ Step3 From the menu, go to the Fast or the Slow option and select a speed preset
 
 ![export the file](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2\. Alter Uniform Speed
 
 If you want to customize the video speed as per your need, the Uniform Speed option is for you. You can select from 0.01X to 100X speed. The selected speed will be applicable to the entire video clip uniformly. Here are the steps to set uniform speed.
@@ -858,16 +858,16 @@ We have answered how you can use the speed ramp DaVinci Resolve 17 to speed up y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>[New] 2024 Approved Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/hat-everyone-must-know-about-creating-short-form-videos/"><u>[New] What Everyone Must Know About Creating Short-Form Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-advanced-io-screen-capturing-techniques-for-2024/"><u>[Updated] Advanced IO Screen Capturing Techniques for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-article-talks-in-detail-about-how-to-export-imovie-video-from-iphone-mac-etc-it-also-covers-the-process-of-using-imovie-alternative-to-ed/"><u>2024 Approved This Article Talks in Detail About How to Export iMovie Video From iPhone, Mac, Etc. It Also Covers the Process of Using iMovie Alternative to Edit Videos on Mac. Check Out Now</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-know-there-are-websites-to-download-free-glitch-transition-effects-for-premiere-pro-you-can-easily-download-them-and-make-awesome-videos-for-2024/"><u>Do You Know There Are Websites to Download Free Glitch Transition Effects for Premiere Pro? You Can Easily Download Them and Make Awesome Videos for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-4g-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Redmi Note 12 4G Phone Without Password?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-way-to-add-transitions-to-videos-for-2024/"><u>New Easy Way to Add Transitions to Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>New In 2024, HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-quick-cure-for-that-persistent-green-pixel-problem-mac-edition/"><u>[New] 2024 Approved Quick Cure for That Persistent Green Pixel Problem (Mac Edition)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-sharpen-aesthetic-focus-learning-border-techniques-for-insta-videos/"><u>[New] In 2024, Sharpen Aesthetic Focus Learning Border Techniques for Insta-Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-art-of-disguising-reality-learn-free-green-screen-techniques-via-vfx-leaders-on-4-video-platforms/"><u>[New] In 2024, The Art of Disguising Reality Learn Free Green Screen Techniques via VFX Leaders on 4 Video Platforms</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-kinetic-typography-text-effect-easyandfast/"><u>2024 Approved Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-image-jpgpng-to-gif-converters/"><u>Best Image (JPG/PNG) to GIF Converters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-accuracy-is-chatgpt-an-effective-tool-for-health-info/"><u>Evaluating the Accuracy: Is ChatGPT an Effective Tool for Health Info?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>In 2024, Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-emailing-video-game-tokens-through-steam/"><u>Mastering the Art of Emailing Video Game Tokens Through Steam</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-applying-the-effect-of-camera-shake-in-video-creation/"><u>New Applying the Effect of Camera Shake in Video Creation</u></a></li>
+<li><a href="https://facebook.techidaily.com/peaceful-pages-the-technique-of-deleting-post-comments/"><u>Peaceful Pages: The Technique of Deleting Post Comments</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-videos-with-imovie/"><u>Updated 2024 Approved How to Loop Videos with iMovie</u></a></li>
 </ul></div>
 

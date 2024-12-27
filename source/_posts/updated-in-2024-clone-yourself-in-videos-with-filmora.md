@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Clone Yourself in Videos with Filmora
-date: 2024-12-15T19:31:36.149Z
-updated: 2024-12-18T20:14:11.144Z
+date: 2024-12-24T01:17:37.710Z
+updated: 2024-12-27T00:45:16.912Z
 tags: 
   - ai
   - animation videos
@@ -39,10 +39,6 @@ Then, shoot for the second clip without changing the frame. You will have to go 
 
 ![shooting the second clip](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-3.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Act as if you have just appeared there and give a reaction to the other side as well.
 
 ## Part 2: How to Do the Clone Effect with Filmora?
@@ -64,6 +60,10 @@ Step2 After you have the first part of the effect ready, let's start working on 
 First, place the second clip on a different window track, and the starting point is where you react to the "clone."
 
 ![place the second clip on a different window track](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, double-click the second clip and go to the Filmora setting window. Tap on the **Mask** section > **Single line**.
 
@@ -97,9 +97,17 @@ Step2 Drag and drop the effect onto the timeline where the first cut is set. Adj
 
 ![drag and drop the effect onto the timeline](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, drag and drop the effect again in the transition between the first and the second clip. Adjust it to the appropriate length, then it will give a more dramatic effect.
 
 Step3 You can playback and see how it looks on the preview screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -192,10 +200,6 @@ The process of making video titles may be laborious and time-consuming. However,
 * [Tips to Create Video Titles](#part2)
 
 ## Part 1\. Tools to Generate Video Titles
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. [TubeRanker Title Generator](https://tuberanker.com/youtube-title-generator)
 
@@ -398,7 +402,7 @@ This effect is for the quick movement of a subject from one position to another.
 This article includes tutorials on what to shoot and how to add the Super Jump effect using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). The use of tools like masking, time ramping, keyframing, and the new version addition, the Boris FX Pack, makes it super easy to get a perfect super jump effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shots Required For Super Jump Effect
@@ -424,10 +428,6 @@ Make sure there is sufficient light and ambiance. Once you have set your camera,
 The subject will jump into the air at a distance from the camera. He should jump as high as he can, folding his legs so his body is in a ball position while in the air. The distance should be proper—not very far away.
 
 ![shot 1](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-1.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Shot 2: Jump and Act Like You Are Landing
 
@@ -533,6 +533,10 @@ This step is a bit tricky to understand, but the most important. Once it is done
 
 ![keyframing](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-7.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Speed Ramping**
 
 Once the keyframing is done, your super jump effect is roughly ready. All you have to do now is synchronize the speed of jumping, moving shadow, and landing. Here we will use the “speed ramping” tool.
@@ -599,6 +603,10 @@ You can download this proficient video editor for your iPhone and iPad. It can a
 
 If you intend to use **the LumaFusion app** to inject creativity into your videos, you must have to pay a single-time price of $19.99 to get access to the application. Apart from that, there are several in-app purchases that you can look forward to for increasing the hold on different tools and features, as per the requirement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### System Requirements of LumaFusion iOS
 
 | **iPhone**     | Requires iOS 15.4 or later.                                         |
@@ -607,10 +615,6 @@ If you intend to use **the LumaFusion app** to inject creativity into your video
 | **iPod Touch** | Requires iOS 15.4 or later.                                         |
 | **Mac**        | Requires macOS 12.3 or later and a Mac with Apple M1 chip or later. |
 | **Size**       | 192.9 MB                                                            |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Key Features of LumaFusion Video Editor
 
@@ -676,10 +680,6 @@ LumaFusion 3.2 comes with a new set of transitions, with almost 35 in number. Wi
 
 ![lumafusion new transitions](https://images.wondershare.com/filmora/article-images/2023/02/lumafusion-video-editor-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. iCloud Backups
 
 If you are confused about how to sustain the storage space on your iOS device, LumaFusion now provides iCloud Drive support and allows the user to back up their data. The data from the iCloud Drive can also be restored directly from the platform.
@@ -691,10 +691,6 @@ If you are confused about how to sustain the storage space on your iOS device, L
 In the previous versions of LumaFusion, you could not rename the linked folders, or the platform incorrectly named them. With this update, you can now easily rename the linked folders by selecting and holding them within the interface.
 
 ![rename linked folder](https://images.wondershare.com/filmora/article-images/2023/02/lumafusion-video-editor-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Localizations for 2 New Versions
 
@@ -738,17 +734,9 @@ People who are not having the time to bring in a professional video editor to wo
 
 You can download this proficient video editor for your iPhone and iPad. It can also be enjoyed on Mac devices, which are now available on Android devices. LumaFusion has scaled its support and compatibility of devices over time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pricing Plan
 
 If you intend to use **the LumaFusion app** to inject creativity into your videos, you must have to pay a single-time price of $19.99 to get access to the application. Apart from that, there are several in-app purchases that you can look forward to for increasing the hold on different tools and features, as per the requirement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### System Requirements of LumaFusion iOS
 
@@ -758,6 +746,10 @@ If you intend to use **the LumaFusion app** to inject creativity into your video
 | **iPod Touch** | Requires iOS 15.4 or later.                                         |
 | **Mac**        | Requires macOS 12.3 or later and a Mac with Apple M1 chip or later. |
 | **Size**       | 192.9 MB                                                            |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Key Features of LumaFusion Video Editor
 
@@ -795,6 +787,10 @@ This process has disadvantages, regardless of the extensive control and accessib
 
 Also, you might have to include many effects such as LUTs, Chroma key, and other relevant features. With this effort, you can easily put your video from LumaFusion to Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Advantages and Disadvantages of LumaFusion Video Editor
 
 Suppose you are considering using the **LumaFusion video editor** on your iOS device. In that case, there are a few advantages and disadvantages you must look into to understand more about the tool and get to an absolute decision:
@@ -813,19 +809,23 @@ Suppose you are considering using the **LumaFusion video editor** on your iOS de
 * To access the complete library of music and clips, you will have to subscribe to their additional plans.
 * The tool is already available at a price tag, which is associated with more subscription plans, making it a devalued option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: What’s New in LumaFusion 3.2 Version
 
 The latest iteration of the **LumaFusion app** brings new and exciting features to the market. To learn more about these features, you will know better how the video editor is improving its operations:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. 35+ New Transitions
 
 LumaFusion 3.2 comes with a new set of transitions, with almost 35 in number. With different blur transitions, there are some new introductions in the transition section that offers multiple motions.
 
 ![lumafusion new transitions](https://images.wondershare.com/filmora/article-images/2023/02/lumafusion-video-editor-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. iCloud Backups
 
@@ -885,16 +885,24 @@ You can easily edit, manage, and export 4K videos within the platform. **LumaFus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-10-gif-recorder-mac/"><u>[New] 2024 Approved Top 10 Gif Recorder Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-connoisseur-transform-your-sub4sub-experience-now/"><u>[New] In 2024, From Novice to Connoisseur Transform Your Sub4sub Experience Now</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aster-your-youtube-empire-with-creator-studio-tools-for-2024/"><u>[New] Master Your YouTube Empire with Creator Studio Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>2024 Approved How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
-<li><a href="https://common-error.techidaily.com/connect-airpods-to-pc-effortlessly-expert-tips-and-tricks-for-windows-users-in-202n/"><u>Connect AirPods to PC Effortlessly - Expert Tips and Tricks for Windows Users in 202N</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-8-plus-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone 8 Plus to TV/Laptop? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-censor-effects-with-filmora/"><u>In 2024, How to Make Censor Effects with Filmora</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-incorinasmatic-mix-sharing-songs-in-social-spaces/"><u>In 2024, Incorinasmatic Mix Sharing Songs in Social Spaces</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-10-video-editing-software-options-beyond-final-cut-pro-x/"><u>New In 2024, Top 10 Video Editing Software Options Beyond Final Cut Pro X</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-best-laptops-for-video-editing/"><u>The Best Laptops For Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-this-article-talks-in-detail-about-how-to-convert-time-lapse-to-normal-video-using-certain-methods-on-iphone-online-tools-and-so-on-it-further-discu/"><u>Updated This Article Talks in Detail About How to Convert Time-Lapse to Normal Video Using Certain Methods on iPhone, Online Tools, and so On. It Further Discusses Converting Time-Lapse Video to Normal on the Computer. Check Out</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-navigating-through-ioss-recording-software-landscape/"><u>[New] Navigating Through iOS's Recording Software Landscape</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-decreasing-audio-intensity-protocol/"><u>[Updated] Decreasing Audio Intensity Protocol</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-task-handling-a-guide-to-windows-11-mastery/"><u>Boosting Task Handling - A Guide to Windows 11 Mastery</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-ways-to-remove-motion-blur-in-photoshop-for-2024/"><u>Easy Ways to Remove Motion Blur In Photoshop for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/five-solutions-to-speed-up-cloning-from-hdd-to-ssd/"><u>Five Solutions to Speed Up Cloning From HDD to SSD</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-octane-comparison-gopro-hero-4-vs-drift-ghost-s-for-2024/"><u>High Octane Comparison GoPro Hero 4 Vs. Drift Ghost-S for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-swiftly-find-and-access-lost-reddit-discussions/"><u>How to Swiftly Find and Access Lost Reddit Discussions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-create-a-motion-blur-effect-in-your-videos-read-this-well-described-guide-to-learn-how-to-add-motion-blur-on-capcut-on-iphone-and-and/"><u>In 2024, Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-zero-30-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Zero 30 5G Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>In 2024, How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-personalized-/"><u>In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-dispatching-work-openings-on-social-media/"><u>The Art of Dispatching Work Openings on Social Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-80s-vhs-tricks-for-dynamic-edits-for-2024/"><u>Ultimate Guide 80'S VHS Tricks for Dynamic Edits for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
 </ul></div>
 

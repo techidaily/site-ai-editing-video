@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Add Effects on TikTok
-date: 2024-12-15T17:38:19.913Z
-updated: 2024-12-18T17:14:10.925Z
+date: 2024-12-22T05:44:05.917Z
+updated: 2024-12-27T08:34:20.175Z
 tags: 
   - ai
   - animation videos
@@ -40,7 +40,7 @@ Step4 Click on "Effects." Once again, scroll to search or choose an effect categ
 ![post videos tiktok](https://images.wondershare.com/filmora/article-images/2022/07/post-videos-tiktok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Adding Effects Before Recording
@@ -79,6 +79,10 @@ Step2 The filters button, which is indicated by three circles, must be tapped in
 
 ![choose effects tiktok](https://images.wondershare.com/filmora/article-images/2022/07/choose-effects-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 You have access to a wide variety of effects once you enter the effects gallery. Select the effect that best suits your video and that you prefer. After making your decision, leave the effects gallery and upload the recording.
 
 Step4 Click the review button to examine your video with the effect applied before publishing it. This will lead you to a preview screen. Before you actually publish it, you may also add music and other components.
@@ -108,11 +112,7 @@ Step4 You may apply the filter to your video after you have officially made your
 ![apply filters to videos tiktok](https://images.wondershare.com/filmora/article-images/2022/07/apply-filters-to-videos-tiktok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -226,6 +226,10 @@ Step13 Click on the add button to add a mask keyframe and move the play head for
 
 ![add a mask keyframe](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-16.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step14 Move the mask to the left to reveal the entire frame, and repeat the same process with all outfits.
 
 ![reveal the frame and repeat with all outfits](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-17.gif)
@@ -275,10 +279,6 @@ Step6 Import the clip again on the second track. And find the sections of the cl
 Step7 It will create several small sections on the second track.
 
 ![second track sections](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step8 Put the first clip at the start of the timeline and move the playhead to find the frame containing enough room for the second outfit.
 
@@ -363,10 +363,6 @@ Once you've imported your video file, it's time to apply the LUT to your video. 
 
 ![access luts tab](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Apply the Changes and Save Your File
 
 When you have selected the desired LUT, tap on the “Tick” sign in the right corner of the screen. You can save your file in the gallery by tapping the same sign. Moreover, you can further adjust your file by selecting the Basic option from the bottom tray.
@@ -389,19 +385,11 @@ Yet another fantastic LUT pack, especially for outdoor vlogging and videography,
 
 ![gopro luts color grading pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. [Skin Tones Pack](https://3dlutcreator.com/userstore.php?packid=4)
 
 This pack is the right choice if you want to color-grade your portraits. Skin Tones Pack has over 5 LUTs, and each one is used to fine-tune your skin complexation. With this LUT pack, you can add tan and more brightness to your photos and videos. This pack enhances your skin tone by highlighting your skin color composition. It increases brownness and saturation in your media files to give them a more natural look.
 
 ![skin tones pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. [Zoan Cinematic Pack](https://3dlutcreator.com/userstore.php?packid=9)
 
@@ -473,10 +461,6 @@ When you have selected the desired LUT, tap on the “Tick” sign in the right 
 
 With the 3DLUT app, you can even access the LUT's library of 3DLUT Creator. You can choose from different LUTs available according to your choice. You can always select the option for 3DLUT mobile app free download on your app’s store.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. [Speedy Grade Pack](https://3dlutcreator.com/userstore.php?packid=8)
 
 It is a great LUT pack that you can use for your photos and videos. Speedy Grade Pack is a LUT pack that includes 10 LUTs. This color grading pack has different LUTs, each with a new style and color composition. Moreover, it is a pack that enhances color to make your videos more vibrant and livelier. It creates a more refreshing and colorful atmosphere for your viewers.
@@ -527,6 +511,10 @@ With new tools and applications, video editing becomes more accessible with a pr
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -536,10 +524,6 @@ With new tools and applications, video editing becomes more accessible with a pr
 ## Easy Steps to Add Miniature Effect to Videos
 
 Want to add selective blur to make everything look smaller? Don't have any idea how to focus on specific mini-things? Then don't worry! In this article, you'll get a step-by-step process to add miniature effects to your video. At the end of the process, you'll have cinematic shots. Then start with us now! Scroll more to get pro tips!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is a Miniature Effect?
 
@@ -558,6 +542,10 @@ To create a miniature look, we can use specific effects to fake a shallow depth 
 * The tiny effect is usually used in **drone footage, time lapses**, or **landscape photography**.
 
 Are you all set to add miniature effects to your video and make film-like shots? Then scroll more and get the step-by-step process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make a Miniature effect?
 
@@ -604,8 +592,147 @@ As we are working on miniature effects, what do we need first? First, we ensure 
 
 ![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
 
+To add a blur effect from the panel, follow the below-mentioned steps:
+
+* First of all, move toward the above tabs.
+* Then click on the 5th section, which is **Effect**
+* After selecting the effect tab, a new window will **pop up**.
+* In this section, we have **500+** different effects.
+* Then, **click** on the search bar.
+* **Search** for the Blur effect.
+* After that, click on the **Blur 2**
+* Then **Download** this effect if you haven't done this already.
+
+##### Step4 Add the blur effect to the video
+
+After selecting and downloading the blur effect, it's time to add it to the video. Again, see how precise it turned out. To add effect, follow below steps:
+
+* **First, drag** and **Drop** the effect toward the timeline.
+* Then, make sure to release the effect on the video to give it a lens blur appearance.
+
+![add effect on the video in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-6.gif)
+
+##### Step5 Add the effect multiple times
+
+Want to get an ideal blur level? If you need more blur level in your video and make it more cinematic, then follow the below steps:
+
+* First, ensure that the **opacity** of the blur effect is 100%.
+* Then, if you still want more blurriness, add **Blur 2** effect multiple times on the video.
+* Finally, add effect by just the **Drag and Drop**
+
+![add blur effect in video multiple times](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-7.gif)
+
+##### Step6 Drop the same video clip
+
+* Add the same video clip 2nd time on the timeline.
+* Add it by just the **Drag and Drop**
+* Make sure you add it to 2nd video track in the timeline above the first one.
+
+![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
+
+##### Step7 Add masks on the Video
+
+Now, it's time to select a specific video portion and add a mask. Due to this, we will have a selective blur portion. For this, follow the below guidelines:
+
+* **Double-click** on the video present in 2nd track.
+* The settings tab will be open in the top left section.
+* Then find the **Mask** section and click on it.
+* After this, **click** on the **Double-line**.
+* Set the mask on video according to your style and choice.
+
+![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
+
+![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+**Note:** you can adjust the mask size and position by rotating and changing its shape.
+
+Watch the rotating and adjusting actions as shown below!
+
+![rotation of mask in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-10.gif)
+
+For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
+
+![blur the object near to camera and focus on the distant object](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-11.gif)
+
+* Make a building or any object **Blurry** near the camera because it is not present within the depth of field.
+* While the **object is far** from the camera, it is focused because it is in the depth of the field.
+* Then adjust the mask, as per your choice.
+
+Want to change the shape of the mask? Then follow the below steps:
+
+![changing the mask of video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-12.gif)
+
+* Double-click on the video present in 2nd video track.
+* **Settings** will activate on the top left side.
+* Then click on the **Mask** tab to open it.
+* Select the **Rectangular** mask from the list and apply it.
+
+![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Note:** make sure you are masking the same extent and excluding the object you want to be out of focus.
+
+Now, it's time to mask the whole object, which is far, but we want to make it in focus! For this, follow these steps:
+
+* Add the same stock video clip a **third time** on the third video track of the timeline.
+* Then add a mask in a **Rectangle** shape on the building.
+* Don't **blur** the edge of this mask.
+
+![mask the object far from the camera for the main focus](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-13.gif)
+
+##### Step8 Final Look
+
+You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
+
+![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
+
+Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step2 Choose any stock footage
+
+If you don't have good-quality footage, but want to boost your video, here is how. You can get the miniature effect without a big format view camera or specialized lens.
+
+* Open Filmora and select any stock footage in Wondershare Filmora.
+
+![choose stock footage from stock media in filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-3.jpg)
+
+Move to the **stock media** folder on the above bar in the Wondershare Filmora. Or you can look towards the left window, where you will see the sample **videos tab.**
+
+* Click on the sample videos tab, and a new **window** will appear on the library screen.
+
+Here you will see almost more than **20 videos.** So, instead of using the actual recorded footage, we'll make do with what we have by **default**. After selecting and adding the stock footage of your choice. Then you have to follow the below process:
+
+* First, hold the Stock Footage as shown in the folder section.
+* Then **Drag and Drop** it to the timeline section for further editing.
+
+![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Who will get Stock Media?**
+
+Want to get stock media? You can only have access to the stock media library if you already buy the license of Wondershare Filmora.
+
+* The **latest version** has an unlimited stock library.
+* After purchasing any plan, you can access **Stock Media** (Unsplash, Giphy, Pixabay, Pixel).
+
+##### Step3 Head to the effect panel
+
+As we are working on miniature effects, what do we need first? First, we ensure that we have a **Blur** effect on the video.
+
+![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To add a blur effect from the panel, follow the below-mentioned steps:
@@ -695,136 +822,9 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 
 ![mask the object far from the camera for the main focus](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-13.gif)
 
-##### Step8 Final Look
-
-You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
-
-![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
-
-Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step2 Choose any stock footage
-
-If you don't have good-quality footage, but want to boost your video, here is how. You can get the miniature effect without a big format view camera or specialized lens.
-
-* Open Filmora and select any stock footage in Wondershare Filmora.
-
-![choose stock footage from stock media in filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-3.jpg)
-
-Move to the **stock media** folder on the above bar in the Wondershare Filmora. Or you can look towards the left window, where you will see the sample **videos tab.**
-
-* Click on the sample videos tab, and a new **window** will appear on the library screen.
-
-Here you will see almost more than **20 videos.** So, instead of using the actual recorded footage, we'll make do with what we have by **default**. After selecting and adding the stock footage of your choice. Then you have to follow the below process:
-
-* First, hold the Stock Footage as shown in the folder section.
-* Then **Drag and Drop** it to the timeline section for further editing.
-
-![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
-
-**Who will get Stock Media?**
-
-Want to get stock media? You can only have access to the stock media library if you already buy the license of Wondershare Filmora.
-
-* The **latest version** has an unlimited stock library.
-* After purchasing any plan, you can access **Stock Media** (Unsplash, Giphy, Pixabay, Pixel).
-
-##### Step3 Head to the effect panel
-
-As we are working on miniature effects, what do we need first? First, we ensure that we have a **Blur** effect on the video.
-
-![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
-
-To add a blur effect from the panel, follow the below-mentioned steps:
-
-* First of all, move toward the above tabs.
-* Then click on the 5th section, which is **Effect**
-* After selecting the effect tab, a new window will **pop up**.
-* In this section, we have **500+** different effects.
-* Then, **click** on the search bar.
-* **Search** for the Blur effect.
-* After that, click on the **Blur 2**
-* Then **Download** this effect if you haven't done this already.
-
-##### Step4 Add the blur effect to the video
-
-After selecting and downloading the blur effect, it's time to add it to the video. Again, see how precise it turned out. To add effect, follow below steps:
-
-* **First, drag** and **Drop** the effect toward the timeline.
-* Then, make sure to release the effect on the video to give it a lens blur appearance.
-
-![add effect on the video in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-6.gif)
-
-##### Step5 Add the effect multiple times
-
-Want to get an ideal blur level? If you need more blur level in your video and make it more cinematic, then follow the below steps:
-
-* First, ensure that the **opacity** of the blur effect is 100%.
-* Then, if you still want more blurriness, add **Blur 2** effect multiple times on the video.
-* Finally, add effect by just the **Drag and Drop**
-
-![add blur effect in video multiple times](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-7.gif)
-
-##### Step6 Drop the same video clip
-
-* Add the same video clip 2nd time on the timeline.
-* Add it by just the **Drag and Drop**
-* Make sure you add it to 2nd video track in the timeline above the first one.
-
-![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
-
-##### Step7 Add masks on the Video
-
-Now, it's time to select a specific video portion and add a mask. Due to this, we will have a selective blur portion. For this, follow the below guidelines:
-
-* **Double-click** on the video present in 2nd track.
-* The settings tab will be open in the top left section.
-* Then find the **Mask** section and click on it.
-* After this, **click** on the **Double-line**.
-* Set the mask on video according to your style and choice.
-
-![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-**Note:** you can adjust the mask size and position by rotating and changing its shape.
-
-Watch the rotating and adjusting actions as shown below!
-
-![rotation of mask in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-10.gif)
-
-For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
-
-![blur the object near to camera and focus on the distant object](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-11.gif)
-
-* Make a building or any object **Blurry** near the camera because it is not present within the depth of field.
-* While the **object is far** from the camera, it is focused because it is in the depth of the field.
-* Then adjust the mask, as per your choice.
-
-Want to change the shape of the mask? Then follow the below steps:
-
-![changing the mask of video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-12.gif)
-
-* Double-click on the video present in 2nd video track.
-* **Settings** will activate on the top left side.
-* Then click on the **Mask** tab to open it.
-* Select the **Rectangular** mask from the list and apply it.
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-**Note:** make sure you are masking the same extent and excluding the object you want to be out of focus.
-
-Now, it's time to mask the whole object, which is far, but we want to make it in focus! For this, follow these steps:
-
-* Add the same stock video clip a **third time** on the third video track of the timeline.
-* Then add a mask in a **Rectangle** shape on the building.
-* Don't **blur** the edge of this mask.
-
-![mask the object far from the camera for the main focus](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-13.gif)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step8 Final Look
 
@@ -854,20 +854,16 @@ Have you tried to add a miniature effect before? If yes, then share your experie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leading-6-virtual-venues-propelling-professional-connections/"><u>[New] Leading 6 Virtual Venues Propelling Professional Connections</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-ultimate-no-charge-frame-by-frame-youtube-tutorial/"><u>[Updated] 2024 Approved The Ultimate No-Charge, Frame-by-Frame YouTube Tutorial</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-slow-motion-videos-using-final-cut-pro-with-ease/"><u>2024 Approved Create Slow Motion Videos Using Final Cut Pro with Ease</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-expert-tips-for-effortless-ipodcast-downloads-on-iphone/"><u>2024 Approved Expert Tips for Effortless IPodcast Downloads on iPhone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-overlay-video-in-premiere-pro/"><u>2024 Approved How to Overlay Video in Premiere Pro</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/android-brightening-essentials-stepwise-demystification/"><u>Android Brightening Essentials - Stepwise Demystification</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-top-6-super-mario-adventures-on-pc-a-gamers-guide/"><u>Best Top 6 Super Mario Adventures on PC: A Gamer's Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-basketball-enthusiasts-guide-to-online-viewing/"><u>In 2024, Basketball Enthusiast's Guide to Online Viewing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/iphone-connection-error-on-windows-1-to-si-effective-fixes-for-the-non-recognition-issue-in-itunes/"><u>IPhone Connection Error on Windows 1ˈɪŋ-Toʊ-Siː: Effective Fixes for the Non-Recognition Issue in iTunes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-creating-testimonial-videos-for-health-and-wellness-business-industry-for-2024/"><u>New Creating Testimonial Videos For Health And Wellness Business Industry for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>New How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-achieving-gopro-slow-motion-with-quality-an-in-depth-overview/"><u>Updated 2024 Approved Achieving GoPro Slow Motion with Quality An In-Depth Overview</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-blender-a-video-editor-for-all-professor/"><u>Updated In 2024, Blender - A Video Editor for All Professor</u></a></li>
-<li><a href="https://facebook.techidaily.com/year-in-review-unpacking-this-years-favorite-podcasts/"><u>Year in Review: Unpacking This Year's Favorite Podcasts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-editors-guide-to-age-old-vhs-effects-in-digital-video-production-for-2024/"><u>[New] The Editor's Guide to Age-Old VHS Effects in Digital Video Production for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exploring-the-power-of-visual-effects-in-editing/"><u>[Updated] Exploring the Power of Visual Effects in Editing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-webcams-on-windows-10-top-applications-reviewed/"><u>[Updated] In 2024, Best Webcams on Windows 10 Top Applications Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-conquer-the-cutting-edge-with-advanced-pixlr-tricks/"><u>2024 Approved Conquer the Cutting-Edge with Advanced Pixlr Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-video-calls-leveraging-zoom-on-windows-10-pcs/"><u>2024 Approved Streamlining Video Calls Leveraging Zoom on Windows 10 PCs</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1728504629794-usb-windows-11/"><u>如何使用 USB 闪存创建 Windows 11 操作系统的实时截图 - 简单指南</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-financial-success-the-tale-of-ajey-carryminati-and-youtube-for-2024/"><u>Charting Financial Success The Tale of Ajey (CarryMinati) and YouTube for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-fade-in-windows-video-editor-for-2024/"><u>Updated How To Add Fade In Windows Video Editor for 2024</u></a></li>
 </ul></div>
 

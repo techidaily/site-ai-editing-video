@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Step by Step to Crop Videos Using Lightworks
-date: 2024-12-12T19:31:06.296Z
-updated: 2024-12-18T20:32:28.779Z
+date: 2024-12-24T01:28:45.920Z
+updated: 2024-12-27T09:57:59.325Z
 tags: 
   - ai
   - animation videos
@@ -129,6 +129,10 @@ Step 1: Open a video that you want to edit.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-5.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Open the Filmora editing tool and select the "Crop and Zoom" icon.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-6.jpeg)
@@ -179,15 +183,15 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step-by-step on how to crop videos using Filmora?
 
 Step 1: Open a video that you want to edit.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-5.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Open the Filmora editing tool and select the "Crop and Zoom" icon.
 
@@ -196,6 +200,10 @@ Step 2: Open the Filmora editing tool and select the "Crop and Zoom" icon.
 Step 3: Drag the cursor from any corner of your video preview window so as to adjust the size of the crop frame.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-7.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Once you have adjusted it as per your needs hit the green "OK" button. So, this is how you can add or remove any part of a video clip on Filmora easily.
 
@@ -209,13 +217,13 @@ Step 2: After importing your videos into Lightworks, you can now proceed towards
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-3.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: How to crop videos using the DVE tool? You can now go to the ‘Crop’ option under the DVE tab and move your cursor over any unwanted portion of the video and click-and-drag it down and in the right direction. This will distort and stretch the video to remove that particular portion from there while preserving its overall appearance and quality.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-4.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: You can now preview what your video looks like after cropping it by hitting the "Play" button. Hit play to view any changes you have made to your videos.
 
@@ -249,13 +257,25 @@ Step 1: Open a video that you want to edit.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-5.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Open the Filmora editing tool and select the "Crop and Zoom" icon.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-6.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Drag the cursor from any corner of your video preview window so as to adjust the size of the crop frame.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-7.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Once you have adjusted it as per your needs hit the green "OK" button. So, this is how you can add or remove any part of a video clip on Filmora easily.
 
@@ -275,10 +295,6 @@ Those who are looking for an easy to use online tool with user-friendly interfac
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Top 4 Free 3D Intro Maker to Use
 
@@ -369,10 +385,6 @@ One of the most well-known pieces of software for creating video effects is call
 
 After Effects is utilized by professionals working in the film business to create aesthetically spectacular work for cinema, television, video, and the online. The most significant drawback to After Effects is the fact that it requires an average beginner around eight weeks to learn the program by watching training videos and going through tutorials. In addition, the fee to join Adobe's Creative Cloud Suite membership service is quite high.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Canva
 
 When you use Canva, you will have instant access to a video introduction creator that is hosted on the web. You get access to a number of different themes, as well as royalty-free photographs and videos, as well as a drag-and-drop editor that you can use to create content that you can then share and post everywhere. In addition to providing, you with intro templates, it also gives you the ability to design your own logo. With a freshly designed logo in hand, now would be the ideal time to produce an introduction film using it.
@@ -403,17 +415,9 @@ If you're worried about how challenging and time-consuming it will be to create 
 
 ![filmora intro maker](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is capable of much more than simply creating video introductions. It is capable of handling anything connected to video and even more. The program is compatible with all of your Ultra HD 4K Video files and provides support for the finest quality hi-fidelity Dolby Surround Sound.
 
 When working on other video projects, you can use masking and blending to add layers to your videos and give them the shape you want, thereby producing the most artistic scenes possible. Make use of keyframing to modify the dynamism and smoothness of your edits with the help of animated effects. The chroma key tool allows you to get rid of green screens and create amazing effects that will blow people away. And AI Motion Tracking is just what you need to make it possible for text or graphics to automatically track specific objects throughout your films.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -440,6 +444,10 @@ Powerful Marketing Tool
 Sales videos are all about encouraging potential customers to buy a product or service. They usually include persuasive tactics, such as an authoritative voice, logical arguments, and emotional appeals. By effectively communicating the benefits of a product or service, sales videos can be highly effective in influencing someone to make a purchase.
 
 ![Sales videos](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sales videos
 
@@ -473,10 +481,6 @@ Once you know who your target audience are, then it’s time for you to create a
 
 Target Audience
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Start with a Strong Hook
 
 A strong hook is the key to creating a video that converts into sales. You have to make sure that your video is engaging and informative, while also offering something that viewers can't find elsewhere. A good hook will grab attention and keep viewers engaged throughout the entire video. There are a few different things you can do to create a strong hook for your video such as:
@@ -490,10 +494,6 @@ Strong Hook
 * Targeting the most common pain of your audience.
 
 ![Attention-Grabbing Headline](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-05.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Attention-Grabbing Headline
 
@@ -596,10 +596,6 @@ Sales videos are all about encouraging potential customers to buy a product or s
 
 ![Sales videos](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Sales videos
 
 A sales video is a powerful tool that can help you to generate sales leads and close more deals. By providing potential customers with an overview of your products or services, you can give them the information they need to make an informed purchase decision. In addition, a sales video can help to build trust and credibility with your audience. By featuring testimonials from satisfied customers, you can show potential buyers that your products or services deliver on their promises.
@@ -630,6 +626,10 @@ Once you know who your target audience are, then it’s time for you to create a
 
 ![Target Audience](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Target Audience
 
 ## 1\. Start with a Strong Hook
@@ -647,7 +647,7 @@ Strong Hook
 ![Attention-Grabbing Headline](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Attention-Grabbing Headline
@@ -759,18 +759,16 @@ Wrap Up
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-10-proven-techniques-for-skyrocketing-social-media-supporters/"><u>[New] In 2024, 10 Proven Techniques for Skyrocketing Social Media Supporters</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-next-gen-consumer-engagement-strategies/"><u>[New] In 2024, Next-Gen Consumer Engagement Strategies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-hot-40-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Hot 40 Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-detailed-guide-to-rotate-videos-in-blender/"><u>In 2024, Detailed Guide to Rotate Videos in Blender</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oneplus-nord-n30-se-frp-by-drfone-android/"><u>In 2024, How Can We Bypass OnePlus Nord N30 SE FRP?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-fps-for-youtube-videos/"><u>In 2024, Overview of FPS for YouTube Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-jackery-powerbar-unit-featuring-an-embedded-household-outlet/"><u>In-Depth Analysis of the Jackery PowerBar Unit: Featuring an Embedded Household Outlet</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-change-speed-of-video-in-final-cut-pro/"><u>New In 2024, How To Change Speed of Video in Final Cut Pro?</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-to-resolve-inkjet-and-laser-printer-conflicts/"><u>Tactics to Resolve Inkjet and Laser Printer Conflicts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-fixing-missing-binkw32dll-issues-efficiently/"><u>Troubleshooting Tips for Fixing Missing binkw32.dll Issues Efficiently</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-looking-for-the-best-vhs-video-effect-makers-get-to-know-the-top-list-for-2024/"><u>Updated Looking For the Best VHS Video Effect Makers? Get To Know the Top List for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-need-to-learn-about-halftone-effects-learn-how-to-quickly-create-a-halftone-effect-in-adobe-photoshop-with-simple-easy-to-follow-instructions./"><u>2024 Approved Need to Learn About Halftone Effects? Learn How to Quickly Create a Halftone Effect in Adobe Photoshop with Simple, Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/boost-your-social-circles-content-creation-with-our-top-picks-for-no-cost-youtube-video-editors/"><u>Boost Your Social Circle's Content Creation with Our Top Picks for No-Cost YouTube Video Editors!</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/decoding-computer-beep-codes-insights-and-solutions-by-yl-software-specialists/"><u>Decoding Computer Beep Codes: Insights & Solutions by YL Software Specialists</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-tecno-spark-20-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Tecno Spark 20</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-do-velocity-edits-on-pc-for-2024/"><u>How to Do Velocity Edits on PC for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-benq-sw320-monitor-review-a-leap-into-4k-territory/"><u>In 2024, BenQ SW320 Monitor Review A Leap Into 4K Territory</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-use-montage-with-these-movies/"><u>In 2024, Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/integrating-windows-defender-with-alternative-antivirus-tools-expert-advice-and-tips-cybersafe-solutions-blog/"><u>Integrating Windows Defender With Alternative Antivirus Tools: Expert Advice & Tips – CyberSafe Solutions Blog</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-6-ways-to-mimic-professional-filming-gears/"><u>New 6 Ways to Mimic Professional Filming Gears</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-miniature-marvel-a-comprehensive-look-at-xbox-series-s-hardware/"><u>Unveiling the Miniature Marvel - A Comprehensive Look at Xbox Series S Hardware</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-lumafusion-offers-various-look-up-table-presets-or-luts-such-as-filmic-delog-and-filmic-deflat-and-several-stylistic-luts-for-use-with-neutral-use-v/"><u>Updated LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Create Risograph Effect In Photoshop A Beginners Guide for 2024
-date: 2024-12-11T20:26:25.025Z
-updated: 2024-12-18T17:08:12.865Z
+date: 2024-12-21T01:38:06.959Z
+updated: 2024-12-27T08:57:42.687Z
 tags: 
   - ai
   - animation videos
@@ -63,6 +63,10 @@ Use the **“Properties”** panel and select the **“gradient”** colors. Her
 
 ![select the gradient color](https://images.wondershare.com/filmora/article-images/2023/01/applying-gradient-map-to-create-risograph-effect-in-photoshop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 For the image to have less contrast, click **“Image”** in the top toolbar and click **“Adjustments.”** Select **“Levels…”** from the menu. Now, set the black output to **73.**
 
 ![click image](https://images.wondershare.com/filmora/article-images/2023/01/applying-adjustment-level-to-create-risograph-effect-in-photoshop.png)
@@ -106,7 +110,7 @@ Step3 Apply the **Level** and **Filter Galler** to the new object (Same settings
 ![apply the level and filter galler](https://images.wondershare.com/filmora/article-images/2023/01/blending-image-using-layer-modes-to-create-risograph-effect.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Video Tutorial - How To Make a Risograph Texture Effect in Photoshop
@@ -211,6 +215,10 @@ Users can get screen recording, AI text-to-speech, and many other benefits from 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Create Slow-Motion Video by Filmora
 
 Filmora makes the slow-motion video process easy due to advanced features. You do not need to be a professional editor to edit the video on Filmora. It has easy-to-follow steps to create a slow-motion video. So, let's go through the steps to understand the video editing process.
@@ -258,10 +266,6 @@ CapCut proves difficult for beginners to slow down video with speed ramping. So,
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. An Introductory Review of CapCut Video Editor
 
@@ -334,10 +338,6 @@ Make further editing if required or get a final preview to see the applied chang
 
 ![export video from filmora](https://images.wondershare.com/filmora/article-images/2023/capcut-lenta-template-slow-motion-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Features of Filmora in Video Editing
 
 The key functionalities of this editing tool have been discussed in this part. You can go through this to understand the workings of this editor and get maximum benefits:
@@ -353,10 +353,6 @@ Influencers and social media activists post videos regularly. Thumbnails boost v
 #### 3\. [AI Portrait](https://tools.techidaily.com/wondershare/filmora/download/)
 
 CapCut is used to change the background of the video. This background-changing process can cause errors in the final video. Filmora has an AI portrait feature to change the background accurately. It also offers versatility by offering 70+ stickers and AR effects. AI integration tracks the main object and facial features to add effects frame-by-frame.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -376,6 +372,10 @@ If you want to edit your raw video footage and turn ordinary clips into eye-catc
 
 If you are new to Adobe Premiere Pro, you will experience a steep learning curve. This is because the user interface is specially designed for professional video editors. Therefore, you might not get Premiere Pro text effects readily available. In this article, we will illustrate how you can add Adobe Premiere Pro text effects to your video project. We will also state the best alternative to Premiere Pro to add stunning text effects easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Steps to Add Text Effects to Adobe Premiere
 
 Text effects are an essential part of videos to enhance the video content immensely. You can add opening titles and end credits with text effects and animations. You can display the dialogues on the screen as subtitles. Showing location information and shooting date through text effects is quite regular these days. Besides, the use of lower thirds for social media promotion in videos is common. Without further ado, let us look at the steps to add Premiere text effects.
@@ -394,6 +394,10 @@ Go to Graphics> Essential Graphics and browser through the title templates avail
 
 ![pre animated templates premiere](https://images.wondershare.com/filmora/article-images/2022/09/pre-animated-templates-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Double-click on the text to edit the content and type your title. Go to Essential Graphics panel and customize the text effect as per your preference. You can also choose the available elements included in the template to enhance the text effects as you think fit.
 
 ##### Step3 Edit the Text Effect and Animation
@@ -403,6 +407,10 @@ Select the text layer on your timeline to check out the keyframes applied in the
 ![edit text effects aniamtion premiere](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-effects-aniamtion-premiere.jpg)
 
 Bring the keyframes closer or spread them apart respectively. You can also adjust Velocity Controls present under different text properties as per the speed requirements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Alternative Way to Make Text Effects
 
@@ -418,10 +426,6 @@ Step1 Download and install Wondershare Filmora and it is available for both Wind
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Drag and drop your video clips under Project Media folder and then onto the timeline. Go to Titles and you will see different categories of text effects and templates.
 
 ![add text titles filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-text-titles-filmora.jpg)
@@ -430,19 +434,11 @@ Step3 Select a template whichever you think is perfect for your project and drop
 
 ![cuatomize title text filmora](https://images.wondershare.com/filmora/article-images/2022/09/cuatomize-title-text-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Select the text style as well as adjust fonts and settings to get different styles for your texts. There is also an Advanced section available for detailed editing and getting the desired text effect.
 
 Step4 You can animate the texts in your video from Animation section. Choose from the animation presets to animate individual text in the video. Besides, you can also add keyframes and animate the text as per your preference.
 
 ![add animations text title filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animations-text-title-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs on Adobe Premiere Pro
 
@@ -482,10 +478,6 @@ Step4 You can animate the texts in your video from Animation section. Choose fro
 
 ![add animations text title filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animations-text-title-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs on Adobe Premiere Pro
 
 #### 1\. How do you make text look good in Premiere Pro?
@@ -499,10 +491,6 @@ Add your text to your video so that a text layer appears on the timeline. Animat
 #### 3\. How do I open text effects controls in Premiere Pro?
 
 Select the text layer from the timeline of the project. From the main menu, go to Windows> Effects Control option to open effect controls for text. Otherwise, you can directly go to Effects Control tab located below the menu bar after selecting your text layer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -594,7 +582,7 @@ Step3 Once you've selected or taken a new photo, crop it as desired or edit it. 
 ![changing profile photo for telegram](https://images.wondershare.com/filmora/article-images/2022/11/changing-profile-photo-for-telegram.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How To Delete Your Telegram Profile Pictures
@@ -609,7 +597,15 @@ Step3 Now, tap the three-dots **Menu icon** at the top right side of the screen.
 
 ![deleting telegram profile photo](https://images.wondershare.com/filmora/article-images/2022/11/deleting-telegram-profile-photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Tap **"Delete"** again on the pop-up message to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Hide Your Telegram Profile Pictures
 
@@ -682,6 +678,10 @@ Step2 Tap **"Set Profile Photo"** and select whether you want to take a new phot
 Step3 Once you've selected or taken a new photo, crop it as desired or edit it. Finally, tap **"Done"** to change your **profile picture for Telegram.**
 
 ![changing profile photo for telegram](https://images.wondershare.com/filmora/article-images/2022/11/changing-profile-photo-for-telegram.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Delete Your Telegram Profile Pictures
 
@@ -773,19 +773,20 @@ Your DP is perhaps the most important feature to personalize your profile on the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-captivating-audiences-adopting-youtube-vlogger-charisma/"><u>[New] In 2024, Captivating Audiences Adopting YouTube Vlogger Charisma</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-fundamentals-of-color-grading-using-luts-in-ae/"><u>[New] The Fundamentals of Color Grading Using LUTs in AE</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-are-camera-shakes-less-troublesome-after-photostable-effects/"><u>[Updated] Are Camera Shakes Less Troublesome After PhotoStable Effects?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile/"><u>2024 Approved The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862792461-ace-the-market-highly-rated-dell-s3222dgm-monitor-drops-in-price-to-just-229-dont-miss-out/"><u>Ace the Market: Highly Rated Dell S3222DGM Monitor Drops in Price to Just $229 – Don't Miss Out!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-6s-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 6s? Heres the Best Fixes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-googles-wifi-networking-device-ideal-for-home-and-office-use/"><u>In-Depth Look at Google's WiFi Networking Device - Ideal for Home and Office Use</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-switching-fonts-on-windows-11-easily/"><u>Ultimate Guide: Switching Fonts on Windows 11 Easily</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-random-letter-reveal-intro/"><u>Updated How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-live-integration-with-cable-tv/"><u>[New] In 2024, FB Live Integration with Cable TV</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-a-look-into-magix-graphic-designer-for-2024/"><u>[Updated] A Look Into MAGIX Graphic Designer for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-comic-corner-best-funny-content-on-the-planet-web/"><u>[Updated] In 2024, Comic Corner Best Funny Content on the Planet Web</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-narrative-innovation-weaving-stories-through-movies-and-animations/"><u>[Updated] Narrative Innovation Weaving Stories Through Movies and Animations</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/data-restoration-techniques-how-to-retrieve-files-post-format-on-windows-10-8-and-7/"><u>Data Restoration Techniques: How to Retrieve Files Post-Format on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effective-time-management-streamlining-zoom-meetings-on-win11-systems/"><u>Effective Time Management Streamlining Zoom Meetings on Win11 Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ideal-slide-show-apps-from-iphone-6-to-xs-max-for-2024/"><u>Ideal Slide Show Apps From iPhone 6 to XS Max for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-edit-facebook-video-ads-for-e-commerce-business/"><u>New In 2024, How to Edit Facebook Video Ads for E-Commerce Business</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-windows-error-code-0xc0000001-instances/"><u>Remedy for Windows Error Code 0XC0000001 Instances</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
 </ul></div>
 

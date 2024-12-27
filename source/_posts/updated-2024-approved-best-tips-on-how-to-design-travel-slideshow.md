@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Best Tips on How to Design Travel Slideshow
-date: 2024-12-13T17:45:45.148Z
-updated: 2024-12-18T22:10:23.177Z
+date: 2024-12-22T08:38:26.251Z
+updated: 2024-12-27T01:37:54.805Z
 tags: 
   - ai
   - animation videos
@@ -161,9 +161,121 @@ Before creating a slideshow, you first need to ascertain who is your target audi
 
 Next, you need to decide upon the story of your travel slideshow. Depending on the story, you can pick up the content to be included. The story can be based on the places you visited, food, local shopping, and others. Also draft a story that has an introduction, a middle part, and an end.
 
+### 03Sort the pictures and videos
+
+Next comes the trickiest part of selecting the pictures and videos to be added to the slideshow. For any trip, there are hundreds of images but you cannot add them all to your slideshow. So, depending on the target audience and your travel story, pick up the most appropriate ones. Pick up the number of images and videos so that the total slideshow length is around 5-7 minutes.
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### 04Edit images and add effects
+
+Next comes the editing part. Check out the images that need editing like cropping, color correction, and others. Also, you can add some effects to make your slideshow interesting. To edit the files and add effects, there are several editing online and desktop-based tools available. You can choose the ones that meet your requirements.
+
+### 05Add transitions
+
+Next, choose the transitions you want to add between the images and the videos. There are slideshow-making tools where you can check out different types of transition effects and use them.
+
+### 06Add Music
+
+Music will set the right tone and mood for your slideshow. You can either download the relevant song from any online site or a music library or can also combine multiple audio clips to be added to the slideshow.
+
+## Part 2 Importance of using a travel slideshow template
+
+For some, slideshow creation can be a simple task of adding a few images and videos but for the ones who need to create something interesting, several elements go into the making of a slideshow. Moreover, when it comes to travel, the task becomes even trickier with so many things to include and grab the attention of the viewers.
+
+So, if you are not experienced or a pro at making a slideshow but want to create something impressive, templates come to a great rescue. The templates are like ready-to-use designs where you simply need to add the required elements that in turn will create a travel slideshow.
+
+Using a template for creating a travel slideshow served several benefits as enlisted below.
+
+**●** Save time in drafting a design.
+
+**●** Save efforts.
+
+**●** Helps in creating a professional-looking impressive slideshow.
+
+**●** Multiple elements can be added.
+
+**●** Helps in creating a slideshow with some story.
+
+There are several online sites and tools available from where you can select and pick a travel slideshow template of your choice.
+
+![Travel Slideshow Templates](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-03.jpg)
+
+## Part 3 Best tool for creating a travel slideshow- Wondershare Filmora
+
+For creating your travel slideshow in an interesting manner and that too in a hassle-free manner, **[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)** is excellent. Though it is a professional video editing tool with advanced features, it supports multiple additional tasks as well including slideshow making. Using the software, your slideshow having pictures, videos, and music files can be created in no time.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+You can even edit the files for further customization using the built-in functions. Add transitions, filters, effects, and other elements for creating a slideshow of your choice. An array of templates in different categories will further help you to quickly create a presentation based on your theme. There is also a stock collection of videos, images, and other files that can be used for your slideshow.
+
+![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-04.jpg)
+
+**Steps to create a travel slideshow using Wondershare Filmora**
+
+Step 1\. From the official software page, download and install the program, and at the main interface choose the New Project option.
+
+Step 2\. Next, the videos and images that need to be included in the slideshow have to be imported and added to the Media Library of the software. Next, drag and move these files to the timeline. The sequence can be changed as desired.
+
+Note: Before moving the files to the timeline, you can edit and customize them by using the built-in features of the software like rotate, crop, and zoom.
+
+Step 3\. An array of transitions is available in the software from which you can choose the ones that fit into your theme. Some of the popular ones are cross-merge, sweep clockwise, cross split, and others.
+
+Step 4\. Also add filters, overlays, effects, and other elements to your slideshow.
+
+Step 5\. Next comes the music, add the local music file or use the one from the inbuilt audio library. The Voice-over recording option is also available in the software.
+
+Step 6\. Finally, export and save the slideshow. You can save it to your local system, or DVD, or can even share it directly to YouTube or Vimeo.
+
+## **●** Ending Thoughts **→**
+
+**●** For creating an interesting travel slideshow consider all the important elements like the story, theme, pictures, music, and others.
+
+**●** Templates help to a great extent for creating a slideshow in a simple quick-manner.
+
+**●** Wondershare Filmora is an excellent tool for finding a template as well as creating a travel slideshow.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+A single travel trip besides numerous memories also has innumerable pictures and videos. Sharing all of these pictures and videos with your friends, and dear ones are tedious and not a practical thing to do. Here comes your creativity, where you can make an impressive slideshow using some of the most interesting images and videos from your clips. Creating a digital slideshow will not only help you to share your files online with your loved ones but will also work as a keepsake where you relive the moments later.
+
+![Travel Slideshow](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-01.jpg)
+
+So now when decided to create a slideshow, the next question is how, tips, tools, templates, and software can be used. The article below will cover all these aspects that will help you in designing and creating a wonderful **travel slideshow**.
+
+#### In this article
+
+01 [Tips and steps for creating a travel slideshow](#Part 1)
+
+02 [Importance of using a travel slideshow template](#Part 2)
+
+03 [Best tool for creating a travel slideshow- Wondershare Filmora](#Part 3)
+
+## Part 1 Tips and steps for creating a travel slideshow
+
+Want to hear the words- cool and wow when you play your slideshow in front of your dear ones. The below-listed tips will help you create an engaging and engrossing slideshow.
+
+![Travel Slideshow Tips](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 01Identify the audience
+
+Before creating a slideshow, you first need to ascertain who is your target audience. The slideshow can be created for your friends, family, relatives, or YouTube or social media platform viewers. Depending on the target audience, the content and other slideshow elements will vary.
+
+### 02Choose a travel story
+
+Next, you need to decide upon the story of your travel slideshow. Depending on the story, you can pick up the content to be included. The story can be based on the places you visited, food, local shopping, and others. Also draft a story that has an introduction, a middle part, and an end.
 
 ### 03Sort the pictures and videos
 
@@ -172,10 +284,6 @@ Next comes the trickiest part of selecting the pictures and videos to be added t
 ### 04Edit images and add effects
 
 Next comes the editing part. Check out the images that need editing like cropping, color correction, and others. Also, you can add some effects to make your slideshow interesting. To edit the files and add effects, there are several editing online and desktop-based tools available. You can choose the ones that meet your requirements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 05Add transitions
 
@@ -289,129 +397,9 @@ Next comes the editing part. Check out the images that need editing like croppin
 
 Next, choose the transitions you want to add between the images and the videos. There are slideshow-making tools where you can check out different types of transition effects and use them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 06Add Music
 
 Music will set the right tone and mood for your slideshow. You can either download the relevant song from any online site or a music library or can also combine multiple audio clips to be added to the slideshow.
-
-## Part 2 Importance of using a travel slideshow template
-
-For some, slideshow creation can be a simple task of adding a few images and videos but for the ones who need to create something interesting, several elements go into the making of a slideshow. Moreover, when it comes to travel, the task becomes even trickier with so many things to include and grab the attention of the viewers.
-
-So, if you are not experienced or a pro at making a slideshow but want to create something impressive, templates come to a great rescue. The templates are like ready-to-use designs where you simply need to add the required elements that in turn will create a travel slideshow.
-
-Using a template for creating a travel slideshow served several benefits as enlisted below.
-
-**●** Save time in drafting a design.
-
-**●** Save efforts.
-
-**●** Helps in creating a professional-looking impressive slideshow.
-
-**●** Multiple elements can be added.
-
-**●** Helps in creating a slideshow with some story.
-
-There are several online sites and tools available from where you can select and pick a travel slideshow template of your choice.
-
-![Travel Slideshow Templates](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-03.jpg)
-
-## Part 3 Best tool for creating a travel slideshow- Wondershare Filmora
-
-For creating your travel slideshow in an interesting manner and that too in a hassle-free manner, **[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)** is excellent. Though it is a professional video editing tool with advanced features, it supports multiple additional tasks as well including slideshow making. Using the software, your slideshow having pictures, videos, and music files can be created in no time.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-You can even edit the files for further customization using the built-in functions. Add transitions, filters, effects, and other elements for creating a slideshow of your choice. An array of templates in different categories will further help you to quickly create a presentation based on your theme. There is also a stock collection of videos, images, and other files that can be used for your slideshow.
-
-![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-04.jpg)
-
-**Steps to create a travel slideshow using Wondershare Filmora**
-
-Step 1\. From the official software page, download and install the program, and at the main interface choose the New Project option.
-
-Step 2\. Next, the videos and images that need to be included in the slideshow have to be imported and added to the Media Library of the software. Next, drag and move these files to the timeline. The sequence can be changed as desired.
-
-Note: Before moving the files to the timeline, you can edit and customize them by using the built-in features of the software like rotate, crop, and zoom.
-
-Step 3\. An array of transitions is available in the software from which you can choose the ones that fit into your theme. Some of the popular ones are cross-merge, sweep clockwise, cross split, and others.
-
-Step 4\. Also add filters, overlays, effects, and other elements to your slideshow.
-
-Step 5\. Next comes the music, add the local music file or use the one from the inbuilt audio library. The Voice-over recording option is also available in the software.
-
-Step 6\. Finally, export and save the slideshow. You can save it to your local system, or DVD, or can even share it directly to YouTube or Vimeo.
-
-## **●** Ending Thoughts **→**
-
-**●** For creating an interesting travel slideshow consider all the important elements like the story, theme, pictures, music, and others.
-
-**●** Templates help to a great extent for creating a slideshow in a simple quick-manner.
-
-**●** Wondershare Filmora is an excellent tool for finding a template as well as creating a travel slideshow.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-A single travel trip besides numerous memories also has innumerable pictures and videos. Sharing all of these pictures and videos with your friends, and dear ones are tedious and not a practical thing to do. Here comes your creativity, where you can make an impressive slideshow using some of the most interesting images and videos from your clips. Creating a digital slideshow will not only help you to share your files online with your loved ones but will also work as a keepsake where you relive the moments later.
-
-![Travel Slideshow](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-01.jpg)
-
-So now when decided to create a slideshow, the next question is how, tips, tools, templates, and software can be used. The article below will cover all these aspects that will help you in designing and creating a wonderful **travel slideshow**.
-
-#### In this article
-
-01 [Tips and steps for creating a travel slideshow](#Part 1)
-
-02 [Importance of using a travel slideshow template](#Part 2)
-
-03 [Best tool for creating a travel slideshow- Wondershare Filmora](#Part 3)
-
-## Part 1 Tips and steps for creating a travel slideshow
-
-Want to hear the words- cool and wow when you play your slideshow in front of your dear ones. The below-listed tips will help you create an engaging and engrossing slideshow.
-
-![Travel Slideshow Tips](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 01Identify the audience
-
-Before creating a slideshow, you first need to ascertain who is your target audience. The slideshow can be created for your friends, family, relatives, or YouTube or social media platform viewers. Depending on the target audience, the content and other slideshow elements will vary.
-
-### 02Choose a travel story
-
-Next, you need to decide upon the story of your travel slideshow. Depending on the story, you can pick up the content to be included. The story can be based on the places you visited, food, local shopping, and others. Also draft a story that has an introduction, a middle part, and an end.
-
-### 03Sort the pictures and videos
-
-Next comes the trickiest part of selecting the pictures and videos to be added to the slideshow. For any trip, there are hundreds of images but you cannot add them all to your slideshow. So, depending on the target audience and your travel story, pick up the most appropriate ones. Pick up the number of images and videos so that the total slideshow length is around 5-7 minutes.
-
-### 04Edit images and add effects
-
-Next comes the editing part. Check out the images that need editing like cropping, color correction, and others. Also, you can add some effects to make your slideshow interesting. To edit the files and add effects, there are several editing online and desktop-based tools available. You can choose the ones that meet your requirements.
-
-### 05Add transitions
-
-Next, choose the transitions you want to add between the images and the videos. There are slideshow-making tools where you can check out different types of transition effects and use them.
-
-### 06Add Music
-
-Music will set the right tone and mood for your slideshow. You can either download the relevant song from any online site or a music library or can also combine multiple audio clips to be added to the slideshow.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2 Importance of using a travel slideshow template
 
@@ -498,6 +486,10 @@ Do the following steps to change the background to black for your product review
 
 ![background to black](https://images.wondershare.com/filmora/article-images/2022/12/background-to-black-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. How to change the parameters in Filmora
 
 For this tutorial, we will do it using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). So, if you haven't installed it yet, you can download it here:
@@ -558,6 +550,10 @@ Step1 Right-click the clip in the editing timeline > Edit Properties.
 
 ![right-click the clip](https://images.wondershare.com/filmora/article-images/2022/12/background-to-black-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Select the Color menu > Advanced.
 
 ![select the color menu](https://images.wondershare.com/filmora/article-images/2022/12/background-to-black-3.jpg)
@@ -595,6 +591,10 @@ Next, adjust the white balance on your camera. You can also edit the color gradi
 **3) Make sure the audio quality of your video is good**
 
 Poor audio can make your video harder to listen to and turn off viewers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -680,37 +680,9 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
-Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
-
-## Summary
-
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
-First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
-
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
-Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
-
-![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
-
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
-
-Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
-
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
@@ -721,32 +693,64 @@ And that's all there is today! With these steps, you can create an engaging 1950
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
-First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
-
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
-Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
-
-![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
-
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
-
-Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
-
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
+
+##### Step 2 Apply a cropping effect to the video
+
+![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+
+Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
+
+![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
+
+Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
+
+##### Step 3 Add a Warm Film color effect
+
+![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
+
+##### Step 4 Apply more graininess to the film
+
+![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+
+Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+## Summary
+
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+
+First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
+
+##### Step 2 Apply a cropping effect to the video
+
+![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+
+Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
+
+![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
+
+Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
+
+##### Step 3 Add a Warm Film color effect
+
+![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
+
+##### Step 4 Apply more graininess to the film
+
+![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
@@ -774,17 +778,21 @@ Step1Launch After Effects and click on New Composition from Project section. Set
 
 ![new composition after effects](https://images.wondershare.com/filmora/article-images/2022/08/new-composition-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2Click on Type Text icon located at the top bar and type a text on the video. After typing the text, go to the Character panel to the right and adjust the style of the text.
 
 ![adjust text style after effects](https://images.wondershare.com/filmora/article-images/2022/08/adjust-text-style-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3You have to enable 3D option for the text from the 3D icon on text layer. Under text layer, click on Transform and use X-Y-Z rotation options to rotate the text from 3D perspectives.
 
 ![rotate text after effects](https://images.wondershare.com/filmora/article-images/2022/08/rotate-text-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4Similarly, click on Geometry Options and add depth to your text to get 3D effect on your text.
 
@@ -798,6 +806,10 @@ Step6Use the Orbit Tool to rotate the text to get the true 3D effect visible on 
 
 ![rotate text with orbit tool](https://images.wondershare.com/filmora/article-images/2022/08/rotate-text-with-orbit-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step7You need to get the lighting and shading for your 3D text. Right-click on Comp window and go to New> Light. Adjust the parameters from Light Settings window.
 
 ![adjust light after effects](https://images.wondershare.com/filmora/article-images/2022/08/adjust-light-after-effects.jpg)
@@ -807,10 +819,6 @@ Step8You can adjust Transform and Light Options from Comp window under Light lay
 ![add transform after effects](https://images.wondershare.com/filmora/article-images/2022/08/add-transform-after-effects.jpg)
 
 You have successfully created 3D text effect on After Effects. You will now illustrate how to animate the 3D text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Create 3D Camera Animation
 
@@ -831,10 +839,6 @@ Step4If you want camera animation on your 3D text, select the Camera layer you a
 Step5Now add a keyframe on Position option from Transform option to mark the starting point of the animation. Similarly, add another keyframe where you want the animation to end.
 
 ![add keyframe position](https://images.wondershare.com/filmora/article-images/2022/08/add-keyframe-position.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step6Use the Orbit tool, Dolly tool and others to position 3D text as per how you want the animation to end.
 
@@ -873,10 +877,6 @@ When you use an online video editor to create 3D text animation, there will have
 Step1Download and install Filmora on your computer. The video editor is available for Windows and Mac users. Click on New Project button on welcome screen or go to File> New Project option.
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2Go to File> Import Media > Import Media Files to import the video file. Alternatively, drag and drop the video file directly into Project Media folder. Put the video file into Timeline to get started.
 
@@ -924,19 +924,18 @@ There is no doubt that if you include 3D text effects and animations in your vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-blitz-games-leading-lightning-fast-titles-for-laptopsphones/"><u>[New] Blitz Games Leading Lightning-Fast Titles for Laptops/Phones</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-superior-style-for-text-mobility-for-2024/"><u>[New] Superior Style for Text Mobility for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-the-potential-of-your-content-with-igtv-hashtags/"><u>[Updated] Unlocking the Potential of Your Content with IGTV Hashtags</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-income-insight-cutting-through-the-complexity-with-a-3-step-guide-to-youtube-revenue/"><u>2024 Approved Income Insight Cutting Through the Complexity with a 3-Step Guide to YouTube Revenue</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dive-into-the-compelling-digital-world-of-nhls-latest-sports-offering/"><u>Dive Into the Compelling Digital World of NHL's Latest Sports Offering</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-a23-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy A23 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-rotate-videos-in-lightworks-for-2024/"><u>New Steps to Rotate Videos in Lightworks for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/realign-prime-video-subtitles-with-windows-11-settings/"><u>Realign Prime Video Subtitles with Windows 11 Settings</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-20-best-video-background-templates/"><u>Updated 20 Best Video Background Templates</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-best-cloud-storage-service-for-videos-for-2024/"><u>Updated Best Cloud Storage Service for Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-best-ideas-for-time-lapse-video/"><u>Updated Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-record-super-slow-motion-videos-on-your-huaweisamsungiphone/"><u>Updated How to Record Super Slow Motion Videos on Your Huawei/Samsung/iPhone?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-effects-on-tiktok/"><u>Updated In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-detailed-guide-to-extract-and-save-audio-from-popular-video-sharing-sites/"><u>[Updated] A Detailed Guide to Extract and Save Audio From Popular Video Sharing Sites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/coding-connoisseurs-clash-can-chatgpt-outperform-gemini-for-developers-needs/"><u>Coding Connoisseurs Clash: Can ChatGPT Outperform Gemini for Developers' Needs?</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/configure-line-numbering-in-sql-server-management-studio-for-easier-debugging/"><u>Configure Line Numbering in SQL Server Management Studio for Easier Debugging</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-xcover-6-pro-tactical-edition-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy XCover 6 Pro Tactical Edition Easily?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-false-friend-requests-online/"><u>Identifying Inauthentic Connections: A Guide to Recognizing False Friend Requests Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-gaming-renaissance-the-nintendo-experience/"><u>IOS Gaming Renaissance: The Nintendo Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-what-is-the-best-fps-for-youtube-videos/"><u>New In 2024, What Is the Best FPS for YouTube Videos?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-feather-shapes-in-after-effects-and-add-a-professional-touch-to-your-designs-this-comprehensive-guide-covers-everything-from-the-basics-to-/"><u>New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precision-editing-on-inshot-mastering-the-art-of-transitioning/"><u>Precision Editing on Inshot Mastering the Art of Transitioning</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-workflow-with-a-single-charge-the-secret-power-function-in-a-versatile-12-in-1-thunderbolt-station-reviewed/"><u>Revolutionize Your Workflow with a Single Charge: The Secret Power Function in a Versatile 12-in-1 Thunderbolt Station Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-controlling-vanguards-ums-in-windows/"><u>Understanding and Controlling Vanguard's UMS in Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-subtitles/"><u>Updated Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-text-animation-intro-tutorial-in-filmora/"><u>Updated Text Animation Intro Tutorial in Filmora</u></a></li>
 </ul></div>
 

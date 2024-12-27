@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Complete Guide to Make a Super Easy Rotating Video Effect
-date: 2024-12-14T21:57:01.133Z
-updated: 2024-12-18T16:48:01.711Z
+date: 2024-12-20T19:35:35.274Z
+updated: 2024-12-26T18:48:20.846Z
 tags: 
   - ai
   - animation videos
@@ -28,7 +28,7 @@ Rotating transition video is a trending feature used by models and influencers. 
 It helps to indulge the audience with your content and show the after and before transitions. You can try this with any object or any character. But first, let's figure out the requirements for rotating effects.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Prerequisites to Make a Rotating Video Effect
@@ -60,10 +60,6 @@ For this, you need a filmmaker or any person living with you. Just give instruct
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** Ensure to record one footage multiple times so that you can choose the perfect one later for editing.
 
 ![smartphone for filming](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-3.png)
@@ -85,6 +81,10 @@ Follow the below-mentioned steps to record the first footage for the video:
 * Ensure that the camera lens faces the ground at the end of the rotation.
 
 ![filming scenes of first footage](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After filming the first footage for the video, it's time to record the second footage to transition between the two.
 
@@ -273,10 +273,6 @@ To insert transition effects, you must trim the clip at a specific point and spe
 
 ![trim the clips at specific points](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After splitting or trimming the clips, you now have to adjust the speed of the clips, as shown below!
 
 ##### Step5 Adjust Speed and Duration
@@ -291,6 +287,10 @@ There is a need to increase the speed of some scenes where the transition starts
 * Select that required option and play it back to check if it is correct.
 
 ![adjustment of speed and duration](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The video is all set; give it the final touches by following the last step, as shown below!
 
@@ -338,10 +338,6 @@ Step 1Open Adobe Premiere Rush on your computer and then open the video project 
 Step 2With the project open, click on the blue “Plus” icon under the main menu. On mobile devices, the icon would be at the bottom of the main page.
 
 ![click plus icon adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/click-plus-icon-adobe-rush.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3Select “Graphics” from the options that appear
 
@@ -401,10 +397,6 @@ Filmora offers more than 200+ text effects that apply to various types of videos
 
 ![see effect in the preview window](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you like what you see, place your Playhead icon where you want the add the text and title in the timeline, and then drag and drop the track above the video.
 
 ##### Step 5Select the Duration of the Text
@@ -436,6 +428,10 @@ If you are happy with everything and you don't need to make any more changes, cl
 Once all your settings are just how you want them to be, click on “Export” to name the video and save all the changes that you just made.
 
 Filmora also gives you the option to upload the video directly to YouTube and you can also choose to burn the video to DVD. If you will be playing the video on mobile devices, click on the “Devices” tab and select the device you will be using from the options listed here including iPhone, iPad, Samsung Galaxy, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related FAQs
 
@@ -474,6 +470,10 @@ Once you have all the settings as needed depending on your project, click “Imp
 You can also just drag and drop the video into the main window to open it.
 
 ![open the video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3Add the Video/Videos to the Timeline
 
@@ -530,10 +530,6 @@ Yes. Adobe Premiere Rush does allow you to add captions and subtitles to any vid
 ### 2\. Can You Move Text in Adobe Rush?
 
 Yes, you can easily move text in Adobe Rush. Add the text to the video as described in the first part of this article and once it is on the timeline, you can simply drag the text clip to any desired area on the timeline to change its location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. How Do I Add a Title in Adobe Rush Mobile?
 
@@ -648,10 +644,6 @@ To sum up, LUTs are not an option but more of becoming a necessity, especially f
 
 * [How Has Wondershare Filmora Changed the Dynamics of LUTs in Video Editing?](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How Can LUTs Help in Vlogging?
 
 If you want to make your vlogs look more professional, try using LUTs. These tables can help you correct the color of your footage easily and quickly while you're on the go. You can use LUTs for vlogs to fix issues like your clips' white balance and exposure. Furthermore, many other uses of LUTs for vlogging are discussed below.
@@ -676,11 +668,19 @@ Sometimes, capturing footage under mixed lighting conditions can be challenging.
 
 Besides benefits and uses, the real part is to choose the best LUTs for vlogging. With so many LUTs vlog options, choosing a good one takes time and effort. Here are some of the best LUTs that you can use for vlogs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. [Artist Found LUTs Collection](https://filtergrade.com/product/artist-found-luts-collection/best-luts-for-vlog-1)
 
 Are you a vlogger looking for a LUT that can help enhance the colors and brightness of your videos? The Artist Found LUTs Collection is a great option. This LUT is perfect for giving your vlogs a professional look that will capture the attention of your viewers. Furthermore, you can make your videos brighter and more vibrant with this LUTs pack.
 
 ![artist found luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. [B&W](https://fixthephoto.com/vlog-lut/download-4)
 
@@ -693,10 +693,6 @@ B&W is the best LUT for vlog that can be a great addition to your vlogging toolk
 If you're looking for a LUT to use in your travel vlogs, consider the Travel Video LUTs by Matteo Martignago. In this LUT pack, you'll find five different LUTs, each with its unique look and feel. Moreover, this pack has warm and cold LUTs, giving you multiple options. The warm LUTs give your videos a cozy feel, while the cold LUTs can create a sense of adventure and excitement.
 
 ![travel video luts](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. [BRIGHT INSTA LUTS](https://iuliia.store/product/bright-insta-luts/best-luts-for-vlog-4)
 
@@ -715,6 +711,10 @@ Kurt Von Studios Retro Film LUTs is a great tool for outdoor vloggers who want t
 Give your indoor vlogs and podcasts more feel by using Limit Color. This vlog LUT adds an artistic touch to your footage by limiting the color and light in your videos. It creates darker shadows and underexposed colors by focusing on the subject. Similarly, it helps to create a dramatic look that adds emotion to your vlogs and podcasts.
 
 ![limit color luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How Has Wondershare Filmora Changed the Dynamics of LUTs in Video Editing?
 
@@ -740,6 +740,10 @@ Apart from LUTs, you can also make color adjustments and corrections to your vlo
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Conclusion
 
 To sum up, LUTs are not an option but more of becoming a necessity, especially for vloggers. LUTs not only color-grade your videos but also add depth and perspective to your videos. Your content looks more engaging and interactive with the correct colors and lighting. However, you can use the best LUTs for vlogs even in the Wondershare Filmora tool. This tool lets you create and edit creative vlogs in no time.
@@ -759,7 +763,7 @@ Pocket-lint has compiled ten ideas in an effort to assist you in getting whateve
 ![shoot a video on phone](https://images.wondershare.com/filmora/article-images/2022/08/shoot-a-video-on-phone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Get ready for filming
@@ -781,10 +785,6 @@ Because smartphone cameras have smaller image sensors and lenses, proper illumin
 ![use good lighting](https://images.wondershare.com/filmora/article-images/2022/08/use-good-lighting.jpg)
 
 If shooting your video in low light is still difficult, experiment with your phone's or app's backlighting and white balance settings. In case your camera is focusing on the incorrect part of your composition, most phones now provide "touch focusing." The automatic exposure control will have an easier time making minor adjustments if the lighting condition changes once the focus has been placed on the most crucial part of the video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Film horizontally, not vertically
 
@@ -836,21 +836,19 @@ You probably weren't aware of this, but your smartphone is actually a very capab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-easily-connect-to-the-cloud-and-post-from-your-camera-roll/"><u>[New] Easily Connect to the Cloud and Post From Your Camera Roll</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-next-chapter-of-cinema-vr-revolution/"><u>[Updated] The Next Chapter of Cinema VR Revolution</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-improved-apple-watch-series/"><u>Comprehensive Guide to the Improved Apple Watch Series</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/handbrakedvd/"><u>HandBrake使いこなし：DVDの高画質コンバートテクニックと、画質低下解決策</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-the-science-and-art-of-attention-grabbing-titles-for-2024/"><u>Master the Science and Art of Attention-Grabbing Titles for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionizing-the-phone-experience-through-games/"><u>Revolutionizing the Phone Experience Through Games</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-essential-process-of-modifying-your-online-community-background-for-2024/"><u>The Essential Process of Modifying Your Online Community Background for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-list-of-childrens-tablets-for-2e-year-find-the-perfect-tech-gift/"><u>The Ultimate List of Children's Tablets for 2E Year : Find the Perfect Tech Gift!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-color-finale-for-2024/"><u>What Is Color Finale for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-the-power-of-light-advanced-hdr-in-ps/"><u>[Updated] Unleashing the Power of Light Advanced HDR in PS</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-hyperlapse-vs-timelapse-videos/"><u>2024 Approved Hyperlapse VS Timelapse Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-transform-speech-into-text-the-accurate-google-method/"><u>2024 Approved Transform Speech Into Text The Accurate Google Method</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-try-these-10-music-video-templates-to-make-your-work-easy/"><u>2024 Approved Try These 10 Music Video Templates To Make Your Work Easy</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
+<li><a href="https://video-capture.techidaily.com/enhance-your-media-workflow-on-windows-11-with-apple-prores-player/"><u>Enhance Your Media Workflow on Windows 11 with Apple ProRes Player</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-motorola-edge-40-neo-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Motorola Edge 40 Neo For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808015131-how-to-fix-windows-11-slow-and-lagging-problem-8-easy-ways/"><u>How to Fix Windows 11 Slow and Lagging Problem - 8 Easy Ways</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-tiktok-loop-video/"><u>New How to Make a TikTok Loop Video</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-the-top-10-global-explorer-channels/"><u>Unveiling the Top 10 Global Explorer Channels</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-st/"><u>Updated If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign</u></a></li>
 </ul></div>
 
