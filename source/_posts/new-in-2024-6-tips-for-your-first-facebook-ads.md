@@ -1,7 +1,7 @@
 ---
 title: New In 2024, 6 Tips for Your First Facebook Ads
-date: 2024-12-21T21:25:24.240Z
-updated: 2024-12-27T09:44:02.775Z
+date: 2024-12-30T16:16:02.254Z
+updated: 2025-01-05T22:05:18.440Z
 tags: 
   - ai
   - animation videos
@@ -20,6 +20,10 @@ Facebook ads can be an effective channel for reaching the right customers, but o
 ![facebook ads campaign tips](https://images.wondershare.com/filmora/article-images/2022/08/facebook-ads-campaign-tips.jpg)
 
 Before you launch your first Facebook ad campaign, here are six tips to keep in mind:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part1\. Define the purpose of your ad
 
@@ -104,15 +108,15 @@ There are also many different ways to write copy for a Facebook ad. Some people 
 
 You can also hire a copywriter to help you with your ad. However, if you don't have the budget for it at this point in time or just want to try writing your own first before hiring someone else, there are many different apps and websites that will help you to create an ad copy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part5\. Decide what type of ad format will you use
 
 It is a carousel ad, or single image/video ad, or a combination of both?
 
 ![choose ad type format](https://images.wondershare.com/filmora/article-images/2022/08/choose-ad-type-format.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you are going to use a carousel ad, you need at least three images. If you're using a single image or video ads, then you only need one image or video.
 
@@ -231,16 +235,12 @@ Step4 Double-click on it, activate the setting window and then key out the backg
 
 ![activate the setting window ](https://images.wondershare.com/filmora/article-images/2022/12/appearance_12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 Move the clip until it covers only the first frame of the appearing clip. Now keyframe the following subject from the outer frame to the final position.
 
 ![move the clip](https://images.wondershare.com/filmora/article-images/2022/12/appearance_13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step6 Now search for some smoke effects and put it upside down. So it looks like the ceiling is broken when the subject falls. Then add some camera shake to the fall.
@@ -295,10 +295,6 @@ You must be wondering what is a paper rip effect in videos. It is a visual effec
 
 ![paper rip effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, as we have seen what a paper rip effect looks like, isn't it cool? So let's see which software we need to make the magic happen.
 
 ## Part 2\. How to Make a Paper Rip Effect
@@ -340,6 +336,10 @@ Step6 Drag and drop the paper photo onto the second video track of the timeline,
 
 ![dropping paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-06.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step7 Double-click the paper picture on the timeline to open the settings window and then open the **Compositing** menu. Then Change the **Blending Mode** from Normal to **Multiply**.
 
 ![opening compositing menu](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-07.png)
@@ -368,10 +368,6 @@ Step10 Import the **Freeze Frame 1** to the media folder and replace the **Freez
 
 ![replaced the freeze frame and paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-012.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step11 Now let's make the second part of the transition effect. You should drag and Drop **Clip 2** onto the timeline and move the playhead to the clip's first frame. Then Add a Freeze Frame; you can also do it by pressing the **Alt+F** keys. Now click and drag the playhead to the end of the freeze frame and make a **Cut**.
 
 ![adding clip 2 to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-013.png)
@@ -384,6 +380,10 @@ Step13 Select the range you want to export by setting **IN and OUT** points as w
 
 ![selecting in and out points](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-015.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step14 This time use the shortcut **Control + E** to open the export window. Again, let's name it **freeze frame 2** and then export it.
 
 Step15 You can use the keyboard shortcut **Shift + X** to cancel the selected range. Then import **freeze frame 2** into the media folder and replace the freeze frame + paper photo. Adjust the length of this new clip to about 1 second.
@@ -393,10 +393,6 @@ Step15 You can use the keyboard shortcut **Shift + X** to cancel the selected ra
 Step16 Now you can add several Filmora transitions to finish the effect. Go to the **Transitions window** and find Evaporate 2.
 
 ![select the transition effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-017.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step17 Drag and drop it onto the cut between **clip 1** and **freeze frame 1** and the cut between **clip 2** and **freeze frame 2**. You can also adjust the length of the transition.
 
@@ -421,6 +417,10 @@ We hope this post has helped you achieve the desired effect on your video. With 
 * Over 2,000+ audio resources range from music and audio effects, and much more.
 * The shortcut key saves you time while editing videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Stepwise Guide to Make the Paper Rip Effect
 
 Step1 Download Wondershare Filmora from the official website. If you have already downloaded the Wondershare Filmora. Open it, and let's start editing the video.
@@ -428,10 +428,6 @@ Step1 Download Wondershare Filmora from the official website. If you have alread
 Step2 First, we need to find a photo of a white paper that you can easily download from the internet and two videos in which you want to add this effect. Then import these three files to the media gallery.
 
 ![select the material](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-02.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Drag and drop **Clip 1** onto the timeline and move the playhead to the last frame of the clip.
 
@@ -446,10 +442,6 @@ Step4 Now right-click on **Clip 1** to open the menu and select **Add Freeze Fra
 Step5 After adding a freeze frame, cut here.
 
 ![adding a cut](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step6 Drag and drop the paper photo onto the second video track of the timeline, and make sure it starts at the cut on the first video track.
 
@@ -475,10 +467,6 @@ Step9 Then click **Export** and choose **Create Video**. Let's name it **freeze 
 
 ![selecting create a video](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-010.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It will only export the selected part on the timeline. Once the exporting process is completed, **Right-Click** on the timeline and **Cancel** the selected range.
 
 ![exporting the video](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-011.png)
@@ -486,6 +474,10 @@ It will only export the selected part on the timeline. Once the exporting proces
 Step10 Import the **Freeze Frame 1** to the media folder and replace the **Freeze Frame + Paper Photo** with this clip. Then adjust the length of this clip to 1 second.
 
 ![replaced the freeze frame and paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-012.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step11 Now let's make the second part of the transition effect. You should drag and Drop **Clip 2** onto the timeline and move the playhead to the clip's first frame. Then Add a Freeze Frame; you can also do it by pressing the **Alt+F** keys. Now click and drag the playhead to the end of the freeze frame and make a **Cut**.
 
@@ -539,6 +531,10 @@ Want to add selective blur to make everything look smaller? Don't have any idea 
 
 ![after adding a miniature effect](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 But first, let's learn the logic of making the miniature effect. As many video editing pros present on Tiktok, the miniature effect is a fun way to brighten up your photography or video shots. For example, when taking a video or a time-lapse of a landscape, we always have a bigger depth of field, so most objects in the frame are in focus.
 
 However, when we film a miniature model, the depth of field is shallow. So, we only see some objects in focus, and the rest is blurry. This visual trick makes our brain believe that the big landscape we're seeing is actually a tiny model.
@@ -563,10 +559,6 @@ You are excited to add a miniature effect, and enjoy the rest! Without any furth
 * It's packed with new features and effects plugins that make editing more filmy and fun!
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** filmora has a unique **"stock media"** option that enables us to use all these elements and more to boost our videos!
 
@@ -621,6 +613,10 @@ After selecting and downloading the blur effect, it's time to add it to the vide
 * Then, make sure to release the effect on the video to give it a lens blur appearance.
 
 ![add effect on the video in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-6.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5 Add the effect multiple times
 
@@ -678,6 +674,10 @@ Want to change the shape of the mask? Then follow the below steps:
 * Select the **Rectangular** mask from the list and apply it.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** make sure you are masking the same extent and excluding the object you want to be out of focus.
 
@@ -848,21 +848,16 @@ Have you tried to add a miniature effect before? If yes, then share your experie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-expert-insight-on-sierras-icloud-drive-accessibility/"><u>[New] In 2024, Expert Insight on Sierra's iCloud Drive Accessibility</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-webinar-mastery-record-without-monetary-burden/"><u>[New] In 2024, Webinar Mastery Record Without Monetary Burden</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-spotting-absent-communications-on-chatface/"><u>[Updated] 2024 Approved Spotting Absent Communications on Chatface</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-pro-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 Pro and iPad Securely</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/bitraser-pro-comprehensive-tutorial-on-secure-data-destruction-via-video/"><u>BitRaser Pro: Comprehensive Tutorial on Secure Data Destruction via Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-6-ios-features-that-make-gpt-better-here/"><u>Exploring 6 iOS Features That Make GPT Better Here</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-note-50-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Note 50 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-football-footage-top-youtube-infographics/"><u>In 2024, In-Depth Football Footage Top YouTube Infographics</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/introducing-newcomers-to-english/"><u>Introducing Newcomers to English</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/navigating-video-visibility-barriers-in-social-networking-for-2024/"><u>Navigating Video Visibility Barriers in Social Networking for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-delving-into-lgs-high-end-gaming-screen-27ud68-review/"><u>[New] Delving Into LG's High-End Gaming Screen 27UD68 Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-best-vimeo-video-downloaders/"><u>[Updated] Best Vimeo Video Downloaders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-recommendations-the-finest-fee-free-streamers-and-tools/"><u>[Updated] Expert Recommendations The Finest, Fee-Free Streamers and Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-iphone-detection-problems-with-itunes-or-finder-easy-fixes/"><u>Diagnosing iPhone Detection Problems with iTunes or Finder - Easy Fixes!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-effectively-convert-iphone-photos-jpeg-png-into-pdfs/"><u>How to Effectively Convert iPhone Photos (JPEG, PNG) Into PDFs</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-discover-the-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>New Discover the Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>New Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-warzone-textures-not-loading/"><u>Solved: Warzone Textures Not Loading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Itel P55+? | Dr.fone</u></a></li>
 </ul></div>
 

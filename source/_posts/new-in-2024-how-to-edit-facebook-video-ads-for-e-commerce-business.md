@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Edit Facebook Video Ads for E-Commerce Business
-date: 2024-12-24T20:20:28.075Z
-updated: 2024-12-27T06:02:26.237Z
+date: 2024-12-31T20:20:05.667Z
+updated: 2025-01-05T17:05:47.874Z
 tags: 
   - ai
   - animation videos
@@ -73,10 +73,6 @@ Once you have decided on the project aspect ratio, you can start importing your 
 
 ![import your media files into filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step6Set the background color for your Facebook Video Ads
 
 Now that you have all of your content imported into Filmora, you can start editing it. One thing you may want to do is set the background color for your video. To do this, go to the "Media" tab and click on the "Sample Color" section. Then, select the desired color for your background. Make sure to use your branding color palette.
@@ -173,6 +169,10 @@ Now that you have all of your content imported into Filmora, you can start editi
 
 ![set bg color fb video](https://images.wondershare.com/filmora/article-images/2022/09/set-bg-color-fb-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step7Add Catchy headline and text
 
 This will help to grab the viewer's attention and explain what your video is about. To do this, go to the "Titler" tab and select the "Titles" option. Then, click on the "Text" tab and type in your headline. You can also add some text to the video by going to the "Text" tab and clicking on the "Add Text" option.
@@ -186,10 +186,6 @@ Catchy headlines will help you stand out from the competition and get your video
 By using text to voice feature, you can generate voice-over that will help you create a more professional video. To do this, go to the "Text" tab and click on the "Add Text" option. Then, type in your script. Once you have finished typing, click on the "Text-ti-Voice Over" button and select the desired language.
 
 ![convert script into voice facebook video](https://images.wondershare.com/filmora/article-images/2022/09/convert-script-into-voice-facebook-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step9Arrange your video clips
 
@@ -217,10 +213,6 @@ To export your video, click on the "Export" button at the top section. Select th
 
 ![export facebook ads video filmora](https://images.wondershare.com/filmora/article-images/2022/09/export-facebook-ads-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Recommended Export Quality
 
 * Format: MP4
@@ -247,10 +239,6 @@ Now that you know how to create a Facebook video ad, it's time to start creating
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use a Stabilization Tool in Filmora
 
@@ -302,10 +290,6 @@ If you are unsatisfied with the default setting, increasing the Smoothness Level
 
 ![adjust smothness level as byou like](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-5.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Should the cropping bother you, such as it crops the subject's hair out of the frame, you can adjust it with **Edge Processing**.
 
 If you change it to **None**, you will see the black bars that simulate how it stabilizes the clip. Try to hit play on the preview screen, and then you can see more clearly how the tool keeps the center of the frame to make it stable and less shaky.
@@ -338,6 +322,10 @@ Step3 After you import your video to Filmora, the Stabilization must have been o
 
 ![switch the stabilization toggle on](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Once it finishes analyzing, the smooth level will default to 10\. See the preview whether you like how it turns out.
 
 **Before**
@@ -365,6 +353,10 @@ As **Reflect** is the default, the **Extend** uses artificial intelligence to ex
 ![extend the pixels](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-7.jpg)
 
 Besides the three, there is also the **Tile** option. Each of them would give a different result. You can try and use the one that works best for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -400,10 +392,6 @@ To create a miniature look, we can use specific effects to fake a shallow depth 
 
 Are you all set to add miniature effects to your video and make film-like shots? Then scroll more and get the step-by-step process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Make a Miniature effect?
 
 You are excited to add a miniature effect, and enjoy the rest! Without any further delay, follow the below instructions and get results!
@@ -424,10 +412,6 @@ If you don't have good-quality footage, but want to boost your video, here is ho
 * Open Filmora and select any stock footage in Wondershare Filmora.
 
 ![choose stock footage from stock media in filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Move to the **stock media** folder on the above bar in the Wondershare Filmora. Or you can look towards the left window, where you will see the sample **videos tab.**
 
@@ -452,6 +436,10 @@ Want to get stock media? You can only have access to the stock media library if 
 As we are working on miniature effects, what do we need first? First, we ensure that we have a **Blur** effect on the video.
 
 ![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To add a blur effect from the panel, follow the below-mentioned steps:
 
@@ -547,7 +535,7 @@ You are excited now to see the final look of your miniature effect! Finally, it'
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
@@ -608,10 +596,6 @@ After selecting and downloading the blur effect, it's time to add it to the vide
 
 ![add effect on the video in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-6.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step5 Add the effect multiple times
 
 Want to get an ideal blur level? If you need more blur level in your video and make it more cinematic, then follow the below steps:
@@ -641,6 +625,10 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 * Set the mask on video according to your style and choice.
 
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -731,14 +719,14 @@ Once you've understood the histogram, look for pure black and white parts on the
 
 ![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
 
+After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
+
+![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
-
-![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
-
 Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
 
 **Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
@@ -748,6 +736,10 @@ Now adjust the **Shadows** settings to reduce the effect and make the roofs look
 Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
 
 ![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5 Preview and compare the video
 
@@ -803,6 +795,10 @@ I guess that was easy, right? Up to this juncture, you should be able to perform
 
 ![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Read and study the histogram
 
 Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
@@ -814,6 +810,10 @@ Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a h
 Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
 
 ![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
 
@@ -897,15 +897,22 @@ I guess that was easy, right? Up to this juncture, you should be able to perform
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] 2024 Approved Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-tips-for-turning-off-automatic-podcast-adds-on-spotify/"><u>[Updated] 2024 Approved Tips for Turning Off Automatic Podcast Adds on Spotify</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-filters-to-elevate-submerged-photography/"><u>[Updated] Prime Filters to Elevate Submerged Photography</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-100plus-best-tiktok-captions-enhance-your-content/"><u>2024 Approved 100+ Best TikTok Captions Enhance Your Content</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024deki-best-ucretsiz-videosatranma-programi-en-iyi-veri-guvenliginize-dair/"><u>2024'Deki Best Ücretsiz Videosatranma Programı - En Iyi Veri Güvenliğinize Dair</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-motorola-razr-40-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Motorola Razr 40 Through Google Earth?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/snaplink-collage-harmonize-photos-for-instagram/"><u>SnapLink Collage Harmonize Photos for Instagram</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-is-windows-movie-maker-still-available/"><u>Updated Is Windows Movie Maker Still Available?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-keyboard-shortcut-compendium-for-mac-screening/"><u>[New] In 2024, The Ultimate Keyboard Shortcut Compendium for Mac Screening</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-naming-wizards-the-best-ai-tools-for-podcast-titles-for-2024/"><u>[New] Naming Wizards The Best AI Tools for Podcast Titles for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-paper-trail-windows-1087-snapshot-techniques/"><u>[New] Paper Trail Windows 10/8/7 Snapshot Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transform-viewership-seo-for-the-newbie-on-youtube/"><u>[New] Transform Viewership SEO for the Newbie on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-lesser-known-aspects-for-the-instagram-story-viewer-for-2024/"><u>[Updated] Lesser-Known Aspects for the Instagram Story Viewer for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-chatgpt-interactions-five-proven-methods-for-writing-high-quality-prompts/"><u>Boost Your ChatGPT Interactions: Five Proven Methods for Writing High-Quality Prompts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-freeze-frame-sequence-in-video/"><u>In 2024, How to Create A Freeze Frame Sequence in Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-zoom-video-in-vlc-media-player/"><u>In 2024, How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-by-ste/"><u>In 2024, Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlock-the-full-potential-of-instagram-stories/"><u>In 2024, Unlock the Full Potential of Instagram Stories</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-using-luts-perfectly-in-final-cut-pro-for-2024/"><u>New Guide To Using Luts Perfectly in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-if-you-want-to-know-what-to-prepare-and-how-to-make-the-wedding-video-perfect-for-videographers-check-out-this-menu-here/"><u>New If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-gui/"><u>Updated How To Quickly Create A Screen Print Effect In Photoshop Detailed Gui</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/visit-the-official-nvidia-drivers-page-(httpswwwnvidiacomen-usdrivers)/"><u>Visit the Official NVIDIA Drivers Page (<https://www.nvidia.com/en-us/drivers/>)</u></a></li>
 </ul></div>
 

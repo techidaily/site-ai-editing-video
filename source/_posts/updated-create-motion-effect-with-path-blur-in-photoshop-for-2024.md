@@ -1,7 +1,7 @@
 ---
 title: Updated Create Motion Effect with Path Blur In Photoshop for 2024
-date: 2024-12-22T09:33:31.371Z
-updated: 2024-12-27T01:17:48.260Z
+date: 2024-12-29T19:22:15.909Z
+updated: 2025-01-05T19:28:20.261Z
 tags: 
   - ai
   - animation videos
@@ -26,10 +26,6 @@ Path blur works by adjusting two variables: Speed and Taper. By adjusting the sp
 ![what is path blur](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-1.jpg)
 
 This effect can instantly add new dimensions to your captured photo. For instance, if you have captured a photo of a racing car, you can add a path blur effect to give a sense of speed to it. You can easily find this special effect in Adobe Photoshop. By using the selection tools, you can effectively add a path blur effect to your image in the selected area. To know more about path blur in Photoshop, continue reading this article.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Use Path Blur in Photoshop?
 
@@ -61,6 +57,10 @@ Step3 After dragging the arrow in a particular direction, a blue dot will appear
 
 ![delete the blue dot](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Utilize the noise section to add a grainy effect in the blurred area. Once done, click on the "OK" button. Now select the masking tool to select the area in your picture. Afterward, choose the "Smart Mask" filter and then navigate to the "Fill" option given in the "Edit" section.
 
 ![select the fill option](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-7.jpg)
@@ -87,6 +87,10 @@ Many users find the interface of Adobe Photoshop intimidating or challenging to 
 
 It offers more than 900 effects that you can use to add new dimensions to your photos and videos. Moreover, it provides fast processing speed for photo and video editing to help you achieve your goals conveniently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Produce Motion Blur Effect in Filmora
 
 If you are a beginner and want to create a motion blur effect, then use the steps mentioned below:
@@ -127,6 +131,10 @@ After launching Filmora, select "Create New Project" and import the desired pict
 
 ![import the desired image](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Choose the Background Blur
 
 To split, choose the starting and ending point in the clip where you want to add the motion blur effect. Once done, go to the "Effects" tab and search for the "Background Blur" effect section. Pick and apply the desired blur filter to the split section of the video.
@@ -138,10 +146,6 @@ To split, choose the starting and ending point in the clip where you want to add
 Once you have added the motion blur effect, you can check the results from the preview window. You can also apply the "Dissolve" transition from the "Transitions" tab to generate a smooth result.
 
 ![access transitions tab](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -168,10 +172,6 @@ As more than 100 million individuals use Canva every month, it’s a well-truste
 
 ![canva featured image](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is Canva?
 
 To create and edit videos flawlessly, Canva offers great options. It contains pre-sized video formats for YouTube, Facebook, and other social media platforms. If you are a beginner and struggling with ideas, Canva offers various templates of different categories, such as fitness, education, fashion, and real estate. Apart from using the built-in media library, you have complete freedom to upload your media files to add further modifications.
@@ -179,10 +179,6 @@ To create and edit videos flawlessly, Canva offers great options. It contains pr
 ![canva editor interface](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-2.jpg)
 
 Furthermore, using Canva, you can also add exciting animations and transitions to your videos to generate a smooth look. You can also add multiple overlays to add more dimensions to your video clips. Also, you can use the **Canvas captions** feature to generate customized subtitles for your video files. To learn more about Canva, let’s shed light on its key features, advantages, and pricing plans:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of Canva
 
@@ -207,10 +203,6 @@ If you want to learn more about Canva's detailed plan, you can visit its [offici
 | --------------- | ------------------------ |
 | Canva Pro       | $54.99/Year for 1 Person |
 | Canva for Teams | $84.90/Year for 5 Person |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Add Captions to Videos in Canva?
 
@@ -266,6 +258,10 @@ Once you are done with all the subtitle edits, click on the “Export” button.
 
 ![export or share the filmora video](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Being a non-technical individual, adding subtitles may sound tricky. To provide you with complete assistance, this article has shed light on **how to add subtitles in Canva**. But, Canva has some limitations in generating subtitles. Hence, we recommend you try and explore Wondershare Filmora to craft subtitles. This tool comprises a Speech-to-Text feature through which you can produce subtitles automatically without hassle.
@@ -277,6 +273,10 @@ Do you want to know **how to add subtitles in Canva**? Adding subtitles in Canva
 Step1 Begin by visiting the [video editor tool page of Canva](https://www.canva.com/video-editor/) through any web browser. After accessing the tool page, click on "Edit a Video." This will open a new window on your screen.
 
 ![tap on edit a video](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Now, hit the "Upload Files" button from the left panel and import the video file on this tool. Once done, navigate to the "Text" tab and tap "Add a little bit of body text." Now adjust the position of the text box according to your desire. You can write your **Canva captions** by choosing your preferred font, color, size, and style.
 
@@ -312,10 +312,6 @@ Once done with uploading the file, drag the video file to the timeline. Click on
 
 ![customize speech to text options](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Add Modifications to Subtitles
 
 On your timeline, double-click on the auto-generated subtitles to open the edit settings. By going to the Presets section, you can select the subtitle styles. To add more modifications, you can head to the Custom tab as displayed on your screen. From here, you can change the font, style, color, and size of the subtitles. To confirm the subtitles edits, press the “OK” button.
@@ -337,6 +333,10 @@ Being a non-technical individual, adding subtitles may sound tricky. To provide 
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easy Way to Inset Text in Video
 
@@ -364,10 +364,6 @@ Text that you add to the video can also be used to enhance brand awareness and v
 
 When done correctly, titles and texts in videos can turn a bland ordinary-looking video into an aesthetically pleasing art piece that your audience will only be too happy to engage with. The more appealing your video is, the greater the chance that your target audience will be willing to engage with your brand and click on your calls to action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Insert Title to Video
 
 Adding text and titles to any video can be made easier by the software you choose to use. One of the best tools to edit any aspect of any video is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora is a great choice because it makes adding text and titles that match your video’s content very easy. It is therefore an ideal tool to choose if you want to add titles that will enhance your brand’s visibility.
@@ -385,7 +381,7 @@ Step2 To add a title to the video, click on the “Titles” tab at the top and 
 ![add a title to video](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are happy with the title that you have selected, drag and drop it onto the timeline or right-click on it and select “Apply.”
@@ -470,6 +466,10 @@ Step4 To add end credits to the video, simply select “End Credit” under “T
 
 You can then click on the titles, end credits, and openers to edit the text by changing the color and fonts to match your brand.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Improve Title Effects in Video
 
 Simply adding a title or text to the video will not do much to improve the quality of the video. You need to add effects that will not only make the videos more appealing but will also correspond with your brand colors.
@@ -495,7 +495,7 @@ To customize the text that you added to the video, double-click on it in the tim
 ![apply text animation](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are happy with the animation and would like to include it in your project, click on “OK” to use it.
@@ -506,13 +506,13 @@ If you would like to go just a little bit further in editing your text, click on
 
 ![further edit text](https://images.wondershare.com/filmora/guide/text-animation-win-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here, you will see more options including the ability to add more elements such as adding new text boxed shapes or images.
 
 With each of these elements, you can also change the font color, animation, opacity, border, fill and shadow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related FAQs about Text Video Editing
 
@@ -640,16 +640,19 @@ Beginning to experiment with all of Final Cut Pro X's functions and determining 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-best-cameras-for-vlogging/"><u>[New] 2024 Approved Best Cameras for Vlogging</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-insiders-guide-to-premium-camera-lenses-in-4k/"><u>[Updated] In 2024, The Insider's Guide to Premium Camera Lenses in 4K</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/1-mastering-the-art-of-windows-registry-maintenance-essential-tips-from-yl-computing/"><u>1. Mastering the Art of Window's Registry Maintenance: Essential Tips From YL Computing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-fisheye-photography-for-full-spheres/"><u>2024 Approved Mastering Fisheye Photography for Full Spheres</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-dollar-store-diy-hacks-to-use-for-filmmaking/"><u>New Dollar-Store DIY Hacks to Use for Filmmaking</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-what-is-the-best-fps-for-youtube-videos/"><u>New In 2024, What Is the Best FPS for YouTube Videos?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-feather-shapes-in-after-effects-and-add-a-professional-touch-to-your-designs-this-comprehensive-guide-covers-everything-from-the-basics-to-/"><u>New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike</u></a></li>
-<li><a href="https://win-help.techidaily.com/quick-solutions-overcoming-the-cant-access-onedrive-files-issue/"><u>Quick Solutions: Overcoming the 'Can't Access OneDrive Files' Issue</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-c33-2023-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme C33 2023 FRP</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-subtitles/"><u>Updated Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-speed-ramping-to-create-an-intense-action-footage-for-2024/"><u>Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-premium-solutions-for-remote-team-interaction/"><u>[New] Premium Solutions for Remote Team Interaction</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/etro-editing-magic-cutting-classical-cinematography/"><u>[New] Retro Editing Magic Cutting Classical Cinematography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outubes-premier-gatherings-top-events-beyond-vidcon/"><u>[New] Youtube's Premier Gatherings Top Events Beyond VidCon</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-reinforcing-silence-in-obs-recordings/"><u>[Updated] In 2024, Reinforcing Silence in OBS Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-pros-and-cons-of-tiktok-and-youtube-shorts-for-personal-usage-for-2024/"><u>[Updated] The Pros & Cons of TikTok and YouTube Shorts for Personal Usage for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-adjust-the-tiktok-videos-length-to-make-them-captivating/"><u>2024 Approved Adjust the TikTok Videos Length to Make Them Captivating</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-free-luts-to-use-in-shotcut/"><u>Best Free LUTs To Use in Shotcut</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-chatgpt-copilot-unveiling-its-functions-and-capabilities/"><u>Discovering ChatGPT Copilot: Unveiling Its Functions & Capabilities</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-quickly-save-your-screen-in-windows-systems/"><u>In 2024, Quickly Save Your Screen in Windows Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-complete-guide-to-make-a-super-easy-rotating-video-effect/"><u>New 2024 Approved Complete Guide to Make a Super Easy Rotating Video Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-add-vhs-effects-to-videos-for-free-a-2024-guide/"><u>New Add VHS Effects to Videos for Free A 2024 Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ten-proven-methods-for-correcting-phantom-inputs-on-iphones/"><u>Ten Proven Methods for Correcting Phantom Inputs on iPhones</u></a></li>
 </ul></div>
 

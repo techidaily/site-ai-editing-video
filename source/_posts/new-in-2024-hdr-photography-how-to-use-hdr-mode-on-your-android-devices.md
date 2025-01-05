@@ -1,7 +1,7 @@
 ---
 title: New In 2024, HDR Photography How to Use HDR Mode on Your Android Devices
-date: 2024-12-23T18:07:12.593Z
-updated: 2024-12-27T07:30:41.988Z
+date: 2024-12-31T17:16:09.029Z
+updated: 2025-01-05T19:36:56.210Z
 tags: 
   - ai
   - animation videos
@@ -62,10 +62,6 @@ Step3 Once the feature is enabled, you simply need to capture images like you wo
 The rest will be taken care and your **HDR shot** image will be captured.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** ensure to hold your phone with stable hands while capturing the image or you can even use a tripod. In Samsung devices, two images will be captured- one with normal exposure and the other one with HDR (image name having HDR word). You can choose the one as required.
 
@@ -233,6 +229,10 @@ Step 1: Open the Vimeo video on your web browser. Click on Share icon present in
 
 ![share vimeo browser](https://images.wondershare.com/filmora/article-images/click-share-vimeo-on-browser.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: You will get to see several options, and you need to click on "Get Embed Code" option.
 
 ![get embed code vimeo](https://images.wondershare.com/filmora/article-images/get-embed-code-on-vimeo.jpg)
@@ -246,6 +246,10 @@ Step 4: From the expanded section, go to Special Stuff section. Turn on "Loop th
 ![loop embed video on vimeo](https://images.wondershare.com/filmora/article-images/loop-embed-video-on-vimeo.jpg)
 
 Step 5: Thereafter, copy the code and paste it into your website to play the video in a loop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. How to Loop a Vimeo Video on Mobile
 
@@ -281,6 +285,10 @@ Step 2: Drag and drop the downloaded video file into the Project Media folder on
 
 ![drag vimeo video filmora timeline](https://images.wondershare.com/filmora/article-images/drag-vimeo-video-filmora-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips and they are on the same channel for looping. Alternative, you can copy and paste the video clip multiple times for looping.
 
 ![loop video in filmora](https://images.wondershare.com/filmora/article-images/copy-video-clips-to-loop-filmora.jpg)
@@ -305,16 +313,12 @@ Step 1: Download and install Wondershare Filmora. Download the desired Vimeo vid
 
 ![filmora startup window](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Drag and drop the downloaded video file into the Project Media folder on Filmora. Thereafter, bring the video file from Project Media folder into the timeline.
 
 ![drag vimeo video filmora timeline](https://images.wondershare.com/filmora/article-images/drag-vimeo-video-filmora-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips and they are on the same channel for looping. Alternative, you can copy and paste the video clip multiple times for looping.
@@ -330,10 +334,6 @@ Step 4: You can play the video and watch it in loop. Finally, click on the Expor
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -363,10 +363,6 @@ Step2Click on Choose File button to upload your video from your hard drive. You 
 
 ![video filter clideo](https://images.wondershare.com/filmora/article-images/2022/08/video-filter-clideo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3After successful uploading, you will see the video filters on the right side of your video. Apply them one and one while playing your video so that you can see the changes in video color scheme instantly.
 
 ![apply filter to video clideo](https://images.wondershare.com/filmora/article-images/2022/08/apply-filter-to-video-clideo.jpg)
@@ -374,10 +370,6 @@ Step3After successful uploading, you will see the video filters on the right sid
 Step4Finalize a video filter to apply to your video and click on Export to save the modified video on your hard drive on any desired file format.
 
 ![export filter video clideo](https://images.wondershare.com/filmora/article-images/2022/08/export-filter-video-clideo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 2\. [Veed.io Video Filters](https://www.veed.io/tools/video-filters)
 
@@ -394,10 +386,6 @@ Step2On the next screen, click on Browser or drag and drop your video file for a
 Step3After the video file gets uploaded, you will see Filters on the left side of the video. There are two different tabs – Color Grading and Effects available where there are different video filters available to apply to your video.
 
 ![color grading effects veedio](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-effects-veedio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4Click on the filters to see how they look on your video instantly. Once you have selected a filter for the video, click on Export button to save the edited video in desired file format.
 
@@ -417,9 +405,17 @@ Step3Once the video editor opens, click on Create a Video button.
 
 ![create a video clipchamp](https://images.wondershare.com/filmora/article-images/2022/08/create-a-video-clipchamp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4Drag and drop your video on the video editor and thereafter on Timeline.
 
 ![drag video to timeline clipchamp](https://images.wondershare.com/filmora/article-images/2022/08/drag-video-to-timeline-clipchamp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5Click on Filters option located at the top and you will see a drop-down containing all the filters. Place your mouse pointer on the filters one by one to see how they look on your video instantly.
 
@@ -561,6 +557,10 @@ Once we've corrected the color, it is time to move to the next and primary step-
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. What Is Color Grading?
 
 After you set all the tones to the baseline, you can start with the creative process of color grading. In this case, you do not change the colors anymore. Instead, you make artistic choices to change the moods and emotions of that particular sequence. Color grading is about manipulating the colors and contrasts that intensify the visual tone and explain your story to the world.
@@ -625,6 +625,10 @@ Choosing good software can be chaos. There are plenty of options in the market w
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5\. How To Color Correct and Color Grade A Video With Wondershare Filmora?
 
 To color-correct and color-grade a video, we recommend using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), one of the finest video editing apps on the market. Equipped with various tools, Filmora allows professional color correction with a few quick steps.
@@ -648,10 +652,6 @@ Drag and drop the video to the timeline from the **Projects** menu. Then, follow
 * Double-click on the video to open the editing panel. Four options are available: Video, Audio, Color, and Speed. Open the color tab.
 
 ![video editing tools](https://images.wondershare.com/filmora/article-images/2023/04/open-color-tab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * From the **Basics** menu, adjust the Exposure, Light Color, Contrast, White Balance, and Vibrance. Then, move the slider or add a LUT value to apply.
 
@@ -732,6 +732,10 @@ If your footage is the cake, color grading is the cherry on top that enhances th
 
 However, while color correcting and grading, there are a few things that you should take care of. Here is a list of some To-do's and Not To-do's in the post-production edit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. Things To Consider About the Editing Environment
 
 Before you begin color-grading or color-correcting, here are some essential things to consider that can dramatically improve the results.
@@ -787,7 +791,7 @@ Drag and drop the video to the timeline from the **Projects** menu. Then, follow
 ![video editing tools](https://images.wondershare.com/filmora/article-images/2023/04/open-color-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * From the **Basics** menu, adjust the Exposure, Light Color, Contrast, White Balance, and Vibrance. Then, move the slider or add a LUT value to apply.
@@ -825,10 +829,6 @@ Once you finish the final touches, save your footage to a local folder.
 
 ![exporting the video](https://images.wondershare.com/filmora/article-images/2023/04/exporting-the-color-correction-video-in-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Hopefully, this post has given you a good understanding of the differences between color grading and color correction. But ultimately, it is all about your thought process and intuitions.
@@ -851,22 +851,17 @@ Filmora's extensive collection of color editing tools makes color correction and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-choose-wisely-the-best-10-mac-video-capture-software-reviewed/"><u>[New] 2024 Approved Choose Wisely The Best 10 Mac Video Capture Software Reviewed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-identifying-optimal-frame-rate-in-slow-motion-film-production/"><u>[Updated] 2024 Approved Identifying Optimal Frame Rate in Slow Motion Film Production</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-simplifying-the-process-of-creating-time-lapses-with-gopro/"><u>2024 Approved Simplifying the Process of Creating Time Lapses with GoPro</u></a></li>
-<li><a href="https://fox-http.techidaily.com/distinguishing-designs-effective-podcast-brand-identity-for-2024/"><u>Distinguishing Designs Effective Podcast Brand Identity for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enlightened-efforts-applewatch-unlocks-macgizmo/"><u>Enlightened Efforts AppleWatch Unlocks MacGizmo</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-record-video-streams-with-ffmpeg-on-windows-and-mac/"><u>How to Record Video Streams With FFmpeg on Windows and Mac?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-12-pro-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone 12 Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>In 2024, Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-7-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 7 In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-comment-on-youtube-live-chat/"><u>New In 2024, How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-lenovo-thinkpad-x1-titanium-yoga-exposed-why-this-top-of-the-line-2-in-1-is-a-must-have-for-die-hard-thinkpad-fans/"><u>The Lenovo ThinkPad X1 Titanium Yoga Exposed: Why This Top-of-the-Line 2-in-1 Is a Must-Have for Die-Hard ThinkPad Fans</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated 2024 Approved Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-create-motion-effect-with-path-blur-in-photoshop-for-2024/"><u>Updated Create Motion Effect with Path Blur In Photoshop for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated In 2024, 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-create-the-night-to-day-effect-videos/"><u>Updated In 2024, Create the Night-to-Day Effect Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-take-your-video-editing-to-the-next-level-with-video-scopes/"><u>Updated Take Your Video Editing to the Next Level with Video Scopes</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-lava-blaze-2-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Lava Blaze 2 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-maximize-style-with-premium-border-options-for-ig-posts-for-2024/"><u>[New] Maximize Style with Premium Border Options for IG Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-android-video-editor-app-roundup/"><u>[New] The Ultimate Android Video Editor App Roundup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fresh-topics-to-cover-in-your-vlogs-for-2024/"><u>[Updated] Fresh Topics to Cover in Your Vlogs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-keyframe-kinetics-collections/"><u>[Updated] In 2024, Keyframe Kinetics Collections</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-slow-motion-videos-using-final-cut-pro-with-ease/"><u>2024 Approved Create Slow Motion Videos Using Final Cut Pro with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-locate-the-latest-energy-efficient-enhancements-in-google-chrome-a-step-by-step-guide-techinsight/"><u>How To Locate The Latest Energy-Efficient Enhancements In Google Chrome: A Step-By-Step Guide | TechInsight</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/maximizing-igtv-impact-effective-tips-for-vertical-video-conversion-for-2024/"><u>Maximizing IGTV Impact Effective Tips for Vertical Video Conversion for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-testimonial-videos-for-health-and-wellness-business-industry-for-2024/"><u>New Creating Testimonial Videos For Health And Wellness Business Industry for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-consumer-trends-revealed-the-rise-of-mobile-shopping-platforms-according-to-zdnet-analysis/"><u>Online Consumer Trends Revealed: The Rise of Mobile Shopping Platforms According to ZDNet Analysis</u></a></li>
+<li><a href="https://win-special.techidaily.com/sketchup-dateivorwiederholung-erlernen-eine-umfassende-anleitung/"><u>SketchUp Dateivorwiederholung Erlernen - Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-achieving-gopro-slow-motion-with-quality-an-in-depth-overview/"><u>Updated 2024 Approved Achieving GoPro Slow Motion with Quality An In-Depth Overview</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-blender-a-video-editor-for-all-professor/"><u>Updated In 2024, Blender - A Video Editor for All Professor</u></a></li>
 </ul></div>
 

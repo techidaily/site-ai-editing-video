@@ -1,7 +1,7 @@
 ---
 title: New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out
-date: 2024-12-22T21:40:04.843Z
-updated: 2024-12-26T20:36:20.470Z
+date: 2024-12-30T16:16:55.435Z
+updated: 2025-01-05T20:49:08.963Z
 tags: 
   - ai
   - animation videos
@@ -38,10 +38,6 @@ First, get the daytime shot. For this tutorial, we will pretend that you are wal
 
 ![get the daytime shot](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-1.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, let's film the nighttime clip. You will walk through the living room and do the same movement again at the same spot. You can dim the light and change the camera's white balance settings to bluer to create a night feeling.
 
 ![film the nighttime clip](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-2.gif)
@@ -70,9 +66,17 @@ Step1 Double-click the daytime clip on the timeline. In the Filmora setting, fin
 
 ![double-click the daytime clip](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Scroll down the setting and click add a keyframe at the beginning of the clip.
 
 ![scroll down the setting](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Change the scale of the mask to the smallest number and adjust the Width and Height down to 0\. You can set the blur strength to 15 to make the transition edge smoother.
 
@@ -145,10 +149,6 @@ Color grading, unlike color correction, adjusts the shot's color to modify the a
 
 Always color correct your footage before utilizing any LUTS, which entails changing the White-balance, Highlights, Contrast, and Shadows. Do not apply the LUTS to your footage directly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use LUTs in Lumafusion?
 
 Videographers, colorists, and editors use LUTs because they are efficient. Rather than starting from zero every time you work on a video editing project, you may speed up the color grading process using a LUT with predefined color profiles. It's elementary to import LUTs. Simply import the preset files into LumaFusion and add the preset to your footage like an Instagram filter.
@@ -172,10 +172,6 @@ LUTs must be loaded via the LumaFX clip editor at the moment. Follow the steps b
 
 ![lumafusion Lut - Load LumaFX LUTs](https://images.wondershare.com/filmora/article-images/2022/05/lumafusion-luts-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Load LumaFX LUTs
 
 1. Once hit, it will display your transfer site options; select your desired transfer site and navigate to the folder where your LUTs are stored.
@@ -184,7 +180,7 @@ Load LumaFX LUTs
 ![lumafusion Lut - Import LUTs](https://images.wondershare.com/filmora/article-images/2022/05/lumafusion-luts-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Import LUTs
@@ -203,10 +199,6 @@ Melara developed this video to demonstrate his free LUTs in action. The colors a
 
 Jaun Melara free LUTs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Small Hd free LUTs
 
 SmallHD, a company that makes small, full HD on-camera monitors, is giving away a free set of color grades that reproduce the appearance of seven classic movies. The company is also releasing a series of video lessons that show how to get the most out of these effects throughout production and post-production. Everything is completely free. The color grades are provided as a.zip file and are in the form of 3D LUT files created in DaVinci Resolve. If you're unfamiliar with SmallHD, the company offers free LUTs for on-set monitoring in real-time. This free set of Movie Look LUTs is inspired by seven recent films, including Apocalypse Now's warmth and The Matrix's green overtones. Take use of SmallHD's free LUT set if you want to give your footage a dramatic and cinematic vibe.
@@ -215,15 +207,15 @@ SmallHD, a company that makes small, full HD on-camera monitors, is giving away 
 
 Small Hd free LUTs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Color Grading Central free LUTs
 
 Color Grading Central is essential knowledge for any aspiring colorist or video editor who takes color seriously. CGC is a company that specializes in color grading. Their website has a wide range of outstanding color-related products, from grain to LUTs. They also provide their email members with a wealth of free color grading information. Free trials of some LUTs are also available, so you may try them out before you buy. They're giving away an array of color presets, grains, and burns exclusively to their email list and the seven free color LUTs. We strongly recommend them if you want to give your footage a shot-on-film look.
 
 ![lumafusion Lut - Color Grading Central free LUTs](https://images.wondershare.com/filmora/article-images/2022/05/lumafusion-luts-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Color Grading Central free LUTs
 
@@ -240,6 +232,10 @@ PremiumBeat Free LUTs
 Despite having access to the most advanced filming gear, there's something about a vintage film aesthetic that looks fantastic. Frank Glencairn has made a nice K-Tone LUT that is meant to look like vintage Kodachrome film. This film grade, which was formerly popular among photographers and filmmakers, has fallen out of favor due to the rise of digital cameras. With this free LUT, you can get the appearance of retro-looking reds, blues, and yellows.
 
 ![lumafusion Lut - Frank Glencairn free LUT](https://images.wondershare.com/filmora/article-images/2022/05/lumafusion-luts-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Frank Glencairn free LUT
 
@@ -305,180 +301,8 @@ Drag the Audio into the Timeline. Then, Drag your Video clip to Track 1 on the T
 
 ![drag clips to timeline](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
 
-Step 4
-
-Double-click on the Video clip, go to the **Speed** tab, and change the **Speed** value to “**0.50”.** Click on **OK.**
-
-![adjust clip speed](https://images.wondershare.com/filmora/article-images/2023/01/speed.png)
-
-Step 5
-
-Next, place the Playhead one frame before the first spike (beat) on the Audio clip. Here, split the Video clip. Click on the Video from the right, go to **Speed** and change it to “**8”.**
-
-![split video](https://images.wondershare.com/filmora/article-images/2023/01/split.png)
-
-Step 6
-
-Move the Playhead three frames forward → **Split** the video → click on the clip from the right → go to **Speed** → change it back to “**0.50”.** Do this same process as in **Steps 5 and 6** to every Audio spike (beat) you see on the audio clip.
-
-Step 7
-
-That’s it! Render the video and you can watch the final preview. Congratulations on creating a TikTok velocity dance effect in Filmora.
-
-![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
-
-Summary
-
-**What you've learned:**
-
-* How to create a unique velocity dance effect in Filmora
-* How to edit video based on unique audio clips
-* Edit the speed settings of a video clip in Filmora
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-First, download the [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/). Run it and click on “**New Project**”.
-
-Step 2
-
-Import the video and audio you want to use for your edit.
-
-![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
-
-Step 3
-
-Drag the Audio into the Timeline. Then, Drag your Video clip to Track 1 on the Timeline.
-
-![drag clips to timeline](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
-
-Step 4
-
-Double-click on the Video clip, go to the **Speed** tab, and change the **Speed** value to “**0.50”.** Click on **OK.**
-
-![adjust clip speed](https://images.wondershare.com/filmora/article-images/2023/01/speed.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 5
-
-Next, place the Playhead one frame before the first spike (beat) on the Audio clip. Here, split the Video clip. Click on the Video from the right, go to **Speed** and change it to “**8”.**
-
-![split video](https://images.wondershare.com/filmora/article-images/2023/01/split.png)
-
-Step 6
-
-Move the Playhead three frames forward → **Split** the video → click on the clip from the right → go to **Speed** → change it back to “**0.50”.** Do this same process as in **Steps 5 and 6** to every Audio spike (beat) you see on the audio clip.
-
-Step 7
-
-That’s it! Render the video and you can watch the final preview. Congratulations on creating a TikTok velocity dance effect in Filmora.
-
-![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
-
-Summary
-
-**What you've learned:**
-
-* How to create a unique velocity dance effect in Filmora
-* How to edit video based on unique audio clips
-* Edit the speed settings of a video clip in Filmora
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-First, download the [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/). Run it and click on “**New Project**”.
-
-Step 2
-
-Import the video and audio you want to use for your edit.
-
-![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
-
-Step 3
-
-Drag the Audio into the Timeline. Then, Drag your Video clip to Track 1 on the Timeline.
-
-![drag clips to timeline](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
-
-Step 4
-
-Double-click on the Video clip, go to the **Speed** tab, and change the **Speed** value to “**0.50”.** Click on **OK.**
-
-![adjust clip speed](https://images.wondershare.com/filmora/article-images/2023/01/speed.png)
-
-Step 5
-
-Next, place the Playhead one frame before the first spike (beat) on the Audio clip. Here, split the Video clip. Click on the Video from the right, go to **Speed** and change it to “**8”.**
-
-![split video](https://images.wondershare.com/filmora/article-images/2023/01/split.png)
-
-Step 6
-
-Move the Playhead three frames forward → **Split** the video → click on the clip from the right → go to **Speed** → change it back to “**0.50”.** Do this same process as in **Steps 5 and 6** to every Audio spike (beat) you see on the audio clip.
-
-Step 7
-
-That’s it! Render the video and you can watch the final preview. Congratulations on creating a TikTok velocity dance effect in Filmora.
-
-![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
-
-Summary
-
-**What you've learned:**
-
-* How to create a unique velocity dance effect in Filmora
-* How to edit video based on unique audio clips
-* Edit the speed settings of a video clip in Filmora
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-First, download the [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/). Run it and click on “**New Project**”.
-
-Step 2
-
-Import the video and audio you want to use for your edit.
-
-![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
-
-Step 3
-
-Drag the Audio into the Timeline. Then, Drag your Video clip to Track 1 on the Timeline.
-
-![drag clips to timeline](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4
@@ -502,6 +326,186 @@ Step 7
 That’s it! Render the video and you can watch the final preview. Congratulations on creating a TikTok velocity dance effect in Filmora.
 
 ![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+Summary
+
+**What you've learned:**
+
+* How to create a unique velocity dance effect in Filmora
+* How to edit video based on unique audio clips
+* Edit the speed settings of a video clip in Filmora
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+First, download the [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/). Run it and click on “**New Project**”.
+
+Step 2
+
+Import the video and audio you want to use for your edit.
+
+![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
+
+Step 3
+
+Drag the Audio into the Timeline. Then, Drag your Video clip to Track 1 on the Timeline.
+
+![drag clips to timeline](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
+
+Step 4
+
+Double-click on the Video clip, go to the **Speed** tab, and change the **Speed** value to “**0.50”.** Click on **OK.**
+
+![adjust clip speed](https://images.wondershare.com/filmora/article-images/2023/01/speed.png)
+
+Step 5
+
+Next, place the Playhead one frame before the first spike (beat) on the Audio clip. Here, split the Video clip. Click on the Video from the right, go to **Speed** and change it to “**8”.**
+
+![split video](https://images.wondershare.com/filmora/article-images/2023/01/split.png)
+
+Step 6
+
+Move the Playhead three frames forward → **Split** the video → click on the clip from the right → go to **Speed** → change it back to “**0.50”.** Do this same process as in **Steps 5 and 6** to every Audio spike (beat) you see on the audio clip.
+
+Step 7
+
+That’s it! Render the video and you can watch the final preview. Congratulations on creating a TikTok velocity dance effect in Filmora.
+
+![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Summary
+
+**What you've learned:**
+
+* How to create a unique velocity dance effect in Filmora
+* How to edit video based on unique audio clips
+* Edit the speed settings of a video clip in Filmora
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+First, download the [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/). Run it and click on “**New Project**”.
+
+Step 2
+
+Import the video and audio you want to use for your edit.
+
+![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
+
+Step 3
+
+Drag the Audio into the Timeline. Then, Drag your Video clip to Track 1 on the Timeline.
+
+![drag clips to timeline](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
+
+Step 4
+
+Double-click on the Video clip, go to the **Speed** tab, and change the **Speed** value to “**0.50”.** Click on **OK.**
+
+![adjust clip speed](https://images.wondershare.com/filmora/article-images/2023/01/speed.png)
+
+Step 5
+
+Next, place the Playhead one frame before the first spike (beat) on the Audio clip. Here, split the Video clip. Click on the Video from the right, go to **Speed** and change it to “**8”.**
+
+![split video](https://images.wondershare.com/filmora/article-images/2023/01/split.png)
+
+Step 6
+
+Move the Playhead three frames forward → **Split** the video → click on the clip from the right → go to **Speed** → change it back to “**0.50”.** Do this same process as in **Steps 5 and 6** to every Audio spike (beat) you see on the audio clip.
+
+Step 7
+
+That’s it! Render the video and you can watch the final preview. Congratulations on creating a TikTok velocity dance effect in Filmora.
+
+![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+Summary
+
+**What you've learned:**
+
+* How to create a unique velocity dance effect in Filmora
+* How to edit video based on unique audio clips
+* Edit the speed settings of a video clip in Filmora
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+First, download the [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/). Run it and click on “**New Project**”.
+
+Step 2
+
+Import the video and audio you want to use for your edit.
+
+![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 3
+
+Drag the Audio into the Timeline. Then, Drag your Video clip to Track 1 on the Timeline.
+
+![drag clips to timeline](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
+
+Step 4
+
+Double-click on the Video clip, go to the **Speed** tab, and change the **Speed** value to “**0.50”.** Click on **OK.**
+
+![adjust clip speed](https://images.wondershare.com/filmora/article-images/2023/01/speed.png)
+
+Step 5
+
+Next, place the Playhead one frame before the first spike (beat) on the Audio clip. Here, split the Video clip. Click on the Video from the right, go to **Speed** and change it to “**8”.**
+
+![split video](https://images.wondershare.com/filmora/article-images/2023/01/split.png)
+
+Step 6
+
+Move the Playhead three frames forward → **Split** the video → click on the clip from the right → go to **Speed** → change it back to “**0.50”.** Do this same process as in **Steps 5 and 6** to every Audio spike (beat) you see on the audio clip.
+
+Step 7
+
+That’s it! Render the video and you can watch the final preview. Congratulations on creating a TikTok velocity dance effect in Filmora.
+
+![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Summary
 
@@ -518,10 +522,6 @@ Summary
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Custom Filters in VN App: 2024 Quick Guide
 
@@ -634,6 +634,10 @@ Here comes the cool part! To get new custom filters:
 
 After importing your snazzy new filter, the next step is super easy. Simply apply it to your video, and if you love how it looks, save it as a preset. This way, the next time you're editing, you can head straight to **"My Filters**," find your favorite custom filter and slap it onto your video without a hitch. Talk about convenience!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Best Alternatives
 
 Though VN offers many fantastic filter options, it's always nice to have alternatives, right? Meet Filmora, another stellar video editing tool known for its expansive video filter collection.
@@ -648,10 +652,6 @@ Filmora is more than just an editor; it's a canvas for videographers. One of its
 4. Like VN, Filmora allows you to tweak the filter settings for that perfect look.
 
 While Filmora is a great tool, the best fit depends on personal preferences and specific project needs. However, it's always good to have choices in your editing toolkit. Variety is, after all, the spice of life (and video editing)!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Summary
 
@@ -675,24 +675,18 @@ Remember, whether you're a seasoned videographer or someone just starting, there
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-innovative-tactics-to-amplify-game-vids-via-hashtags/"><u>[Updated] 2024 Approved Innovative Tactics to Amplify Game Vids via Hashtags</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streamlining-your-iphone-memo-experience/"><u>[Updated] 2024 Approved Streamlining Your iPhone Memo Experience</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-strategies-for-indefinitely-removing-a-tiktok-profile/"><u>[Updated] In 2024, Strategies for Indefinitely Removing a TikTok Profile</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-to-environmentally-safe-tech-for-2024/"><u>[Updated] Ultimate Guide to Environmentally Safe Tech for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-to-use-montage-with-these-movies/"><u>2024 Approved Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-sluggish-shutdown-problem-on-windows-11/"><u>Fixing the Sluggish Shutdown Problem on Windows 11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/free-banner-templates-for-youtube-downloads-and-makers/"><u>Free Banner Templates for YouTube Downloads & Makers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-can-i-control-speed-of-a-video/"><u>How Can I Control Speed of a Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-quiz-videos-detailed-guide-for-2024/"><u>How To Create Quiz Videos Detailed Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-detail-with-videoleaps-in-camera-zooming/"><u>In 2024, Boosting Detail with VideoLeap's In-Camera Zooming</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-vacation-slideshow-in-5-minutes/"><u>In 2024, How to Create a Vacation Slideshow in 5 Minutes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-simplify-your-workflow-top-timecode-conversion-tools-for-video-pros/"><u>In 2024, Simplify Your Workflow Top Timecode Conversion Tools for Video Pros</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/introduction-to-professional-audio-recording-a-mac-and-audacity-approach-for-2024/"><u>Introduction to Professional Audio Recording A Mac & Audacity Approach for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>New In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-text-reveal-animation-easy-masking-filmora/"><u>New TEXT REVEAL Animation | Easy Masking Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/step-by-step-to-split-a-clip-in-vlc-for-2024/"><u>Step by Step to Split a Clip in VLC for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/virtual-venue-vetting-picking-obs-or-twitch-for-2024/"><u>Virtual Venue Vetting Picking OBS or Twitch for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-optimal-obs-configurations-on-budget-computers/"><u>[New] 2024 Approved Optimal OBS Configurations on Budget Computers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-affordable-yet-high-quality-cameras-list/"><u>[New] Affordable Yet High-Quality Cameras List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-ideal-tools-for-group-online-communication/"><u>[New] In 2024, Ideal Tools for Group Online Communication</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-chromebooks-free-screen-capture-leaders-reviewed-for-2024/"><u>[Updated] Chromebook's Free Screen Capture Leaders Reviewed for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-crafting-to-screen-sharing-comprehensive-windows-pc-manual-for-tv-recording/"><u>2024 Approved From Crafting to Screen-Sharing Comprehensive Windows PC Manual for TV Recording</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-productivity-horizons-easily-connect-two-displays-with-your-new-m3-macbook-pro-just-like-the-air-model-tech-tips-today/"><u>Expand Your Productivity Horizons: Easily Connect Two Displays with Your New M3 MacBook Pro, Just Like the Air Model | Tech Tips Today</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/get-your-free-recovery-tool-today-restore-deleted-formatted-files-using-iso-tech/"><u>Get Your Free Recovery Tool Today: Restore Deleted, Formatted Files Using ISO Tech</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/old-masters-legacy-images-without-limits-for-2024/"><u>Old Masters' Legacy Images Without Limits for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/soundscape-archives-collect-and-evaluate-recordings/"><u>Soundscape Archives Collect & Evaluate Recordings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
 </ul></div>
 

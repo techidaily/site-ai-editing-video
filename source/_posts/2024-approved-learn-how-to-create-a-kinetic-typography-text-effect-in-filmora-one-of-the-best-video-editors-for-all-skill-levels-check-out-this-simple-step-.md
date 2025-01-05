@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide
-date: 2024-12-10T18:47:13.044Z
-updated: 2024-12-12T06:21:29.739Z
+date: 2025-01-03T16:30:18.377Z
+updated: 2025-01-05T17:21:47.523Z
 tags: 
   - ai
   - animation videos
@@ -350,6 +350,10 @@ Summary
      data-ad-slot="1223367746"></ins>
 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is HDRI? Everything You Need to Know About HDRI
 
 Photography is like art itself. Photographers must carefully select the setting and use the right camera to capture images with lossless quality. However, you'll realize that some photos appear darker or brighter than in actual life.
@@ -392,7 +396,7 @@ Now that you have all the information about HDRI, let's learn about some industr
 **HDRI 3D** is commonplace these days. 3D animation creators can use programs like **HDRI Blender** to add HDR environments and make the content look detailed and more realistic in high lighting reflections. To put it simply, HDRI makes 3D scenes look lighter, less cartoonish, and more professional. This technology can also be used in interior visualizations in animations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. HDRI for architect rendering
@@ -402,6 +406,10 @@ Creating HDRI environments is a common practice in 3D architectural designs. For
 ### 3\. HDRI monitors and TVs
 
 You've probably heard of **HDRI 4K** when shopping for a smart TV or computer monitor. These TVs offer a lot more than just a wide color gamut, high brightness, and advanced contrast ratio. In addition, HDR TVs and monitors can recognize HDR signals, allowing viewers to watch the content with all studio quality. In short, viewers can see more color details in shadowy and lighter scenes, making them perfect for avid gamers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How do you open an HDRI?
 
@@ -443,10 +451,6 @@ However, some photo editors argue that there is a difference between these two r
 
 Some photographers can also consider HDR as images with pixel values higher than 1 or 255\. That means that the pixels can be much higher than pure white. But technically speaking, HDR and HDRI can be used interchangeably.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: When to use HDRI
 
 Now that you have all the information about HDRI, let's learn about some industries where HDRI is applicable.
@@ -479,10 +483,6 @@ Step2Next, split the window into two and launch the Shader Editor tool. Then, op
 
 ![free hdri for blender open shader editor](https://images.wondershare.com/filmora/article-images/2022/08/free-hdri-blender-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3On the Environment Texture, tap Open Image before opening the 3.2 folder inside the Blender Foundation folder. Then, click Data files > Studiolights > Word. Now open a .exr file. For example, open the Interior.exr image.
 
 ![free hdri for blender open exr file](https://images.wondershare.com/filmora/article-images/2022/08/free-hdri-blender-3.jpg)
@@ -505,10 +505,6 @@ Using the environment maps is the simplest and most effective way to lighten up 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways to Loop a Video on Vimeo
 
 Vimeo is a popular video streaming platform where you can watch videos all day. Vimeo is a close competitor of YouTube. If you are a regular viewer on Vimeo, you may want to watch a video in a loop. Instead of manually playing the video again and again, you can automatically loop the video on Vimeo.
@@ -522,6 +518,10 @@ Most online users watch videos on Vimeo directly through the web browser. This i
 Step 1: On your device, launch the web browser. Open the official website of Vimeo Watch. Play any video of your liking.
 
 ![play video vimeo watch](https://images.wondershare.com/filmora/article-images/play-video-vimeo-watch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Now, you need to change the URL of the video you are playing. Here are the changes to make in the address bar.
 
@@ -585,13 +585,13 @@ Step 1: Download and install Wondershare Filmora. Download the desired Vimeo vid
 
 ![filmora startup window](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Drag and drop the downloaded video file into the Project Media folder on Filmora. Thereafter, bring the video file from Project Media folder into the timeline.
 
 ![drag vimeo video filmora timeline](https://images.wondershare.com/filmora/article-images/drag-vimeo-video-filmora-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips and they are on the same channel for looping. Alternative, you can copy and paste the video clip multiple times for looping.
 
@@ -629,11 +629,19 @@ Step 4: You can play the video and watch it in loop. Finally, click on the Expor
 
 ![export loop video from filmora](https://images.wondershare.com/filmora/article-images/export-loop-videos-from-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Wondershare Filmora** Best Video Looper Software for Social Media Video Creation.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -644,6 +652,10 @@ There are several ways to loop a video on Vimeo. The best way out is to go for V
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11 Tools To Create Radial Blur Photo Mobile And Desktop
 
@@ -709,10 +721,6 @@ With the DSLR Camera Blur Effects app, you can instantly apply a more natural-lo
 * Shows multiple ads
 * Adds a watermark to your final image
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Image Radial Blur
 
 The Image Radial Blur is another user-friendly app designed to create **radial blur effects for Android** users and has a range of blur strengths, types, and focus options, so you can create the exact look you want.
@@ -840,6 +848,10 @@ As one of the most popular and advanced photo editing software in the digital ma
 
 To add the radial blur effect on your images using Adobe Photoshop, start with converting your background image into a **Smart Object** and go to the **“Filters”** tab. Next, select **“Blur”** and click **“Radial Blur.”** Finally, you can set the parameter in the radial blur window to adjust the effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. [Paint.NET](https://www.getpaint.net/)
 
 **Price:** Free
@@ -863,10 +875,6 @@ Paint.NET also lets you quickly create the **radial blur image effect** using it
 Yet another powerful software is the BCC FX Editor, designed with an intuitive interface where you can quickly apply the BCC+ Radial Blur effect around a specific point in your pictures.
 
 The software also offers various parameters to help you adjust the effect on your image. These include GPU rendering, blur type, center, radial amount, rotation amount, falloff, smooth mode, edge mode, apply mode, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html)
 
@@ -921,10 +929,6 @@ The Image Radial Blur is another user-friendly app designed to create **radial b
 
 ![image radial blur app](https://images.wondershare.com/filmora/article-images/2023/02/image-radial-blur-app.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Download:**[Android](https://play.google.com/store/apps/details?id=com.actumn.image%5Fradial%5Fblur)
 
 **Key Features**
@@ -1016,6 +1020,10 @@ Step1 Visit the Filmora website and download the file, depending on your system.
 
 ![creating new project in filmora to apply radial blur](https://images.wondershare.com/filmora/article-images/2023/02/creating-new-project-in-filmora-to-apply-radial-blur.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Head to the **“Effects”** tab, choose the **Tilt-shift Circle** for the radial blur effect and drop it in the timeline.
 
 ![applying radial blur in filmora](https://images.wondershare.com/filmora/article-images/2023/02/applying-radial-blur-in-filmora.png)
@@ -1046,10 +1054,6 @@ As one of the most popular and advanced photo editing software in the digital ma
 
 To add the radial blur effect on your images using Adobe Photoshop, start with converting your background image into a **Smart Object** and go to the **“Filters”** tab. Next, select **“Blur”** and click **“Radial Blur.”** Finally, you can set the parameter in the radial blur window to adjust the effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. [Paint.NET](https://www.getpaint.net/)
 
 **Price:** Free
@@ -1057,10 +1061,6 @@ To add the radial blur effect on your images using Adobe Photoshop, start with c
 **Support System:** Microsoft .NET 6, Windows XP, Vista, 7, & 8, and needs a 64-bit Windows processor
 
 ![paint net for radial blur](https://images.wondershare.com/filmora/article-images/2023/02/paint-net-for-radial-blur.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Paint.NET is an easy-to-use software developed on the .NET framework and is only compatible with Windows PCs. The software is free and has an innovative interface for novice users to create stunning image editing projects in no time.
 
@@ -1114,20 +1114,18 @@ Hopefully, you’ve enjoyed reading this article and can now quickly add the rad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-download-friends-share-and-connect-effortlessly-online-for-2024/"><u>[New] Download Friends, Share & Connect Effortlessly Online for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-100plus-cool-gaming-channel-names-for-every-gamer/"><u>[New] In 2024, 100+ Cool Gaming Channel Names for Every Gamer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/advanced-tips-for-effective-mobile-video-capture/"><u>Advanced Tips for Effective Mobile Video Capture</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-error-0x80070570-a-guide-for-fixed-damaged-files/"><u>Bypassing Error 0X80070570: A Guide for Fixed Damaged Files</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/convert-and-edit-wonders-10-best-youtube-tools-feat-audio/"><u>Convert & Edit Wonders 10 Best YouTube Tools Feat. Audio</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-seamlessly-posting-online-content-to-ig-storypost/"><u>In 2024, Seamlessly Posting Online Content to IG Story/Post</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-taking-stock-of-magix-project-management-app/"><u>In 2024, Taking Stock of MAGIX Project Management App</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-green-screen-video-in-after-effects/"><u>New How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-film-a-slow-motion-video-for-2024/"><u>New How To Film a Slow Motion Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-animated-titles-and-text-in-the-filmora-video-editor-this-is-a-simple-step-by-step-tutorial-for-any-skill-level/"><u>New Learn How to Create Animated Titles and Text in the Filmora Video Editor. This Is a Simple Step-by-Step Tutorial for Any Skill Level</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/savvy-instagram-usage-how-to-retrieve-free-filters-via-search/"><u>Savvy Instagram Usage How to Retrieve Free Filters via Search</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-restoring-sound-functionality-on-your-chromecast/"><u>Step-by-Step Solutions: Restoring Sound Functionality on Your Chromecast</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-way-to-color-grading-and-color-correction-in-filmora/"><u>Updated In 2024, Best Way To Color Grading & Color Correction in Filmora</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-checklist-for-new-channels/"><u>[Updated] In 2024, The Ultimate Checklist for New Channels</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-is-a-recommendation-about-bandicut-if-you-are-confused-please-check-it-out/"><u>2024 Approved This Is a Recommendation About Bandicut. If You Are Confused, Please Check It Out</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/comprehensive-insights-mastering-lenovo-screenshot-techniques/"><u>Comprehensive Insights Mastering Lenovo Screenshot Techniques</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-a-stunning-light-sweep-effect-in-filmora-use-simple-and-easy-steps-to-export-a-high-quality-video-that-will-impress-even-pro-video-editors-for-2024.m/"><u>Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors for 2024</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/dvd-h264hevc-mp4/"><u>DVD 비동기화를 위한 멋진 오류 해결 방법 - H.264/HEVC MP4 변환 하나당</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-user-journeys-through-extended-reality-and-spatial-computing-at-work-a-strategic-guide-by-zdnet/"><u>Enhancing User Journeys Through Extended Reality and Spatial Computing at Work - A Strategic Guide by ZDNET</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-do-masking-in-after-effects-alternative-provided-for-2024/"><u>How to Do Masking in After Effects Alternative Provided for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-guide-for-setting-tiktok-countdown-timer/"><u>In 2024, Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>New 2024 Approved How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-free-ways-to-download-mobile-phone-green-screen-videos-and-pictures-no-copyright/"><u>New Free Ways to Download Mobile Phone Green Screen Videos and Pictures No Copyright</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-rise-of-arm-architecture-alibabas-yitian-nokia-710-crowned-fastest-cpu-for-cloud-servers/"><u>The Rise of ARM Architecture: Alibaba's Yitian Nokia 710 Crowned Fastest CPU for Cloud Servers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vibrant-visual-photo-assemblies-for-joyful-living/"><u>Vibrant Visual Photo Assemblies for Joyful Living</u></a></li>
 </ul></div>
 

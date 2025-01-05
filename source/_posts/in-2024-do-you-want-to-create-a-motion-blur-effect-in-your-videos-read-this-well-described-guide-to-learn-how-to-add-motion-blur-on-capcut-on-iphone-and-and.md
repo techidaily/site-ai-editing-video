@@ -1,7 +1,7 @@
 ---
 title: In 2024, Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices
-date: 2024-12-04T20:19:21.027Z
-updated: 2024-12-12T02:10:38.934Z
+date: 2024-12-31T16:05:53.025Z
+updated: 2025-01-05T19:45:41.262Z
 tags: 
   - ai
   - animation videos
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
 Do you know what adds a realistic effect to videos? Professionals add various types of effects to the videos to create artistic perspective flawlessly. Usually, the process of adding effects to the videos happens in the post-production phase, where professionals utilize various software. One of the commonly added effects is the motion blur effect which creates a subtle motion in the video.
 
 In this article, we will address **how to do motion blur on CapCut** with simple steps. So, continue reading this guide to learn an easy and simple way of creating motion blur in your videos.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why Should You Add Motion Blur to Videos?
 
@@ -56,10 +52,6 @@ Step1 Open the CapCut app and tap on the “New Project” option. By doing so, 
 Step2 After uploading, select the clip and scroll in the right direction. From there, select the “Motion Blur” option and choose “Blur” strength and “Blend” value. You can also select the "Direction" and "Times" values from the options. Once done, tap on the “Tick” option to add a motion blur effect to your video successfully.
 
 ![customize motion blur settings](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: The Best Alternative to CapCut to Add Motion Blur On Mobile
 
@@ -210,6 +202,10 @@ It also offers various types of effects and filters that can transform your vide
 
 **Tutorial:** In this video tutorial, you can find authentic instructions to use Node Video without any hassle. Thus, visit this video link to check the tutorial: <https://www.youtube.com/watch?v=z9lq8XXCmss>.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Comparison
 
 Apps like NSMB and Node Video work efficiently as they contain built-in motion blur effects. They work similarly to CapCut, as you can easily add a motion blur effect to your videos automatically. However, these apps provide limited options to choose the area and amount of effect. So, if you want to add customization to your videos proficiently, you can try Videoleap.
@@ -287,10 +283,6 @@ Step2 Move the play head where you want to change the speed. Click the arrow nex
 
 ![change the speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Click on the arrow next to 100% to change the speed between two-speed points. Go to the Change Speed option and select from the preset. Based on your preset speed selection, the video's speed within the speed points will change.
 
 ![arrow next to 100](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-6.jpg)
@@ -314,10 +306,6 @@ Every video editor has its advantages as well as drawbacks. So if you think abou
 * There are reports of sudden crashes with too many video speed changes.
 
 The cons are too grave to ignore. The learning curve is also steep too. Many look for an easier alternative to DaVinci Resolve speed ramp transition.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part IV. A Simpler Alternative to DaVinci Resolve to Change Video Speed
 
@@ -383,6 +371,10 @@ Step3 You can select any preset or select the Customize option. When you select 
 
 Step4 Click on the Ok button, followed by the Export button, to save the video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part V. Comparison Between DaVinci Resolve and Filmora
 
 | Parameters                 | **DaVinci Resolve**    | **Filmora**                          |
@@ -395,6 +387,10 @@ Step4 Click on the Ok button, followed by the Export button, to save the video.
 | Average Rating             | 3/5                    | 4.5/5                                |
 | Pricing                    | High                   | Reasonable                           |
 | Best For                   | Advanced video editors | Beginners and advanced video editors |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -433,6 +429,10 @@ Step2 Drag the video file from your computer to Filmora's timeline. Choose video
 Step3 From the menu, go to the Fast or the Slow option and select a speed preset. Finally, you can export the file to save it to your computer.
 
 ![export the file](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2\. Alter Uniform Speed
 
@@ -515,6 +515,10 @@ Step2 Go to effects and then click “NewBlue FX” option and select Newblue fi
 
 ![select newblue filter](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Find the Selective Color Effect and drag it onto the clip. The effect will be instantly applied.
 
 ![selective color effect](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-4.jpg)
@@ -540,10 +544,6 @@ Step8 To blur the edges of the effects, turn up the softened slider and remove a
 ![blurring the edges of effects](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-9.jpg)
 
 In this way, you can add a selective color effect to your video clips and isolate the color of your choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tutorial 2 on make color isolation using eyedropper tool
 
@@ -574,7 +574,7 @@ Step6 Next, try selecting a second color to isolate within our shot. In this exa
 ![clicking on the second color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-15.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step7 Pick the eyedropper tool and click it on the green part of the clip. Then adjust the range slider as needed.
@@ -601,13 +601,13 @@ Step3 Find the Selective Color Effect and drag it onto the clip. The effect will
 
 ![selective color effect](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Next, double-click on the clip and check out the effects menu at the top of the screen.
 
 ![effects menu](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Open the preset drop-down menu. There will be a lot of presets with different colors. Select the preset you want to use. In this scenario, let us select Just Blue.
 
@@ -616,10 +616,6 @@ Step5 Open the preset drop-down menu. There will be a lot of presets with differ
 Step6 If you see a blue tint at a place or object which you want to be white and black, click on the first color.
 
 ![first color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step7 Now adjust the range slider to decrease the number of unwanted tints.
 
@@ -638,10 +634,6 @@ You might ask how do we use the eyedropper tool here. It can sample colors from 
 Step1 As same as the first one, launching Wondershare Filmora is the first priority. And drag your clip to the timeline.
 
 ![drag clip to timeline](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Go to effects at the top, and find Newblue effects, and click on the Newblue filters.
 
@@ -679,6 +671,10 @@ Follow all the steps in the correct order. This is how you can use NewBlue effec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Custom Transition to OBS
 
 OBS Studio is an open-source video editor that is widely popular for live streaming on online platforms. Even though OBS is a completely free application, its features are comparable to any premium video editor. We always look for available transition effects in a video editor and OBS takes it to the next level by allowing users to add custom transitions.
@@ -691,6 +687,10 @@ Stinger is a special type of customized animated video transition effect that is
 
 The transparent video animation starts on top of the current video you are editing. When the animation expands and covers up the entire screen, you place the cut transition, and thereafter, you place the next video clip or scene as per your requirement. Some customized stinger effect also includes audio effects along with video effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. How to add stinger transitions to OBS
 
 The Stinger transition is available on OBS Studio and Streamlabs, and both of them are open-source and free applications. Before you add stinger transition, you should have a video animation ready that you will play on top of the current video followed by the cut transition effect. You can download several stinger video animations from the internet and include any of them in OBS while adding stinger transition. Here are the steps on how to add a custom transition to OBS.
@@ -700,6 +700,10 @@ Step1 Go to Scene Transitions section and click on Effects option to open the dr
 Step2 From the drop-down menu, click on “Add: Stinger” option.
 
 ![add stinger obs](https://images.wondershare.com/filmora/article-images/2022/07/add-stinger-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Give a name to the Stinger transition and click Ok button.
 
@@ -773,10 +777,6 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/open-project-02.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Import or drop your video clips under Project Media folder. Then drag and drop them on Timeline and place them sequentially as appropriate.
 
 ![import or drop video clips](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
@@ -821,16 +821,15 @@ Go to the OBS Forums from where you get to download transitions for OBS Studio. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-30-second-guide-to-fast-fortnite-graphics/"><u>[Updated] In 2024, 30-Second Guide to Fast Fortnite Graphics</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-13t-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi 13T Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-best-luts-for-vlog/"><u>In 2024, Overview of Best LUTs for Vlog</u></a></li>
-<li><a href="https://extra-support.techidaily.com/lens-lockdown-top-rated-phone-friendly-tripods-for-2024/"><u>Lens Lockdown Top-Rated Phone-Friendly Tripods for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-sleep-enhancement-with-your-apple-watch-series-8-a-comprehensive-guide-by-zdnet/"><u>Mastering Sleep Enhancement with Your Apple Watch Series 8 - A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-obstacles-in-life-is-strange-true-colours-crash-patched/"><u>Overcoming Obstacles in Life Is Strange: True Colours Crash Patched</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y77t-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y77t FRP Bypass</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premium-top-11-list-audio-recording-essentials/"><u>[New] Premium Top 11 List - Audio Recording Essentials</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-master-the-art-of-persuasion-top-30-video-strategies/"><u>[Updated] Master the Art of Persuasion Top 30 Video Strategies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easy-steps-to-create-intro-video-with-after-effects/"><u>2024 Approved Easy Steps to Create Intro Video with After Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-picks-our-1-10-list-of-camera-lenses-for-the-best-shots/"><u>Expert Picks Our #1-10 List of Camera Lenses for the Best Shots</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x9a-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X9a Phones with/without a PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/hyperlapse-vs-timelapse-videos-for-2024/"><u>Hyperlapse VS Timelapse Videos for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-change-shape-of-a-video/"><u>In 2024, How to Change Shape of a Video?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-youtube-intro-for-2024/"><u>New How To Create A YouTube Intro for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-zoom-video-in-vlc-media-player/"><u>Updated 2024 Approved How to Zoom Video in VLC Media Player</u></a></li>
 </ul></div>
 

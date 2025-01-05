@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Easy Steps to Export Video in Filmora
-date: 2024-12-25T19:48:10.257Z
-updated: 2024-12-26T22:48:45.800Z
+date: 2024-12-29T21:23:35.143Z
+updated: 2025-01-05T19:38:34.265Z
 tags: 
   - ai
   - animation videos
@@ -108,10 +108,6 @@ In films, for example, the dissolve effect is employed to signify a time change.
 
 The history of after-effects can be traced back to 1993\. These effects enabled the crew to mix 3D and 2D images to produce virtual dinosaur motion visuals in the Jurassic Park film, which we all love. Now that you have a fundamental understanding of the origins of after-effects, let's take a look at where they might be applied!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Where can you use these before/after effects?
 
 If you are a fan of fiction movies, then you must have noticed that some of their scenes though fake, look so realistic that they blow our minds. And now you might have an idea of how these shots are created!
@@ -140,10 +136,6 @@ Now, let's explore some of the coolest transition effects that you can use in yo
 
 Wondershare Filmora can help video editors achieve their goals in the most basic and economical fashion. The best three transition effects that may completely transform your videos are shown below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Wipe Effect
 
 Wipe transition is used to produce an apparent transformation to videos with similar frames for the before/after comparison. Travel vloggers mostly use this effect to create a retro vibe in their videos. This transition is frequently used in movies to demonstrate the influence of time on any place.
@@ -155,6 +147,10 @@ The wipe effect's fundamental goal is to transition from one shot into another v
 Step1 Drag and drop the video clip 'before color correction' onto the timeline's first video track.
 
 ![drag and drop the video clip](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Then, drag and drop the color-corrected video clip on the second video track. Ensure that the clips are piled on top of one another so they may all be played simultaneously. It will make it easier for us to trim the footage.
 
@@ -172,10 +168,6 @@ Step5 Adjust the length of the "Erase slide." Let's see how it turns out!
 
 ![adjust the length of the erase slide](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-6.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Dissolve Effect
 
 The dissolve effect allows us to shift from one shot to another by using slow block dissolution. It gives the impression that one scene is being morphed into another. And, it is frequently used in documentaries.
@@ -192,9 +184,17 @@ Step2 Then, on the second video track, drag and drop the second video clip. Make
 
 ![drag and drop the second video clip](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Then Go to the Transitions window and choose the "Dissolve" effect.
 
 ![choose the dissolve effect](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Drag the transition to the start of the second video clip.
 
@@ -217,6 +217,10 @@ Step3 To open the settings window, double-click on the first video.
 Step4 Find the transform section and scale it to 110%.
 
 Step5 Then, move the first video's frame to match the second video's placement. We may notice a more natural transition when we replay the timeline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Split Screen Effect
 
@@ -253,6 +257,10 @@ Step7 All of the steps for the before/after split screen are now complete.
 Step8 Let's wait and see how it turns out!
 
 ![split screen are complete](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-16.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final words
 
@@ -306,6 +314,10 @@ Step 5: Find and press the "In" button to trim the chosen component; The "Out" b
 
 Note that SolveigMM WMP Trimmer Plugin supports to edit videos including cutting or trimming, however, it doesn’t offer an option to crop video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## An alternative way to crop video on Windows by Wondershare Filmora
 
 Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is one of the great video enhancing software program with cool functions that compares to different competing video enhancing Softwares program. Many video enhancing applications claimed to provide expert results; Filmora is one in every of some consumer-stage equipment that definitely delivers.
@@ -340,17 +352,9 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5\. After cropping, if you are satisfied with your edit you can now save your project by clicking the save project icon.
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -367,6 +371,10 @@ Your plug-in will be enabled after selecting it from the menu.
 Step 4: While playingthe document you need to edit, flow the blue slider to the segment of the film you need to trim/reduce and click "Start". Manually type the time of the video you need to begin deciding on into the Start box in case you discover the usage of the slider difficult. Click the "End" button on the factor you need the trimming to end.
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Find and press the "In" button to trim the chosen component; The "Out" button to reduce the chosen component out of the authentic media document.
 
@@ -452,10 +460,6 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Drag the video to the lower left side. After dragging ,right-click yourmouse and choose video and then click “crop and zoom.”
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-5.jpeg)
@@ -464,12 +468,16 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Now, you can adjust the focus of your video.
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5\. After cropping, if you are satisfied with your edit you can now save your project by clicking the save project icon.
@@ -533,10 +541,6 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 5\. After cropping, if you are satisfied with your edit you can now save your project by clicking the save project icon.
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -587,7 +591,7 @@ Step5 Tap on Play icon to check how the filter is looking on your video. Once yo
 ![apply filter imovie video](https://images.wondershare.com/filmora/article-images/2022/07/apply-filter-imovie-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step6 Tap on Share icon at the bottom and then tap on Save Video option to save the modified video on your iPhone.
@@ -656,10 +660,6 @@ Step4 Select any filter and drag and drop it on Timeline. You can stretch the du
 
 You can also check Overlay> Utility option from the left panel to add face filters to your video in the same manner. If you want to save the modified video, click on Export button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you are an iPhone user or a Mac user, you can add filters to your video using iMovie app. You have to install iMovie app on your iPhone, but iMovie comes pre-installed on Mac. But there are limited filters available on iMovie and there is a lack of face filters which are trending in today’s viral videos. That is why we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) where there is a wide range of filters available to apply to your video conveniently as per your requirements.
@@ -680,17 +680,24 @@ If you are an iPhone user or a Mac user, you can add filters to your video using
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-professionals-choice-premium-youtube-cameras/"><u>[Updated] Professionals' Choice Premium YouTube Cameras</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-comment-on-youtube-live-chat/"><u>In 2024, How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-for-affordable-2024-cpus-performance-ratings-from-toms-hardware/"><u>The Ultimate List for Affordable 2024 CPUs - Performance Ratings From Tom's Hardware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-resolving-twitch-error-4000/"><u>Troubleshooting Guide for Resolving Twitch Error 4000</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-how-to-fix-swtor-game-launch-problems/"><u>Troubleshooting: How to Fix 'SWTOR' Game Launch Problems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/whats-stopping-alan-wake-2-from-launching-and-how-can-you-resolve-it/"><u>What's Stopping Alan Wake 2 From Launching and How Can You Resolve It?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-soft-sonata-reducing-volume-in-os/"><u>[New] In 2024, Soft Sonata Reducing Volume in OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lightning-lens-work-efficiently-producing-google-collage-shots/"><u>[New] Lightning Lens Work Efficiently Producing Google Collage Shots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-realizing-potential-in-presentations-leveraging-webcams/"><u>2024 Approved Realizing Potential in Presentations Leveraging Webcams</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-11-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 11 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-web-excellence-using-gpt-powered-tactics/"><u>Elevate Web Excellence Using GPT-Powered Tactics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-v30t-by-fonelab-android-recover-video/"><u>How to restore wiped videos on V30T</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immerse-yourself-in-a-three-dimensional-audio-world-on-windows-11/"><u>Immerse Yourself in a Three-Dimensional Audio World on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-x100-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo X100 Pro? Try These Fixes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-put-a-filter-on-a-video-in-imovie/"><u>In 2024, How to Put a Filter on a Video in iMovie</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oneplus-open-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from OnePlus Open to iPod | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unearthing-assassins-creed-valhalla-an-epic-tale-of-norse-warriors-set-in-medieval-europe/"><u>Unearthing Assassin’s Creed: Valhalla - An Epic Tale of Norse Warriors Set in Medieval Europe</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-convert-your-videos-to-60-fps-using-these-excellent-tools/"><u>Updated In 2024, Convert Your Videos to 60 FPS Using These Excellent Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-something-about-skin-care-vlog-ideas/"><u>Updated Something About Skin Care Vlog Ideas</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free
-date: 2024-12-24T02:02:12.996Z
-updated: 2024-12-27T03:21:53.129Z
+date: 2025-01-02T19:11:52.285Z
+updated: 2025-01-05T20:33:02.215Z
 tags: 
   - ai
   - animation videos
@@ -87,7 +87,7 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 ![saving the warzone thumbnail snapshot](https://images.wondershare.com/filmora/article-images/snapshot-window-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Click "Ok."
@@ -99,15 +99,15 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![opening the folder containing the snapshot](https://images.wondershare.com/filmora/article-images/reveal-in-explorer-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Use the screenshot as your video thumbnail.
 
 ![warzone video thumbnail made with filmora](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-result.JPG)
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** The free version of Wondershare Filmora will add a watermark to saved videos. But it will not add a watermark to a snapshot. Indeed, it is a free Warzone thumbnail creator.
 
@@ -162,10 +162,6 @@ The thumbnail for this video (made by [GTX 1050 Ti](https://www.youtube.com/watc
 ### 5\. NEW RECORD! 64 KILL GAME in CoD WARZONE! (Best Classes / Loadouts)
 
 ![warzone thumbnail by vikkstar123](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-5.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Like most Warzone thumbnails, this thumbnail from a [Vikkstar123](https://www.youtube.com/watch?v=V5VNeLLs2yM) video features a gun. At the top right is the victory banner, and at the bottom is the logo for kills with the number 64 next to it. The top right shows the logo of COD Warzone.
 
@@ -226,6 +222,10 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![taking a snapshot on wondershare filmora](https://images.wondershare.com/filmora/article-images/take-snapshot-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select a file format and a target destination folder for the image.
 
 ![saving the warzone thumbnail snapshot](https://images.wondershare.com/filmora/article-images/snapshot-window-filmora.jpg)
@@ -242,6 +242,10 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 1. Use the screenshot as your video thumbnail.
 
 ![warzone video thumbnail made with filmora](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-result.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -303,10 +307,6 @@ Like most Warzone thumbnails, this thumbnail from a [Vikkstar123](https://www.yo
 
 Players are attracted to amazing gameplay. Unsurprisingly, the player who got 64 kills got 3.1 million views in his video. The gist is that if you have achieved something amazing, try to incorporate it into the thumbnail.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Using in-game screenshots is recommended for making amazing COD Warzone thumbnails. But you should not use raw photos. You must edit them to ensure they have visual appeal. Of course, that means you need a good thumbnail maker.
@@ -342,10 +342,6 @@ The Best Laptops For Video Editing
 Acer Predator Triton 300 SE
 
 ![Filmora Note](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Tips:** This powerful Acer laptop is perfect for everyday tasks and will run your video editing software super smooth. With its powerful Intel i7 processor that holds a 3.30 GHz speed, editing video content will feel like never before.
 
@@ -486,10 +482,6 @@ The workstation we will list next is one of the most powerful devices out there.
 
 ![Microsoft Surface Book 3](https://images.wondershare.com/filmora/article-images/2022/06/the-best-laptops-for-video-editing-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Microsoft Surface Book 3
 
 Meet the laptop that will meet your big demands! This Microsoft Surface Book 3 holds the speed, visual aspects and also gaming options easily! This model is available in both 13.5” and 15’. The display specifications are a 3000x2000 resolution, or a 3240x2160 with either 267 PPI, or 260 PPI. It holds a Intel i5 1035G7 or an i7 1065G7 processor depending on your wishes.
@@ -605,6 +597,10 @@ Step 4Double-click on the video file and click on Audio option at the top. Scrol
 
 Step 5Play the video and if you are satisfied, click on Export button to save the video in your desired file format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. How to Add Echo to Video on Mac
 
 If you are a Mac user and you are looking for a free video editor to add echo effect, you can use iMovie app. iMovie is a video editor by Apple and most Mac users know and might have used it. iMovie comes with a built-in echo delay effect that can get the job done for you. However, the effect is not customizable as it is in Filmora. Here are the steps on how to put echo on video using iMovie.
@@ -640,6 +636,10 @@ Adding echo effect to video is a common trend when you want to emphasize what yo
 Step 1Download and install Filmora. Launch the application and click on New Project option. You can go to File menu and click on New Project option.
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2Go to File> Import Media and click on Import Media Files option. Select your video file from your storage device. Otherwise, you can drag and drop the video on Project Media and drop the video on Timeline.
 
@@ -730,10 +730,6 @@ Some amazing perks that you get with Filmora include:
 
 Managing video duration on your preferred domain is so crucial these days, mainly because of our smaller attention spans. This is why you should be looking to change video speed in Canva as soon as you get your hands on the project. Unfortunately, at the time of writing, there are no known features in which you can speed up the video in Canva. However, there are some alternative methods for archiving sped-up videos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### An Ultimate Guide to Speed Up a Canva Video
 
 ![how to speed up a video on canvas](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-2.jpg)
@@ -768,6 +764,10 @@ After previewing the clip, you will soon realize that your video is going too sl
 
 ![change video speed in canva 2](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4Use Third-Party Software (Eizgif) to Change Video Speed In Canva
 
 1) Once you've downloaded your video file onto the system, open a new browser tab and search for [Eizgif](https://ezgif.com/video-speed) (or related speed-up video in the Canva tool). Now upload the same video on the given window.
@@ -793,10 +793,6 @@ _Eizgif also gives you the freedom to adjust sound, if your video has any_
 2) Now re-upload your changed video speed in Canva and drag it onto the timeline through the "**Videos**" tab.
 
 ![video canva fast speed](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Review the clip and notice the enhanced video speed from the Canva editor when it's done.
 
@@ -839,13 +835,13 @@ Everything is seamless in Filmora, and it's supported on all major operating sys
 
 ![speed up video in filmora 3](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-16.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) In the new window, change the speed value greater than **1**, just like you did in the case of Eizgif. You can also adjust the speed slider for better coverage.
 
 ![how to speed up a video on canvas 1](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) After finishing, click "**Ok**" and preview your clip to see the fast video effect in-placed.
 
@@ -905,12 +901,16 @@ Speed ramp is a unique feature in Filmora which allows you to apply acceleration
 
 ![how to speed up a video on canvas 2](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) You can now apply multiple speed ramping effects based on your preference. Select it (for example, flash-out effect), and it will be used for your whole video.
 
 ![canva video speed increase 1](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-19.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3Export the Final Speed-Up Video
@@ -941,18 +941,21 @@ This was our two cents on how you can speed up a video on Canva. In the end, spe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-captivating-your-audience-youtube-intro-excellence-with-imovie/"><u>[New] 2024 Approved Captivating Your Audience YouTube Intro Excellence with iMovie</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-uncovering-old-social-media-narratives-on-laptops-and-mobile-devices/"><u>[Updated] Uncovering Old Social Media Narratives on Laptops and Mobile Devices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-draft-to-edit-essential-film-techniques-via-youtube/"><u>2024 Approved From Draft to Edit Essential Film Techniques via YouTube</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-experts-picks-top-10-budget-friendly-call-apps/"><u>In 2024, Expert's Picks Top 10 Budget-Friendly Call Apps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-motorola-edge-2023-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Motorola Edge 2023</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-podcastpathfinder-charting-new-courses/"><u>In 2024, PodcastPathfinder Charting New Courses</u></a></li>
-<li><a href="https://discover-best.techidaily.com/innovative-wallpaper-designs-featuring-money-heist-series-crafted-with-precision-by-yl-software/"><u>Innovative Wallpaper Designs Featuring 'Money Heist' Series - Crafted with Precision by YL Software</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-16-best-ways-to-say-thank-you-in-german/"><u>The 16 Best Ways to Say Thank You in German</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-ultimate-guide-to-selecting-from-the-top-9-free-youtube-tools/"><u>2024 Approved The Ultimate Guide to Selecting From the Top 9 FREE YouTube Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/directly-implementing-updates-to-windows-vistas-driver-modules/"><u>Directly Implementing Updates to Windows Vista's Driver Modules</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora/"><u>How To Make a Video by Mouse in Filmora?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-meizu-by-drfone-android/"><u>In 2024, How to Bypass FRP on Meizu?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-instagram-for-podcast-promotion/"><u>In 2024, Navigating Instagram for Podcast Promotion</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-in-stream-ad-configurations-on-facebook-for-peak-performance/"><u>Mastering In-Stream Ad Configurations on Facebook for Peak Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007138371-mastering-warcraft-3-reforged-stability-fixes-for-pc-users-top-tips-of-2n4/"><u>Mastering Warcraft 3 Reforged Stability Fixes for PC Users - Top Tips of 2N4!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-practical-tips-to-improve-your-lighting-in-the-sun-for-2024/"><u>New Best Practical Tips to Improve Your Lighting in the Sun for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-split-clips-in-vlc-for-2024/"><u>New Step by Step to Split Clips in VLC for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whats-the-best-laptops-for-video-editing-for-2024/"><u>New Whats The Best Laptops For Video Editing for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/safe-surfing-in-chrome-the-ultimate-list-of-top-security-plugins-including-malwarefox/"><u>Safe Surfing in Chrome: The Ultimate List of Top Security Plugins, Including MalwareFox</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/steps-to-remove-unseen-portions-in-streamed-youtube-videos-for-2024/"><u>Steps to Remove Unseen Portions in Streamed YouTube Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-ideas-on-using-green-screen-with-filmora/"><u>Updated 2024 Approved Best Ideas on Using Green Screen with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-loop-videos-with-filmora-for-2024/"><u>Updated How to Create Loop Videos with Filmora for 2024</u></a></li>
 </ul></div>
 

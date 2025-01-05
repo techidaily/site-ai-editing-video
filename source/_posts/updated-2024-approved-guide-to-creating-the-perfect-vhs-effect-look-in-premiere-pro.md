@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro
-date: 2024-12-26T04:26:39.540Z
-updated: 2024-12-26T21:25:14.719Z
+date: 2025-01-02T17:53:38.047Z
+updated: 2025-01-05T22:00:36.334Z
 tags: 
   - ai
   - animation videos
@@ -20,7 +20,7 @@ Adobe Premiere Pro is an excellent tool for video editing. It is a tool that can
 VHS effect has characteristics of old video tapes with lines and scales. It also adds distortion, noise, and color shifting to your videos. There are many filters and overlays that you can apply to get the VHS look. However, if you are using a PC tool, such as Premiere Pro, then you have to learn how to apply it. You can easily create a **VHS effect Premiere** look once you learn to add the effect to your video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What Are The Benefits of Using VHS Effects in Video?
@@ -45,10 +45,6 @@ Simply add video effects on Video with [Filmora Video Effect Editor](https://too
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How To Add VHS Effect in Premiere Pro: An Overview
 
@@ -106,10 +102,6 @@ To apply a similar VHS overlay Premiere effect to your video, first access Wonde
 
 ![create new project on filmora](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2Import and Arrange Your Video
 
 Next, import your video by either dragging and dropping it into the software or using the import media option. Once imported, drag and drop your video into the timeline area to begin working with it.
@@ -140,6 +132,10 @@ To conclude, there are many different overlays, effects, and filters that you ca
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How To Add VHS Effect in Premiere Pro: An Overview
 
 Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry because this guideline will provide you with the required information. These simple steps will let you add your favorite VHS look to your video using Premiere Pro.
@@ -156,6 +152,10 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 
 ![add channel blur effect](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** In the "Channel Blur" effect tab, enable "Repeat Edge Pixel" and increase "Red Blurriness" to 30\. Repeat the same step but this time increase "Blue Blurriness" to 30 and "Red Blurriness" to 15 and change "Blur Dimensions" to "Vertical."
 
 ![change channel blur parameters](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-4.jpg)
@@ -171,6 +171,10 @@ Proceed to apply the "Noise" effect from the "Noise & Grain" section and further
 **Step 6:** You can crop your video to a 4:3 aspect ratio to give your video more authenticity. To do this, create two "Color Matte" layers using the "New Item" icon. Name and place them over the video clip. Apply the "Crop" effect to both layers. Set the "Left" option to 86 for the first layer and the "Right" option to 86 for the second layer. Set the "Edge Feather" to 30 for both layers.
 
 ![add crop effect and adjust](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Make sure to save your VHS effect as a preset for future use by right-clicking and selecting "Save Preset." Finally, export your **VHS effect Premiere Pro** video to your desired format.
 
@@ -325,6 +329,10 @@ Step3 Go to Titles located at the top and drag and drop any title style on Timel
 
 ![go to titles](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Double-click on Title clip again on the Timeline and go to Text> Animation tab located at the top-left corner. Scroll down to go to Fade1 option and double-click Fade1 to apply it to your text.
 
 Step5 You can go to settings by clicking on Advanced button and adjust parameters such as speed and duration of the fade effect for better visibility.
@@ -360,10 +368,6 @@ If you want to add those popular text effects to your video, you will need a pro
 
 There are unlimited text effects available in Filmora but some of them are extremely popular that video creators regularly use in their videos. Here is the list of the popular Filmora video editor text effects that you should be aware of.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Text Swipe Effect
 
 Text swipe effects are the most commonly used in today’s videos on social media and video streaming platforms. In this effect, the text slides into the video frame from a particular direction. The entire text can swipe in if it is a one-liner and it can even swipe in word by word or sentence by sentence.
@@ -393,10 +397,6 @@ If you want to add uniqueness to text animations so that you can make the audien
 The color text effect is becoming extremely popular and it is widely used for opening and ending credits. Flashing different colors through your texts and titles against a darker background can act as a feast for the human eyes. There are different types of color text effects available that can make your text stand out.
 
 When you are using color text effect, you need to maintain a large font size for your text so that it is widely visible. Even if your background is not dark, you can use a darker box in the background of the text or a darker frame around the text to amplify the effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Bounce to Zoom Effect
 
@@ -434,10 +434,6 @@ Part 1\. Popular text effects in Filmora
 
 There are unlimited text effects available in Filmora but some of them are extremely popular that video creators regularly use in their videos. Here is the list of the popular Filmora video editor text effects that you should be aware of.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Text Swipe Effect
 
 Text swipe effects are the most commonly used in today’s videos on social media and video streaming platforms. In this effect, the text slides into the video frame from a particular direction. The entire text can swipe in if it is a one-liner and it can even swipe in word by word or sentence by sentence.
@@ -450,21 +446,25 @@ The type text effect in Filmora is referred to as the typewriter text effect in 
 
 The type text effect is particularly useful when you are displaying a large size of text on the screen. It is also widely used when showing a paragraph of text instead of a simple line. This helps in drawing the attention of the audience to the paragraph and retaining the attention for a longer duration of time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. WordArt Effect
 
 WordArt is synonymous with MS Word where large words have 3D effects and highlighted background. Apart from 3D effect, text can have a thick stroke or outline as well as a gradient color style when WordArt effect is applied. In Filmora, you will find a plethora of WordArt effects and some are them are modern while others have a retro feel to them.
 
 The WordArt effect is particularly popular while displaying titles and funny texts on the entire screen or covering a large part of the video. These are mostly used in the opening or ending scenes of the video. Besides, some video creators use them while making transitions from one scene to another.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Keyframe
 
 If you want to create text animations as per your requirements, you have to use keyframes in any video editor. You can always apply the ready-made video editing text effects but if you want to customize and personalize, you can add keyframes in between two timestamps. Thereafter, you need to change text styles and parameters for each frame so that it looks like an animation.
 
 If you want to add uniqueness to text animations so that you can make the audience wonder and appreciate, keyframes are the way. Adding keyframes in the text layer on Filmora is super easy and you can get effects like texts slowly scaling up, dancing randomly, changing fonts, and much more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Color Text Effect
 
@@ -490,17 +490,21 @@ Step1 Download and install Wondershare Filmora as per your operating system. Fil
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Import your video clips under Project Media folder and drop them onto the timeline. Go to Titles menu option and you will see different categories and templates of text effects and templates from the left panel.
 
 ![import text video clip into filmora](https://images.wondershare.com/filmora/article-images/2022/09/import-text-video-clip-into-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Search for a popular text effect from the search box. Select a text effect template and drop it on the timeline. Adjust its place on the timeline depending on where you want the text to appear. Double-click on the text layer and edit the text as per your requirements.
 
 ![edit text in videos filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-in-videos-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can edit the style from fonts and settings section. You can also go to Advanced section available for more minute editing and get the desired text effect.
 
@@ -532,10 +536,6 @@ Step2Create an account by following the on-screen instructions. Click on New Vid
 
 ![create video from scratch](https://images.wondershare.com/filmora/article-images/2022/08/create-video-from-scratch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3Enter a name for the video and select a video shape as per your preference. Click on Continue button.
 
 ![edit video name biteable](https://images.wondershare.com/filmora/article-images/2022/08/edit-video-name-biteable.jpg)
@@ -548,10 +548,6 @@ Step5Double-click on each template to edit the text in them and select the text 
 
 ![edit title template biteable](https://images.wondershare.com/filmora/article-images/2022/08/edit-title-template-biteable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Use Motionden Video Maker
 
 Motionden is yet another powerful text animation maker where you can create free text animations instantly. There are over 1500 templates available to choose from in order to create text videos from scratch. You can choose video templates from any category as per the video theme you want. Besides, you can upload your video or photo and add texts and music as per your preference. Here are the steps to create animated text online using Motionden Video Maker.
@@ -559,6 +555,10 @@ Motionden is yet another powerful text animation maker where you can create free
 Step1Open your web browser and visit “motionden.com/video-maker/text-animation”. Click on “Make a video for free” button.
 
 ![make a video motionden](https://images.wondershare.com/filmora/article-images/2022/08/make-a-video-motionden.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2Go to Create menu option and select any category of video templates. You can also check out the popular video templates and select anyone as per your preference.
 
@@ -624,16 +624,20 @@ You can make video with animated text to make your presentation video eye-catchi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-master-the-art-of-browsing-and-playing-fb-videos-via-appletv/"><u>[New] 2024 Approved Master the Art of Browsing and Playing FB Videos via AppleTV</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/kyrocket-to-youtube-partner-status-with-10k-vistas-goal-for-2024/"><u>[New] Skyrocket to YouTube Partner Status with 10K Vistas Goal for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-essential-business-youtube-sites-you-must-follow/"><u>[Updated] In 2024, Essential Business YouTube Sites You Must Follow</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/achieve-uninterrupted-gameplay-solutions-for-v-rising-stuttering-problems-on-desktop/"><u>Achieve Uninterrupted Gameplay: Solutions for V Rising Stuttering Problems on Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-closed-captioning-confusion-in-win-10-systems/"><u>Clearing Up Closed Captioning Confusion in Win 10 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-or-download-scansnap-drivers-in-windows-with-one-click-convenience/"><u>How to Seamlessly Update or Download ScanSnap Drivers in Windows with One-Click Convenience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-canva/"><u>New 2024 Approved How to Add Subtitles in Canva?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-use-rule-of-thirds-in-video/"><u>New In 2024, How to Use Rule of Thirds in Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-15-best-luts-to-buy/"><u>Updated 2024 Approved 15 Best LUTS to Buy</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-ideas-for-time-lapse-video/"><u>Updated Ideas for Time-Lapse Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfect-video-demos-in-adobe-captivate/"><u>[New] Perfect Video Demos in Adobe Captivate</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/a-guide-to-adding-audio-in-wondershare-filmora/"><u>A Guide to Adding Audio in Wondershare Filmora</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/boost-your-broadcast-three-steps-to-successful-youtube-streaming-for-2024/"><u>Boost Your Broadcast Three Steps to Successful YouTube Streaming for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/easy-online-tools-and-techniques-for-trimming-and-editing-videoclips-on-windows-or-mac/"><u>Easy Online Tools & Techniques for Trimming and Editing Videoclips on Windows or Mac</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-advice-ensuring-perfection-by-previewing-your-website-before-uploading/"><u>Expert Advice: Ensuring Perfection by Previewing Your Website Before Uploading.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xls-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xls by digital signature</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-youtube-and-instagram-sharing-video-content-without-limits-for-2024/"><u>Navigating YouTube and Instagram Sharing Video Content without Limits for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-avi-playback-software-for-pcmobile-users/"><u>Optimal AVI Playback Software for PC/Mobile Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-performing-a-complete-factory-restore-on-your-lenovo-computer/"><u>Ultimate Guide: Performing a Complete Factory Restore on Your Lenovo Computer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>Updated In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
 </ul></div>
 

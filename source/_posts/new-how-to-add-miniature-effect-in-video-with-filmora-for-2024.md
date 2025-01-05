@@ -1,7 +1,7 @@
 ---
 title: New How to Add Miniature Effect in Video with Filmora for 2024
-date: 2024-12-20T00:01:43.857Z
-updated: 2024-12-26T18:02:59.789Z
+date: 2025-01-02T16:18:28.387Z
+updated: 2025-01-05T18:41:31.070Z
 tags: 
   - ai
   - animation videos
@@ -66,10 +66,6 @@ Here you will see almost more than **20 videos.** So, instead of using the actua
 * Then **Drag and Drop** it to the timeline section for further editing.
 
 ![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Who will get Stock Media?**
 
@@ -141,10 +137,6 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 Watch the rotating and adjusting actions as shown below!
 
 ![rotation of mask in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-10.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
 
@@ -249,6 +241,10 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 
 ![add blur effect in video multiple times](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-7.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step6 Drop the same video clip
 
 * Add the same video clip 2nd time on the timeline.
@@ -311,6 +307,10 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
@@ -425,10 +425,6 @@ Step3 From the menu, click on Composition Settings option. You can also use Ctrl
 
 ![open composition settings ae](https://images.wondershare.com/filmora/article-images/2022/07/open-composition-settings-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 On Composition Settings window, go to Background Color and set the color as per your preference. You can also use a color picker as well to select any color from the video directly.
 
 ![bg color preference ae](https://images.wondershare.com/filmora/article-images/2022/07/bg-color-preference-ae.jpg)
@@ -449,10 +445,6 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Import your video under Project Media folder and drag and drop into Timeline.
 
 ![import green screen video filmora](https://images.wondershare.com/filmora/article-images/2022/07/import-green-screen-video-filmora.jpg)
@@ -469,13 +461,13 @@ Step5 Finally, play the video and click on Export button to save the video.
 
 ## Part 3\. FAQs about Video Background Colors
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. How do I remove background color in After Effects?
 
 Import your video clip with a solid background color and place it on Timeline. Go to Effect menu> Keying> Keylight option. In Effects window and under Keylight, you will see Screen Colour option. Click on the eyedropper icon and select the background color you want to remove.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How do I change a solid background in After Effects?
 
@@ -491,6 +483,10 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Import your video under Project Media folder and drag and drop into Timeline.
 
 ![import green screen video filmora](https://images.wondershare.com/filmora/article-images/2022/07/import-green-screen-video-filmora.jpg)
@@ -499,15 +495,15 @@ Step3 Double-click on the video clip and go to Video tab and turn on Chroma Key 
 
 ![adjust chroma key filmora](https://images.wondershare.com/filmora/article-images/2022/07/adjust-chroma-key-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 You will see the background color of the video disappear. Go to Elements> Background and drag and drop any background into Timeline. Make sure it is placed below the video clip and extend the duration of the background color as per your requirements.
 
 ![new background video filmora](https://images.wondershare.com/filmora/article-images/2022/07/new-background-video-filmora.jpg)
 
 Step5 Finally, play the video and click on Export button to save the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. FAQs about Video Background Colors
 
@@ -518,6 +514,10 @@ Import your video clip with a solid background color and place it on Timeline. G
 ### 2\. How do I change a solid background in After Effects?
 
 The steps for After Effects how to change background color solid involve removing the background color and adding a layer of solid color to replace the transparency of the video. Go to Layer> New> Solid. Under Solid Settings window, go to Color and select the desired color from Color option and click on OK button. The new color will get reflected in the background of the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. How do you add a white background in After Effects?
 
@@ -542,7 +542,7 @@ The actual discussion is regarding the splitting of the video by using the VSDC.
 VSDC is a complete open-source program for all users. But the whole interface is not as simple as the Wondershare Filmora. After setting the preview of your video file, this video player starts working independently just for you. Let's look at different methods for splitting the clips in VSDC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Part1 - Splitting of the clip into 2 parts just by a single click:**
@@ -581,13 +581,13 @@ For applying different effects on various parts of your video, split it. In this
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-5.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When the window pops up, click on the "Apply changes" button, and the video automatically gets split. Every part of the video is present on the timeline after one another.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-6.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## An easier way to split the video
 
@@ -687,10 +687,6 @@ Wondershare Filmora is always helpful in splitting, trimming and different optio
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-7.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\.** Save the video clip according to the format of your own choice. Simply click on "Export" and select the format from the tab "Format". It is leftwards of the window. There is a whole list of the formats.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-8.jpeg)
@@ -705,6 +701,10 @@ The video file you select is in the centre position. Even you can preview first 
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-2.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:**
 
 Right-click on the video clip to get the option of "Cutting and Splitting" in the object menu. Or you can even press on the right side of the "Properties window". Then the pop-up window appears that helps you editing your video in VSDC video editor. Select the particular area you don't want by clicking on the "Cut Area" icon. Also, the restoration is possible when you click on the "Remove Area of Deleting" button.
@@ -714,6 +714,10 @@ Right-click on the video clip to get the option of "Cutting and Splitting" in th
 **Step 4:**
 
 At this moment, you can export the video that you have edited. Save it on your PC directly with some format. It is easy to transfer the videos to the smartphone or even uploading on the web.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Part2 - Splitting of the clip from markers while exporting the video file:**
 
@@ -759,10 +763,6 @@ Wondershare Filmora is always helpful in splitting, trimming and different optio
 **Step 2\.** It is essential to select the clip in the timeline and move the play head on the right side. Click on the "Split" scissor icon visible on the toolbar. It helps in separating the videos into different parts.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-7.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3\.** Save the video clip according to the format of your own choice. Simply click on "Export" and select the format from the tab "Format". It is leftwards of the window. There is a whole list of the formats.
 
@@ -857,19 +857,21 @@ Wondershare Filmora has undoubtedly received many positive reviews compared to o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-selecting-superior-capture-cards-switch-style/"><u>[New] 2024 Approved Selecting Superior Capture Cards, Switch Style</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-content-strategies-skyrocket-your-ranking/"><u>[New] YouTube Content Strategies Skyrocket Your Ranking</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-pioneering-photography-with-quantum-hdr-tech/"><u>[Updated] In 2024, Pioneering Photography with Quantum HDR Tech</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-streamlined-method-acquire-free-secure-version-of-vlc-on-mac-for-2024/"><u>[Updated] Streamlined Method Acquire Free, Secure Version of VLC on MAC for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-is-a-recommendation-about-bandicut-if-you-are-confused-please-check-it-out/"><u>2024 Approved This Is a Recommendation About Bandicut. If You Are Confused, Please Check It Out</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/apple-watch-variants-explored-navigating-with-gps-or-opting-for-cellular-service/"><u>Apple Watch Variants Explored: Navigating with GPS or Opting for Cellular Service</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-do-masking-in-after-effects-alternative-provided-for-2024/"><u>How to Do Masking in After Effects Alternative Provided for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-guide-for-setting-tiktok-countdown-timer/"><u>In 2024, Best Guide for Setting TikTok Countdown Timer</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>New 2024 Approved How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-free-ways-to-download-mobile-phone-green-screen-videos-and-pictures-no-copyright/"><u>New Free Ways to Download Mobile Phone Green Screen Videos and Pictures No Copyright</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-0xc0000142-faults-in-win10win11/"><u>Overcoming 0XC0000142 Faults in WIN10/Win11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-audio-rate-on-mobile-and-desktops-for-youtube/"><u>Tailoring Audio Rate on Mobile and Desktops for YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-checking-your-sites-availability-learn-how-to-ping-a-website/"><u>The Definitive Guide to Checking Your Site's Availability – Learn How to Ping a Website</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-expertly-navigate-the-cloud-of-content-with-best-screen-recording-tools/"><u>[New] In 2024, Expertly Navigate the Cloud of Content with Best Screen Recording Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-captures-top-10-online-video-recorders/"><u>[Updated] Cutting-Edge Captures Top 10 Online Video Recorders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-12-top-tier-cameras-that-will-transform-your-vlogging-experience/"><u>[Updated] In 2024, 12 Top-Tier Cameras That Will Transform Your Vlogging Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/influential-voices-shaping-the-future-of-artificial-intelligence/"><u>Influential Voices: Shaping the Future of Artificial Intelligence</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/is-windows-movie-maker-still-available-in-2024/"><u>Is Windows Movie Maker Still Available, In 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-your-neurological-network-9-steps-for-smoother-iphones-and-chatgpt/"><u>Navigate Your Neurological Network: 9 Steps for Smoother iPhones & ChatGPT</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-are-you-in-search-for-a-step-by-step-guide-to-how-to-add-effects-in-tiktok-here-it-is-to-add-some-flavor-to-your-tiktok-videos-use-these-how-to-add-effe/"><u>New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-navigating-the-future-essential-text-to-speech-websites-ranked-for-2024/"><u>New Navigating the Future Essential Text to Speech Websites Ranked for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-reset-guide-for-iphones-struggling-with-chatgpt-apps/"><u>Quick Reset Guide for iPhones Struggling with ChatGPT Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-when-torrents-fail-to-download/"><u>Step-by-Step Solution: When Torrents Fail to Download</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-how-to-make-your-content-trend-on-tiktok-in-10-steps/"><u>The Ultimate Guide: How to Make Your Content Trend on TikTok in 10 Steps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
 </ul></div>
 

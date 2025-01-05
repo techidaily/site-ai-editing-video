@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024
-date: 2024-12-20T03:01:50.686Z
-updated: 2024-12-27T06:30:41.072Z
+date: 2024-12-30T18:34:50.815Z
+updated: 2025-01-05T17:40:13.987Z
 tags: 
   - ai
   - animation videos
@@ -33,15 +33,15 @@ The inclusion of the CIE chromaticity diagram is perhaps the biggest change to D
 
 ![cie 1931 color space](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **2\. Low Pass Filter**
 
 The wavefront and parade scopes now have a low pass filter, which reduces noise in the trace. This visually sharpens the display of the scopes, allowing easier detection of elements in the frame.
 
 ![low pass filter](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The image above shows the major improvements. The second set of waveforms has more defined lines. These have the low-pass filter activated, which makes the scopes easier to read.
 
@@ -155,6 +155,10 @@ Scopes are indeed valuable to video editors and colorists. While viewing images 
 
 The Blackmagic Design continues to improve the Resolve to make it better with every iteration. The new features improve colorist workflow in less powerful ways. The major improvements include a major facelift to the scope, allowing professions to do more with DaVinci resolve. Let’s have a look at some of these changes:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **1\. CIE 1931 Color Space**
 
 The inclusion of the CIE chromaticity diagram is perhaps the biggest change to DaVinci scopes. It displays the gamut of the project as set in the Color Management preferences. This makes it a useful alternate way of looking at the trace of an image to judge when the values are out of legal range. It also functions as an educational tool for learning about the range of color spaces.
@@ -174,10 +178,6 @@ The image above shows the major improvements. The second set of waveforms has mo
 The vectorscope has been added to the ability to toggle the mid-tones, shadows, and highlights of the image independently. You can set the ranges with greater visualization control.
 
 ![high, mid, and low views in vectorscope](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-3.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 As seen in the picture above, the vectorscope controls allow you to select the low, mid, or high range of the image. You can also set the low and high ranges as desired.
 
@@ -213,10 +213,6 @@ DaVinci scopes help you to analyze images as a basis for color correction. When 
 * [Parade (RGB)](#davinci2)
 * [Vectorscope](#davinci3)
 * [Histogram](#davinci4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **1\. Waveform**
 
@@ -264,10 +260,6 @@ Using video scopes on Filmora is easy. The software offers four video scope opti
 
 ![access video scopes](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-12.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Filmora has made it easy for users to manage video scopes, and color-correct videos quickly. Users can change the layout options of the video scopes to match the editing needs of their project. You can also expand the button to show the name of the scope. As you manage the scopes, you can start with the Parade to make the necessary adjustments. Then move on to waveform, vectorscope, and histogram.
 
 ![manage video scopes](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-13.JPG)
@@ -295,6 +287,10 @@ Scopes are indeed valuable to video editors and colorists. While viewing images 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Websites to Free Download Motivational Video Footage
 
@@ -342,6 +338,10 @@ In essence, whether you're crafting a "motivation status video download" for a b
 ## Part 2: Using Filmora to Edit Motivational Video Footage
 
 Filmora has steadily risen in popularity, becoming a go-to choice for many when it comes to video editing. Whether you have tons of experience or you're just starting out in the world of video creation, Filmora provides a user-friendly interface along with a wide range of useful tools. Let's delve into how you can use Filmora to craft that perfect "motivation status video."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step1 Importing Your Footage
 
@@ -393,6 +393,10 @@ Adobe Stock is a treasure trove of high-quality videos. While it's primarily a p
 
 Another premium platform, iStock by Getty Images, offers a diverse collection of video clips. From breathtaking landscapes to poignant human moments, you'll find a plethora of options here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Shutterstock
 
 Shutterstock is a household name in the world of digital media. With an extensive library, this platform provides clips that can cater to virtually any theme or mood you're aiming for.
@@ -419,17 +423,9 @@ Filmora has steadily risen in popularity, becoming a go-to choice for many when 
 
 Start by importing your selected motivational video footage from platforms like Pixabay, Pexels, or any of the previously mentioned sites. Exactly! Just click on the 'Import' button and choose the clips you'd like.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step2 Trimming and Merging
 
 Once imported, you may want to trim the videos or merge multiple clips to make your motivational status video coherent. Use Filmora's easy drag-and-drop timeline for this purpose.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step3 Adding Music
 
@@ -452,10 +448,6 @@ Give your**"motivation status video download"**a polished feel with smooth trans
 Once satisfied, export your video in the desired format. With Filmora, you can also directly share your **"motivational status video download"**to various social media platforms, amplifying its reach.
 
 Filmora's versatility ensures that you not only create a compelling "motivation status video" but also enjoy the process. Its user-friendly tools are perfect for crafting videos that resonate and inspire.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Summary
 
@@ -520,6 +512,10 @@ Managing video duration on your preferred domain is so crucial these days, mainl
 
 ![how to speed up canva video 1](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Upload Your Speed Up Canva Video on the Console
 
 1) Now, you can either upload your video project into the console through the "**Upload**" tab or use the provided video templates from the "**Videos**" section.
@@ -539,6 +535,10 @@ After previewing the clip, you will soon realize that your video is going too sl
 1) To download the original video in Canva, move your cursor to the top and select the "**share**" button.
 
 ![change video speed in canva 1](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Before you download the file, make sure that you have the MP4 format selected.
 
@@ -566,10 +566,6 @@ _Eizgif also gives you the freedom to adjust sound, if your video has any_
 
 ![canva video speed up](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Now re-upload your changed video speed in Canva and drag it onto the timeline through the "**Videos**" tab.
 
 ![video canva fast speed](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-12.png)
@@ -577,6 +573,10 @@ _Eizgif also gives you the freedom to adjust sound, if your video has any_
 3) Review the clip and notice the enhanced video speed from the Canva editor when it's done.
 
 ![filmora speed and duration](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _So technically, you can change video speed in Canva, but the process can be time-consuming, especially for starters._
 
@@ -587,10 +587,6 @@ Canva is no doubt a great video and graphic editor, but there are a handful of f
 To work on these downsides, dozens of alternatives are available on the market; one of the better ones is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It's a full-proof video and audio editing app with tons of customizations under its belt. Individuals can use this powerful tool to create unique media content.
 
 Everything is seamless in Filmora, and it's supported on all major operating systems. There is no technical jargon in its application, and even beginners will be able to enjoy its interface.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Highlights of Filmora Compared to Canva Video Speed-Ups
 
@@ -704,7 +700,7 @@ This was our two cents on how you can speed up a video on Canva. In the end, spe
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Ideas on Using Green Screen with Filmora
@@ -728,6 +724,10 @@ Green screener chroma key is commonly used in film, tv shows, and social media v
 **4\. T-shirt TV Screen**
 
 ![t-shirt tv screen](https://images.wondershare.com/filmora/article-images/2023/01/fun-green-screen-4.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Setting Up The Green Screen
 
@@ -784,22 +784,16 @@ Aside from a video background, there are many things you can use chrome key effe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-5-must-try-websites-for-cost-free-effects/"><u>[New] 2024 Approved 5 Must-Try Websites for Cost-Free Effects</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-boost-photographic-vision-get-free-and-paid-lut-upgrades/"><u>[New] Boost Photographic Vision - Get FREE & Paid LUT Upgrades</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-from-amateur-to-expert-a-compreenhensive-tutorial-on-zoom-recording-quality/"><u>[New] In 2024, From Amateur to Expert A Compreenhensive Tutorial on Zoom Recording Quality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-all-things-about-adding-effects-in-kinemaster/"><u>2024 Approved All Things About Adding Effects In Kinemaster</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/face-id-vs-snapchats-face-unlock-the-apple-vs-samsung-debate-for-2024/"><u>Face ID Vs. Snapchat's Face Unlock The Apple Vs. Samsung Debate for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-communicate-with-youtube-subscribers/"><u>How to Communicate with YouTube Subscribers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-breakdown-of-pewdiepies-monthly-earning-trends/"><u>In 2024, Breakdown of PewDiePie's Monthly Earning Trends</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-download-microsoft-ergo-4000-keyboard-drivers-streamlined-setup/"><u>Instant Download: Microsoft Ergo 4000 Keyboard Drivers – Streamlined Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/microsofts-pioneering-artificial-intelligence-hub/"><u>Microsoft’s Pioneering Artificial Intelligence Hub</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-do-you-know-how-ai-is-helping-video-editors-and-enthusiasts-many-video-editing-software-allows-an-auto-reframe-option-to-use-that-can-help-manage-videos/"><u>New Do You Know How AI Is Helping Video Editors and Enthusiasts? Many Video Editing Software Allows an Auto Reframe Option to Use that Can Help Manage Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-green-screen-video-in-after-effects/"><u>New How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-film-a-slow-motion-video-for-2024/"><u>New How To Film a Slow Motion Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-animated-titles-and-text-in-the-filmora-video-editor-this-is-a-simple-step-by-step-tutorial-for-any-skill-level/"><u>New Learn How to Create Animated Titles and Text in the Filmora Video Editor. This Is a Simple Step-by-Step Tutorial for Any Skill Level</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/proven-methods-for-backdrop-cleansing-in-photoshop-enhanced-by-affinity-for-2024/"><u>Proven Methods for Backdrop Cleansing in Photoshop Enhanced by Affinity for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-font-effects-to-videos/"><u>Updated 2024 Approved How to Add Font Effects to Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-stabilizing-pixels-the-truth-behind-photoshop-shake-for-2024/"><u>[New] Stabilizing Pixels The Truth Behind Photoshop Shake for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-saber-stability-issues-troubleshooting-game-crashes/"><u>Beat Saber Stability Issues - Troubleshooting Game Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-408-timeouts-a-comprehensive-guide-to-identifying-and-resolving-the-issue/"><u>Dealing with 408 Timeouts: A Comprehensive Guide to Identifying & Resolving the Issue</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-sony-xperia-10-v-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Sony Xperia 10 V FRP Bypass</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-shot-perfection-with-ios-11-innovations-for-2024/"><u>IPhone Shot Perfection with iOS 11 Innovations for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/navigating-the-world-of-wifi-easier-with-tp-links-deco-p9-system-a-detailed-breakdown/"><u>Navigating the World of WiFi Easier with TP-Link's Deco P9 System - A Detailed Breakdown</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audiovisual-beat-engineering-taking-audio-separates-for-creative-endeavors/"><u>New Audiovisual Beat Engineering Taking Audio Separates for Creative Endeavors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-what-is-the-best-fps-for-youtube-videos/"><u>New In 2024, What Is the Best FPS for YouTube Videos?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-subtitles/"><u>Updated Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-text-animation-intro-tutorial-in-filmora/"><u>Updated Text Animation Intro Tutorial in Filmora</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Customized Transitions to OBS
-date: 2024-12-24T23:37:47.494Z
-updated: 2024-12-27T04:39:47.695Z
+date: 2024-12-29T18:45:14.723Z
+updated: 2025-01-05T17:08:16.859Z
 tags: 
   - ai
   - animation videos
@@ -77,10 +77,6 @@ Step2 Import or drop your video clips under Project Media folder. Then drag and 
 
 ![import or drop video clips](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Go to Transitions tab located at the top of the application screen. You will see different categories of transitions on the left side.
 
 ![go to transitions tab](https://images.wondershare.com/filmora/guide/add-transitions-1.png)
@@ -88,6 +84,10 @@ Step3 Go to Transitions tab located at the top of the application screen. You wi
 Step4 Check them out and once you have selected one to apply, drag and drop it in between the video clips.
 
 ![check transitions out](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Play the video and click on Export button to save the video.
 
@@ -184,14 +184,6 @@ Step4 Double-click on the text layer to type in your desired text. Reposition th
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Use Premiere Pro to Make Motion Text
 
 Adobe Premiere Pro is one of the most preferred video editors among professionals. Even though Premiere Pro does not come with a vast set of motion text effects, you can download them online and import them to use for the texts in your video. Here are the steps to create text motion graphics on Premiere Pro.
@@ -208,10 +200,6 @@ Step3 If you want to edit the animation, select the text layer and go to Effects
 
 ![adjust key frame premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/adjust-key-frame-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bring the keyframes closer or spread them apart to speed up or slow down. Tweak parameters like? Velocity Controls under different text properties to edit the animation effectively.
 
 ## Part 3\. How to Make Motion Text in After Effects
@@ -226,13 +214,13 @@ Step2 Go to Effects and Presets panel, go through and search for the desired mot
 
 ![drag preset text layer after effects](https://images.wondershare.com/filmora/article-images/2022/09/drag-preset-text-layer-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 From Current Time Indicator, slide the keyframes to adjust the animation. Click on the text layer to expand it and adjust different parameters to get the desired text animation.
 
 ![adjust desired text animation after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-desired-text-animation-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Best Motion Effects Ideas to Try
 
@@ -269,6 +257,10 @@ Step3 Go to Titles and search for “animation” and you will get all the motio
 Step4 Double-click on the text layer to type in your desired text. Reposition the text layer on the timeline and on the video from Viewer.
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Use Premiere Pro to Make Motion Text
 
@@ -348,10 +340,6 @@ With many video filter editors available online, choosing the right one can be d
 ### Veed.io
 
 ![filter online4](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Veed.io is more than just an online video editor. This platform is designed with the user in mind, ensuring a hassle-free experience as they navigate its diverse video editing tools. One of the standout features is, undoubtedly, its video filter capabilities.
 
@@ -462,10 +450,6 @@ When it comes to alternative video filter editors, Filmora undoubtedly stands ou
 1. **Regular Updates** **:** Filmora continuously updates its software, adding new filters and features. This means users can always stay ahead of the curve and incorporate the latest trends into their videos.
 1. **Pricing and Value** **:** While Filmora isn't free, the value it offers makes the investment worthwhile. The tool offers various pricing plans designed for both individuals and businesses. Given the quality and diversity of its video filters, many content creators view it as a justifiable expense.
 1. **Community and Tutorials** **:** Filmora boasts a vibrant community of users. Their official website and channels regularly release tutorials, guiding users on the various functionalities, ensuring you make the most out of the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Summary
 
@@ -559,6 +543,10 @@ Absolutely, users can enjoy filter functions for free.
 
 ![filter online2](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 KAPWING has swiftly carved its niche in the world of online video editing, offering a unique blend of simplicity and versatility. Beyond just a video editor, KAPWING is a creative toolkit that empowers users to bring their video visions to life with ease.
 
 **Is the product free?**
@@ -591,6 +579,10 @@ When it comes to alternative video filter editors, Filmora undoubtedly stands ou
 1. **Pricing and Value** **:** While Filmora isn't free, the value it offers makes the investment worthwhile. The tool offers various pricing plans designed for both individuals and businesses. Given the quality and diversity of its video filters, many content creators view it as a justifiable expense.
 1. **Community and Tutorials** **:** Filmora boasts a vibrant community of users. Their official website and channels regularly release tutorials, guiding users on the various functionalities, ensuring you make the most out of the software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Summary
 
 The digital space is flooded with content, making it crucial for creators to ensure their videos capture attention and engage viewers. Utilizing video filters can significantly boost the visual appeal of your content.
@@ -610,10 +602,6 @@ And for those willing to invest a little, Filmora stands as a robust alternative
 Selective color is an effect that lets you desaturate all the colors in a photo or video while preserving one or more colors of your choice. It is done by isolating a specific color of your choice in the frame while all other colors turn into black and white, just like this.
 
 ![color isolation](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By using this effect, we can draw viewers' attention to a specific point in the clip. If you want your video do the same, Filmora can be a good helper. Alright, we’ll be creating selective color effects in two examples. Let’s get started.
 
@@ -655,11 +643,19 @@ Step7 Now adjust the range slider to decrease the number of unwanted tints.
 
 ![adjusting the range slider](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step8 To blur the edges of the effects, turn up the softened slider and remove any unwanted tint previously remaining.
 
 ![blurring the edges of effects](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-9.jpg)
 
 In this way, you can add a selective color effect to your video clips and isolate the color of your choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tutorial 2 on make color isolation using eyedropper tool
 
@@ -681,25 +677,25 @@ Step4 Double-click on the clip and visit the effects menu at the top of the scre
 
 ![opening effects menu](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Click on the ‘first color’ and select the eye dropper tool. This will allow us to select the red flower in the preview window. You can also click different parts of the image to get the color that we want.
 
 ![select the first color and eye dropper tool](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step6 Next, try selecting a second color to isolate within our shot. In this example, we are going to make the stems on the flowers stand out as well. Select second color and go to the tint section. And find a color that is close to the second color, which will be green in this case.
 
 ![clicking on the second color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step7 Pick the eyedropper tool and click it on the green part of the clip. Then adjust the range slider as needed.
 
 ![adjusting range slider](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-16.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Alright, let’s watch back the video to see how both colors are now isolated.
 
@@ -724,6 +720,10 @@ Step3 Find the Selective Color Effect and drag it onto the clip. The effect will
 Step4 Next, double-click on the clip and check out the effects menu at the top of the screen.
 
 ![effects menu](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Open the preset drop-down menu. There will be a lot of presets with different colors. Select the preset you want to use. In this scenario, let us select Just Blue.
 
@@ -799,14 +799,18 @@ Follow all the steps in the correct order. This is how you can use NewBlue effec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-prime-premiere-pro-blueprints-best-free-2023-for-2024/"><u>[New] Prime Premiere Pro Blueprints - Best Free 2023 for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-3-twitter-video-tools-for-easy-uploads/"><u>[Updated] In 2024, Top 3 Twitter Video Tools for Easy Uploads</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/buy-these-three-new-apple-devices-announced-at-wwdc-today-plus-your-guide-on-how-and-where-to-pre-order-them-tech-insights-by-zdnet/"><u>Buy These Three New Apple Devices Announced at WWDC Today - Plus, Your Guide on How and Where to Pre-Order Them | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-se-2022-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone SE (2022) Smoothly</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article/"><u>In 2024, Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-guide-to-overlay-videos-in-premiere-pro/"><u>In 2024, Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-vacation-slideshow-in-5-minutes/"><u>In 2024, How to Create a Vacation Slideshow in 5 Minutes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-want-to-loop-a-video-to-extend-its-duration-you-can-use-imovie-to-loop-a-video-on-your-mac-and-iphone-and-we-will-illustrate-how-to-loop-a-video-in-/"><u>In 2024, Want to Loop a Video to Extend Its Duration? You Can Use iMovie to Loop a Video on Your Mac and iPhone and We Will Illustrate How to Loop a Video in iMovie</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862803132-save-big-on-a-high-quality-156-1080p-ips-monitor-now-only-6599/"><u>Save Big on a High-Quality 15.6 1080P IPS Monitor - Now Only $65.99!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-exclusive-list-skypes-top-audio-recorders/"><u>[Updated] Exclusive List Skype's Top Audio Recorders</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-huawei-nova-y91-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Huawei Nova Y91 FRP</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-guide-to-zoom-video-in-vlc/"><u>Easy Guide to Zoom Video in VLC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722964778395-essential-intel-ethernet-and-wi-fi-drivers-for-windows-operating-systems-download-today/"><u>Essential Intel Ethernet & Wi-Fi Drivers for Windows Operating Systems – Download Today!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oppo-a56s-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Oppo A56s 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/la-seleccion-de-los-mejores-lectores-multimedia-en-alta-definicion-4k-opciones-premium-para-pc-y-mac/"><u>La Selección De Los Mejores Lectores Multimedia en Alta Definición 4K: Opciones Premium Para PC Y MAC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pro-level-comparison-2022s-gopro-hero5-and-virb-streamers-for-2024/"><u>Pro-Level Comparison 2022'S GoPro Hero5 & VIRB Streamers for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/take-flight-with-social-media-dji-drone-streaming-basics-for-2024/"><u>Take Flight with Social Media DJI Drone Streaming Basics for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-master-list-of-prime-audio-time-reverse-software-ranked-for-desktop-laptop-and-smartphone-use-for-2024/"><u>Updated Master List of Prime Audio Time-Reverse Software Ranked for Desktop, Laptop, and Smartphone Use for 2024</u></a></li>
 </ul></div>
 

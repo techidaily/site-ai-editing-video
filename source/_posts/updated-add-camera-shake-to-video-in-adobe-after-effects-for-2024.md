@@ -1,7 +1,7 @@
 ---
 title: Updated Add Camera Shake to Video in Adobe After Effects for 2024
-date: 2024-12-26T06:38:09.533Z
-updated: 2024-12-26T21:12:13.790Z
+date: 2025-01-02T21:47:36.615Z
+updated: 2025-01-05T21:36:33.462Z
 tags: 
   - ai
   - animation videos
@@ -35,8 +35,111 @@ So you've shot your video with good camera technique and shot it on a good camer
 
 03 [Bonus! Camera Shake Presets for After Effects](#part3)
 
+## Why Do We Need To Add A Camera Shake Effect To The Video?
+
+Have you ever tried to add a simple camera shake effect to your videos? You know, those cool shake effects that you may have seen on an amateur or professional video on the web? Well, if you have, then you probably thought it was impossible. The camera shake effect is a technique applied to the clips where shaky camera movements cause the image to appear more cinematic and real. Applying a camera shake effect is to hide your flaws when shooting a video.
+
+Camera shake is often mistaken for poor cinematography. It can enhance your video. For instance, if you're filming something like a car chase or any other scene where there's lots of movement and action, the inclusion of a camera shake can help make it more realistic.
+
+A camera shake effect can be an excellent way of adding a sense of realism to your videos. Whether you're making a video that's meant to be taken as a real scene, such as one depicting a robbery, or one that's supposed to be shot in a documentary style, such as making a movie, you can use this as an effective tool. You can consider adding camera shakes to your videos due to the following reasons:
+
+* This camera shake effect makes your video more creative. If you want to make, your video different from those other businesses produce, adding this effect will be a good idea.
+* Your audience will be able to relate better to your video if they've seen similar videos before.
+* Adding a camera shake to your video will make it more interesting and engaging for your viewers.
+* It's a great way to mask any mistakes you might have made during the video production. After all, we aren't perfect humans, so we can't make perfect videos every time!"
+* You can use camera shakes to simulate the feeling of being in an environment that is free from control (such as being on a boat).
+* You can use them to create a sense of urgency for the viewer/audience by adding motion blur to the sequence.
+
+## How to add camera shake to video in After Effects
+
+When it comes to video editing, knowing how to make a layer shake in After Effects is a very useful skill. Using it correctly can add subtle motion to a static frame, emphasize an important object, and even make a character quiver in fear! In this tutorial, you will learn how to effectively use the wiggle expression to affect a layer throughout the Composition.
+
+### Step 1\. Select the layer you want to shake from your After Effects file
+
+Suppose you have an image or video of an object and want to apply it to shake effect, then it is quite easy. Just follow the steps described below.
+
+![camera shake effects for premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-after-effects-1.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Step 2\. Press the alt/option key, then click the stopwatch next to "position."
+
+You are adding an "expression" to the timeline when the position text turns red, and you begin typing. Using a coding language adapted from javascript, you can apply complex motion to layers.
+
+By pressing the alt/option again on the stopwatch, you can edit your expression anytime-or by clicking the arrow beside "position" and then double-clicking the text in the timeline.
+
+![use camera shake in premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-after-effects-2.jpg)
+
+### Step 3\. Enter "Wiggle (3,8)" and adjust the settings accordingly
+
+In this expression, the first number indicates the frequency of Wiggle -- basically, how quickly it appears to tremble. Its amplitude is the second number, which indicates how far it moves. The numbers are adjustable as you wish. Layers will shake dramatically but slowly when they use Wiggle (2,40). The "Wiggle (10,3)" command makes a layer move quickly without too much movement in one direction.
+
+### Step 4\. Adjust the frame rate of your Composition
+
+In order to make the overall effect more "choppy," you can reduce the frame rate of the video by going to Composition> Composition settings. After Effects uses a frame rate of 24.5, you can go as low as "8" if you want a choppy feel.
+
+![how to use camera shake in premiere pro - adjust frame rate](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-after-effects-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Your entire Composition will become choppier if you reduce the frame rate, so it might not be worth it if you have other moving elements in your Composition. Only adjust the frame rate of the layer containing the wiggling object if you want it to affect that layer.
+
+## Bonus! Camera Shake Presets for After Effects
+
+Working with After Effects, you will have to shoot a movie that uses a camera shake. It is important to read the manual completely to take control of the camera. After Effects provides us with ready-made presets that we can quickly and easily. Here is a set of 5 camera shake presets that will help you create motion effects.
+
+#### Normal Light 1
+
+This preset gives you a light camera shake like a normal lens.
+Resolution: 2K (2048x1080) and 4K (4096x2160)  
+Frame Rate: 29.97fps
+
+#### Earthquake 1
+
+This preset gives you a feel of camera shake, just like from an earthquake.  
+Resolution: 2K (2048x1080) and 4K (4096x2160)  
+Frame Rate: 29.97fps
+
+#### Normal Heavy 1
+
+This preset provides you with a feel of a heavy camera shake from a normal lens.  
+Resolution: 2K (2048x1080) and 4K (4096x2160)  
+Frame Rate: 29.97fps
+
+#### Telephoto Light 1
+
+This preset gives you an effect of light camera shake from a telephoto lens.  
+Resolution: 2K (2048x1080) and 4K (4096x2160)  
+Frame Rate: 29.97fp
+
+#### Wide Heavy 1
+
+You get a heavy camera shake from a wide lens with this preset.  
+Resolution: 2K (2048x1080) and 4K (4096x2160)  
+Frame Rate: 29.97fp
+
+## Conclusion
+
+**●** We hope that this tutorial gave you some new ideas for making your videos more interesting for your audience. It's easy to add camera shake to your videos in Adobe After Effects. It's a matter of getting all the right details right—that means it's a matter of knowing all the right settings and controls, which we detail above. With this information and a little practice, you'll be able to add that cinematic flair to your video footage in no time.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+So you've shot your video with good camera technique and shot it on a good camera; how can you make it look like you shot it on an old PXL 2000? Well, the answer is to add a little camera shake to the footage. If you've ever been to a theme park, then you've likely seen the effect of camera shake. Video camera shake can be a powerful tool for telling a story and creating an impactful scene. It helps to build suspense and make the video more realistic. This article will show you how to add camera shake to your videos using Adobe After Effects.
+
+#### In this article
+
+01 [Why Do We Need To Add A Camera Shake Effect To The Video?](#part1)
+
+02 [How to add camera shake to video in After Effects](#part2)
+
+03 [Bonus! Camera Shake Presets for After Effects](#part3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Do We Need To Add A Camera Shake Effect To The Video?
@@ -72,10 +175,6 @@ By pressing the alt/option again on the stopwatch, you can edit your expression 
 
 ![use camera shake in premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-after-effects-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3\. Enter "Wiggle (3,8)" and adjust the settings accordingly
 
 In this expression, the first number indicates the frequency of Wiggle -- basically, how quickly it appears to tremble. Its amplitude is the second number, which indicates how far it moves. The numbers are adjustable as you wish. Layers will shake dramatically but slowly when they use Wiggle (2,40). The "Wiggle (10,3)" command makes a layer move quickly without too much movement in one direction.
@@ -87,6 +186,10 @@ In order to make the overall effect more "choppy," you can reduce the frame rate
 ![how to use camera shake in premiere pro - adjust frame rate](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-after-effects-3.jpg)
 
 Your entire Composition will become choppier if you reduce the frame rate, so it might not be worth it if you have other moving elements in your Composition. Only adjust the frame rate of the layer containing the wiggling object if you want it to affect that layer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus! Camera Shake Presets for After Effects
 
@@ -216,109 +319,6 @@ Frame Rate: 29.97fp
 You get a heavy camera shake from a wide lens with this preset.  
 Resolution: 2K (2048x1080) and 4K (4096x2160)  
 Frame Rate: 29.97fp
-
-## Conclusion
-
-**●** We hope that this tutorial gave you some new ideas for making your videos more interesting for your audience. It's easy to add camera shake to your videos in Adobe After Effects. It's a matter of getting all the right details right—that means it's a matter of knowing all the right settings and controls, which we detail above. With this information and a little practice, you'll be able to add that cinematic flair to your video footage in no time.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-So you've shot your video with good camera technique and shot it on a good camera; how can you make it look like you shot it on an old PXL 2000? Well, the answer is to add a little camera shake to the footage. If you've ever been to a theme park, then you've likely seen the effect of camera shake. Video camera shake can be a powerful tool for telling a story and creating an impactful scene. It helps to build suspense and make the video more realistic. This article will show you how to add camera shake to your videos using Adobe After Effects.
-
-#### In this article
-
-01 [Why Do We Need To Add A Camera Shake Effect To The Video?](#part1)
-
-02 [How to add camera shake to video in After Effects](#part2)
-
-03 [Bonus! Camera Shake Presets for After Effects](#part3)
-
-## Why Do We Need To Add A Camera Shake Effect To The Video?
-
-Have you ever tried to add a simple camera shake effect to your videos? You know, those cool shake effects that you may have seen on an amateur or professional video on the web? Well, if you have, then you probably thought it was impossible. The camera shake effect is a technique applied to the clips where shaky camera movements cause the image to appear more cinematic and real. Applying a camera shake effect is to hide your flaws when shooting a video.
-
-Camera shake is often mistaken for poor cinematography. It can enhance your video. For instance, if you're filming something like a car chase or any other scene where there's lots of movement and action, the inclusion of a camera shake can help make it more realistic.
-
-A camera shake effect can be an excellent way of adding a sense of realism to your videos. Whether you're making a video that's meant to be taken as a real scene, such as one depicting a robbery, or one that's supposed to be shot in a documentary style, such as making a movie, you can use this as an effective tool. You can consider adding camera shakes to your videos due to the following reasons:
-
-* This camera shake effect makes your video more creative. If you want to make, your video different from those other businesses produce, adding this effect will be a good idea.
-* Your audience will be able to relate better to your video if they've seen similar videos before.
-* Adding a camera shake to your video will make it more interesting and engaging for your viewers.
-* It's a great way to mask any mistakes you might have made during the video production. After all, we aren't perfect humans, so we can't make perfect videos every time!"
-* You can use camera shakes to simulate the feeling of being in an environment that is free from control (such as being on a boat).
-* You can use them to create a sense of urgency for the viewer/audience by adding motion blur to the sequence.
-
-## How to add camera shake to video in After Effects
-
-When it comes to video editing, knowing how to make a layer shake in After Effects is a very useful skill. Using it correctly can add subtle motion to a static frame, emphasize an important object, and even make a character quiver in fear! In this tutorial, you will learn how to effectively use the wiggle expression to affect a layer throughout the Composition.
-
-### Step 1\. Select the layer you want to shake from your After Effects file
-
-Suppose you have an image or video of an object and want to apply it to shake effect, then it is quite easy. Just follow the steps described below.
-
-![camera shake effects for premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-after-effects-1.jpg)
-
-### Step 2\. Press the alt/option key, then click the stopwatch next to "position."
-
-You are adding an "expression" to the timeline when the position text turns red, and you begin typing. Using a coding language adapted from javascript, you can apply complex motion to layers.
-
-By pressing the alt/option again on the stopwatch, you can edit your expression anytime-or by clicking the arrow beside "position" and then double-clicking the text in the timeline.
-
-![use camera shake in premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-after-effects-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Step 3\. Enter "Wiggle (3,8)" and adjust the settings accordingly
-
-In this expression, the first number indicates the frequency of Wiggle -- basically, how quickly it appears to tremble. Its amplitude is the second number, which indicates how far it moves. The numbers are adjustable as you wish. Layers will shake dramatically but slowly when they use Wiggle (2,40). The "Wiggle (10,3)" command makes a layer move quickly without too much movement in one direction.
-
-### Step 4\. Adjust the frame rate of your Composition
-
-In order to make the overall effect more "choppy," you can reduce the frame rate of the video by going to Composition> Composition settings. After Effects uses a frame rate of 24.5, you can go as low as "8" if you want a choppy feel.
-
-![how to use camera shake in premiere pro - adjust frame rate](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-after-effects-3.jpg)
-
-Your entire Composition will become choppier if you reduce the frame rate, so it might not be worth it if you have other moving elements in your Composition. Only adjust the frame rate of the layer containing the wiggling object if you want it to affect that layer.
-
-## Bonus! Camera Shake Presets for After Effects
-
-Working with After Effects, you will have to shoot a movie that uses a camera shake. It is important to read the manual completely to take control of the camera. After Effects provides us with ready-made presets that we can quickly and easily. Here is a set of 5 camera shake presets that will help you create motion effects.
-
-#### Normal Light 1
-
-This preset gives you a light camera shake like a normal lens.
-Resolution: 2K (2048x1080) and 4K (4096x2160)  
-Frame Rate: 29.97fps
-
-#### Earthquake 1
-
-This preset gives you a feel of camera shake, just like from an earthquake.  
-Resolution: 2K (2048x1080) and 4K (4096x2160)  
-Frame Rate: 29.97fps
-
-#### Normal Heavy 1
-
-This preset provides you with a feel of a heavy camera shake from a normal lens.  
-Resolution: 2K (2048x1080) and 4K (4096x2160)  
-Frame Rate: 29.97fps
-
-#### Telephoto Light 1
-
-This preset gives you an effect of light camera shake from a telephoto lens.  
-Resolution: 2K (2048x1080) and 4K (4096x2160)  
-Frame Rate: 29.97fp
-
-#### Wide Heavy 1
-
-You get a heavy camera shake from a wide lens with this preset.  
-Resolution: 2K (2048x1080) and 4K (4096x2160)  
-Frame Rate: 29.97fp
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -431,6 +431,10 @@ Frame Rate: 29.97fp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 5 AI Music Video Examples and Makers to Make Them
 
@@ -480,10 +484,6 @@ This is an Android-based app developed by FuzeBits Inc that allows the creation 
 
 ![VideoFX Music Video Maker](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 05Mixxx
 
 This is an interesting tool for creating professional-looking music videos using its advanced features. With the drag and drop function, using the tool becomes very easy and it supports the function where the places on the track can be marked using the Hot Keys. The tempo of the song can also be changed by controlling the pitch and its complete music mixer will let you create awesome DJ-type tracks.
@@ -509,10 +509,6 @@ Music videos are an excellent combination of interesting videos and music files 
 01 [Some Interesting Examples Of AI Music Videos](#Part 1)
 
 02 [Top 5 Music Video Makers](#Part 2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1 Some Interesting Examples Of AI Music Videos
 
@@ -560,10 +556,6 @@ Music videos are an excellent combination of interesting videos and music files 
 
 ![AI Music Videos](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### In this article
 
 01 [Some Interesting Examples Of AI Music Videos](#Part 1)
@@ -583,10 +575,6 @@ To help you create music videos in a hassle-free manner and like a pro, several 
 This is one of the best tools for creating a music video on your Windows and Mac systems. Quick to download, the program comes with several features that can be further customized for creating your desired footage. The drag and drop function further make the task quick and easy. To ensure that along with customized videos, the audio quality is also great, the software support functions like automatic audio sync, audio compression, audio equalizer, and more. For video editing, you can add transitions, filters, effects, and many other elements. By the way, now, you can generate music for commercial use and seamlessly select sound effects with Filmora's filtering features. The interface is simple and user-friendly which makes the software apt for beginners as well as pros.
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 02Rotor Videos
 
@@ -626,10 +614,6 @@ Music videos are an excellent combination of interesting videos and music files 
 
 02 [Top 5 Music Video Makers](#Part 2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1 Some Interesting Examples Of AI Music Videos
 
 The **AI generated music video** are getting the attention of a lot of users these days and if you too are keen to check out some of these files, check out the list below of **YouTube music ai** files.
@@ -650,17 +634,29 @@ This is an online music video-making service that can help you create your desir
 
 ![Rotor Videos](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 04VideoFX Music Video Maker
 
 This is an Android-based app developed by FuzeBits Inc that allows the creation of interesting music videos. Using the app, you can also record the lip-sync music and then customize it using over 50 filters like neon, mirror, thermal, and more. Preset shooting modes – fast motion, auto-pause, and stop motion is also sorted. Other editing functions include stickers, text, filters, and more.
 
 ![VideoFX Music Video Maker](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 05Mixxx
 
 This is an interesting tool for creating professional-looking music videos using its advanced features. With the drag and drop function, using the tool becomes very easy and it supports the function where the places on the track can be marked using the Hot Keys. The tempo of the song can also be changed by controlling the pitch and its complete music mixer will let you create awesome DJ-type tracks.
 
 ![Mixx](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **●** Ending Thoughts **→**
 
@@ -706,9 +702,17 @@ Step1Adobe Premier Pro has two volume keyframes; Track and Clip. Make the audio 
 
 ![clip keyframes premiere](https://images.wondershare.com/filmora/article-images/2022/08/clip-keyframes-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2You can then press down on the Command Key (macOS) or the Control Key (PC) and drag the volume line down to add a fade-in or fade-out effect.
 
 ![drag volume line premiere](https://images.wondershare.com/filmora/article-images/2022/08/drag-volume-line-premiere.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Adobe Premiere Alternative Way to Fade Audio
 
@@ -752,10 +756,6 @@ Then check the volume in Premiere to see if the audio meter is moving as you pla
 
 If your volume is fine but you still can't hear the audio, you may need to adjust several settings. Go to Edit > Preferences (on PC) or Preferences menu under the main Premiere Pro CC menu (macOS) and select “Audio Hardware” in the options that appear. You can then change the “Default Output” device to something else.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. How Do You do Audio Transitions in Premiere Pro
 
 Adding audio transitions in Premiere Pro is very easy; just open the audio that you want to edit and then Right-click (PC) or Control- Click (macOS) on either the “Constant Gain” or “Constant Power” effect from the Effects panel. Then choose “Set Selected as Default Transition” from the options in the menu.
@@ -788,20 +788,19 @@ To add a duration for the audio transitions, go to Edit > Preferences > Timeline
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-elite-fighters-unleashed-selecting-superior-street-fighter-clones/"><u>[New] In 2024, Elite Fighters Unleashed Selecting Superior Street Fighter Clones</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-intro-with-legend-intro-maker/"><u>2024 Approved How to Create Intro with Legend Intro Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>2024 Approved How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-make-modern-tiktok-velocity-dance-videos-in-filmora-just-like-the-ones-you-see-on-tiktok-and-instagram-reels/"><u>2024 Approved Learn How to Make Modern TikTok Velocity Dance Videos in Filmora Just Like the Ones You See on TikTok and Instagram Reels</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chronological-cinematic-journey-through-the-transformers-universe/"><u>Chronological Cinematic Journey Through The Transformers Universe</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engage-in-endless-learning-from-strategic-play-to-artistic-creation-via-gpt-my-bots/"><u>Engage in Endless Learning: From Strategic Play to Artistic Creation via GPT-My Bots</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-download-and-use-windows-movie-maker-10-for-2024/"><u>How to Download and Use Windows Movie Maker 10 for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-15-pro-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 15 Pro to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leap-into-the-future-adopting-macos-11-big-sur/"><u>Leap Into the Future Adopting macOS 11 Big Sur</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-best-laptops-for-video-editing/"><u>The Best Laptops For Video Editing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-iphone-display-a-step-by-step-guide/"><u>Troubleshooting a Non-Responsive iPhone Display: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-beginner-friendly-choir-separation-technology-for-professional-use/"><u>Updated Beginner-Friendly Choir Separation Technology for Professional Use</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>Updated Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-this-article-talks-in-detail-about-how-to-convert-time-lapse-to-normal-video-using-certain-methods-on-iphone-online-tools-and-so-on-it-further-discu/"><u>Updated This Article Talks in Detail About How to Convert Time-Lapse to Normal Video Using Certain Methods on iPhone, Online Tools, and so On. It Further Discusses Converting Time-Lapse Video to Normal on the Computer. Check Out</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-podcast-openings-unveiled-scripted-appeals/"><u>[New] In 2024, Podcast Openings Unveiled Scripted Appeals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-troubleshoot-tweets-on-chrome-not-loading/"><u>[New] In 2024, Troubleshoot Tweets on Chrome Not Loading</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-using-b-roll-to-complement-visuals-effectively/"><u>[New] The Art of Using B-Roll to Complement Visuals Effectively</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-driving-audience-growth-with-smart-fb-video-tactics/"><u>2024 Approved Driving Audience Growth with Smart FB Video Tactics</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-powerhouse-the-ultimate-guide-to-the-hp-omen-obelisk-gaming-desktop/"><u>Affordable Powerhouse: The Ultimate Guide to the HP OMEN Obelisk Gaming Desktop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-show-your-mood-in-your-digital-media-content-but-dont-know-how-to-there-are-many-moody-luts-available-that-highlight-your-mood-in/"><u>New In 2024, Do You Want to Show Your Mood in Your Digital Media Content but Dont Know How To? There Are Many Moody LUTs Available that Highlight Your Mood in Your Content</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-images-into-video-kapwing-tutorial/"><u>New In 2024, How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-something-about-skin-care-vlog-ideas/"><u>New Something About Skin Care Vlog Ideas</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-gear-use-windows-widgets-for-efficiency/"><u>Streamlining Your Gear Use: Windows Widgets for Efficiency</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-11-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 11 Pro Making It Possible</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-waveform-generator/"><u>Updated In 2024, Best Audio Waveform Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
 </ul></div>
 

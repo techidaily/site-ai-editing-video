@@ -1,7 +1,7 @@
 ---
 title: New If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here
-date: 2024-12-10T03:02:57.507Z
-updated: 2024-12-11T19:30:58.860Z
+date: 2025-01-03T20:29:26.152Z
+updated: 2025-01-05T20:58:23.583Z
 tags: 
   - ai
   - animation videos
@@ -62,10 +62,6 @@ If you're going to be a wedding videographer, it's important to have insurance f
 
 This will help you know what specific shots they are hoping to get on their wedding day. Be sure to discuss the shot list with the couple and make sure you're both on the same page.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Alert guests of their wedding video presence
 
 Some couples may want to keep their wedding video a surprise, while others will want to let their guests know in advance that they'll be filmed. If the latter is the case, it's important to alert guests of your presence so that they're not caught off guard by the cameras. Be sure to discuss this with the couple beforehand and come up with a plan that everyone is comfortable with.
@@ -78,6 +74,10 @@ If you're going to be filming the wedding by yourself, it's important to make su
 
 Wedding videography is a big responsibility, and things can sometimes go wrong. Be sure to have some backups on hand, just in case. This includes extra batteries, memory cards, and cables. It's better to be safe than sorry, and having these backups will give you peace of mind knowing that you're prepared for anything.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10\. Arrive early to set up and test your equipment
 
 This will help ensure that everything is working properly and that you're familiar with your surroundings. It's also a good idea to do a sound check to make sure the audio is coming through clearly. Be sure to allow yourself plenty of time to set up and test your equipment before the wedding begins.
@@ -89,10 +89,6 @@ While it's important to capture the big moments, such as the ceremony and speech
 ### 12\. Have fun
 
 Wedding videography can be a lot of work, but it's also a lot of fun. Be sure to enjoy yourself and have a good time while you're working. This will come through in your final product and the couple will be sure to appreciate it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## BONUS: Important moments to capture on the wedding day
 
@@ -129,10 +125,6 @@ Wedding videography can be a lot of work, but it's also a lot of fun. Be sure to
 
 Wedding Videography Checklist
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Get to know the couple
 
 As a wedding videographer, it's important to get to know the couple you're working with. This will help you better capture the essence of their wedding day. Spend time talking to them, learn about their relationship, and find out what is important to them. By doing this, you'll be able to create a video that truly reflects who they are as a couple.
@@ -147,6 +139,10 @@ If you're just starting out, it might be a good idea to stick to a more traditio
 
 Check with the venue to see where you can set up equipment. Some venues may have restrictions on where you can set up your gear. If this is the case, be sure to work out a plan with the venue beforehand so that there are no surprises on the day of the wedding.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Find out what equipment is needed
 
 To be a successful wedding videographer, you'll need some basic equipment. This includes a good-quality video camera, tripod, microphone, and lighting. It's also a good idea to have some editing software on hand in case you need to do any post-production work. Be sure to discuss your needs with the couple ahead of time and make sure they're comfortable with what you plan on bringing along to the wedding.
@@ -158,10 +154,6 @@ If you're going to be a wedding videographer, it's important to have insurance f
 ### 6\. Ask for a shot list from the couple in advance
 
 This will help you know what specific shots they are hoping to get on their wedding day. Be sure to discuss the shot list with the couple and make sure you're both on the same page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Alert guests of their wedding video presence
 
@@ -182,6 +174,10 @@ This will help ensure that everything is working properly and that you're famili
 ### 11\. Capture both the big and small moments
 
 While it's important to capture the big moments, such as the ceremony and speeches, don't forget about the smaller ones as well. These can often be just as special, if not more so. Be sure to keep your camera rolling throughout the entire event so that you don't miss a thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 12\. Have fun
 
@@ -237,6 +233,10 @@ Wedding videography can be a lot of work, but it's also a lot of fun. Be sure to
 With stranger things season 4 ending, it seems like great timing to make a stranger things style transition to the Upside Down. In the Netflix series Stranger Things, there is an opposite version of our world called the Upside Down. The Upside Down is dark, creepy, and possibly filled with aliens, monsters, creatures, and other things.
 
 Now, you can also apply the Stranger Things Upside Down Effect to your video! This effect combines camera tricks and video editing within [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to transition from the normal world into the Upside Down.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How-to Guide
 
@@ -302,6 +302,10 @@ The “cool” or “warm” color grading technically talks about color tempera
 
 ![further edit the color grading](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-8.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Next, move down to the color, lower the brightness and increase contrast. It makes the scene darker and more sinister than the normal world.
 
 ![move down to the color](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-9.jpg)
@@ -360,6 +364,10 @@ If you don't have a perfectly smooth transition, you can add a dissolve by going
 
 ![cut the clips](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Color Grading and Effects**
 
 After the transition, you can make the clip look a lot more like the Upside Down from the show with a color grade and Filmora effects. Follow the steps below:
@@ -381,10 +389,6 @@ Step3 Next, move down to the color, lower the brightness and increase contrast. 
 Step4 Finally, go down to the vignette and drag the amount slider a tiny bit to give a Vinnette around your clip.
 
 ![go down to the vignette](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _**3) Pro Tips**_
 
@@ -413,6 +417,10 @@ Double-click the clip and change the scale of the effect to your needs. Then, go
 Now, go to color and open the white balance menu. Drag the two sliders to change the color of the particles to match your clip.
 
 ![open the white balance menu](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -461,6 +469,10 @@ After selecting the video you can add a template to your video or can add transi
 If you want to merge the starting video with the ending video in one take. Now you can have to focus on the beginning video and split the starting and ending clips.
 
 ![loop video on tiktok](https://images.wondershare.com/filmora/article-images/2022/11/loop-video-on-tiktok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Benefits of loop TikTok videos**
 
@@ -588,10 +600,6 @@ Color grading plays a crucial role in a video's post-production. It can impact a
 
 You can apply these to your footage with a few clicks. This article will provide a guide on how to adopt Lumetri Color presets. We'll cover the basics of color grading and their importance. We will also learn how to access and use **Lumetri presets**. By the end of this guide, you'll have the knowledge and tools to take your color grading skills to the next level.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What are Lumetri Color Presets?
 
 Lumetri Color Presets are pre-made color grading settings that you can use for videos. These are used in Adobe's Lumetri Color panel in Premiere Pro or After Effects. The Lumetri Color panel allows editors and colorists to adjust the colors and tones of a video clip. It improves your video's visual appeal and storytelling impact.
@@ -646,10 +654,6 @@ Here, you need to access the “Lumetri” folder. To do that, you need to hold 
 
 ![access lumetri folder](https://images.wondershare.com/filmora/article-images/2023/access-lumetri-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3Unzip The Presets To Lumetri Folder
 
 Now, you need to access the "Cine" folder within the "Lumetri" folder. Afterward, move all “.look” files from the unzipped “PremiumBeat Hollywood Lumetri Looks” folder. Mac users can do that using the drag-and-drop method, while Windows users can do copy/paste.
@@ -671,10 +675,6 @@ After downloading free Lumetri presets, you need to restart your Adobe Premier P
 Scroll down in the "Lumetri Color" panel to find the "Creative" section. Here click the "Look" dropdown menu, and you will find all the installed presets here.
 
 ![look for the installed presets](https://images.wondershare.com/filmora/article-images/2023/look-for-the-installed-presets.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 3Apply the Required Presets
 
@@ -752,7 +752,7 @@ To open the Premiere Pro folder, you need to open “Finder” and navigate to �
 ![access adobe premiere pro folders](https://images.wondershare.com/filmora/article-images/2023/access-adobe-premiere-pro-folders.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2Lead Into Its Lumetri Folder
@@ -766,6 +766,10 @@ Here, you need to access the “Lumetri” folder. To do that, you need to hold 
 Now, you need to access the "Cine" folder within the "Lumetri" folder. Afterward, move all “.look” files from the unzipped “PremiumBeat Hollywood Lumetri Looks” folder. Mac users can do that using the drag-and-drop method, while Windows users can do copy/paste.
 
 ![add looks in the cine folder](https://images.wondershare.com/filmora/article-images/2023/add-looks-in-the-cine-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How To Use Lumetri LUT Presets in Premiere Pro?
 
@@ -782,10 +786,6 @@ After downloading free Lumetri presets, you need to restart your Adobe Premier P
 Scroll down in the "Lumetri Color" panel to find the "Creative" section. Here click the "Look" dropdown menu, and you will find all the installed presets here.
 
 ![look for the installed presets](https://images.wondershare.com/filmora/article-images/2023/look-for-the-installed-presets.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 3Apply the Required Presets
 
@@ -838,14 +838,20 @@ Moreover, it offers an extensive library of built-in LUTs. You can take your vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-analyzing-youtube-rankings-what-drives-top-placement/"><u>[Updated] Analyzing YouTube Rankings What Drives Top Placement?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-propel-your-visuals-forward-seamlessly-combining-windows-photos-and-storyremix/"><u>2024 Approved Propel Your Visuals Forward Seamlessly Combining Windows, Photos, and StoryRemix</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-import-and-watch-avi-videos-on-itunes-conversion-guide/"><u>How to Import and Watch AVI Videos on iTunes – Conversion Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/ig-vids-mastery-for-effective-marketing-step-by-step-guide-to-success-for-2024/"><u>IG Vids Mastery for Effective Marketing Step-by-Step Guide to Success for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-iphone-filmmaking-for-full-sphere-effects/"><u>In 2024, Master iPhone Filmmaking for Full Sphere Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-accelerate-artistic-edits-with-windows-11/"><u>[New] Accelerate Artistic Edits with Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-high-definition-videography-for-2024/"><u>[New] High Definition Videography for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-drone-purchasing-made-easy-a-step-by-step-buyers-guide/"><u>[New] In 2024, Drone Purchasing Made Easy A Step-by-Step Buyer’s Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-x50iplus-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor X50i+</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-animation-set-for-typography/"><u>In 2024, Top-Ranked Animation Set for Typography</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-film-a-slow-motion-video/"><u>New 2024 Approved How To Film a Slow Motion Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977296186-quick-setup-get-your-intel-nvme-drivers-installed-now/"><u>Quick Setup: Get Your Intel NVMe Drivers Installed Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shutting-down-defender-firewall-in-windows-11-easily/"><u>Shutting Down Defender Firewall in Windows 11 Easily</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/understanding-excessive-pc-cooling-why-your-computer-fans-may-be-overworking-insights-by-yl-computing/"><u>Understanding Excessive PC Cooling: Why Your Computer Fans May Be Overworking - Insights by YL Computing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
 </ul></div>
 
