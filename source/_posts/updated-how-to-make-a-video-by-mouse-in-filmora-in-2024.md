@@ -1,7 +1,7 @@
 ---
 title: Updated How To Make a Video by Mouse in Filmora, In 2024
-date: 2024-12-31T20:27:42.565Z
-updated: 2025-01-05T20:48:29.657Z
+date: 2025-01-06T10:16:48.557Z
+updated: 2025-01-11T19:05:54.178Z
 tags: 
   - ai
   - animation videos
@@ -147,10 +147,6 @@ It seems our 15 minutes are running out! Play the music video from the beginning
 
 So in a rare scenario when you don't have a keyboard, you can just use your mouse to browse the Wondershare Filmora and put those creative ideas to work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 With just a mouse, you have created a music video! How easy is that? Try different music, audio, and video, and then enjoy the rest! Creativity has no limits if you know how to make the most of it by using the tools at your hand. Tell out more about your creative ideas! We love to hear from your side!
@@ -183,6 +179,10 @@ If you have time, you can also add a few of the effects in the Wondershare Filmo
 * Click to **drag and drop** it on top of your video.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do so as many times as you want for the remaining video clips in the timeline.
 
@@ -287,10 +287,6 @@ Step5 You can also reposition the text as well as adjust the size, font, as well
 
 ![reposition text imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/reposition-text-imovie-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5\. Add Text Overlay to Video Online
 
 If you are not a regular video creator and you edit video rarely, installing an app on your phone or computer is going to be useless. You can use an online video editor to add text overlay to your video. This can be done on any device starting from smartphones to computers. Here are the steps to add overlay video online.
@@ -327,10 +323,6 @@ Step3 Go to Titles option at the top and you will find different categories of t
 
 ![go to titles option](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Select any category and any desired text style and drop it on Timeline. Place the text to that position on Timeline where you want the text to appear on the video.
 
 ![select any category](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
@@ -357,6 +349,10 @@ Step3 Edit the text from Preview Screen instantly. You can also change font, siz
 
 ![edit text video imovie](https://images.wondershare.com/filmora/article-images/2022/07/edit-text-video-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 If you are satisfied with the text overlay, go to File> Share> File to export the video file.
 
 ## Part 3\. Add Text Overlay to Video on iPhone
@@ -376,10 +372,6 @@ Step3 You need to choose the text style as per your preference from the bottom.
 Step4 Tap on the Viewer to place the default text and tap on Edit option to change the text as per your requirements.
 
 ![edit text imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/edit-text-imovie-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 You can also reposition the text as well as adjust the size, font, as well as color. When you are satisfied, tap on Done.
 
@@ -449,9 +441,89 @@ For this guide, we used the pre-existing stock footage in Cyberlink PowerDirecto
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
 
+**EXTRA**
+
+Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
+
+## **An Easier Way to Crop Video with Wondershare Filmora**
+
+Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
+
+In Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) , rotating footage only happens via the Edit Option, and this straightforward approach felt simple. As for those who want to use Keyframes, the integration of this feature right above the Timeline is an appreciated convenience.
+
+This emphasis on quick accessibility is present with almost every function in Filmora, and we believe this to be a significant advantage. The use of modern and unique iconography also increases familiarity, an aspect that will always be welcoming to new and budding creators.
+
+_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
+
+To help you learn how to use the rotate function and show you an example of the easy accessibility in Filmora, here is how you can use the feature to get the output you desire.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Once you have a new project open in Filmora, follow the steps listed below.
+
+**Step 1:** Import a Media File to edit into your Video Project.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-6.jpeg)
+
+**Step 2:** Drag the video clip onto the Timeline and then select it with a mouse click to activate further interactions.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
+
+**Step 3:** Choose the Edit Option (marked in Red).
+
+This will bring up the Edit Window in the left-top corner of your screen.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
+
+**Step 4:** Click on the Transform Menu and use the Rotation Slider to edit the orientation.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-9.jpeg)
+
+Having read this stretch of the guide, we believe you may have noticed how Filmora is more user-friendly and accessible due to its menu layout.
+
+**BONUS**
+
+Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that allows you to set points between which a decided amount of rotation can happen.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
+
+## The Bottom Line
+
+This marks the end of our guide on how to rotate video in PowerDirector 365 and Wondershare Filmora X. Now, while both software are high-capable tools, we feel the keyframe-based working on rotation in Filmora is a lot more intuitive and easy to use. The ability to only have number-based rotation within the edit menu is also a positive, as rotating with a swivel like in PowerDirector isn't always the most accurate.
+
+And lastly, the modern iconography-based design of Wondershare Filmora is a factor to keep in mind, as this increases usability manifolds.
+
+**Note:** Full Mode in Cyberlink PowerDirector 365 will provide users access to a full-featured video editing tool similar in function to Wondershare Filmora. The other option available is Ad Designer.
+
+**Step 2:** Now, import media onto the Timeline from the Media Library.
+
+For this guide, we used the pre-existing stock footage in Cyberlink PowerDirector.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
 
 **EXTRA**
 
@@ -510,6 +582,10 @@ Having read this stretch of the guide, we believe you may have noticed how Filmo
 Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that allows you to set points between which a decided amount of rotation can happen.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -601,6 +677,10 @@ For this guide, we used the pre-existing stock footage in Cyberlink PowerDirecto
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
@@ -612,88 +692,8 @@ Rotation added in the PiP Designer will function as a keyframe-based rotation ac
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
-
-## **An Easier Way to Crop Video with Wondershare Filmora**
-
-Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
-
-In Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) , rotating footage only happens via the Edit Option, and this straightforward approach felt simple. As for those who want to use Keyframes, the integration of this feature right above the Timeline is an appreciated convenience.
-
-This emphasis on quick accessibility is present with almost every function in Filmora, and we believe this to be a significant advantage. The use of modern and unique iconography also increases familiarity, an aspect that will always be welcoming to new and budding creators.
-
-_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
-
-To help you learn how to use the rotate function and show you an example of the easy accessibility in Filmora, here is how you can use the feature to get the output you desire.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Once you have a new project open in Filmora, follow the steps listed below.
-
-**Step 1:** Import a Media File to edit into your Video Project.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-6.jpeg)
-
-**Step 2:** Drag the video clip onto the Timeline and then select it with a mouse click to activate further interactions.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
-
-**Step 3:** Choose the Edit Option (marked in Red).
-
-This will bring up the Edit Window in the left-top corner of your screen.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
-
-**Step 4:** Click on the Transform Menu and use the Rotation Slider to edit the orientation.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-9.jpeg)
-
-Having read this stretch of the guide, we believe you may have noticed how Filmora is more user-friendly and accessible due to its menu layout.
-
-**BONUS**
-
-Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that allows you to set points between which a decided amount of rotation can happen.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
-
-## The Bottom Line
-
-This marks the end of our guide on how to rotate video in PowerDirector 365 and Wondershare Filmora X. Now, while both software are high-capable tools, we feel the keyframe-based working on rotation in Filmora is a lot more intuitive and easy to use. The ability to only have number-based rotation within the edit menu is also a positive, as rotating with a swivel like in PowerDirector isn't always the most accurate.
-
-And lastly, the modern iconography-based design of Wondershare Filmora is a factor to keep in mind, as this increases usability manifolds.
-
-**Note:** Full Mode in Cyberlink PowerDirector 365 will provide users access to a full-featured video editing tool similar in function to Wondershare Filmora. The other option available is Ad Designer.
-
-**Step 2:** Now, import media onto the Timeline from the Media Library.
-
-For this guide, we used the pre-existing stock footage in Cyberlink PowerDirector.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
-
-**Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**EXTRA**
-
-Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
 
 Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
 
@@ -763,9 +763,17 @@ And lastly, the modern iconography-based design of Wondershare Filmora is a fact
 
 So, what's the difference between a vintage film shot in the 1920s and 1950s? It's simple; in the 1950s, video-making technologies were slightly advanced, although films were more about rock and roll and poodle skirts. So, without further dilly-dallying, let's learn how to create a retro 1950-style video with this simple Filmora tutorial.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Preparation
 
 ![1950 vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1950-vintage-scene.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shooting a video to teleport yourself to the 1950s doesn't need to be complicated. You simply need to look the part in the video. For example, you can wear velvet-collar jackets, stovepipe trousers, carefully combed back hair, and other trendy styles in the 50s. It's even better if you can find those vintage chairs in your grandparent's collection.
 
@@ -789,6 +797,42 @@ Once the video is successfully added to Filmora, click the **Effect** tab on the
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
+
+##### Step 3 Add a Warm Film color effect
+
+![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
+
+##### Step 4 Apply more graininess to the film
+
+![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+
+Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+## Summary
+
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+
+First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
+
+##### Step 2 Apply a cropping effect to the video
+
+![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+
+Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
+
+![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
+
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
 ##### Step 3 Add a Warm Film color effect
@@ -853,10 +897,6 @@ Once the video is successfully added to Filmora, click the **Effect** tab on the
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
 ##### Step 3 Add a Warm Film color effect
@@ -870,46 +910,6 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
-
-## Summary
-
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
-First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
-
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
-Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
-
-![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
-
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
-
-Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
-
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -931,18 +931,20 @@ And that's all there is today! With these steps, you can create an engaging 1950
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-from-static-to-swirling-implementing-motion-blur-in-ai-designs-for-2024/"><u>[New] From Static to Swirling Implementing Motion Blur in AI Designs for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-reverse-image-syndrome-explaining-sideways-ig-vids/"><u>[New] Reverse Image Syndrome Explaining Sideways IG Vids</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-4k-aerial-experience-with-xiaomis-drone-for-2024/"><u>[New] The Ultimate 4K Aerial Experience with Xiaomi's Drone for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-waveform-wisdom-dimming-audio-with-expertise-in-premiere/"><u>2024 Approved Waveform Wisdom Dimming Audio with Expertise in Premiere</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-strategic-sharing-spoken-engagement-for-youtube-viewers/"><u>In 2024, Strategic Sharing Spoken Engagement for YouTube Viewers</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-user-choice-top-free-streaming-sites-for-sports/"><u>In 2024, User Choice Top Free Streaming Sites for Sports</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-5-digital-audio-editors-for-optimal-sound-quality/"><u>New In 2024, Top 5 Digital Audio Editors for Optimal Sound Quality</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/standing-the-inner-workings-of-youtube-post-upload/"><u>Understanding the Inner Workings of YouTube Post-Upload</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-flickvista-app-performance-index-for-2024/"><u>[New] FlickVista App Performance Index for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-how-to-record-iphoneipads-screen-2023-latest-method/"><u>[Updated] 2024 Approved How to Record iPhone/iPad’s Screen [2023 Latest Method]</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-mastering-youtube-money-policy-overhaul-details/"><u>2024 Approved Mastering YouTube Money Policy Overhaul Details</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamlining-your-viewing-experience-6-effective-mac-strategies-for-netflix-screenshots/"><u>2024 Approved Streamlining Your Viewing Experience 6 Effective Mac Strategies for Netflix Screenshots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/background-screen-video-recording-full-guide-for-2024/"><u>Background Screen Video Recording Full Guide for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-and-reliable-techniques-to-download-audio-from-facebook-videos-as-mp3-players/"><u>Easy and Reliable Techniques to Download Audio From Facebook Videos as MP3 Players</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-itel-a60s-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Itel A60s Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-share-youtube-video-on-zoom-in-2024/"><u>New How to Share YouTube Video on Zoom, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-success-story-overcoming-rainbow-six-extraction-stability-problems/"><u>PC Players' Success Story: Overcoming Rainbow Six Extraction Stability Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-8-collaborative-video-collage-apps-for-android-users-freepaid-for-2024/"><u>Top 8 Collaborative Video Collage Apps for Android Users (Free/Paid) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-a-video-on-vimeo/"><u>Updated 2024 Approved How to Loop a Video on Vimeo?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-frame-rate-for-4k-video/"><u>Updated In 2024, Best Frame Rate for 4K Video</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024
-date: 2024-12-29T16:27:47.126Z
-updated: 2025-01-05T21:48:09.354Z
+date: 2025-01-05T11:04:38.461Z
+updated: 2025-01-12T11:17:27.108Z
 tags: 
   - ai
   - animation videos
@@ -39,9 +39,17 @@ Step1 To add an adjustment layer in DaVinci Resolve, head to the "Effects Librar
 
 ![access the effects lab](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 From the Effects section, you will have to search for the "Adjustment Clip." Drag and drop the adjustment clip and apply it above the layers that you want to edit.
 
 ![add the adjustment clip](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Now extend the adjustment clip according to the layers. Once done, you can apply effects and transitions to the adjustment clip to add modifications.
 
@@ -72,11 +80,7 @@ Step2 On the Color page, go to “Library” from the right side and select the 
 ![select the color space transform option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Shake Transition
@@ -94,10 +98,6 @@ Step3 Afterward, scroll to the bottom and change the Border Type to "Reflect." N
 Step4 You can also select different composite modes. You can also duplicate the adjustment clip and alter the composite mode of the second clip. Once done, decrease the opacity of the second clip. Now copy and place the adjustment clips on your timeline according to your desire.
 
 ![use different composite modes](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tips: Use Adjustment Layers in the Best Alternative to DaVinci Resolve
 
@@ -120,6 +120,10 @@ Once done with launching Filmora, hit the “New Project” button and upload th
 Go to the "Media" tab and locate the option "Adjustment Layer." Once done, drag and drop the adjustment layer to the timeline and double-click on it to change its settings.
 
 ![insert the adjustment layer](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3 Manage the Adjustment Layer Settings
 
@@ -204,10 +208,6 @@ The editor will open automatically next. You have to tap on the Create New Proje
 
 ![drag and drop default title](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, drag the title from this section and drop it into the editing timeline. Double-click on the title in the timeline to open the title editing window. Insert the text you want to add as the title in the text field and adjust the size, font, and other font modifications here.
 
 ## Edit the title and click snapshots
@@ -218,13 +218,13 @@ Consequently, click on the Snapshot icon at the right side of the toolbar just a
 
 ![add second color image](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then you should double-click on the original Default Title you added and start editing your title text once more. This time, add the term you want to appear under your original title here. Adjust the font for it as something other than the original one. For example, if you put Motor Oil 1937 M54 as the first title font, set the second as Montserrat SemBold. Make more adjustments, if necessary, to the font. Then, retake a snapshot of it.
 
 ![change the second title text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Insert the snapshots
 
@@ -236,10 +236,6 @@ In the folder, double-click on the Snapshot folder. Choose both of the Snapshots
 
 ![choose and import both snapshots](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Import additional music and background visuals
 
 After you have imported the snapshots to Filmora, you have to tap on the Import File option again. Go to the folder where you saved specific files like Lens flare, background video, particles, and sound effect clips. If you have these previously saved in other folders, make sure to keep them all in one folder ahead of time and open that one here.
@@ -249,7 +245,7 @@ Choose all files and click on Open to add them to the Filmora software. Now star
 ![open all of the files](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Drag the files into the timeline
@@ -281,10 +277,6 @@ Choose the first snapshot in the timeline, below the second snapshot, and above 
 Add the keyframe here and change the value of the Scale parameter to 400 or something high like that. In the preview, you will see that most of the font in this title is out of frame. After this, click on Rotate and turn the font to 45 degrees.
 
 ![click on rotate](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Move your playhead on this snapshot clip in the timeline by at least 1 second. Then, add another keyframe in this location by tapping the Add button. Here, reset the Scale and Rotate parameters and press the OK button to end.
 
@@ -314,10 +306,6 @@ Subsequently, move the play head to the point when the lens flare effect stop, w
 
 Play the preview of the whole thing to see how the effect looks in completion.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Indeed, the strobe light effect in the title of movies or videos of different lengths can effectively create a heart-stopping moment on the screen. Moreover, it can work to incite a feeling of anticipation in viewers, especially with the right music beat in the backdrop.
@@ -340,6 +328,10 @@ The editor will open automatically next. You have to tap on the Create New Proje
 
 ![drag and drop default title](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, drag the title from this section and drop it into the editing timeline. Double-click on the title in the timeline to open the title editing window. Insert the text you want to add as the title in the text field and adjust the size, font, and other font modifications here.
 
 ## Edit the title and click snapshots
@@ -351,7 +343,7 @@ Consequently, click on the Snapshot icon at the right side of the toolbar just a
 ![add second color image](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then you should double-click on the original Default Title you added and start editing your title text once more. This time, add the term you want to appear under your original title here. Adjust the font for it as something other than the original one. For example, if you put Motor Oil 1937 M54 as the first title font, set the second as Montserrat SemBold. Make more adjustments, if necessary, to the font. Then, retake a snapshot of it.
@@ -407,6 +399,10 @@ Add the keyframe here and change the value of the Scale parameter to 400 or some
 ![click on rotate](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-10.jpg)
 
 Move your playhead on this snapshot clip in the timeline by at least 1 second. Then, add another keyframe in this location by tapping the Add button. Here, reset the Scale and Rotate parameters and press the OK button to end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add the lens flare and particle video
 
@@ -524,6 +520,10 @@ Step4Once you are satisfied, click on Export button in the top-right corner.
 
 ![export video flexclip online](https://images.wondershare.com/filmora/article-images/2022/08/export-video-flexclip-online.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Adding font effects on video is a common practice especially when you have intro and outro in your video clip. Instead of the regular titles and texts, you should opt for creative font effects so that the text parts on your video look attractive. If it is a one-time thing, you can opt for an online video editor. If you use a Mac, you can use iMovie, and for Windows PC, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -552,19 +552,22 @@ Adding font effects on video is a common practice especially when you have intro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-transformation-of-user-interaction-understanding-the-update/"><u>[New] 2024 Approved The Transformation of User Interaction Understanding the Update</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-peepcapture-snapshot-scrutiny-and-choices/"><u>[Updated] 2024 Approved PeepCapture Snapshot Scrutiny & Choices</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-download-discord-videos-for-free-on-desktop-and-mobile/"><u>[Updated] In 2024, How to Download Discord Videos for Free on Desktop & Mobile?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-kinemaster-proficiency-unleashed-strategies-features-and-10-online-rivals/"><u>[Updated] KineMaster Proficiency Unleashed Strategies, Features & 10 Online Rivals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premier-templates-for-zooid-introduction/"><u>[Updated] Premier Templates for Zooid Introduction</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-digital-decluttering-how-to-shun-surplus-backdrops-effectively/"><u>2024 Approved Digital Decluttering How to Shun Surplus Backdrops Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-corporate-benefits-of-gpt-technology/"><u>Exploring Corporate Benefits of GPT Technology</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video-for-2024/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>New How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review/"><u>New VSDC Free Video Editor Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sustainable-tools-and-practices/"><u>Sustainable Tools and Practices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-integrate-voice-over-into-powerpoint-shows-easily/"><u>[New] In 2024, Integrate Voice-Over Into PowerPoint Shows Easily</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-12-ultimate-insta-image-enhancers/"><u>[Updated] 2024 Approved 12 Ultimate Insta Image Enhancers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-music-magic-for-instagram-a-guide/"><u>[Updated] 2024 Approved Music Magic for Instagram A Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-tiktok-tricks-faster-video-loading/"><u>[Updated] In 2024, TikTok Tricks Faster Video Loading</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-visualize-images-mastering-photo-editing-tools/"><u>[Updated] Visualize Images Mastering Photo Editing Tools</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/fai-il-tuo-download-gratuito-converti-file-dts-in-mp3-con-movietoast/"><u>Fai Il Tuo Download Gratuito: Converti File DTS in MP3 Con MovieToast</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-edit-facebook-video-ads-for-e-commerce-business/"><u>New In 2024, How to Edit Facebook Video Ads for E-Commerce Business</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-speed-ramping-to-create-an-intense-action-footage-for-2024/"><u>Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-windows-10-webcam-recording-essentials-top-10-software-picks/"><u>Updated In 2024, Windows 10 Webcam Recording Essentials Top 10 Software Picks</u></a></li>
 </ul></div>
 

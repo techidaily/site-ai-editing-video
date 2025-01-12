@@ -1,7 +1,7 @@
 ---
 title: New How to DIY VHS Overlay in After Effects, In 2024
-date: 2025-01-04T16:42:23.850Z
-updated: 2025-01-05T21:32:29.162Z
+date: 2025-01-08T11:30:29.172Z
+updated: 2025-01-12T10:06:36.222Z
 tags: 
   - ai
   - animation videos
@@ -95,121 +95,121 @@ The smart generation has access to HD videos and high-tech devices, yet VHS is a
 
 By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
 
-### Conclusion
-
-Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Do you want to add retro videos on Filmora? It is simple!
-
-To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
-
-Let's look at the steps:
-
-Open your draft in Filmora software and select sample colors from the Media tab on the top left.
-
-![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
-
-You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
-
-In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
-
-You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
-
-When finished, click export and choose the format and target folder to save the processed file with the added effects.
-
-![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
-
-The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
-
-By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
-
-### Conclusion
-
-Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Do you want to add retro videos on Filmora? It is simple!
-
-To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
-
-Let's look at the steps:
-
-Open your draft in Filmora software and select sample colors from the Media tab on the top left.
-
-![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
-
-You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
-
-In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
-
-You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
-
-When finished, click export and choose the format and target folder to save the processed file with the added effects.
-
-![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
-
-The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
-
-By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
-
-### Conclusion
-
-Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Do you want to add retro videos on Filmora? It is simple!
-
-To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
-
-Let's look at the steps:
-
-Open your draft in Filmora software and select sample colors from the Media tab on the top left.
-
-![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### Conclusion
+
+Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Do you want to add retro videos on Filmora? It is simple!
+
+To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
+
+Let's look at the steps:
+
+Open your draft in Filmora software and select sample colors from the Media tab on the top left.
+
+![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
+
+You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
+
+In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
+
+You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
+
+When finished, click export and choose the format and target folder to save the processed file with the added effects.
+
+![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
+
+The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
+
+By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
+
+### Conclusion
+
+Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Do you want to add retro videos on Filmora? It is simple!
+
+To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
+
+Let's look at the steps:
+
+Open your draft in Filmora software and select sample colors from the Media tab on the top left.
+
+![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
+
+You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
+
+In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
+
+You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
+
+When finished, click export and choose the format and target folder to save the processed file with the added effects.
+
+![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
+
+The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
+
+By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
+
+### Conclusion
+
+Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Do you want to add retro videos on Filmora? It is simple!
+
+To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
+
+Let's look at the steps:
+
+Open your draft in Filmora software and select sample colors from the Media tab on the top left.
+
+![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
 
 You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
 
@@ -262,10 +262,6 @@ There is an extensive range of websites to access the free Adobe Premiere templa
 
 So, what are we waiting for? Let us begin the process!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. [Envato Elements](https://elements.envato.com/video-templates/compatible-with-premiere-pro)
 
 The first website offering Adobe Premiere templates is known as Envato Elements. One can count on this webpage to access millions of creative assets. Envato Elements comes up with Adobe Premiere Pro templates free, stock videos, graphic templates, photos, and website templates.
@@ -281,10 +277,6 @@ Storyblocks are the next big thing if you need to download Premiere templates wi
 The filtering option of Storyblocks is to die for. Style or software can filter the templates and effects to have what we need without wasting much time.
 
 ![storyblocks premiere pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. [MotionElements](https://www.motionelements.com/free/premiere-pro-templates)
 
@@ -325,6 +317,10 @@ VideoHive offers the best quality and fast researched Premiere Pro templates. Wi
 If you are interested in making a slideshow, animated title, transition, or logo stings, you will find VideoHive there for you.
 
 ![templates for premiere pro by videohive](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. [Videezy](https://www.videezy.com/free-video/premiere-pro-templates)
 
@@ -382,6 +378,10 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create Vintage Film Effect 1950S
 
 So, what's the difference between a vintage film shot in the 1920s and 1950s? It's simple; in the 1950s, video-making technologies were slightly advanced, although films were more about rock and roll and poodle skirts. So, without further dilly-dallying, let's learn how to create a retro 1950-style video with this simple Filmora tutorial.
@@ -389,6 +389,10 @@ So, what's the difference between a vintage film shot in the 1920s and 1950s? It
 ## Preparation
 
 ![1950 vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1950-vintage-scene.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shooting a video to teleport yourself to the 1950s doesn't need to be complicated. You simply need to look the part in the video. For example, you can wear velvet-collar jackets, stovepipe trousers, carefully combed back hair, and other trendy styles in the 50s. It's even better if you can find those vintage chairs in your grandparent's collection.
 
@@ -402,16 +406,48 @@ How to create a 1950s vintage film:
 
 ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
 
+First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
+
+##### Step 2 Apply a cropping effect to the video
+
+![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+
+Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
+
+![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
+
+Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
+
+##### Step 3 Add a Warm Film color effect
+
+![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
+
+##### Step 4 Apply more graininess to the film
+
+![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+
+Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+## Summary
+
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+
+First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
+
+##### Step 2 Apply a cropping effect to the video
+
+![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
-
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
@@ -494,37 +530,9 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
-## Summary
-
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
-First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
-
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
-Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
-
-![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
-
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
-
-Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
-
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
-
-Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -575,13 +583,13 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![creating new project on wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click "File" button. In the drop-down menu, select "Project Settings."
 
 ![select project settings](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. In the pop-up window, set the resolution to 1280\*720, which is the recommended resolution of YouTube Thumbnail.
 1. Drag and drop the screenshot you took into the Filmora window. Alternatively, click the "Click here to import media" link to locate and import it.
@@ -599,10 +607,6 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![adding stickers to the warzone image](https://images.wondershare.com/filmora/article-images/add-stickers-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Add Text overlays to the video. To do so, click "Titles." Select the text style and drag it into the timeline. Double-click it to edit the written text.
 
 ##### Step5 Find a Desired Frame and Take a Screenshot
@@ -617,10 +621,6 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![saving the warzone thumbnail snapshot](https://images.wondershare.com/filmora/article-images/snapshot-window-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click "Ok."
 
 ##### Step6 Use the Screenshot as Your New COD Warzone Thumbnail
@@ -634,11 +634,19 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![warzone video thumbnail made with filmora](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-result.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** The free version of Wondershare Filmora will add a watermark to saved videos. But it will not add a watermark to a snapshot. Indeed, it is a free Warzone thumbnail creator.
 
 If you want to know more tricks about creating a nice Warzone thumbnail, please check the video below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips for a Superb Call of Duty: Warzone Thumbnail
 
@@ -651,10 +659,6 @@ A thumbnail is useless if it does not look good on YouTube. But how can you ensu
 5. The supported image formats are JPG, PNG, and GIF.
 
 The next question is how the actual thumbnail image should look. There's only one rule for that. Make it as cool as possible. Call of Duty: Warzone is a first-person shooter/battle royale game. People who are into these games are drawn to this aesthetic.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Best Call of Duty: Warzone Thumbnails on YouTube That May Inspire You
 
@@ -691,7 +695,7 @@ The thumbnail shows a clear-as-crystal screenshot of a team of 4 players on the 
 The thumbnail for this video (made by [GTX 1050 Ti](https://www.youtube.com/watch?v=fU9zMSBcius)), with 5.2 million views, is just an in-game screenshot. At the top-right is a large logo of GEFORCE RTX 3080 and at the bottom left is an Intel logo. Like the previous one, it attracts viewers by stating the visual appeal of the video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. NEW RECORD! 64 KILL GAME in CoD WARZONE! (Best Classes / Loadouts)
@@ -773,10 +777,6 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 1. Use the screenshot as your video thumbnail.
 
 ![warzone video thumbnail made with filmora](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-result.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -860,24 +860,20 @@ Your best option is Wondershare Filmora. Why? Because it is a thumbnail maker an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-making-youtube-intros-interesting-without-costing-a-dime/"><u>[Updated] In 2024, Making YouTube Intros Interesting Without Costing a Dime</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-peeking-at-pro-screen-recording-tools/"><u>[Updated] Peeking at Pro Screen Recording Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-glitch-effect-with-filmora/"><u>2024 Approved How to Make Glitch Effect with Filmora</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-premier-editing-software-for-mobile-app-creation/"><u>2024 Approved Premier Editing Software for Mobile App Creation</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-play-40c-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/developing-persuasive-podcast-hooklines/"><u>Developing Persuasive Podcast Hooklines</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-for-audio-jack-malfunctions-with-windows-7-operating-system/"><u>Effective Remedies for Audio Jack Malfunctions with Windows 7 Operating System</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-to-mimic-professional-filming-gears-for-2024/"><u>How to to Mimic Professional Filming Gears for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-know-how-to-create-a-lol-montage-video-had-you-ever-tried-that-video-type-before-connect-with-this-article-to-study-the-tips-and-tricks-assoc/"><u>In 2024, Do You Know How to Create a Lol Montage Video? Had You Ever Tried that Video Type Before? Connect with This Article to Study the Tips and Tricks Associated with the Making of Montage Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavimp3-swfmp3/"><u>MovaviのフリーオンラインMP3変換ツール - SWFから直接MP3に!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-pova-5-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Pova 5</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-add-text-animation-to-a-video-online/"><u>New 2024 Approved Add Text Animation to A Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-adding-audio-in-wondershare-filmora/"><u>New 2024 Approved Guide Adding Audio in Wondershare Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-filter-to-video-online/"><u>New 2024 Approved How to Add Filter to Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-working-through-the-details-of-imovie-slow-motion-video-making-100-effective/"><u>New 2024 Approved Working Through the Details of iMovie Slow Motion Video Making 100 Effective</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-a-movie-with-windows-movie-maker/"><u>New Create a Movie with Windows Movie Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-the-popular-video-text-effects-to-your-video-in-2024/"><u>New How to Add the Popular Video Text Effects to Your Video, In 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/solving-the-problem-of-non-responsive-amd-radeon-application/"><u>Solving the Problem of Non-Responsive AMD Radeon Application</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-an-insightful-guide-to-determining-best-practices-for-audio-format-selection/"><u>Updated 2024 Approved An Insightful Guide to Determining Best Practices for Audio Format Selection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-a-final-farewell-to-your-instagram-world-process-and-steps/"><u>[New] 2024 Approved A Final Farewell to Your Instagram World Process & Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-snicker-sphere-top-grade-no-charge-memes/"><u>[Updated] 2024 Approved Snicker Sphere Top-Grade, No-Charge Memes</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/free-reactive-dashboard-template-with-react-and-material-ui-by-creative-tim/"><u>Free Reactive Dashboard Template with React and Material-UI by Creative Tim</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/guide-to-backing-up-your-system-using-google-drive-for-windows-xp-vista-and-beyond/"><u>Guide to Backing Up Your System: Using Google Drive for Windows XP, Vista, and Beyond</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-12-mini-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 12 mini - 4 Easy Ways</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-instagram-image-uploads/"><u>In 2024, Step-by-Step Guide to Instagram Image Uploads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/master-your-workflow-with-quality-tech-superior-dell-monitor-elite-sound-isolation-earphones-and-exceptional-hd-webcam/"><u>Master Your Workflow with Quality Tech: Superior Dell Monitor, Elite Sound Isolation Earphones & Exceptional HD Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-past-error-x80072f30-in-windows-store/"><u>Navigate Past Error X80072F30 in Windows Store</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-know-how-ai-is-helping-video-editors-and-enthusiasts-many-video-editing-software-allows-an-auto-reframe-option-to-use-that-can-help-manage-videos/"><u>New Do You Know How AI Is Helping Video Editors and Enthusiasts? Many Video Editing Software Allows an Auto Reframe Option to Use that Can Help Manage Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-green-screen-video-in-after-effects/"><u>New How To Create A Green Screen Video In After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-film-a-slow-motion-video-for-2024/"><u>New How To Film a Slow Motion Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-animated-titles-and-text-in-the-filmora-video-editor-this-is-a-simple-step-by-step-tutorial-for-any-skill-level/"><u>New Learn How to Create Animated Titles and Text in the Filmora Video Editor. This Is a Simple Step-by-Step Tutorial for Any Skill Level</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-font-effects-to-videos/"><u>Updated 2024 Approved How to Add Font Effects to Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects
-date: 2025-01-02T18:33:24.611Z
-updated: 2025-01-05T21:36:16.700Z
+date: 2025-01-08T08:59:05.348Z
+updated: 2025-01-12T00:36:37.351Z
 tags: 
   - ai
   - animation videos
@@ -73,6 +73,10 @@ Step2 Create the Mask Feather points.
 
 ![after effects creating mask feather points](https://images.wondershare.com/filmora/article-images/after-effects-mask-points.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Adjust the Feather Parameter.
 
 ![after effects adjusting feather parameter](https://images.wondershare.com/filmora/article-images/after-effects-feather-parameter.JPG)
@@ -117,13 +121,13 @@ Step2 Double-click the video in the Player Window. In the editing window, **clic
 
 ![filmora adding a shape mask](https://images.wondershare.com/filmora/guide/add-mask-to-video.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Scroll down to find the "**Blur Strength**" option, and **adjust** the blur value.
 
 ![filmora adjusting the blur strength value](https://images.wondershare.com/filmora/guide/add-keyframe-to-mask.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Use Variable Mask Feather in Wondershare Filmora?
 
@@ -141,10 +145,6 @@ Step2 Adjust the "**Blur Strength**" value.
 
 ![filmora adjusting the blur strength value 1](https://images.wondershare.com/filmora/guide/draw-mask-to-video.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Feathering shapes in After Effects and Wondershare Filmora are powerful tools for creating smooth, seamless transitions in your videos. With the mask feather setting in After Effects and the Shape Feather Tool in Filmora, you have the flexibility and control you need to create the exact look you want.
@@ -160,6 +160,10 @@ The edge feather in Filmora is known as the "Blur Strength" and can be found in 
 Filmora also offers a wide range of other features that make it a great choice for video editings, such as a user-friendly interface, an extensive library of special effects, and support for multiple file formats. Whether you're a beginner or an experienced editor, Filmora has everything you need to create professional-quality videos.
 
 So, if you're looking for an alternative to After Effects that's easier to use and more accessible, consider giving Wondershare Filmora a try. Its powerful edge-feature feature and user-friendly interface make it the perfect choice for creating professional-quality videos without the hassle of using complex and time-consuming software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Use Shape Feather Tool in Wondershare Filmora?
 
@@ -190,10 +194,6 @@ To use Variable Mask Feather in Filmora, follow these steps:
 Step1 Select the "**Draw Mask**" option under the Mask tab, and **use** the pen tool to draw whatever shape you like in the video.
 
 ![filmora draw mask](https://images.wondershare.com/filmora/guide/draw-mask-to-video.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Adjust the "**Blur Strength**" value.
 
@@ -240,17 +240,9 @@ Step3 Within the menu bar, find the “view” tab and open it.
 
 ![find and open view tab in quicktime](https://images.wondershare.com/filmora/article-images/2023/02/turn-on-subtitles-in-quicktime-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Now, you need to find the subtitles option.
 
 ![find and access subtitles option in quicktime](https://images.wondershare.com/filmora/article-images/2023/02/turn-on-subtitles-in-quicktime-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Choose a language in which subtitles are available.
 
@@ -305,6 +297,10 @@ Step1 Open Apple Menu on your Mac by clicking on the Apple icon at the top left 
 Step2 Find and click the “System Preferences” option.
 
 ![access system preferences from the apple menu](https://images.wondershare.com/filmora/article-images/2023/02/watch-subtitles-in-quicktime-with-an-ipad-screen-extension-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Search and open “Sidecar”.
 
@@ -391,7 +387,7 @@ Step5 You can change the display settings for the iPad from **Apple Menu > Syste
 Step6 You can now use your iPad to display the subtitles of a video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus Tips: How to Edit and Add Subtitles to Videos Easily
@@ -403,10 +399,6 @@ As you already know, the subtitles available for a video may have errors and/or 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Filmora is an advanced and feature-rich video editing software developed by Wondershare. It is an exceptionally popular choice among creators for editing and giving a professional touch to raw videos. The software comes loaded with several features to help you style your videos and make them more engaging. With Filmora, you get access to features like green screen, split screen, motion tracking, and HDR support. You can also add subtitles to videos through SRT files or add custom subtitles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### A Step-by-Step Guide for Adding Subtitles to a Video Using Filmora
 
@@ -464,10 +456,6 @@ After Effects users can get rid of a green screen by going to the "Animation Pre
 
 ![remove green color from video in ae](https://images.wondershare.com/filmora/article-images/2022/11/remove-green-color-from-video-in-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Clean up the shot
 
 You have no doubt observed that some of the remaining parts do not have the correct keying installed in them. In order to get rid of them, you need to put the view into the Combined Matte mode and turn the Screen Gain up a notch.
@@ -499,6 +487,10 @@ After completing this lesson, you should have a better understanding of what a c
 LUTs, fully known as look-up tables, are essential video editing elements. By using LUTs, you can enhance your video quality with improved color grading. Talking about its configuration, LUTs are made of different effects and styles for providing unique visualization.
 
 There is a buzz around **adding LUTs to Premiere Pro**. Many people often fail to use LUTs due to their complexities. This article comprises detailed information and steps to add LUTs with ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why are LUTs Important in Video Editing?
 
@@ -542,6 +534,10 @@ LUTs are great video editing tools with extended color grading and schemas. Prem
 
 ![add adjustment layer](https://images.wondershare.com/filmora/article-images/2023/add-adjustment-layer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Drag and drop the created adjustment layer from the project window into the timeline and set the length adjacent to the video. Select the adjustment layer, and press "Lumetri Color" from the top in the right-hand panel. From the "Basic Correction" category, set "Input LUT" and proceed to click the "Browse" option from the drop-down menu. Navigate your LUT from the folder and click "Open" to apply desired LUT to the video.
 
 ![add lumetri color preset](https://images.wondershare.com/filmora/article-images/2023/add-lumetri-color-preset.jpg)
@@ -554,10 +550,6 @@ LUTs are already transforming video editing functionalities with automated color
 * **User-Friendly Interface:** LUTs will become more user-friendly in the future. This will make them easy to use and implement in projects. Even beginners will minimal editing knowledge will be able to use them. In contrast, professional editors will streamline their workflows with fast processing.
 * **Real-time Preview:** Using LUTs, users would be able to preview color grading. This way, they will know what their video after LUT would look like. Hence, they can preview different LUT presets and proceed with the desired one.
 * **Wide Compatibility:** The platform compatibility of LUTs will also enhance. After all, you will access them on mobile, web, and desktop devices without problems. You can use LUTs in everyday life by applying them to visual content.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Part: Wondershare Filmora – An Alternative Haven for Adding LUTs
 
@@ -574,10 +566,6 @@ LUTs are great utility when it comes to video editing environments. Apart from P
 There are approximately [100+ LUTs](https://tools.techidaily.com/wondershare/filmora/download/) presets in the current version of Filmora. Users can use them to enlighten the colors of videos. Meanwhile, in the new version, there would be additional 100 LUTs. So, in total, you will be getting 200+ LUTs in the new updates provided by Wondershare Filmora. Each LUT is unique in its kind and style.
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-cinematic-luts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Filmora
 
@@ -614,13 +602,25 @@ LUTs are great video editing tools with extended color grading and schemas. Prem
 
 ![open color workspace](https://images.wondershare.com/filmora/article-images/2023/open-color-workspace.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** From the project window on the bottom left, press the "New Item" tab and choose "Adjustment Layer." Adjust video settings from the available panel, including the "Width," "Height," "Timebase," and "Pixel Aspect Ratio," and click "OK."
 
 ![add adjustment layer](https://images.wondershare.com/filmora/article-images/2023/add-adjustment-layer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Drag and drop the created adjustment layer from the project window into the timeline and set the length adjacent to the video. Select the adjustment layer, and press "Lumetri Color" from the top in the right-hand panel. From the "Basic Correction" category, set "Input LUT" and proceed to click the "Browse" option from the drop-down menu. Navigate your LUT from the folder and click "Open" to apply desired LUT to the video.
 
 ![add lumetri color preset](https://images.wondershare.com/filmora/article-images/2023/add-lumetri-color-preset.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: What are the Future Prospects of LUTs in Video Editing?
 
@@ -682,16 +682,22 @@ Videos are close to all of us, as they store our important visual data. This is 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-trends-and-techniques-for-skyrocketing-youtube-views/"><u>[New] 2024 Approved Trends and Techniques for Skyrocketing YouTube Views</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-avoiding-pitfalls-smart-strategies-for-acquiring-youtubes/"><u>[Updated] In 2024, Avoiding Pitfalls Smart Strategies for Acquiring Youtubes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gigglegraphyguild-funnyframestudio/"><u>2024 Approved GiggleGraphyGuild FunnyFrameStudio</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-stream-and-record-at-the-same-time/"><u>3 Ways To Stream And Record At The Same Time</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/grab-your-deal-alienwares-gaming-powerhouse-with-rtx-4070-and-i7-cpu-for-only-1499-originally-1699/"><u>Grab Your Deal: Alienware's Gaming Powerhouse with RTX 4070 & I7 CPU for Only $1,499 - Originally $1,699!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/mastering-gadgets-with-toms-equipment-digest-a-deep-dive/"><u>Mastering Gadgets with Tom's Equipment Digest: A Deep Dive</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New 2024 Approved Different Ways to Crop TikTok Video in High-Quality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/novice-writers-best-enhancements-for-gopro/"><u>Novice’ Writers Best Enhancements for GoPro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>[New] Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-10-top-free-screen-recorder-mac/"><u>[Updated] 10 Top Free Screen Recorder Mac</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-from-amateurs-to-experts-a-complete-guide-to-instagram-covers/"><u>[Updated] 2024 Approved From Amateurs to Experts A Complete Guide to Instagram Covers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-30-second-color-fixes-for-aspiring-photo-pros/"><u>[Updated] 30-Second Color Fixes for Aspiring Photo Pros</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-by-step-guide-adding-subs-to-igtv/"><u>2024 Approved Step-by-Step Guide Adding Subs to IGTV</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/620370-9780307783769-all-women-are-psychics/"><u>All Women Are Psychics | Free Book</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd-audio-compatibility-restored-by-windows-patch/"><u>HD Audio Compatibility Restored by Windows Patch</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-camon-30-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Camon 30 Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
 </ul></div>
 

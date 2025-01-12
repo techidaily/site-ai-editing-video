@@ -1,7 +1,7 @@
 ---
 title: Updated Secret Tips & Tricks to Use in Filmora for 2024
-date: 2024-12-29T18:44:45.699Z
-updated: 2025-01-05T16:06:47.815Z
+date: 2025-01-08T13:11:51.734Z
+updated: 2025-01-12T07:23:20.569Z
 tags: 
   - ai
   - animation videos
@@ -38,7 +38,7 @@ Once you have imported them into the [Wondershare Filmora's](https://tools.techi
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Customize Proxy Files
@@ -105,10 +105,6 @@ Step5 Check the box saying, **"Automatically delete render files when a project 
 
 ![wondershare filmora deleting render cache](https://images.wondershare.com/filmora/article-images/2023/01/secret-tips-in-wondershare-filmora-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Click on **OK** to save your changes.
 
 Now, whenever you close your project, your render cache will be deleted and would have given you extra space on your computer.
@@ -167,10 +163,6 @@ You can save editing time by simply copying and pasting video effects.
 
 ![wondershare filmora copy and paste effect](https://images.wondershare.com/filmora/article-images/2023/01/secret-tips-in-wondershare-filmora-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6\. Timeline Snap
 
 You might have added multiple videos in the same timeline track. If you removed the video ahead of the video clip, you have to close the gap in between.
@@ -210,6 +202,10 @@ Step2 Once you've color coded your clips, you can right-click on the clip again 
 Step3 And all the clips marked with that color will be selected.
 
 ![wonderhshare filmora color coding videos](https://images.wondershare.com/filmora/article-images/2023/01/secret-tips-in-wondershare-filmora-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 8\. Group Clips Together
 
@@ -297,6 +293,10 @@ No one wants to compromise PC performance when editing videos. But if you are im
 
 If your PC has a built-in resolution of **1080p,** but the video you are going to import is **2160p**, you can encounter rendering and performance problems. But in the case of Wondershare Filmora Proxy files, you can smoothly edit your videos without any trouble.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Customize Proxy Files in Filmora
 
 Although Wondershare Filmora automatically creates proxy files when it encounters resolutions more significant than the PC performance. But you can also set them to your preference.
@@ -332,6 +332,10 @@ Another hack you can use to save space on your hard drive is Deleting the Render
 Rendering can be a giant leap to give you a smooth performance experience. However, when you import your videos into the timeline, you can always render to have an uninterrupted playback experience.
 
 Doing so will allow you to work in your zone quickly and efficiently. You can do a manual rendering before you begin the editing process. Or you can also opt to choose automatic rendering. In the automatic rendering option, you can continue your editing process. In the meantime, your timeline will be rendered.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Delete Render Cache in Filmora
 
@@ -407,6 +411,10 @@ You can save editing time by simply copying and pasting video effects.
 
 ![wondershare filmora copy and paste effect](https://images.wondershare.com/filmora/article-images/2023/01/secret-tips-in-wondershare-filmora-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6\. Timeline Snap
 
 You might have added multiple videos in the same timeline track. If you removed the video ahead of the video clip, you have to close the gap in between.
@@ -432,6 +440,10 @@ Now you can easily enable and disable timeline snapping according to your choice
 ## Part 7\. Color Code Video Clips
 
 When editing footage from multiple cameras, you might want to organize which media is from which source in the timeline. You can do this by color coding your clips.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to Color Code Your Videos
 
@@ -466,6 +478,10 @@ Step3 Scroll down, and you will see a "" option.
 Step4 Select **Group**, and that's done.
 
 ![wonderhshare filmora grouping clips](https://images.wondershare.com/filmora/article-images/2023/01/secret-tips-in-wondershare-filmora-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your whole group will be selected whenever you select a video clip or an audio clip.
 
@@ -544,10 +560,6 @@ The following guide provides valuable insight on how to use **Track Matte in Aft
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Utilize Track Mattes in Adobe After Effects?
 
 [After Effects by Adobe](https://www.adobe.com/products/aftereffects.html) is a software application dedicated to visual effects and [motion graphics](https://tools.techidaily.com/wondershare/filmora/download/) for videos. The tool is commonly used in the post-production process of videos. The wide toolset of After Effects can be useful in filmmaking, video gaming, and TV. After Effects offers everything you need to take your creative inspirations to the next level.
@@ -562,6 +574,10 @@ The following guide provides valuable insight on how to use **Track Matte in Aft
 In Adobe After Effects, a track matte is a layer that defines the transparency of another layer. It acts as a stencil, determining which parts of the underlying layer are visible and which are transparent. Track mattes are used for creating various effects such as text animations, transitions, and seamlessly composing multiple layers. After Effects offers four Track Matte options:
 
 ![alpha track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Alpha Matte:** **Alpha matte in After Effects** allows white areas in the matte layer to become visible while black areas become transparent. Effectively, this helps the underlying layer to show through.
 * **Alpha Inverted Matte:** In an alpha inverted matte, black areas in the matte layer are visible, and white areas are transparent. It reverses the transparency values to create unique effects.
@@ -714,15 +730,15 @@ Go to the "Modes" column and open the dropdown menu next to "Layer List." Here, 
 
 ![select track matte layer](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3
 
 You will see two toggle switches once you select your layer. You can use these switches and the available options to set the transparency for the Track Matte. You can add **alpha matte in After Effects** or other types from here.
 
 ![use switches to add track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Performing Mask Tracking With Adobe After Effects: Reviewing the Steps
 
@@ -745,10 +761,6 @@ Now, open the layer and right-click on the mask name to select "Track Mask." Thi
 Tap the "Analyze Forward" icon and let the tracker analyze the frames in the clip. Once the process has finished, you can restart your clip and set "Mask Mode" from the timeline to "Subtract." This will remove the selected object from the clip.
 
 ![analyze and change mode](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 4
 
@@ -796,19 +808,11 @@ Install and launch Wondershare Filmora on your device. From the homepage, tap �
 
 ![add video to timeline](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 2: Enable AI Mask
 
 Select your clip in the timeline and go to the “Video” tab from the right panel. Select the "Mask" option and tap the "AI Mask" icon. Under the section, you can choose from options such as "Select Character" or "Smart Brush." Select one according to your requirements and hit "Add Mask."
 
 ![apply ai masking](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3: Adjust Mask Settings and Export File
 
@@ -854,11 +858,11 @@ Step5Play a video and you will see a Picture in Picture window in the top-left c
 
 ![zoom in vlc](https://images.wondershare.com/filmora/article-images/2022/07/vlc-pic-in-pic.jpg)
 
-Step6Wherever you place the rectangular box in PiP window, that part will be zoomed and shown outside the PiP window. You can increase or decrease the level of magnification from the vertical slider present below PiP window.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step6Wherever you place the rectangular box in PiP window, that part will be zoomed and shown outside the PiP window. You can increase or decrease the level of magnification from the vertical slider present below PiP window.
 
 ## Part 2: Zoom Video Using VLC Video Menu
 
@@ -912,10 +916,6 @@ Step 5: Go to Pan & Zoom tab and move the rectangular box and play the video to 
 
 ![zoom in vlc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 There are several scenarios when you need to zoom into a video to focus on the details. VLC Media Player comes with instant zoom as well as detailed zoom options to satisfy your requirements. You can even use Magnifier App on Windows to zoom into videos. But for the best result, we recommend Wondershare Filmora as the best VLC Player alternative for zooming videos.
@@ -954,14 +954,16 @@ There are several scenarios when you need to zoom into a video to focus on the d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-xs-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone XS Max Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>How to Use a Stabilization Tool in Filmora for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-a15-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy A15 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different-too/"><u>In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>In 2024, Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 6s Plus</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora-for-2024/"><u>New How To Make a Video by Mouse in Filmora for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-limitations-of-artificers-craftsmanship-in-code-development-perspectives-by-zdnet/"><u>The Limitations of Artificer's Craftsmanship in Code Development - Perspectives by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/your-go-to-guide-for-micromobility-significant-milestnones-fresh-information-rumors-and-comprehensive-coverage/"><u>Your Go-To Guide for Micromobility: Significant Milestnones, Fresh Information, Rumors & Comprehensive Coverage</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-basic-to-brilliant-top-100plus-biographies-that-captivate-audiences/"><u>[New] In 2024, From Basic to Brilliant Top 100+ Biographies that Captivate Audiences</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-navigating-skype-screen-sharing-during-home-office-workflows-for-2024/"><u>[New] Navigating Skype Screen Sharing During Home Office Workflows for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-beginners-walkthrough-for-screencastify-recorder/"><u>2024 Approved Beginner's Walkthrough for Screencastify Recorder</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/elevate-your-snap-game-with-pro-level-boomerang-expertise-for-2024/"><u>Elevate Your Snap Game with Pro-Level Boomerang Expertise for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-smooth-cut-transition-effect/"><u>How to Create a Smooth Cut Transition Effect?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y77t-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y77t to Roku | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-follow-a-few-simple-steps-and-learn-how-to-create-a-professional-glowing-edge-effect-to-your-videos-in-filmora/"><u>New Follow a Few Simple Steps and Learn How to Create a Professional Glowing Edge Effect to Your Videos in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-diy-vhs-overlay-in-after-effects-in-2024/"><u>New How to DIY VHS Overlay in After Effects, In 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-razr-40-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Razr 40 Phone Pattern Lock</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-easy-steps-to-create-intro-video-with-after-effects/"><u>Updated In 2024, Easy Steps to Create Intro Video with After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/we-all-know-very-well-that-a-1-second-video-has-several-images-in-a-single-row-even-with-imovie-time-lapse-you-can-create-this-so-without-any-further-ado-le/"><u>We All Know Very Well that a 1-Second-Video Has Several Images in a Single Row. Even with iMovie Time-Lapse, You Can Create This! So, without Any Further Ado, Lets Learn How to Make a Timelapse in iMovie</u></a></li>
 </ul></div>
 

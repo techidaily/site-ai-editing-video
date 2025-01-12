@@ -1,7 +1,7 @@
 ---
 title: New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike
-date: 2025-01-04T21:30:29.601Z
-updated: 2025-01-05T21:00:59.312Z
+date: 2025-01-08T13:32:20.788Z
+updated: 2025-01-12T07:00:56.975Z
 tags: 
   - ai
   - animation videos
@@ -43,10 +43,6 @@ Step1 Add a mask to create a feathered edge.
 
 ![after effects shape layer mask](https://images.wondershare.com/filmora/article-images/after-effects-shape-mask.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Edit the feather parameter under the mask in the composition panel.
 
 ![after effects feather parameter editing](https://images.wondershare.com/filmora/article-images/after-effects-feather.jpg)
@@ -60,6 +56,10 @@ Step1 Go to the "**Effects and Preset**" tab and search for the "**Fast Box Blur
 Step2 Increase the "**Blur Radius**" to see the edges feather.
 
 ![after effects editing the blur radius](https://images.wondershare.com/filmora/article-images/after-effects-blur-radius.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Use Variable Mask Feather in After Effects?
 
@@ -88,10 +88,6 @@ Step4 Go to "**Pen Tool**" > "**Mask Feather Tool**" and **click** anywhere on t
 Step5 Drag the mask point feathering around the focus.
 
 ![after effects adjusting the mask feathering points](https://images.wondershare.com/filmora/article-images/after-effects-adjust-points.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This tutorial came from [Crish Design](https://www.youtube.com/watch?v=Lx7KTqgish8&t=38s). For more tutorials about After Effects tips and techniques, you can refer to the **Crish Design** YouTube channel.
 
@@ -125,13 +121,13 @@ Step2 Double-click the video in the Player Window. In the editing window, **clic
 
 ![filmora adding a shape mask](https://images.wondershare.com/filmora/guide/add-mask-to-video.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Scroll down to find the "**Blur Strength**" option, and **adjust** the blur value.
 
 ![filmora adjusting the blur strength value](https://images.wondershare.com/filmora/guide/add-keyframe-to-mask.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Use Variable Mask Feather in Wondershare Filmora?
 
@@ -194,10 +190,6 @@ To use Variable Mask Feather in Filmora, follow these steps:
 Step1 Select the "**Draw Mask**" option under the Mask tab, and **use** the pen tool to draw whatever shape you like in the video.
 
 ![filmora draw mask](https://images.wondershare.com/filmora/guide/draw-mask-to-video.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Adjust the "**Blur Strength**" value.
 
@@ -254,10 +246,6 @@ Apple offers a pre-developed feature to create slomos using a simple method. In 
 
 ![select the slo mo mode](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide to Creating a Slow Motion in Android
 
 The Android has also introduced a slo-mo feature to record content in slow motion. It helps creators in crafting transitions or aesthetic videos. We have given a detailed procedure for recording a slow-motion video in Android:
@@ -283,10 +271,6 @@ In addition, you can infuse your slomo with multiple visual effects, transitions
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Using Uniform Speed to Create a Slow-Motion Video in Filmora
 
@@ -320,6 +304,10 @@ After importing and bringing media to the timeline, select it and reach the sett
 
 ![start speed ramping](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2Enable the Optical Flow Option
 
 Navigate to the bottom of this panel and expand the AI Frame Interpolation menu. Choose the “Optical Flow” option to achieve your desired outcome.
@@ -341,6 +329,14 @@ It's a proficient way of creating slo-mo with AI assistance and custom settings.
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: The Slow Mo Guys: A Real-Life Sensation in Creating Slow Motion Videos
 
@@ -403,6 +399,10 @@ After downloading Filmora on your device, click the "New Project" button to star
 This is the AI feature that increases the video frame rate for a smooth, slow-motion effect. You can access this option at the bottom of Uniform Speed settings. Expand it and select the “Optical Flow” option for your purpose.
 
 ![enable the optical flow option](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3Enable Render Preview to See Results
 
@@ -474,6 +474,10 @@ Some of the Vegas software series released by Sony Creative Software are listed 
 * **Vegas Pro 12:** Released in November 2012.
 * **Vegas Pro 13:** Released in April 2014 with new collaboration tools, the last version by Sony.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### MAGIX Vegas Pro 20
 
 MAGIX Vegas Pro 20 is an industry-leading video editing software program owned by MAGIX. The software can help you manipulate, combine, and edit your video clips with various tools in an easy-to-use interface. Vegas Pro is well known among professionals who need to create high-quality videos.
@@ -485,10 +489,6 @@ Some basic functions of the Vegas Pro 20 include Speech to Text functionality, A
 ## Part 2\. MAGIX Vegas Pro Review
 
 The [Vegas Pro 20](https://www.vegascreativesoftware.com/us/vegas-pro/) is a tailor-made software for content creators with an optimized interface, fast rendering speed, and many features to help them create video projects that stand out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Score On G2
 
@@ -522,10 +522,6 @@ We'll now **review** some of the most important features of **MAGIX** **Vegas Pr
 
 ![color grading feature](https://images.wondershare.com/filmora/article-images/2022/11/color-grading-feature.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Track Effects**: The Vegas Pro 20 offers **adjustment tracks** that help apply effects to the entire track. You can also alter the intensity of these effects and use keyframes from the timeline.
 
 ![adjustment tracks](https://images.wondershare.com/filmora/article-images/2022/11/adjustment-tracks.jpg)
@@ -535,11 +531,11 @@ We'll now **review** some of the most important features of **MAGIX** **Vegas Pr
 
 And we have prepared a video for you below, so that you can establish an overview of MAGIX Vegas Pro 20 better.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Video - Full Walkthrough of Vegas Pro 20
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. MAGIX Vegas Pro Pros and Cons
 
@@ -658,6 +654,10 @@ Hopefully, you find our **Magix Vegas Pro 20 review** helpful and can now make a
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Customized Transitions to OBS
 
@@ -731,6 +731,10 @@ Step4 Check them out and once you have selected one to apply, drag and drop it i
 
 ![check transitions out](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Play the video and click on Export button to save the video.
 
 ## Part 4: Related FAQs about OBS Transitions
@@ -767,10 +771,6 @@ Step4 Check them out and once you have selected one to apply, drag and drop it i
 
 Step5 Play the video and click on Export button to save the video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Related FAQs about OBS Transitions
 
 ### How do I add a transition overlay in OBS?
@@ -801,16 +801,20 @@ Go to the OBS Forums from where you get to download transitions for OBS Studio. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-2024iphone-your-phones-voice-diary/"><u>[Updated] 2024IPhone Your Phone's Voice Diary</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-perfect-crossfading-techniques-using-audacity/"><u>[Updated] In 2024, Perfect Crossfading Techniques Using Audacity</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-tips-for-smoothing-out-quake-in-captured-movement-for-2024/"><u>[Updated] Tips for Smoothing Out Quake in Captured Movement for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>2024 Approved How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-leading-android-moba-games-unveiled/"><u>2024 Approved Leading Android MOBA Games Unveiled</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enjoying-your-rides-with-ddpai-mini3-when-dashcams-get-entertaining/"><u>Enjoying Your Rides with DDPai Mini3: When Dashcams Get Entertaining</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-motion-tracking-in-video-editing/"><u>In 2024, How to Use Motion Tracking in Video Editing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-guide-to-10-must-have-ig-video-editing-tools/"><u>In 2024, The Ultimate Guide to 10 Must-Have IG Video Editing Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-achieve-gopro-slow-motion-with-quality/"><u>Updated 2024 Approved How to Achieve GoPro Slow Motion With Quality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-vintage-film-effect-1950s/"><u>Updated 2024 Approved How to Create Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-boost-your-tv-experience-automatic-loops-of-youtube-videos/"><u>[New] Boost Your TV Experience Automatic Loops of YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streaming-video-evaluation-report/"><u>[New] Streaming Video Evaluation Report</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-pureimage-the-backdrop-cutter/"><u>[Updated] In 2024, PureImage The Backdrop Cutter</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-film-quality-three-easy-iphone-brightness-tricks/"><u>Elevate Film Quality Three Easy iPhone Brightness Tricks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-look-at-lg-27uhd68-4k-sync-technology/"><u>In-Depth Look at LG 27UHD68, 4K Sync Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-win11s-perplexing-bluescreen/"><u>Mastering the Art of Fixing Win11's Perplexing Bluescreen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-are-you-in-search-for-a-step-by-step-guide-to-how-to-add-effects-in-tiktok-here-it-is-to-add-some-flavor-to-your-tiktok-videos-use-these-how-to-add-effe/"><u>New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/subscriptionshutdowns-seeking-new-access-era/"><u>SubscriptionShutdowns: Seeking New Access Era</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unleashing-the-power-of-subtitles-discover-the-top-8-efficient-convertors-to-srt-on-windowsmacosx/"><u>Unleashing the Power of Subtitles - Discover The Top 8 Efficient Convertors to SRT on Windows/MacOSX</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-top-online-stop-motion-animation-software-for-2024/"><u>Updated Unleash Your Creativity Top Online Stop Motion Animation Software for 2024</u></a></li>
 </ul></div>
 

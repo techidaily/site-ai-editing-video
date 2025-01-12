@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article
-date: 2025-01-02T16:55:32.173Z
-updated: 2025-01-05T21:43:03.331Z
+date: 2025-01-10T00:56:19.405Z
+updated: 2025-01-11T20:36:46.938Z
 tags: 
   - ai
   - animation videos
@@ -31,11 +31,19 @@ To counter these difficulties, even if you have a keyboard, you can imagine your
 
 Therefore, presenting us with a challenge, so if you someday come across a situation like this, you will be prepared. All in all, you would be learning more things by returning to the roots of your practice, which in most cases, can prove helpful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Ready With the Professional Editing Tool
 
 Before getting into the editing process handicapped from resources, you need to be familiar with the software that we will use. We will use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) You can click the link below and catch it up.
 
 ![buying wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-2.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create a Music Video Without a Keyboard
 
@@ -54,7 +62,7 @@ Our first and most crucial step will be to use our imagination and creativity. S
 ![reviewing the footage](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-3.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Head to the **stock media** folder on the bar mentioned above, the Wondershare Filmora.
@@ -112,7 +120,7 @@ When you have your audio in the timeline, your next step is adding the video. Af
 ![adding sample videos](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-7.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * **Click** and **drag** to drop the video clips where you want the video to start.
@@ -121,10 +129,6 @@ When you have your audio in the timeline, your next step is adding the video. Af
 * Simply drag your video and drop it into the timeline.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** now, remember you have multiple videos to match the audio length as we create a music video. The more, the more optimistic. Now, remember you have multiple videos to match the audio length as we create a music video. The more, the more optimistic.
 
@@ -175,6 +179,10 @@ You can add some transitions to give your music video a fine touch**.** To add t
 
 ![adding effects on wondershare filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-8.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * First, **click** on the transition icon on the bar above. Then, browse as far as your imagination takes you.
 * If the effect you want still needs to be downloaded, click on the **download** icon in the bottom right corner and download the effect.
 * Click on the effect and drag it to drop it on your video. It will create a **smooth transition** while shifting from one video to the other.
@@ -197,10 +205,6 @@ If you have time, you can also add a few of the effects in the Wondershare Filmo
 It seems our 15 minutes are running out! Play the music video from the beginning and review the edits you made. Then, finalize your edits and Voila. You have successfully created a music video using a mouse on Wondershare Filmora.
 
 So in a rare scenario when you don't have a keyboard, you can just use your mouse to browse the Wondershare Filmora and put those creative ideas to work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -227,10 +231,6 @@ With just a mouse, you have created a music video! How easy is that? Try differe
 
 There are many aspects to consider when it comes to publishing a video. Safety and privacy aspects are some of them. If you're looking to blur out a bystander or cut out profanities from your video with Filmora, this is the right article for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. How to add a beep sound to a video with Filmora
 
 Filmora's powerful video editing menu includes easy tweaking on audio. You can censor any part of speech you want to exclude from your video with just these simple steps.
@@ -243,9 +243,17 @@ Step2 Separate the audio component from the video by right-clicking on the video
 
 ![detach the audio component](https://images.wondershare.com/filmora/article-images/2022/12/censor-effects-with-filmora-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Mark the part to place the start of the beep using the playhead and click the Split icon on the editor’s toolbar.
 
 ![split to separate the target segment](https://images.wondershare.com/filmora/article-images/2022/12/censor-effects-with-filmora-3.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Place the playhead at the end of the censored segment and click Split. Double-click on the segment to open the audio editing menu, then you can remove that part of the audio or lower the volume.
 
@@ -255,6 +263,10 @@ Step5 Click the **Audio>Audio** Effects menu on the upper left corner of the scr
 
 ![adjust the sound effect placement](https://images.wondershare.com/filmora/article-images/2022/12/censor-effects-with-filmora-5.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. How to add mosaic to video with Filmora
 
 Whether you want to hide a passerby's face or your own, or even other types of objects, Wondershare Filmora is ready to take on the task. While its nifty face-off function automatically follows the movement of a marked face, the mosaic effect is the fast and perfect solution for a static object in the video.
@@ -262,10 +274,6 @@ Whether you want to hide a passerby's face or your own, or even other types of o
 Step1 After importing a video to Filmora, tap on the Effects tab and find the Mosaic filter from the gallery.
 
 ![find the mosaic effect from the effects library](https://images.wondershare.com/filmora/article-images/2022/12/censor-effects-with-filmora-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Drag the Mosaic filter to the timeline just above the main video track.
 
@@ -297,10 +305,6 @@ With Filmora, you can always enhance your video within minutes with excellent qu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Zoom Video in VLC Media Player
 
 Even though VLC Media Player is not the default video player in any operating system, most users install VLC Player separately on their computers. This is because VLC Media Player offers several useful and advanced features that the default media player like Windows Media Player lacks. There are situations when users need to zoom into certain parts of a video, and that is where VLC zoom in video feature comes in handy.
@@ -308,7 +312,7 @@ Even though VLC Media Player is not the default video player in any operating sy
 You may need to zoom into videos to pay attention to details and focus on parts around the subject that others are missing out. For example, you have recorded a video, and you have played it on VLC to zoom in and ensure that there is nothing distracting before you publish the video. Now, we will illustrate all the different ways on how to zoom in VLC Media Player. We will also suggest a better alternative to zoom into videos easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Zoom VLC Video Using Interactive Zoom
@@ -328,10 +332,6 @@ Step4Turn on Interactive Zoom option. Click on Save and Close buttons.
 Step5Play a video and you will see a Picture in Picture window in the top-left corner where you can see live preview of the video. You will notice a rectangular box that you can drag around the PiP window to zoom that section of the video.
 
 ![zoom in vlc](https://images.wondershare.com/filmora/article-images/2022/07/vlc-pic-in-pic.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step6Wherever you place the rectangular box in PiP window, that part will be zoomed and shown outside the PiP window. You can increase or decrease the level of magnification from the vertical slider present below PiP window.
 
@@ -364,6 +364,10 @@ Step3Click on Magnifier App. Once it opens, place the mouse pointer on the video
 Step4Press Windows and “+” keys to zoom in while press Windows and “-“ keys to zoom out.
 
 ![zoom in vlc](https://images.wondershare.com/filmora/article-images/2022/07/adjust-magnifier-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: VLC Alternative to Zoom in Videos
 
@@ -399,10 +403,6 @@ Step 3: Import your video on Filmora into Project Media folder by drag and drop 
 
 ![zoom in vlc](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Drag and drop the video file into Timeline. Click on Crop icon on the top bar of Timeline.
 
 Step 5: Go to Pan & Zoom tab and move the rectangular box and play the video to watch its magnified video. You can also export the video after cropping in your desired file format.
@@ -429,22 +429,19 @@ There are several scenarios when you need to zoom into a video to focus on the d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-enhance-your-browsing-efficiency-a-complete-guide-to-pip-on-edge/"><u>[New] In 2024, Enhance Your Browsing Efficiency A Complete Guide to PIP on Edge</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-samsungs-new-edge-the-2023-bd-j5900-reviewed/"><u>[New] Samsung's New Edge The 2023 BD-J5900 Reviewed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-webcam-mastery-creating-videos-on-macbook/"><u>[New] Webcam Mastery Creating Videos on MacBook</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-know-how-you-can-trim-or-merge-using-wondershare-filmora-trimming-and-merging-using-this-tool-is-an-easy-task-learn-how-for-2024/"><u>Do You Know How You Can Trim or Merge Using Wondershare Filmora? Trimming and Merging Using This Tool Is an Easy Task; Learn How for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easy-steps-to-loop-youtube-videos-on-iphone/"><u>Easy Steps to Loop YouTube Videos on iPhone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/freeframe-finders-your-path-to-aesthetic-economical-backdrops-on-tiktok/"><u>FreeFrame Finders Your Path to Aesthetic, Economical Backdrops on TikTok</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-prioritize-calculator-visibility-in-windows/"><u>How to Prioritize Calculator Visibility in Windows</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/mastering-privacy-how-to-safeguard-your-files-with-password-protection-in-windows-using-yl-computing-techniques/"><u>Mastering Privacy: How to Safeguard Your Files with Password Protection in Windows Using YL Computing Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-star-wars-battlefront-ii-loading-process-to-enhance-pc-gaming-experience/"><u>Optimizing Star Wars: Battlefront II Loading Process to Enhance PC Gaming Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210424449-resolving-no-response-from-your-dns-server-try-these-top-4-tips/"><u>Resolving No-Response From Your DNS Server? Try These Top 4 Tips</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/sluggish-windows-10-backups-speed-up-your-process-with-these-5-quick-solutions/"><u>Sluggish Windows 10 Backups? Speed Up Your Process with These 5 Quick Solutions!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-journey-into-the-metaverse-top-8-vr-headgear/"><u>[New] 2024 Approved Journey Into the Metaverse Top 8 VR Headgear</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ultimate-trend-watcher-track-top-8-rankings/"><u>[New] 2024 Approved Ultimate Trend Watcher Track Top 8 Rankings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drift-into-drone-fun-kid-and-novice-guide/"><u>Drift Into Drone Fun Kid and Novice Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-repairing-malfunctioning-mic-in-headsets/"><u>Effective Solutions for Repairing Malfunctioning Mic in Headsets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-checklist-for-integrating-subtitle-track-into-mp4s/"><u>Essential Checklist for Integrating Subtitle Track Into MP4s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-ai-the-revolutionary-approach-of-using-machine-learning-and-computer-vision-in-retail-inventory-management/"><u>Harnessing AI: The Revolutionary Approach of Using Machine Learning & Computer Vision in Retail Inventory Management</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-best-luts-for-vlog/"><u>In 2024, Overview of Best LUTs for Vlog</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/massive-labor-day-discount-save-up-to-700-on-the-new-ipad-pro-exclusively-featured/"><u>Massive Labor Day Discount: Save Up to $700 on the New iPad Pro - Exclusively Featured</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-pip-feature-in-microsoft-edge-for-2024/"><u>Mastering PIP Feature in Microsoft Edge for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
 </ul></div>
 

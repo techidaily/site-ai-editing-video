@@ -1,7 +1,7 @@
 ---
 title: New Follow a Few Simple Steps and Learn How to Create a Professional Glowing Edge Effect to Your Videos in Filmora
-date: 2025-01-02T22:07:51.826Z
-updated: 2025-01-05T21:10:42.621Z
+date: 2025-01-07T02:22:59.597Z
+updated: 2025-01-12T10:05:37.011Z
 tags: 
   - ai
   - animation videos
@@ -359,10 +359,6 @@ These LUTs are designed to add a unique color grade to your footage to change th
 * [Part 3: How to Use Moody LUTs for VN Editor?](#part3)
 * [Bonus Part: Find Better LUTs in Wondershare Filmora for Video Editing](#part4)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Where Should You Use a Moody LUT in Video Editing?
 
 Moody LUTs are a type of lookup table to show a specific mood in your content. There are many LUTs available that add emotion and feel to your photos and videos. Some of its uses are discussed below.
@@ -383,15 +379,15 @@ The Free LUTs Mood pack includes different LUTs presets for different moods. You
 
 ![free luts mood ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.[Moody LUT Pack | 30 Creative Film LUTs](https://www.bouncecolor.com/products/moodyluts)
 
 The Moody LUT Pack includes 30 creative film LUTs that can be used to add mood and emotion to your photos and videos. These LUTs give your content a film-like look and feel with a range of moods to select. It darkens your shades and highlights certain colors to give your photos and videos a dramatic look. Moreover, it also adds a perspective to your content.
 
 ![Moody LUT Pack | 30 Creative Film LUTs ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. [Axinite](https://elements.envato.com/axinite-mobile-desktop-lightroom-presets-QY5D2RA?irgwc=1&clickid=1vh2djQ7QxyNT2OUvxSEOx55UkAX3oVlUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
 
@@ -404,6 +400,10 @@ Axinite is packed with multiple LUTs, each with its unique mood and style. This 
 The Raw Layer LUT pack provides 4 moody LUTs that can add a cinematic touch to your edits. This pack provides a darker version that gives your media files a dramatic feel. It changes your color composition in such a way that it highlights the subject and creates a more serious mood. You can use these LUTs to give your media files a more serious and dramatic appeal.
 
 ![Raw Layer ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. [Moody Lake](https://www.freepresets.com/product/free-luts-moody-lake-lookup-table/)
 
@@ -423,10 +423,6 @@ Wedding & Rich LUTs by Moody Presets is a collection of LUT packs that adds a ro
 
 ![Wedding & Rich LUTs by Moody Presets](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to Use Moody LUTs for VN Editor?
 
 If you are searching for how to use your favorite moody LUTs for VN Editor, you are at the right place. These simple steps allow you to apply any LUT in your VN Editor app.
@@ -437,19 +433,11 @@ Open the VN Editor and select the “+” sign. Then a new window will appear wh
 
 ![open and import luts ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2 Apply LUTs and Save the File
 
 After choosing the LUT you want to use, VN Editor will extract and process it. You can find the LUT in the “Filters” section and apply it to your media file. You can also adjust the intensity of the LUT to your liking. Once done with your adjustments, save your file by tapping the “Save” button.
 
 ![apply luts on vn editor ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Part: Find Better LUTs in Wondershare Filmora for Video Editing
 
@@ -484,6 +472,10 @@ In conclusion, adding mood and emotion to your digital content can improve its i
 * [Part 3: How to Use Moody LUTs for VN Editor?](#part3)
 * [Bonus Part: Find Better LUTs in Wondershare Filmora for Video Editing](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Where Should You Use a Moody LUT in Video Editing?
 
 Moody LUTs are a type of lookup table to show a specific mood in your content. There are many LUTs available that add emotion and feel to your photos and videos. Some of its uses are discussed below.
@@ -528,6 +520,10 @@ Moody Lake is a LUT pack that gives your photos and videos a colder look. It exp
 
 ![ Moody Lake ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6.[15 Earth Tones Moody Lightroom Preset](https://www.etsy.com/listing/1383194348/15-lightroom-presets-earthy-tones-effect)
 
 Another impressive moody LUTs pack that comes with multiple options is Earth Tones Lightroom Preset. It includes 15 presets that can add a moody and atmospheric look to your photos and videos. Moreover, this preset highlights the natural colors to give your content an earthy feel. This LUT pack is perfect for color-grading traveling videos and photos.
@@ -535,7 +531,7 @@ Another impressive moody LUTs pack that comes with multiple options is Earth Ton
 ![15 Earth Tones Moody Lightroom Preset ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7.[Wedding & Rich LUTs by Moody Presets](https://luts.moodypresets.co.in/index.php/product/wedding-luts-by-moody-presets/)
@@ -545,7 +541,7 @@ Wedding & Rich LUTs by Moody Presets is a collection of LUT packs that adds a ro
 ![Wedding & Rich LUTs by Moody Presets](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Moody LUTs for VN Editor?
@@ -630,13 +626,13 @@ Step1 Launch Media Player Classic and click on the "View" tab. Select "Options" 
 
 ![options in media player classic](https://images.wondershare.com/filmora/article-images/media-player-classic-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Navigate to the left pane to the Player Group and click on "Keys." If the Player Group is not expanded by the time, you launch the platform, double-click it and wait a few seconds. You can then navigate to the "PnS Rotate" command on the Keys list.
 
 ![keys in media player classic](https://images.wondershare.com/filmora/article-images/media-player-classic-keys.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Go to the "PnS Rotate+" command and double-click the "Key" field. You can then click on any key to rotate your video around the x-axis. Once you are satisfied with the results, click "…" to apply the changes you have made.
 
@@ -653,6 +649,10 @@ Step5 Select "Output" on the Options window and navigate to the DirectShow Video
 Step6 Use the shortcuts you assigned to the keys in Step 4 to rotate your video as you see fit. Since the rotation occurs gradually, you might need to press the keys numerous times or press and hold to see a visible change.
 
 For instance, you can rotate your video from landscape to portrait by clicking "Alt-Num 1" and "Alt-Num 3," respectively. To revert your video to its original state, press "Alt-Num 5."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Need an alternative to Media Player Classic? Try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) To Rotate a Video
 
@@ -701,6 +701,10 @@ Step4 Once you are happy with your changes, click "OK" and close the window.
 
 ![project settings wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-project-settings-rotate.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Double-click the video track and navigate to the Rotate option in the window. Hover your mouse over the dot in the Rotate tab until you get to 90 degrees. You could also adjust the rotation of the video by clicking on the pivot in the media player till the video is at 90 degrees.
 
 ![rotate video wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-rotate-video-settings.jpg)
@@ -708,10 +712,6 @@ Step5 Double-click the video track and navigate to the Rotate option in the wind
 Step6 Click "Export" to save a copy of the rotated video to your device.
 
 ![export video wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-export-video-rotate.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Is Better To Rotate a Video? Media Player Classic or Wondershare Filmora?
 
@@ -771,10 +771,6 @@ Step1 Import the video you want to rotate to Wondershare Filmora and drag and dr
 
 ![add media to timeline wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-add-to-timeline-rotate.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Click on the monitor icon and select "Change Project Aspect Ratio" in the drop-down menu.
 
 ![change project aspect ratio wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-change-project-ratio-rotate.jpg)
@@ -816,6 +812,10 @@ This platform also provides additional features, like allowing you to scale the 
 
 In a nutshell, Windows Media Player is the ideal choice if you want to rotate your video and leave it at that. However, if you are looking for more advanced features, you are better off choosing Wondershare Filmora. The latter option also makes your videos look more polished like they were edited by a professional.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Videos might be trickier to edit than photos, especially when you want to rotate them. Fortunately, developers have been working tirelessly to ensure you have many tools at your disposal to edit your videos from any device at any time.
@@ -838,15 +838,21 @@ If you don't fancy editing videos on your laptop, you could download the softwar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amd-radeon-v2410-video-card-software-enhancements-and-download-guide/"><u>AMD Radeon V24.10 Video Card Software: Enhancements & Download Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-honor-play-8t-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Honor Play 8T online without jailbreak</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximizing-shot-stability-on-drones-a-comprehensible-guide-for-2024/"><u>Maximizing Shot Stability on Drones A Comprehensible Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-4-typical-gpu-woes-solutions-explored/"><u>Navigating 4 Typical GPU Woes: Solutions Explored</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-blur-faces-in-your-videos-read-this-article-to-find-out-the-easiest-way-to-blur-the-faces-in-videos-using-adobe-premiere-pro/"><u>New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protect-your-screen-from-inappropriate-images-on-iphonemac-with-ease/"><u>Protect Your Screen From Inappropriate Images on iPhone/Mac with Ease</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revouninstaller-setup-from-download-to-full-functionality/"><u>RevoUninstaller Setup: From Download to Full Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-and-open-airwaves-at-home-internet-radio-recordings-explained/"><u>[New] Free and Open Airwaves at Home - Internet Radio Recordings Explained</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-artists-companion-a-curated-list-of-8-premier-iphone-drawing-tools-for-2024/"><u>[New] The Artist's Companion A Curated List of 8 Premier iPhone Drawing Tools for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-glamour-unleashed-comprehensive-youtube-guide-to-elegance-for-2024/"><u>[Updated] Glamour Unleashed Comprehensive YouTube Guide to Elegance for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-key-to-gain-likes-in-tiktok-unpack-sessions/"><u>[Updated] The Key to Gain Likes in TikTok Unpack Sessions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-your-cursors-appearance-in-windows-os/"><u>Boosting Your Cursor's Appearance in Windows OS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/delving-into-gopro-cameras-burst-capabilities-for-2024/"><u>Delving Into GoPro Camera's Burst Capabilities for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-fleet-10-aerial-visionaries-dream-choices/"><u>Elite Fleet #10 Aerial Visionaries' Dream Choices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-use-virtual-green-screen-to-shoot-video/"><u>New 2024 Approved How To Use Virtual Green Screen to Shoot Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vsco-slow-motion/"><u>VSCO Slow Motion</u></a></li>
 </ul></div>
 

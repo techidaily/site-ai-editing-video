@@ -1,7 +1,7 @@
 ---
 title: New How to Add the Popular Video Text Effects to Your Video, In 2024
-date: 2025-01-04T19:25:52.333Z
-updated: 2025-01-05T17:33:41.306Z
+date: 2025-01-10T21:25:33.790Z
+updated: 2025-01-11T23:43:52.709Z
 tags: 
   - ai
   - animation videos
@@ -37,6 +37,10 @@ There are unlimited text effects available in Filmora but some of them are extre
 Text swipe effects are the most commonly used in today’s videos on social media and video streaming platforms. In this effect, the text slides into the video frame from a particular direction. The entire text can swipe in if it is a one-liner and it can even swipe in word by word or sentence by sentence.
 
 If you want to show short texts and you do not want to experiment with text animations, the text swipe effect is the safest option. For example, if you want to display your social media handles, your location, a coupon code, or a correction phrase that you have uttered wrongly, text swipe effects should be on your video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Type Text Effect
 
@@ -89,7 +93,7 @@ Step3 Search for a popular text effect from the search box. Select a text effect
 ![edit text in videos filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-in-videos-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can edit the style from fonts and settings section. You can also go to Advanced section available for more minute editing and get the desired text effect.
@@ -108,6 +112,10 @@ Text swipe effects are the most commonly used in today’s videos on social medi
 
 If you want to show short texts and you do not want to experiment with text animations, the text swipe effect is the safest option. For example, if you want to display your social media handles, your location, a coupon code, or a correction phrase that you have uttered wrongly, text swipe effects should be on your video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Type Text Effect
 
 The type text effect in Filmora is referred to as the typewriter text effect in Premiere Pro and After Effects. The effect displays the text as if it is being typed in real-time as it is done in a typewriter. The characters will appear on the screen with a cursor on the screen and therefore, it takes more duration than most other text effects.
@@ -119,10 +127,6 @@ The type text effect is particularly useful when you are displaying a large size
 WordArt is synonymous with MS Word where large words have 3D effects and highlighted background. Apart from 3D effect, text can have a thick stroke or outline as well as a gradient color style when WordArt effect is applied. In Filmora, you will find a plethora of WordArt effects and some are them are modern while others have a retro feel to them.
 
 The WordArt effect is particularly popular while displaying titles and funny texts on the entire screen or covering a large part of the video. These are mostly used in the opening or ending scenes of the video. Besides, some video creators use them while making transitions from one scene to another.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Keyframe
 
@@ -157,6 +161,10 @@ Step1 Download and install Wondershare Filmora as per your operating system. Fil
 Step2 Import your video clips under Project Media folder and drop them onto the timeline. Go to Titles menu option and you will see different categories and templates of text effects and templates from the left panel.
 
 ![import text video clip into filmora](https://images.wondershare.com/filmora/article-images/2022/09/import-text-video-clip-into-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Search for a popular text effect from the search box. Select a text effect template and drop it on the timeline. Adjust its place on the timeline depending on where you want the text to appear. Double-click on the text layer and edit the text as per your requirements.
 
@@ -202,6 +210,10 @@ The main reason why the green screen technique is used in movie and video making
 Therefore, the video editor can save a lot of time in editing and the editing stays uniform throughout which gives a realistic effect. If the green screen technique is not used and editing is done frame by frame of a video, there could be a manual error, inconsistent, and graphical glitches.
 
 You can replace green screens with anything you want. It could be a still image of a beautiful studio with 3D effect like you see in case of YouTubers and gamers. It could be a moving, real-life landscape on any place in the world instead of a beautiful background picture. Similarly, it could be replaced by video effects such as explosions, stadiums full of people, battlefields, and likewise. At times, it could be live animations as you see on TV channels.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Create DIY Green Screen Stand Setup and Add Green Screen Effect?
 
@@ -303,6 +315,10 @@ There are various video editors available, but not all of them are suitable for 
 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Making videos with DIY green screen stand is no more an esoteric concept. You can set it up anywhere and start shooting video. The magic begins in the post-production stage where you can use Wondershare Filmora to replace the green screen with video effects that will blow the mind of your viewers and followers. Filmora has intuitive options and controls through which you can apply green screen effect in simple steps.
@@ -325,6 +341,10 @@ Select the photo you want to modify and go to the develop module in Lightroom to
 
 The same choices are available in Photoshop's Camera Raw Filter. Simply scroll down on the right side of the screen once you've opened a photo in the Camera Raw Filter until you see Color Grading. The process of color grading is identical in Photoshop and Lightroom. I'll be using Lightroom to demonstrate the example photographs for the purposes of this blog article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Use Color Grading
 
 The first thing you'll notice is that there are actually three identical color wheels. Each color wheel, though, has a distinct purpose. Midtones are controlled by the top wheel, shadows, and highlights by the left and right wheels, respectively.
@@ -346,7 +366,7 @@ The amount of the image that is judged to be in the highlights, shadows, or midt
 Move to the HSL/Color Panel, which stands for Hue, Saturation, and Luminance, after your image is ready to use. It is located under Tone Curve in the Develop Panel. This adjustment panel, in contrast to the ones stated before, will let you change different colors in your image independently of one another. Hue, Saturation, and Luminance are the three modifications that each color will receive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Hue
@@ -401,10 +421,6 @@ Step 2 Click on the "Upload" button given on top to import your video file on th
 
 ![upload your subtitle file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3 After uploading the file, your subtitles will sync with your video. To edit your subtitles, navigate to the right panel. From that, you can select text position, background color, opacity, font, and alignment.
 
 ![adjust the added subtitles](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-3.jpg)
@@ -412,10 +428,6 @@ Step 3 After uploading the file, your subtitles will sync with your video. To ed
 Step 4 Once done with making the changes on added subtitles, you can click on the "Export Project" button to save or share the file.
 
 ![export your kapwing project](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Automatically Generate your Subtitle on Kapwing
 
@@ -431,17 +443,9 @@ Step 2 Once done with importing the video, click on "Subtitles" from the left se
 
 ![auto-generate the subtitles](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3 Once you created the subtitles through this feature, go to the "Translate" tab to translate subtitles into your preferred language. You can also edit the subtitles to change their background, opacity, text font, and size. Once done, click on the "Export Project" button.
 
 ![customize the subtitles style](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Manually Add Subtitles to the Video on Kapwing
 
@@ -475,25 +479,21 @@ Launch Filmora on your PC and click on the "Create New Project" button to open t
 
 ![import your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2 Enable Speech to Text Feature
 
 From the timeline, locate the feature of "Speech to Text." Now choose the language in which you want to create the subtitles and specify the other settings as well. Afterward, tap on the "OK" button to begin the process.
 
 ![specify speech to text settings](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3 Customize Subtitles and Save the Changes
 
 After the conversion, you can double-click the added subtitles to make modifications. After making the adjustments, hit the "OK" button. Now go to the "Export" button and select the video format in which you want to export the video, or you can also share it on social media platforms.
 
 ![confirm the subtitle edits](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -522,7 +522,7 @@ After the conversion, you can double-click the added subtitles to make modificat
 ![confirm the subtitle edits](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -545,17 +545,17 @@ By adding subtitles to your video, you can enhance your targeted audience and ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-streamlining-your-zoom-livestream-a-playbook-for-youtube-enthusiasts/"><u>[New] Streamlining Your Zoom Livestream A Playbook for YouTube Enthusiasts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-5-kung-fu-games-just-like-sifu/"><u>[Updated] In 2024, Top 5 Kung Fu Games Just Like Sifu</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-budding-entrepreneurs-mastering-telegram-advertising-basics/"><u>2024 Approved Budding Entrepreneurs Mastering Telegram Advertising Basics</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-color-grading-in-final-cut-pro/"><u>2024 Approved How to Color Grading in Final Cut Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-12-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 12 Pro Max in the Best Ways</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-fps-for-youtube-videos/"><u>In 2024, Overview of FPS for YouTube Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-6-budget-friendly-4k-sharp-projectors/"><u>In 2024, Top 6 Budget-Friendly 4K Sharp Projectors</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-change-speed-of-video-in-final-cut-pro/"><u>New In 2024, How To Change Speed of Video in Final Cut Pro?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/story-1-the-misconception-of-regional-compensation-limitations/"><u>Story 1: The Misconception of Regional Compensation Limitations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-analysis-of-sony-bdp-s6700-for-2024/"><u>Updated Analysis of Sony BDP-S6700 for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-looking-for-the-best-vhs-video-effect-makers-get-to-know-the-top-list-for-2024/"><u>Updated Looking For the Best VHS Video Effect Makers? Get To Know the Top List for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-jump-into-action-on-tiktok-live-easy-methods-revealed/"><u>[New] In 2024, Jump Into Action on TikTok Live Easy Methods Revealed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-7-tips-to-create-teaching-videos/"><u>2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/all-about-the-new-fortnite-experience-in-depth-review-of-the-current-battle-royale-season/"><u>All About the New Fortnite Experience: In-Depth Review of the Current Battle Royale Season</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/an-in-depth-look-at-apples-iphone-15-pro-interactive-test-drive/"><u>An In-Depth Look at Apple's iPhone 15 Pro: Interactive Test Drive</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-review-a-closer-look-at-the-line-chat-app-experience/"><u>Expert Review: A Closer Look at the Line Chat App Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-ais-power-in-software-engineering-speed-vs-metrics-challenges/"><u>Harnessing AI's Power in Software Engineering: Speed Vs. Metrics Challenges</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-realme-10t-5g-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Realme 10T 5G with Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-horizons-essential-alterations-to-windows-11s-explorer/"><u>New Horizons: Essential Alterations to Windows 11'S Explorer</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2021-file-error-stellar-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2021 File Error | Stellar</u></a></li>
 </ul></div>
 

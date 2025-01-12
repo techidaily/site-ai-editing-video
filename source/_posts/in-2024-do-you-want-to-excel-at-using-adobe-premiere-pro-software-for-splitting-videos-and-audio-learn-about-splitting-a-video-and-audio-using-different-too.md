@@ -1,7 +1,7 @@
 ---
 title: In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article
-date: 2025-01-03T21:39:23.195Z
-updated: 2025-01-05T16:10:39.691Z
+date: 2025-01-10T10:51:02.466Z
+updated: 2025-01-12T03:21:39.405Z
 tags: 
   - ai
   - animation videos
@@ -38,6 +38,10 @@ Step3Choose the Razor tool from the panel next to the timeline to split the clip
 Step4To split a video clip, click on the section you want to split.
 
 Step5Now that you have two segments from the same video file, you can edit them separately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Current-Time Indicator
 
@@ -103,6 +107,10 @@ Step1To add video files to the Timeline for trimming, first click "**Import**" o
 
 ![import](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2To eliminate an undesirable segment, move the playhead over it and select the scissor icon.
 
 Step3"Detach Audio" from the context menu when you are ready to extract the audio track from a video file. You'll see that an audio file immediately appears on the audio track.
@@ -112,6 +120,10 @@ Step3"Detach Audio" from the context menu when you are ready to extract the audi
 Step4Click "**Export**" after you're done trimming, then choose where you want to save the edited video.
 
 ![save the edited video](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -131,6 +143,10 @@ Step1To add video files to the Timeline for trimming, first click "**Import**" o
 
 ![import](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2To eliminate an undesirable segment, move the playhead over it and select the scissor icon.
 
 Step3"Detach Audio" from the context menu when you are ready to extract the audio track from a video file. You'll see that an audio file immediately appears on the audio track.
@@ -161,10 +177,6 @@ Since we run out of time because of our busy schedules, you might find it inconv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Applying the Effect of Camera Shake in Video Creation
 
@@ -238,6 +250,10 @@ In the “Effects” section on the bottom-left of the screen, look for the “T
 
 ![pick up transform effect](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2
 
 Continue to the effects settings that open on the top-left section of the Premiere Pro screen. Change the "Scale" and set the "Position" keyframes on the left and right side of the video frames. Do this for the frames throughout the video in Premiere Pro.
@@ -271,10 +287,6 @@ To [make the camera shake video](https://www.youtube.com/watch?v=a1MdfXL2ulA) wi
 To add a camera shake effect, go to the "Effects" tab and click "Search Bar." Next, search for an appropriate camera shake effect and hit the "Download" icon on the effect of your choice. Once the effect is downloaded, drag it on the video in the timeline and customize it as needed.
 
 ![add and adjust effect](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 3Export Camera Shake Video
 
@@ -324,10 +336,6 @@ In the “Effects” section on the bottom-left of the screen, look for the “T
 
 ![pick up transform effect](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2
 
 Continue to the effects settings that open on the top-left section of the Premiere Pro screen. Change the "Scale" and set the "Position" keyframes on the left and right side of the video frames. Do this for the frames throughout the video in Premiere Pro.
@@ -339,10 +347,6 @@ Continue to the effects settings that open on the top-left section of the Premie
 For adding motion blur in your **camera shake effect** video, uncheck the "Use Composition's Shutter Angle" and set it to "360" degrees. This completes the camera shake, which can be easily exported to the computer.
 
 ![set shutter angle](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: A Step-by-Step Understanding of How To Create a Camera Shake Effect with Filmora
 
@@ -416,29 +420,13 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 ![access time stretch feature](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** In the Time Stretch window, increase the default value of "Stretch Factor." Then click "OK," and this will slow down your clip.
 
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
 
@@ -558,6 +546,10 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
 
@@ -688,10 +680,6 @@ Step1 Navigate to the Adobe Photoshop tool and begin by uploading a picture. Aft
 
 ![select convert for the smart filters option](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Now go to the "Filter" tab again and choose the "Blur Gallery" option. From there, select the "Path Blur" option. Now adjust the displayed arrow in a particular direction to decide the starting and endpoint of the path blur. Moreover, modify the "Speed" slider according to your choice.
 
 ![proceed with path blur](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-5.jpg)
@@ -703,6 +691,10 @@ Step3 After dragging the arrow in a particular direction, a blue dot will appear
 Step4 Utilize the noise section to add a grainy effect in the blurred area. Once done, click on the "OK" button. Now select the masking tool to select the area in your picture. Afterward, choose the "Smart Mask" filter and then navigate to the "Fill" option given in the "Edit" section.
 
 ![select the fill option](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 In the fill menu, choose the color "Black." Now go to the "Select" section and click "Deselect." To soften the whole look, you can go to the "Properties" panel and adjust the "Feather" properties.
 
@@ -742,6 +734,10 @@ To split, choose the starting and ending point in the clip where you want to add
 
 ![split the added clip](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Apply the Transition
 
 Once you have added the motion blur effect, you can check the results from the preview window. You can also apply the "Dissolve" transition from the "Transitions" tab to generate a smooth result.
@@ -766,6 +762,10 @@ After launching Filmora, select "Create New Project" and import the desired pict
 
 ![import the desired image](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Choose the Background Blur
 
 To split, choose the starting and ending point in the clip where you want to add the motion blur effect. Once done, go to the "Effects" tab and search for the "Background Blur" effect section. Pick and apply the desired blur filter to the split section of the video.
@@ -779,7 +779,7 @@ Once you have added the motion blur effect, you can check the results from the p
 ![access transitions tab](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -802,17 +802,14 @@ If you want to display a sense of speed and movement in the picture, you can add
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-the-joy-of-nintendo-switch-gaming/"><u>[Updated] Capturing the Joy of Nintendo Switch Gaming</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-learning-with-legends-top-history-youtube-content-for-learners/"><u>[Updated] Learning with Legends Top History YouTube Content for Learners</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-stealth-mode-a-guide-to-living-large-unlabeled/"><u>[Updated] Stealth Mode A Guide to Living Large, Unlabeled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-inexpensive-cloud-storage-services/"><u>[Updated] Unveiling Inexpensive Cloud Storage Services</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/mp4ogv-movavi-mp4ogv/"><u>在線無成本MP4至OGV導向影片改版服務 - Movavi MP4/OGV切換工具</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/elite-highlight-extravaganza-iosandroid-instagram-coverage-tools-for-2024/"><u>Elite Highlight Extravaganza IOS/Android Instagram Coverage Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-film-a-slow-motion-video/"><u>How To Film a Slow Motion Video</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximize-your-experience-10-must-know-iphone-x-techniques/"><u>Maximize Your Experience 10 Must-Know iPhone X Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-a-guide-to-create-your-own-lol-montage-video-for-2024/"><u>New A Guide to Create Your Own LOL Montage Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-on-using-filmora-green-screen/"><u>New In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/steps-to-fade-audio-in-premier-pro/"><u>Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-this-ar/"><u>Updated Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-accessible-archives-downloading-everyday-facebook-feed/"><u>[New] 2024 Approved Accessible Archives Downloading Everyday Facebook Feed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-impactful-video-campaigns-for-startups-for-2024/"><u>[New] Crafting Impactful Video Campaigns for Startups for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-steps-to-create-makeup-videos/"><u>2024 Approved Steps to Create Makeup Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-navigate-ios-magnification-features/"><u>2024 Approved Swiftly Navigate iOS Magnification Features</u></a></li>
+<li><a href="https://fox-http.techidaily.com/demystifying-syncopated-soundscapes-via-crossfading/"><u>Demystifying Syncopated Soundscapes via Crossfading</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-your-images-the-step-by-step-process-with-chatgpts-ai-capabilities/"><u>Innovate Your Images: The Step-by-Step Process with ChatGPT's AI Capabilities</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-customized-transitions-to-obs/"><u>New 2024 Approved How to Add Customized Transitions to OBS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Create the Stranger Things Upside Down Effect
-date: 2024-12-29T18:05:01.953Z
-updated: 2025-01-05T16:07:15.456Z
+date: 2025-01-04T17:53:19.635Z
+updated: 2025-01-12T04:42:54.601Z
 tags: 
   - ai
   - animation videos
@@ -59,10 +59,6 @@ Step1 Take your first clip in the “normal” world and drag it down to a video
 
 ![trim the edge of the clip](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Drag the second clip (in the Upside Down) onto the video track on the timeline after the first clip. Trim this video, so it begins in pure black and an upward motion.
 
 ![trim video](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-5.jpg)
@@ -72,6 +68,10 @@ Cut the clips to get the timing right since it should be a very fast transition.
 If you don't have a perfectly smooth transition, you can add a dissolve by going to **Transitions > Basic > Dissolve**.
 
 ![cut the clips](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Color Grading and Effects**
 
@@ -90,6 +90,10 @@ The “cool” or “warm” color grading technically talks about color tempera
 Step3 Next, move down to the color, lower the brightness and increase contrast. It makes the scene darker and more sinister than the normal world.
 
 ![move down to the color](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Finally, go down to the vignette and drag the amount slider a tiny bit to give a Vinnette around your clip.
 
@@ -115,6 +119,10 @@ You can also use filmstock effects to bring our video to the next level. Go to *
 
 ![go to elements](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Double-click the clip and change the scale of the effect to your needs. Then, go to compositing to change the blending mode to the screen to help the effect blend in more.
 
 ![change the scale of the effect](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-14.jpg)
@@ -122,6 +130,10 @@ Double-click the clip and change the scale of the effect to your needs. Then, go
 Now, go to color and open the white balance menu. Drag the two sliders to change the color of the particles to match your clip.
 
 ![open the white balance menu](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -159,6 +171,10 @@ The “cool” or “warm” color grading technically talks about color tempera
 
 ![further edit the color grading](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-8.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Next, move down to the color, lower the brightness and increase contrast. It makes the scene darker and more sinister than the normal world.
 
 ![move down to the color](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-9.jpg)
@@ -187,10 +203,6 @@ You can also use filmstock effects to bring our video to the next level. Go to *
 
 ![go to elements](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Double-click the clip and change the scale of the effect to your needs. Then, go to compositing to change the blending mode to the screen to help the effect blend in more.
 
 ![change the scale of the effect](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-14.jpg)
@@ -198,10 +210,6 @@ Double-click the clip and change the scale of the effect to your needs. Then, go
 Now, go to color and open the white balance menu. Drag the two sliders to change the color of the particles to match your clip.
 
 ![open the white balance menu](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -240,10 +248,6 @@ Step 3: Click on the Loop option located at the bottom of the View menu. Alterna
 
 Thereafter, the video you are playing won't stop at its end mark. It will restart again and again until your pause or close the QuickTime player.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. QuickTime Alternatives to Loop Video
 
 QuickTime Player is where you can play videos in a loop. However, if you want to loop videos for your video project, you will need a video editor. If you are looking for QuickTime Player alternatives to loop video on your Mac, we have the following options.
@@ -265,10 +269,6 @@ Step 3: Drop the video on the timeline. You can drag and drop the video clip mul
 ![drag video timeline imovie](https://images.wondershare.com/filmora/article-images/drag-video-to-timeline-imovie.jpg)
 
 Step 4: Once you have looped the desired video, go to File> Share> File option to save the video file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Filmora for Mac
 
@@ -293,10 +293,6 @@ Step 3: Drag and drop the video clip into the timeline again. Place it by the si
 ![loop video filmora mac](https://images.wondershare.com/filmora/guide/quick-split-mode.png)
 
 Step 4: Play the video and watch it in a loop through the Viewer on Filmora. If you are satisfied, click on the Export button to save the video in any file format as per your preference.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs
 
@@ -326,11 +322,11 @@ Step 3: Drag and drop the video clip into the timeline again. Place it by the si
 
 ![loop video filmora mac](https://images.wondershare.com/filmora/guide/quick-split-mode.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Play the video and watch it in a loop through the Viewer on Filmora. If you are satisfied, click on the Export button to save the video in any file format as per your preference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs
 
@@ -452,6 +448,10 @@ After obtaining the motion tracking data, the video editor can apply different e
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Perform Motion Tracking in Adobe After Effects?
 
 As you have gained knowledge about motion tracking, there are many platforms that offer this feature. Adobe After Effects is a video editing platform that can help you perform **video motion tracking**. If you are a user of this tool, you can learn the steps to **motion track** your video below:
@@ -460,13 +460,13 @@ As you have gained knowledge about motion tracking, there are many platforms tha
 
 ![import media to after effects](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Lead to the "Layer" tab from the top and select the "New" option from the drop-down menu. Continue to select "Null Object" to add a layer to the timeline.
 
 ![ create a null object layer](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Select the video clip and continue to the "Animation" tab from the top. Select "Track Motion" from the drop-down menu that appears. This will generate a box for selecting the object for motion tracking. You can extend the box and drag it anywhere in the video clip. To check the motion tracking object, click the “Analyze Forward” button on the bottom-right corner of the screen.
 
@@ -475,6 +475,10 @@ As you have gained knowledge about motion tracking, there are many platforms tha
 **Step 4:** As the object is analyzed, click the “Edit Target” button to open a new screen. Continue to change the layer to “Null Object” and click “OK.” Continue to select “Apply” and click “OK” against the pop-up menu that opens. This is how Adobe After Effects applies the motion tracker.
 
 ![apply motion track on after effects](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Wondershare Filmora: A Comprehensive Solution to Video Editing
 
@@ -596,10 +600,6 @@ Do you know that there is a video editing platform that makes all video motion t
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Motion Tracking](https://tools.techidaily.com/wondershare/filmora/download/) is possible with Wondershare Filmora, which is entirely automated. All you have to do is click a button, and the process will execute. Wondershare Filmora helps users apply different effects and track them within the videos. Instead of objects, you can increase your video motion tracking into effects and other elements.
@@ -659,10 +659,6 @@ Next, select "OK" from the prompt window and go to the "Element" section. Choose
 You need to revert to the "Motion Tracking" section and select the drop-down appearing against the option. Choose the name of your "Effect" or "Element" that you've applied to before. The particular motion track will be enhanced through an effect or element.
 
 ![add effect or element and apply](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** Export Motion Tracked Video in Device
 
@@ -723,6 +719,10 @@ Adobe Stock is another excellent website that offers you free glitch transition.
 Another astounding effect is 12 Glitchy Transition. The Anaglyph Glitch Effect is a photoshop effect that is perfect for video creators.
 
 ![add glitch effects free adobe stock](https://images.wondershare.com/filmora/article-images/2022/add-glitch-effects-free-adobe-stock.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\.  Motion Elements
 
@@ -798,20 +798,16 @@ These transitions can make your work appear more professional and add to the fin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-scaling-up-your-income-with-instagram-mastery/"><u>[New] 2024 Approved Scaling Up Your Income with Instagram Mastery</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-optimizing-youtube-content-for-instagram-platforms/"><u>[Updated] In 2024, Optimizing YouTube Content for Instagram Platforms</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-effortless-methods-amp-up-your-yt-video-quality/"><u>2024 Approved Effortless Methods Amp Up Your YT Video Quality</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-x-fold-2-by-drfone-android/"><u>How to Bypass FRP from Vivo X Fold 2?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-the-premiere-pro-video-templates-help-make-original-content-of-broadcast-quality-the-article-introduces-10-free-premiere-pro-templates-that-are-sure-to-/"><u>New The Premiere Pro Video Templates Help Make Original Content of Broadcast Quality. The Article Introduces 10 Free Premiere Pro Templates that Are Sure to Make Your Life Easy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-future-of-smartwatches-insights-into-the-upcoming-apple-watch-series-x-price-release-specs-revealed/"><u>The Future of Smartwatches: Insights Into the Upcoming Apple Watch Series X - Price, Release, Specs Revealed!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-full-page-capture-issues-in-safari-a-comprehensive-guide/"><u>Troubleshooting Full Page Capture Issues in Safari: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-tips-for-making-the-most-out-of-your-meta-quest-headset-mic/"><u>Ultimate Tips for Making the Most Out of Your Meta Quest Headset Mic</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/understanding-frames-per-second-fps-optimal-framerates-for-enhanced-gaming-and-streaming-experiences/"><u>Understanding Frames Per Second (FPS): Optimal Framerates for Enhanced Gaming & Streaming Experiences</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-cropping-and-combining-content-in-wondershare-filmora-latest-for-2024/"><u>Updated Guide To Cropping and Combining Content in Wondershare Filmora Latest for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-peak-performance-captions-the-ultimate-20-list-for-tiktok-success/"><u>[New] 2024 Approved Peak Performance Captions The Ultimate 20 List for TikTok Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-new-standard-how-does-av1-outperform-vp9/"><u>[New] The New Standard How Does AV1 Outperform VP9?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-5-ways-ai-reinforces-illicit-online-techniques/"><u>Decoding 5 Ways AI Reinforces Illicit Online Techniques</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-do-velocity-edits-on-pc-for-2024/"><u>How to Do Velocity Edits on PC for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-dive-into-diy-the-beginners-guide-to-eye-catching-mac-videos/"><u>In 2024, Dive Into DIY The Beginner’s Guide to Eye-Catching Mac Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-use-montage-with-these-movies/"><u>In 2024, Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-definitive-window-on-game-recording-in-windows-11/"><u>In 2024, The Definitive Window on Game Recording in Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2-methods-to-cut-video-in-vlc-on-windows/"><u>New 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-6-ways-to-mimic-professional-filming-gears/"><u>New 6 Ways to Mimic Professional Filming Gears</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/optimize-windows-defender-for-enhanced-protection-personalized-configuration-steps-from-experts-at-yl-software/"><u>Optimize Windows Defender for Enhanced Protection: Personalized Configuration Steps From Experts at YL Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-lumafusion-offers-various-look-up-table-presets-or-luts-such-as-filmic-delog-and-filmic-deflat-and-several-stylistic-luts-for-use-with-neutral-use-v/"><u>Updated LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs</u></a></li>
 </ul></div>
 
