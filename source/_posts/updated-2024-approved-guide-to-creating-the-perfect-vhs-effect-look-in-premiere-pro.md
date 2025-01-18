@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro
-date: 2025-01-10T03:49:50.757Z
-updated: 2025-01-12T02:50:10.707Z
+date: 2025-01-12T22:59:46.370Z
+updated: 2025-01-18T01:56:56.507Z
 tags: 
   - ai
   - animation videos
@@ -54,6 +54,10 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 
 ![change other lumetri parameters](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Enable editing mode by selecting "Editing" in the main bar. Choose "Edit" from the lower section and search for the "Channel Blur" effect. Apply the effect by dragging and dropping it onto your video clip. Place the effect above previous adjustments and effects.
 
 ![add channel blur effect](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-3.jpg)
@@ -65,10 +69,6 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 **Step 5:** Continue to add the "Unsharp Mask" and "Color Emboss" effects from the "Effect" tab. Proceed and change "Amount" and "Radius" for "Unsharp Mask" to 85 and 20, respectively. Slightly increase the "Relief" values for the "Color Emboss" effect.
 
 ![add unsharp and color emboss](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Proceed to apply the "Noise" effect from the "Noise & Grain" section and further adjust the "Amount of Noise" to your preference. Induce the "Wave Warp" effect and set the parameters of "Wave Height" to 2 and "Wave Width" to 1000\. Change "Direction" to 0 and "Pinning" to "Horizontal Edges."
 
@@ -121,11 +121,7 @@ To refine the intensity of the VHS effect, go to the "Effects" tab located on th
 ![export final video](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -139,10 +135,6 @@ To conclude, there are many different overlays, effects, and filters that you ca
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How To Add VHS Effect in Premiere Pro: An Overview
 
@@ -167,6 +159,10 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 **Step 5:** Continue to add the "Unsharp Mask" and "Color Emboss" effects from the "Effect" tab. Proceed and change "Amount" and "Radius" for "Unsharp Mask" to 85 and 20, respectively. Slightly increase the "Relief" values for the "Color Emboss" effect.
 
 ![add unsharp and color emboss](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Proceed to apply the "Noise" effect from the "Noise & Grain" section and further adjust the "Amount of Noise" to your preference. Induce the "Wave Warp" effect and set the parameters of "Wave Height" to 2 and "Wave Width" to 1000\. Change "Direction" to 0 and "Pinning" to "Horizontal Edges."
 
@@ -261,10 +257,6 @@ Step4 Put the timeline cursor at that point in the clip where you want the text 
 
 ![make opacity to 100 pr](https://images.wondershare.com/filmora/article-images/2022/07/make-opacity-to-100-pr.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 Play the video to watch the fade in effect on your selected text. You can move the keyframes to speed up or slow down fade in effect.
 
 ## Part 2\. Make fade in or out with transition effects
@@ -284,10 +276,6 @@ Step3 Click on Dissolve and from the dropdown list, drag and drop Film Dissolve 
 Step4 Click on the added effect on Timeline to adjust speed, duration, and alignment of the effect.
 
 ![adjust effects control pr](https://images.wondershare.com/filmora/article-images/2022/07/adjust-effects-control-pr.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Play the video to ensure that the effect looks perfect. Therefore, go to File> Share> Export File to save the video.
 
@@ -378,10 +366,6 @@ Text swipe effects are the most commonly used in today’s videos on social medi
 
 If you want to show short texts and you do not want to experiment with text animations, the text swipe effect is the safest option. For example, if you want to display your social media handles, your location, a coupon code, or a correction phrase that you have uttered wrongly, text swipe effects should be on your video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Type Text Effect
 
 The type text effect in Filmora is referred to as the typewriter text effect in Premiere Pro and After Effects. The effect displays the text as if it is being typed in real-time as it is done in a typewriter. The characters will appear on the screen with a cursor on the screen and therefore, it takes more duration than most other text effects.
@@ -400,10 +384,6 @@ If you want to create text animations as per your requirements, you have to use 
 
 If you want to add uniqueness to text animations so that you can make the audience wonder and appreciate, keyframes are the way. Adding keyframes in the text layer on Filmora is super easy and you can get effects like texts slowly scaling up, dancing randomly, changing fonts, and much more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Color Text Effect
 
 The color text effect is becoming extremely popular and it is widely used for opening and ending credits. Flashing different colors through your texts and titles against a darker background can act as a feast for the human eyes. There are different types of color text effects available that can make your text stand out.
@@ -415,10 +395,6 @@ When you are using color text effect, you need to maintain a large font size for
 The bounce to zoom effect is widely used during a transition from one scene to another. It is regarded as a funny text effect where the text can swipe in and bounce and enlarge in size. Alternatively, the characters can bounce individually and zoom in and out with the motion as if they are dancing.
 
 Apart from transitions, you can use the bounce to zoom effect to showcase a few important texts at the bottom of the video so that the viewers notice your text. Generally, the effect lasts for a few seconds before the text disappears. When you are using it for a larger text, you can use it for promotions and advertisements as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to Add Text Effects with Filmora
 
@@ -436,11 +412,19 @@ Step2 Import your video clips under Project Media folder and drop them onto the 
 
 ![import text video clip into filmora](https://images.wondershare.com/filmora/article-images/2022/09/import-text-video-clip-into-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Search for a popular text effect from the search box. Select a text effect template and drop it on the timeline. Adjust its place on the timeline depending on where you want the text to appear. Double-click on the text layer and edit the text as per your requirements.
 
 ![edit text in videos filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-in-videos-filmora.jpg)
 
 You can edit the style from fonts and settings section. You can also go to Advanced section available for more minute editing and get the desired text effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -474,11 +458,19 @@ If you want to create text animations as per your requirements, you have to use 
 
 If you want to add uniqueness to text animations so that you can make the audience wonder and appreciate, keyframes are the way. Adding keyframes in the text layer on Filmora is super easy and you can get effects like texts slowly scaling up, dancing randomly, changing fonts, and much more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Color Text Effect
 
 The color text effect is becoming extremely popular and it is widely used for opening and ending credits. Flashing different colors through your texts and titles against a darker background can act as a feast for the human eyes. There are different types of color text effects available that can make your text stand out.
 
 When you are using color text effect, you need to maintain a large font size for your text so that it is widely visible. Even if your background is not dark, you can use a darker box in the background of the text or a darker frame around the text to amplify the effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Bounce to Zoom Effect
 
@@ -507,10 +499,6 @@ Step3 Search for a popular text effect from the search box. Select a text effect
 ![edit text in videos filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-in-videos-filmora.jpg)
 
 You can edit the style from fonts and settings section. You can also go to Advanced section available for more minute editing and get the desired text effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -580,13 +568,25 @@ Step1Open web browser and visit “flexclip.com/features/text-animation.html”.
 
 ![flexclip text animation maker](https://images.wondershare.com/filmora/article-images/2022/08/flexclip-text-animation-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2You can choose from the available templates to create video with text from scratch. If you want to add text to your recorded video, go to Media tab. Click on Local Files button and upload your recorded video.
 
 ![upload video flexclip](https://images.wondershare.com/filmora/article-images/2022/08/upload-video-flexclip.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3Drag and drop the uploaded video into the Timeline. Thereafter, go to Text tab.
 
 ![drop upload video timeline flexclip](https://images.wondershare.com/filmora/article-images/2022/08/drop-upload-video-timeline-flexclip.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4You will see all the different text effects and animations. Place your mouse pointer to preview the animation. Drag and drop the select text template to the video on the Viewer. You can check the Timeline and stretch or compress the text layer as per your requirements.
 
@@ -624,18 +624,18 @@ You can make video with animated text to make your presentation video eye-catchi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-capturing-your-desktop-in-winoses-effortlessly/"><u>[Updated] 2024 Approved Capturing Your Desktop in WinOSes Effortlessly</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-securing-your-videos-on-facebook-pc-plus-android-methods/"><u>[Updated] In 2024, Securing Your Videos on Facebook PC + Android Methods</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-smooth-gaming-in-battlegrounds-royale-pubg-when-it-freezes/"><u>How to Restore Smooth Gaming in Battlegrounds Royale (PUBG) When It Freezes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-ideal-tools-to-craft-professional-igtv-videos/"><u>In 2024, Ideal Tools to Craft Professional IGTV Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/polarr-photo-magic-your-complete-image-processing-manual/"><u>Polarr Photo Magic Your Complete Image Processing Manual</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solving-your-razer-mic-issues-five-simple-solutions-to-restore-audio-functionality/"><u>Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality</u></a></li>
-<li><a href="https://win-net.techidaily.com/stunning-bootstrapped-landing-pages-at-no-cost-get-started-with-creative-tim/"><u>Stunning Bootstrapped Landing Pages at No Cost - Get Started with Creative Tim</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-the-best-of-the-best-linksys-wrt3200acm-and-its-open-source-superiority/"><u>The Ultimate Guide to the Best of the Best: Linksys WRT3200ACM and Its Open-Source Superiority</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-10-tips-for-excellent-xbox-game-playbacks-for-2024/"><u>Top 10 Tips for Excellent Xbox Game Playbacks for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fl-studios-approach-to-cautious-sound-dimming/"><u>[New] FL Studio's Approach to Cautious Sound Dimming</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-sync-video-elements-to-captivate-instagram-audiences/"><u>[New] In 2024, Sync Video Elements to Captivate Instagram Audiences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-insider-tips-for-documenting-your-favorite-games-on-ps4/"><u>[New] Insider Tips for Documenting Your Favorite Games on PS4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hottest-youtube-music-playback-responses-23-for-2024/"><u>[Updated] Hottest YouTube Music Playback Responses '23 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-3dr-solo-unveiling-the-single-user-experience/"><u>[Updated] In 2024, '3DR Solo' Unveiling the Single User Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-stream-and-record-at-the-same-time/"><u>3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-zebra-printing-software-for-windows/"><u>Download & Update Zebra Printing Software for Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-3-ways-to-stream-and-record-at-the-same-time/"><u>In 2024, 3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New 2024 Approved Different Ways to Crop TikTok Video in High-Quality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
 </ul></div>
 

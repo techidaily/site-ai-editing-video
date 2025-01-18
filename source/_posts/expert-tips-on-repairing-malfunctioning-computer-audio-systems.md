@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Repairing Malfunctioning Computer Audio Systems
-date: 2025-01-09T10:19:17.915Z
-updated: 2025-01-12T12:06:04.818Z
+date: 2025-01-13T20:45:12.827Z
+updated: 2025-01-18T03:39:19.708Z
 tags:
   - win11
   - win10
@@ -27,15 +27,15 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 2. [**Update your sound driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Enable Stereo Mix**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 1: Make sure your computer sound is going through your sound card
 
  To ensure your Stereo Mix works well, all your audio output has to go through your sound card so that it can record the output. If your sound is sent around the sound card (using HDMI to output video and audio together, for example), your Stereo Mix is unable to work.
 
  To use Stereo Mix, you should make sure your computer sound is coming from your sound card. Connect your sound card directly to your speakers and set up the proper output. After that, check to see if your Stereo Mix works normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 2: Update your sound driver
 
@@ -55,14 +55,6 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddeecd0d61.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 3: Enable Stereo Mix
 
  Your Stereo Mix may not be able to work because it’s disabled. To disable Stereo Mix:
@@ -71,16 +63,24 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde029539aa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right click any empty space inside the device box, then make sure**Show Disabled Devices** is**ticked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde288b285c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right click**Stereo Mix** , then click**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde32cf0472.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Right click**Stereo Mix** , then click**Set as Default Device** .
@@ -88,7 +88,7 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde42a1495a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Click**OK** , then check to see if you’re able to record audio on your computer with Stereo Mix.
@@ -110,18 +110,14 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-webcam-accessories-top-10-secure-solutions/"><u>[New] 2024 Approved Best Webcam Accessories Top 10 Secure Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-vr-movie-might-change-the-world/"><u>[New] How VR Movie Might Change the World</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-depth-analysis-of-fb-chat-recording-techniques/"><u>[New] In-Depth Analysis of FB Chat Recording Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-innovative-tactics-to-amplify-game-vids-via-hashtags/"><u>[Updated] 2024 Approved Innovative Tactics to Amplify Game Vids via Hashtags</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-kobo-libra-h2o-assessment-the-ultimate-guide-to-wave-resistant-ebooks/"><u>Comprehensive Kobo Libra H2O Assessment: The Ultimate Guide to Wave-Resistant eBooks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-can-i-control-speed-of-a-video/"><u>How Can I Control Speed of a Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article/"><u>In 2024, Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-vacation-slideshow-in-5-minutes/"><u>In 2024, How to Create a Vacation Slideshow in 5 Minutes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-want-to-loop-a-video-to-extend-its-duration-you-can-use-imovie-to-loop-a-video-on-your-mac-and-iphone-and-we-will-illustrate-how-to-loop-a-video-in-/"><u>In 2024, Want to Loop a Video to Extend Its Duration? You Can Use iMovie to Loop a Video on Your Mac and iPhone and We Will Illustrate How to Loop a Video in iMovie</u></a></li>
-<li><a href="https://facebook.techidaily.com/keeping-your-images-under-lock-and-key-on-facebook/"><u>Keeping Your Images Under Lock and Key on Facebook</u></a></li>
-<li><a href="https://howto.techidaily.com/mastering-your-tech-life-with-toms-hardware-wisdom/"><u>Mastering Your Tech Life with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>New In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/step-by-step-to-split-a-clip-in-vlc-for-2024/"><u>Step by Step to Split a Clip in VLC for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instant-access-windows-photos-view/"><u>[New] Instant Access Windows Photos View</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-techniques-for-effortless-documentation-of-your-online-classesmeets/"><u>[Updated] Top Techniques for Effortless Documentation of Your Online Classes/Meets</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/advanced-pdf-text-editor-seamlessly-edit-documents-in-pdf-format/"><u>Advanced PDF Text Editor: Seamlessly Edit Documents in PDF Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effiziente-methoden-fur-die-umwandlung-und-extraktion-von-dvd-inhalten-mit-handbrake-eine-umfassende-anleitung/"><u>Effiziente Methoden Für Die Umwandlung Und Extraktion Von DVD-Inhalten Mit Handbrake: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/maximize-page-quality-on-your-site-using-flipbuilder-techniques-expert-advice/"><u>Maximize Page Quality on Your Site Using FlipBuilder Techniques - Expert Advice!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
 </ul></div>
 

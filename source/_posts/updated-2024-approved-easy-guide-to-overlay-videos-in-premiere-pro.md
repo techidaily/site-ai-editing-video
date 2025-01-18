@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro
-date: 2025-01-05T04:41:34.954Z
-updated: 2025-01-11T19:51:10.300Z
+date: 2025-01-15T17:28:24.844Z
+updated: 2025-01-18T00:38:00.613Z
 tags: 
   - ai
   - animation videos
@@ -89,6 +89,10 @@ Find the image or video in the media library that you want to overlay over the b
 
 ![import media to overly](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Spice up with Effects
 
 There are several choices available for adding extra effects to the video. By selecting the effect tab, you may look for more effects as well. The decision to switch to a green screen or include other components into the film is entirely up to you.
@@ -160,15 +164,15 @@ Essentially, the workflow will be slightly different for these two scenarios. It
 
 With that in mind, here is how to make a gaming montage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1) Decide Your Montage Story/Type
 
 Deciding your montage type beforehand helps clear your mind and create an epic gaming montage that will keep viewers watching. It allows you to choose the relevant video clips for your gaming montage.
 
 Choose the topic of the video and decide the length of each clip and the sequence of the clips. Be sure to put the most epic or funny clips in the last section of your video. And this will make your viewers watch the video until the end.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2) Record Your Gameplay Footage
 
@@ -187,6 +191,10 @@ You only have to import the videos to Filmora's media library and then drag and 
 By right-clicking on the clip in your timeline, you'll see the options to zoom, speed, change, split, or trim your videos. You can also add sound effects by going to the Audio Tab.
 
 ![How to make a game montage - import videos](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Import Videos
 
@@ -244,10 +252,6 @@ Try to match gunshot sounds with beats and rhythms in shooter video games. The b
 
 You can spice up your gaming montage by adding transitions, especially when you have loads of clips for the montage. But avoid overusing it, as you could confuse your audience with a range of dazzling and glaring transitions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Color Grade the Video for the Mood
 
 Use color grading to your advantage, as it can set the mood of your viewers. You can decide to make some scenes black and white to catch the viewers’ attention.
@@ -270,15 +274,7 @@ DemixB set the gunshot in the montage video to the music tune. The track builds 
 
 ![Best Gaming Montage Example - Call of Duty: Modern Warfare](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Call of Duty: Modern Warfare
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. ShutteR's Gaming Montage
 
@@ -287,6 +283,10 @@ In the gaming montage uploaded by ShutteR on his YouTube channel, he used veloci
 ShutteR used a slow-motion to highlight action in each scene, then speeds up again when he wants to fast out into the next scene.; this makes the video more engaging to keep viewers glued to their screens.
 
 ![Best Gaming Montage Example - ShutteR's Gaming Montage](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ShutteR's Gaming Montage
 
@@ -370,10 +370,6 @@ Filters allow you to spice up your gaming videos. There are also different types
 
 ![How to make a game montage with Filmora - Edit Gaming Montage](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Edit Gaming Montage
 
 ### 6) Export Your Gaming Montage Video
@@ -403,10 +399,6 @@ Try to match gunshot sounds with beats and rhythms in shooter video games. The b
 ### 4\. Add Creative Transitions
 
 You can spice up your gaming montage by adding transitions, especially when you have loads of clips for the montage. But avoid overusing it, as you could confuse your audience with a range of dazzling and glaring transitions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Color Grade the Video for the Mood
 
@@ -441,6 +433,10 @@ ShutteR used a slow-motion to highlight action in each scene, then speeds up aga
 ![Best Gaming Montage Example - ShutteR's Gaming Montage](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-5.png)
 
 ShutteR's Gaming Montage
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. NEVERMORE \[CS: GO\]
 
@@ -557,6 +553,10 @@ You may also add your company's logo at the end of the video as a fade-out trans
 
 By adding a logo or watermark to your video, you can make it harder for people to illegally distribute and share your video without permission. It helps also to promote your brand or business. When viewers see your logo or watermark throughout the video, they will be more likely to remember who made the video and where they can find more information about your company or products.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Insert Thumbnail
 
 A video thumbnail is an image that represents your video to viewers. It should be eye-catching, but not so much that it's distracting. The right video thumbnail can help you increase views and engagement on your content.
@@ -564,10 +564,6 @@ A video thumbnail is an image that represents your video to viewers. It should b
 Place the thumbnail at the beginning of the video, and make sure it's catchy! Your viewers won't have time to look at it in detail, but they will glance at it in passing. Make sure to include relevant text and images that can hook your audience and keep them watching!
 
 ![insert thumbnail](https://images.wondershare.com/filmora/article-images/2022/08/insert-subnail-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After completing the editing process, you can export your testimonial video in a variety of formats. To do this, click on the "Export" button in the upper right-hand corner of Wondershare Filmora.
 
@@ -597,6 +593,10 @@ Hopefully, this post gave you an idea of how to use [Filmora](https://tools.tech
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Freeze Frame Clone Effect Is a Creative Effect to Use for Many Video Creators. This Article Will Show You How to Use Filmora to Make a Frozen Frame Clone Video Effect
 
@@ -720,6 +720,10 @@ Download and install Wondershare Filmora on your computer. Launch Filmora and cl
 
 ![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2
 
 Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
@@ -751,7 +755,7 @@ Perform Step 3 to Step 5 again where you need to select a frame to freeze, take 
 ![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Summary
@@ -776,10 +780,6 @@ Download and install Wondershare Filmora on your computer. Launch Filmora and cl
 
 ![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2
 
 Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
@@ -798,15 +798,15 @@ Match the duration of the snapshot with the point where you want the frame to fr
 
 ![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5
 
 Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
 
 ![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 6
 
@@ -840,16 +840,21 @@ What you’ve learned:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-instagram-djs-playlist-tailoring-sounds-for-stories/"><u>[New] 2024 Approved The Instagram DJ's Playlist Tailoring Sounds for Stories</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-capturing-coziness-ideal-winter-scenes-for-yt-video/"><u>[Updated] 2024 Approved Capturing Coziness Ideal Winter Scenes for YT Video</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-navigating-video-streaming-tools-a-focus-on-zoom-with-youtube/"><u>[Updated] 2024 Approved Navigating Video Streaming Tools A Focus on Zoom with YouTube</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unlocking-social-media-stardom-essential-strategies-for-instagram-fame-for-2024/"><u>[Updated] Unlocking Social Media Stardom Essential Strategies for Instagram Fame for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-article-talks-in-detail-about-how-to-export-imovie-video-from-iphone-mac-etc-it-also-covers-the-process-of-using-imovie-alternative-to-ed/"><u>2024 Approved This Article Talks in Detail About How to Export iMovie Video From iPhone, Mac, Etc. It Also Covers the Process of Using iMovie Alternative to Edit Videos on Mac. Check Out Now</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/comprehending-quadcopters-how-they-soar-and-operate-for-2024/"><u>Comprehending Quadcopters How They Soar and Operate for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-know-there-are-websites-to-download-free-glitch-transition-effects-for-premiere-pro-you-can-easily-download-them-and-make-awesome-videos-for-2024/"><u>Do You Know There Are Websites to Download Free Glitch Transition Effects for Premiere Pro? You Can Easily Download Them and Make Awesome Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-way-to-add-transitions-to-videos-for-2024/"><u>New Easy Way to Add Transitions to Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>New In 2024, HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unveiling-igtv-your-ultimate-tutorial-for-2024/"><u>Unveiling IGTV Your Ultimate Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlocking-12-steps-fixing-hidden-fb-video-issues-for-2024/"><u>[New] Unlocking 12 Steps Fixing Hidden FB Video Issues for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-decoding-video-cropping-within-imovie/"><u>[Updated] 2024 Approved Decoding Video Cropping Within iMovie</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-explore-10-cost-effective-video-players-on-linuxwindowsmac/"><u>2024 Approved Explore 10 Cost-Effective Video Players on Linux/Windows/Mac</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>2024 Approved How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-guide-to-downloading-and-editing-whatsapp-alerts/"><u>2024 Approved The Essential Guide to Downloading & Editing WhatsApp Alerts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unleashing-creative-potential-in-minecraft-with-circles-and-spheres/"><u>2024 Approved Unleashing Creative Potential in Minecraft with Circles & Spheres</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
+<li><a href="https://win-trending.techidaily.com/easy-guide-to-dividing-images-with-aomei-backupper-software/"><u>Easy Guide to Dividing Images with AOMEI Backupper Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>New Ultimate Guide on How to Plan and Storyboard a Music Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharging-windows-solid-state-drives-utilizing-fresh-tools/"><u>Turbocharging Windows' Solid State Drives - Utilizing Fresh Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-vintage-film-effect-1950s/"><u>Updated 2024 Approved How to Create Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
 </ul></div>
 

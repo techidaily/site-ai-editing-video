@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Apply Video Filters
-date: 2025-01-06T16:33:10.702Z
-updated: 2025-01-11T21:58:00.426Z
+date: 2025-01-12T23:55:20.542Z
+updated: 2025-01-18T02:07:21.600Z
 tags: 
   - ai
   - animation videos
@@ -29,10 +29,6 @@ First, you must download a video editing app with different filters. One popular
 
 Once you have downloaded the app, you can begin importing your videos. It can typically do this by selecting the "Import" option within the app and choosing the desired videos from your library. You may also record videos directly within the app if desired.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step3: Add video filter effects**
 
 After importing your videos, you can start adding video filter effects. Filmora and similar apps typically offer various filters, such as vintage, black and white, or cinematic effects. To apply a filter, select the desired effect and adjust any accompanying settings to achieve the desired look.
@@ -47,6 +43,10 @@ To apply video filters on your desktop, you can follow these steps using the sof
 
 [Create AI Filter](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 1: Download Filmora**
 
 Start by downloading and installing the Filmora software onto your desktop. This software provides a range of video editing tools, including video filters.
@@ -72,10 +72,6 @@ Second, add LUTs (Look-Up Tables) and presets in the Color panel. LUTs are prede
 Then, click the "LUT" or "Presets" button and choose the desired effect from the available options. Like the Effects panel, you can adjust the settings to customize the product further.
 
 Following these steps, you can easily apply video filters to your footage using Filmora on your desktop. Explore the various options and experiment with different effects to amplify the visual appeal of your videos.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Summary**
 
@@ -85,6 +81,10 @@ In the modern digital era, Filmora will be the best video filter editor, thanks 
 
 [Create AI Filter](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 1: Download Filmora**
 
 Start by downloading and installing the Filmora software onto your desktop. This software provides a range of video editing tools, including video filters.
@@ -110,10 +110,6 @@ Second, add LUTs (Look-Up Tables) and presets in the Color panel. LUTs are prede
 Then, click the "LUT" or "Presets" button and choose the desired effect from the available options. Like the Effects panel, you can adjust the settings to customize the product further.
 
 Following these steps, you can easily apply video filters to your footage using Filmora on your desktop. Explore the various options and experiment with different effects to amplify the visual appeal of your videos.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Summary**
 
@@ -158,10 +154,6 @@ Premiere Pro provides several packs containing various elements. Color Bars Data
 
 ![add glitch transitions storyblocks](https://images.wondershare.com/filmora/article-images/2022/add-glitch-transitions-storyblocks.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Placeit
 
 Placeit is a website where anyone can download and use any glitch transition. Almost every application and piece of software is supported on the site. You have a long list of options on Placeit. Go ahead and select any of the numerous screen effects.
@@ -171,7 +163,7 @@ One can also make a slideshow with Placeit and its spectacular glitch effects. A
 ![add screen glitch effects placeit](https://images.wondershare.com/filmora/article-images/2022/add-screen-glitch-effects-placeit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Adobe Stock
@@ -232,6 +224,10 @@ You can get 10 free digital distortion effects on 911templates. Import the video
 
 With these 5 newest transition packs, you can edit your video in many ways. The film industry has been using these transitions to impact the viewers. So, choose the styles that go well with your movie and catch your eyes. These are seen commonly in horror films to keep the viewers engaged. You can even add them on TikTok videos and other product description videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Glitch Transitions is a fun way to "transition" from one shot to the other. Drag and drop any of these transitions over two or more clips on your timeline. You can insert these free transitions nicely for educational videos, YouTube videos, event movies, or even documentaries. It adds fun, energetic energy to the project.
@@ -250,10 +246,6 @@ One of the best kinds of video ideas for all the beauty gurus that they can make
 
 In this Article I’ll share to you some of the Skin Care vlog ideas for you to start doing a skin care review on your YouTube channel. But before that I’ll share with you how important is skin care?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How Important is Skin Care?
 
 Good skin care is important for the following reasons: It helps your skin stay in good condition
@@ -270,6 +262,10 @@ Here are some ideas to make for Skin Care Vlogs
 4. Empty Skin Care Vlogs
 5. Skin Care recommendation Vlogs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Daily Skin Care Routine Vlogs
 
 This vlog can give your viewers an information on what skin care you use daily. Here you can share how you use it step by step and you can also share what products you are using for them to have an idea.
@@ -279,6 +275,10 @@ This may share to your viewers how important a daily skin care to their skin bec
 The goal of sharing your skin care routine is to inform your viewer or subscriber the importance of taking care of your skin daily and also the good product you may use.
 
 ![Daily Skin Care Routine Vlogs](https://images.wondershare.com/filmora/article-images/2022/07/something-about-skin-care-vlog-ideas-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Daily Skin Care Routine Vlogs
 
@@ -291,10 +291,6 @@ Now a days most people get all the information they want in watching YouTube vid
 ![Skin Care Product Review Vlogs](https://images.wondershare.com/filmora/article-images/2022/07/something-about-skin-care-vlog-ideas-02.jpg)
 
 Skin Care Product Review Vlogs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Skin Care Unboxing Vlogs
 
@@ -330,11 +326,19 @@ If you’re looking for editor software that can help your skin care vlogs stand
 
 ![Choosing a Video Editing Software for You](https://images.wondershare.com/filmora/article-images/2022/07/something-about-skin-care-vlog-ideas-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choosing a Video Editing Software for You
 
 It allows **noise cancellation** in the background of your audio so that your viewers can better understand what you are saying about the products. Doing a skin care product review is in need a clear audio because viewers focus on what your thoughts or opinion about the product for them to have some ideas.
 
 ![Doing A Skin Care Product Review](https://images.wondershare.com/filmora/article-images/2022/07/something-about-skin-care-vlog-ideas-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Doing A Skin Care Product Review
 
@@ -450,6 +454,10 @@ After the Import, you may edit your audio recordings using tools that are comple
 
 ![customize the video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Fade to Black Videos
 
 Spice up the Fade effect into your videos and add the effect into the timeline. You will be able to make it black at the ends by customizing the effect inside the Fade window.
@@ -468,6 +476,10 @@ Finally, you may use the complete [Filmora](https://tools.techidaily.com/wonders
 
 ## Part 4\. Related FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How do you fade a clip to black?
 
 Utilizing the dip to black transition in your video sequence is the key to learning how to fade to black in Premiere. To produce the Fade to Black reaction you're trying to accomplish, you must Dip to Black. Simply drag the feature to the conclusion of your sequence to complete the task. Where you want the fading to start and terminate. The length of the fade or dip may be altered using the effects control panel.
@@ -475,10 +487,6 @@ Utilizing the dip to black transition in your video sequence is the key to learn
 ### How do I fade to white in Premier Pro?
 
 Contrarily, as this montage demonstrates, fading to white may be utilized to convey uncertainty or a feeling of optimism. One of the most traditional transition effects that is often utilized in movies and videos is the fade to white. Your film gains a cinematic feel from it, and the change from one scene to the next is more seamless.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do you keyframe colors in Premiere?
 
@@ -520,10 +528,6 @@ The software is embedded with Effects primarily to give your videos a polished a
 
 Finally, you may use the complete [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) editor as previously mentioned when you've done editing the recorded video. When you want to submit your creative work right away to YouTube or another well-known website, click the Export option and choose the platform where you want to distribute your video clip. If you like, you may even make changes to the video before uploading it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4\. Related FAQs
 
 ### How do you fade a clip to black?
@@ -533,10 +537,6 @@ Utilizing the dip to black transition in your video sequence is the key to learn
 ### How do I fade to white in Premier Pro?
 
 Contrarily, as this montage demonstrates, fading to white may be utilized to convey uncertainty or a feeling of optimism. One of the most traditional transition effects that is often utilized in movies and videos is the fade to white. Your film gains a cinematic feel from it, and the change from one scene to the next is more seamless.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do you keyframe colors in Premiere?
 
@@ -562,15 +562,24 @@ We only stop feeling immersed when we notice abrupt cuts. It makes sense to know
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-how-to-record-desktop-on-windows-8-effortlessly/"><u>[Updated] In 2024, How To Record Desktop on Windows 8 Effortlessly</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ios-meets-classic-play-best-ps2-game-emulators-reviewed-for-2024/"><u>[Updated] IOS Meets Classic Play Best PS2 Game Emulators Reviewed for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-videos-with-imovie/"><u>2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-steadicams-to-enhance-dslr-video-production-quality/"><u>2024 Approved Ideal Steadicams to Enhance DSLR Video Production Quality</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unveiling-past-images-3-approaches-for-fb-reverse-search/"><u>2024 Approved Unveiling Past Images 3 Approaches for FB Reverse Search</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/6-superior-android-screen-capture-apps/"><u>6 Superior Android Screen Capture Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-windows-graphics-the-top-9-tools-for-capturing-animation-gifs/"><u>In 2024, Mastering Windows Graphics The Top 9 Tools for Capturing Animation GIFs</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-3-ways-to-create-motion-text-effects-for-your-video/"><u>New 2024 Approved 3 Ways to Create Motion Text Effects for Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-loop-videos-with-imovie/"><u>New 2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-add-miniature-effect-to-videos/"><u>New Easy Steps to Add Miniature Effect to Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-the-power-of-visual-appeal-in-your-youtube-advertising/"><u>[Updated] In 2024, Harnessing the Power of Visual Appeal in Your YouTube Advertising</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-essential-app-picks-best-10-editors-to-transform-reels/"><u>2024 Approved Essential App Picks Best 10 Editors to Transform Reels</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-estimating-elapsed-seconds-in-a-20mb-videoclip/"><u>2024 Approved Estimating Elapsed Seconds in a 20MB Videoclip</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-from-basic-to-brilliant-top-100plus-biographies-that-captivate-audiences/"><u>2024 Approved From Basic to Brilliant Top 100+ Biographies that Captivate Audiences</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-color-grading-in-final-cut-pro/"><u>2024 Approved How to Color Grading in Final Cut Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-article-talks-in-detail-about-how-to-export-imovie-video-from-iphone-mac-etc-it-also-covers-the-process-of-using-imovie-alternative-to-ed/"><u>2024 Approved This Article Talks in Detail About How to Export iMovie Video From iPhone, Mac, Etc. It Also Covers the Process of Using iMovie Alternative to Edit Videos on Mac. Check Out Now</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-know-there-are-websites-to-download-free-glitch-transition-effects-for-premiere-pro-you-can-easily-download-them-and-make-awesome-videos-for-2024/"><u>Do You Know There Are Websites to Download Free Glitch Transition Effects for Premiere Pro? You Can Easily Download Them and Make Awesome Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-guide-for-2024/"><u>How To Quickly Create A Screen Print Effect In Photoshop Detailed Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-on-figma-seamless-bg-erasure-techniques/"><u>In 2024, Expert Tips on Figma Seamless BG Erasure Techniques</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easy-way-to-add-transitions-to-videos-for-2024/"><u>New Easy Way to Add Transitions to Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-easily-create-a-free-eye-catching-intro-videos-with-invideo/"><u>New How to Easily Create a Free Eye-Catching Intro Videos with Invideo</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>New In 2024, HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-change-speed-of-video-in-final-cut-pro/"><u>New In 2024, How To Change Speed of Video in Final Cut Pro?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/title-and-description-tweaks-for-maximum-engagement-on-igtv-for-2024/"><u>Title and Description Tweaks for Maximum Engagement on IGTV for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-your-inner-shutterbug-on-android/"><u>Unleash Your Inner Shutterbug on Android</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-10-free-football-streaming-sites-to-bookmark/"><u>Updated 10 Free Football Streaming Sites To Bookmark</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-f23-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo F23 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

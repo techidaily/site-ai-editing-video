@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Complete Guide to Make a Super Easy Rotating Video Effect
-date: 2025-01-06T01:39:54.391Z
-updated: 2025-01-12T00:28:38.764Z
+date: 2025-01-16T22:20:40.860Z
+updated: 2025-01-18T03:24:27.733Z
 tags: 
   - ai
   - animation videos
@@ -19,6 +19,10 @@ Controlling camera direction to the subject's hands and filming is trending nowa
 
 Many users make rotating illusion videos for TikTok or any branding video. The foremost items to record are explained in this article with detailed instructions. The best editing tool is also clarified below for instant results. So keep reading to get a hand with filming and editing a professional rotating transition video!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. What is a Rotating Video Illusion/Effect
 
 Rotating transition video is a trending feature used by models and influencers. The brands also use this style to record the model's videos in advertisements. It could be any makeup transition or clothing transition video.
@@ -26,7 +30,7 @@ Rotating transition video is a trending feature used by models and influencers. 
 ![final preview of rotating video illusion](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-1.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It helps to indulge the audience with your content and show the after and before transitions. You can try this with any object or any character. But first, let's figure out the requirements for rotating effects.
@@ -45,10 +49,6 @@ To record a successful rotating video, you need a person or a subject to perform
 
 ![character of the video](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Shotting Equipment
 
 To record a professional video, you need a good camera. You can use a smartphone to record this footage. There is no need to have a tripod stand or any gear to hold the camera because the camera will be in a rotating position, the same as the subject's hand.
@@ -63,10 +63,6 @@ For this, you need a filmmaker or any person living with you. Just give instruct
 * The **hand rotation** timing is the same as the camera's rotation.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** Ensure to record one footage multiple times so that you can choose the perfect one later for editing.
 
@@ -90,10 +86,6 @@ Follow the below-mentioned steps to record the first footage for the video:
 
 ![filming scenes of first footage](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After filming the first footage for the video, it's time to record the second footage to transition between the two.
 
 ### Filming of the Second Footage
@@ -185,10 +177,6 @@ After adding and adjusting all the features, double-check the video by playback.
 You can playback the video by clicking on the Play button. Perform this a few more times to ensure the speed looks okay and adjust if it is too slow or too fast.
 
 ![playback the video](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can also view it in full screen by selecting the last option on the tab. If there is no problem, you can export it locally or directly share it on TikTok or anywhere you want to gain views and attract an audience. You can also use it as a magic trick to inspire other people or as a transition for videos!
 
@@ -310,11 +298,11 @@ You can playback the video by clicking on the Play button. Perform this a few mo
 
 ![playback the video](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-11.png)
 
-You can also view it in full screen by selecting the last option on the tab. If there is no problem, you can export it locally or directly share it on TikTok or anywhere you want to gain views and attract an audience. You can also use it as a magic trick to inspire other people or as a transition for videos!
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+You can also view it in full screen by selecting the last option on the tab. If there is no problem, you can export it locally or directly share it on TikTok or anywhere you want to gain views and attract an audience. You can also use it as a magic trick to inspire other people or as a transition for videos!
 
 ## Conclusion
 
@@ -334,6 +322,10 @@ If you are showing new strategies daily to your viewers, they will hook up with 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Text in Adobe Rush
 
@@ -358,10 +350,6 @@ Step 3Select “Graphics” from the options that appear
 Step 4Click on “More” under “Titles” and then search for “Basic Default Title.” Tap “Add” to add a title to the video's sequence.
 
 ![default title adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/default-title-adobe-rush.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5Once the title is in the sequence, you will be able to make changes to it any way you want. To do that, just drag the title in the preview and tap on it. You should then be able to see options to change the color, size, font, and more in the submenu.
 
@@ -399,6 +387,10 @@ You can also just drag and drop the video into the main window to open it.
 
 ![open the video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3Add the Video/Videos to the Timeline
 
 To edit the video and any of its components, you will need to add the video to the timeline. You can do that by simply dragging and dropping the video clips from the media library to the timeline below.
@@ -430,6 +422,10 @@ You also have the option to customize your text in various ways including changi
 To edit the text, double-click on the “Title” frame in the timeline, and in the window that appears, make as many changes as you want. There are more than 20 text effects to choose from. Just select one and then double-click on any style to apply it to the text.
 
 ![double click on the title](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also use the “Animation” icon if you want to change the animation of the text overlay.
 
@@ -528,6 +524,10 @@ If you are happy with everything and you don't need to make any more changes, cl
 Once all your settings are just how you want them to be, click on “Export” to name the video and save all the changes that you just made.
 
 Filmora also gives you the option to upload the video directly to YouTube and you can also choose to burn the video to DVD. If you will be playing the video on mobile devices, click on the “Devices” tab and select the device you will be using from the options listed here including iPhone, iPad, Samsung Galaxy, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related FAQs
 
@@ -610,6 +610,10 @@ Bright Insta LUTs is the suitable LUT vlog pack for you if you're a makeup or fa
 
 ![bright insta luts](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. [Kurt Von Studios Retro Film LUTs](https://filtergrade.com/product/kurt-von-studios-retro-film-luts/)
 
 Kurt Von Studios Retro Film LUTs is a great tool for outdoor vloggers who want to add a vintage feel to their videos. It creates a cinematic look with earthy tones and rusty textures that give your content an authentic vintage feel. With this LUT, you can achieve a retro-style feel, adding character to your vlogs and making them more visually appealing.
@@ -630,10 +634,6 @@ Apart from LUTs, you can also make color adjustments and corrections to your vlo
 
 ![ wondershare filmora luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Key Features
 
 * With this powerful AI video editing tool, you can use its motion tracking feature. This feature tracks the subject in motion so that you can add creative effects to your videos.
@@ -649,6 +649,10 @@ Apart from LUTs, you can also make color adjustments and corrections to your vlo
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Conclusion
 
@@ -691,6 +695,10 @@ Are you a vlogger looking for a LUT that can help enhance the colors and brightn
 B&W is the best LUT for vlog that can be a great addition to your vlogging toolkit. This LUT allows you to transform your videos into black and white. It gives your vlogs and videos a more serious and dramatic look. You can add a touch of nostalgia and a vintage feel to your videos, giving them an artistic feel. With B&W, you can create a timeless and classic look for your vlogs, making them more memorable and impactful.
 
 ![ b&w luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [Travel Video LUTs by Matteo Martignago](https://filtergrade.com/product/travel-video-luts-by-matteo-martignago/)
 
@@ -740,10 +748,6 @@ Apart from LUTs, you can also make color adjustments and corrections to your vlo
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Conclusion
 
 To sum up, LUTs are not an option but more of becoming a necessity, especially for vloggers. LUTs not only color-grade your videos but also add depth and perspective to your videos. Your content looks more engaging and interactive with the correct colors and lighting. However, you can use the best LUTs for vlogs even in the Wondershare Filmora tool. This tool lets you create and edit creative vlogs in no time.
@@ -781,10 +785,6 @@ Because smartphone cameras have smaller image sensors and lenses, proper illumin
 ![use good lighting](https://images.wondershare.com/filmora/article-images/2022/08/use-good-lighting.jpg)
 
 If shooting your video in low light is still difficult, experiment with your phone's or app's backlighting and white balance settings. In case your camera is focusing on the incorrect part of your composition, most phones now provide "touch focusing." The automatic exposure control will have an easier time making minor adjustments if the lighting condition changes once the focus has been placed on the most crucial part of the video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Film horizontally, not vertically
 
@@ -836,20 +836,16 @@ You probably weren't aware of this, but your smartphone is actually a very capab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-reach-new-heights-top-7-applications-turning-your-art-into-nfts/"><u>[New] In 2024, Reach New Heights Top 7 Applications Turning Your Art Into NFTs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-streaming-social-feeds-on-your-smart-tv-whats-next-in-2024/"><u>[New] Streaming Social Feeds on Your Smart TV What's Next, In 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-crafting-your-first-twitter-profile-for-2024/"><u>[Updated] Crafting Your First Twitter Profile for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-discovering-top-10-must-watch-business-video-hubs/"><u>[Updated] Discovering Top 10 Must-Watch Business Video Hubs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-understanding-and-exploring-telegrams-online-features/"><u>[Updated] Understanding and Exploring Telegram's Online Features</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-slow-motion-videos-using-final-cut-pro-with-ease/"><u>2024 Approved Create Slow Motion Videos Using Final Cut Pro with Ease</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-overlay-video-in-premiere-pro/"><u>2024 Approved How to Overlay Video in Premiere Pro</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discovering-visual-narratives-merging-photography-and-videography-using-pixiz-for-2024/"><u>Discovering Visual Narratives Merging Photography and Videography Using Pixiz for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-z-flip-5-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy Z Flip 5 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-based-on-preferences-you-can-adjust-the-speed-of-youtube-videos-learn-how-to-produce-a-youtube-slow-motion-video-in-this-article/"><u>New 2024 Approved Based on Preferences, You Can Adjust the Speed of YouTube Videos. Learn How to Produce a YouTube Slow-Motion Video in This Article</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevating-video-content-10-proven-methods-for-youtube-conversion/"><u>[New] In 2024, Elevating Video Content 10 Proven Methods for YouTube Conversion</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-acclaimed-selections-discover-the-best-10-vimeo-file-harvesters/"><u>[Updated] Acclaimed Selections Discover the Best 10 Vimeo File Harvesters</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-is-a-recommendation-about-bandicut-if-you-are-confused-please-check-it-out/"><u>2024 Approved This Is a Recommendation About Bandicut. If You Are Confused, Please Check It Out</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-top-10-visual-gratification-tools-for-instagram-grids/"><u>2024 Approved Top 10 Visual Gratification Tools for Instagram Grids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-apples-messaging-protocol-in-windows-10/"><u>Enabling Apple's Messaging Protocol in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-xcover-7-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy XCover 7 To Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>New 2024 Approved How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-add-vhs-effects-to-videos-for-free-a-2024-guide/"><u>New Add VHS Effects to Videos for Free A 2024 Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ten-proven-methods-for-correcting-phantom-inputs-on-iphones/"><u>Ten Proven Methods for Correcting Phantom Inputs on iPhones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-huawei-p60-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Huawei P60 Device</u></a></li>
 </ul></div>
 

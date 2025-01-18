@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Consider a LUT to Be a Color Preset that a Filmmaker Can Use to Start Working on a Project Quickly. Sony Engineers Have Developed LUTs to Help Filmmakers Perform Specific Tasks. All of These Are Available for Free
-date: 2024-12-30T18:56:26.892Z
-updated: 2025-01-05T17:41:34.044Z
+date: 2025-01-14T03:11:20.639Z
+updated: 2025-01-18T04:37:33.664Z
 tags: 
   - ai
   - animation videos
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 If you've ever worked in the color grading profession, you're aware of how time-consuming and labor-intensive it is to achieve a specific look on a scene. To master color grading, you must practice constantly, one of the reasons for the existence of specialists in this field. While everybody can color grade, not everyone can do it well. People in this business have devised remedies to make the editing workflow considerably more accessible and less time-consuming.
 
 Achieving a specific ambiance in a scene demands ongoing effort and naturally takes longer. LUTs, or Lookup Tables, were created as a result. LUTs are ideal for storing a set of colors to use later or in another program. A LUT is the most effective technique to color or alters your image's colors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Benefits of using LUTs
 
@@ -59,19 +63,11 @@ The Sony Natural Enhanced LUT pack was created to address Sony's color science-r
 
 SLog2 & SLog3 to Enhanced Rec709 LUTs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Filmic Tone Creative LUTs
 
 One of our choices is the Filmic Tone LUT set. It enhances your creativity by adding a cinematic tone to your footage. These LUTs were created to convert the green color hues to a dark shade reminiscent of a Bali Instagram-type color while keeping the warmth of the mid-tones and highlights.
 
 ![Sony Lut - Filmic Tone Creative LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Filmic Tone Creative LUTs
 
@@ -107,15 +103,15 @@ The Urban Dark LUT pack aims to provide users with some dark, fascinating tones 
 
 Sony Urban Dark LUT
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. LUT Sony Vegas "Adventure"
 
 This is one of the best Sony LUTs for adding drama and depth to the video. It also makes the image moodier and more attention-grabbing, which is ideal if your film focuses on people, architecture, or scenic landscapes because it draws attention to the topics.
 
 ![Sony Lut - LUT Sony Vegas Adventure](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 LUT Sony Vegas "Adventure"
 
@@ -132,6 +128,10 @@ Sony LUT "Dessert"
 If you want to make your video clip look professional without the color grading being too obvious, Sony LUTs for Premiere is one of the best options available. It cools down the image and enhances the contrast slightly to make the topic stand out without being overpowering. This LUT is particularly well suited to business, real estate, and action-oriented videos.
 
 ![Sony Lut - Sony LUTs for the premiere](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sony LUTs for the premiere
 
@@ -181,10 +181,6 @@ Zoom in and out is a feature in every presentation/editing tool, but we generall
 
 Previously there were no such options in Google sheet to zoom or out. But, now Google has come up with this new feature. This article will explore the steps to zoom in and out of the whole page and the elements of Google Chrome. Now we will know about several ways of using the Zoom control. Let's start.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: 6 Steps for using Zoom control in Google
 
 ##### Step1Using the keyboard to use the zoom control
@@ -218,6 +214,10 @@ You can even set the custom zoom level so that each web page opens up with the t
 You can type "Page Zoom" in the search box. You can even click on the appearance on the left side. Click on the drop-down menu and tap on default zoom.
 
 ![how to use zoom in google](https://images.wondershare.com/filmora/article-images/2022/07/set-page-zoom-level.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Use the Zoom Control on Google Docs
 
@@ -263,10 +263,6 @@ Step3You can even find a similar option to zoom in on other browsers.
 
 When you are using an iOS or Android device, you can pinch the screen to zoom in and slide two fingers apart to zoom out.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. How to make Google earth zoom-in video
 
 Do you also want to make a fantastic **Google earth zoom-in video?** Then let's see the steps for making this:
@@ -289,6 +285,10 @@ This article covers how to enlarge and reduce the screen size in Google Chrome. 
 Zoom in and out is a feature in every presentation/editing tool, but we generally forget its importance until it is unavailable, and you will need alternatives. You imagine a situation where you will have to zoom in on the sheet in the presentation because your client is sitting far from the projector. After the presentation, you will have to zoom out, so the sheet becomes normal. **Zoom in google** is our daily activity on a computer.
 
 Previously there were no such options in Google sheet to zoom or out. But, now Google has come up with this new feature. This article will explore the steps to zoom in and out of the whole page and the elements of Google Chrome. Now we will know about several ways of using the Zoom control. Let's start.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: 6 Steps for using Zoom control in Google
 
@@ -324,10 +324,6 @@ You can type "Page Zoom" in the search box. You can even click on the appearance
 
 ![how to use zoom in google](https://images.wondershare.com/filmora/article-images/2022/07/set-page-zoom-level.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Use the Zoom Control on Google Docs
 
 Step1Open the document.
@@ -358,6 +354,10 @@ Step2Choose the level you wish. You can choose from the existing one or manually
 
 Step3You can even veg the same options while you click File Tab and linger the cursor on zoom options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use the zoom controller manually in Google Sheets by using the browser?
 
 You can even change the zoom level by changing the zoom value manually in the browser. Here are some steps for changing the zoom level on the Google sheets in the chrome browser:
@@ -367,10 +367,6 @@ Step1Tap on the control and customize icon in the Google browser to control the 
 Step2In options, you can change the zoom level by tapping on the minus or plus sign.
 
 Step3You can even find a similar option to zoom in on other browsers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. How to use the Zoom controller in Mobile
 
@@ -515,6 +511,10 @@ So here’s how simple it is to add a lower third.
 In this step, you will create a new project and then import the media and place it on your timeline.
 
 ![Import The Media](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-a-lower-third-to-your-video-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Import The Media
 
@@ -665,10 +665,6 @@ The following step-by-step tutorial already assumes that you are familiar with s
 
 So here’s how simple it is to add a lower third.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Import The Media
 
 In this step, you will create a new project and then import the media and place it on your timeline.
@@ -676,7 +672,7 @@ In this step, you will create a new project and then import the media and place 
 ![Import The Media](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-a-lower-third-to-your-video-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Import The Media
@@ -734,10 +730,6 @@ Wrap Up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Filters on iMovie
 
 There are times when you record a video and find out that the light and color in the video have been up to the mark. The light could be too bright or too dark while there could be some color overlays in certain portion as well as the entire frame of the video. Thanks to the video editing apps, you can correct any lighting and coloration issues with different filters available to apply to your video.
@@ -762,6 +754,10 @@ Step3 Your selected video will now be available on the Timeline where you can ed
 
 ![filter timeline iphone imovie](https://images.wondershare.com/filmora/article-images/2022/07/filter-timeline-iphone-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 You will see all the different filters available on iMovie app. You can also find a slider above each selected filter. You can adjust the filter to increase or decrease the filter intensity.
 
 ![filter options imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/filter-options-imovie-iphone.jpg)
@@ -769,6 +765,10 @@ Step4 You will see all the different filters available on iMovie app. You can al
 Step5 Tap on Play icon to check how the filter is looking on your video. Once you are satisfied, tap on Done option located at the top-left corner.
 
 ![apply filter imovie video](https://images.wondershare.com/filmora/article-images/2022/07/apply-filter-imovie-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step6 Tap on Share icon at the bottom and then tap on Save Video option to save the modified video on your iPhone.
 
@@ -856,22 +856,14 @@ If you are an iPhone user or a Mac user, you can add filters to your video using
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-from-novice-to-pro-how-to-evade-the-most-critical-8-mistakes-on-youtube/"><u>[Updated] 2024 Approved From Novice to Pro How to Evade the Most Critical 8 Mistakes on YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unveiling-the-ideal-aspect-ratio-for-video-content/"><u>[Updated] 2024 Approved Unveiling the Ideal Aspect Ratio for Video Content</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-clearskiesedit-premium-software-to-remove-backgrounds/"><u>[Updated] In 2024, ClearSkiesEdit Premium Software to Remove Backgrounds</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-engagement-real-time-command-and-response/"><u>AI-Powered Engagement: Real-Time Command and Response</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/build-diy-virtual-reality-google-cardboard-hack/"><u>Build DIY Virtual Reality Google Cardboard Hack</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-supreme-memetric-creation-tool/"><u>In 2024, Supreme Memetric Creation Tool</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/mastering-video-conversion-with-handbrake-a-step-by-step-guide-for-version-107/"><u>Mastering Video Conversion with HandBrake: A Step-by-Step Guide for Version 1.0.7</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ransomware-explained-insights-and-prevention-tips-from-malwarefox/"><u>Ransomware Explained: Insights and Prevention Tips From MalwareFox</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-gopro-karma-performance/"><u>The Ultimate Guide to GoPro Karma Performance</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1920s-how-to-make-for-2024/"><u>Vintage Film Effect 1920S - How to Make for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-enhancing-video-sessions-in-google-meet/"><u>[Updated] 2024 Approved Unveiling the Secrets of Enhancing Video Sessions in Google Meet</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-need-to-learn-about-halftone-effects-learn-how-to-quickly-create-a-halftone-effect-in-adobe-photoshop-with-simple-easy-to-follow-instructions./"><u>2024 Approved Need to Learn About Halftone Effects? Learn How to Quickly Create a Halftone Effect in Adobe Photoshop with Simple, Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-cloud-storage-guide-for-enterprises/"><u>2024 Approved Premier Cloud Storage Guide for Enterprises</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-polishing-videos-for-youtube-via-windows-pc/"><u>2024 Approved The Ultimate Guide to Polishing Videos for YouTube via Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-laptop-and-tablet-showdown-comparing-ipad-pro-and-macbook-air-to-find-your-perfect-match/"><u>Best Laptop & Tablet Showdown: Comparing iPad Pro and MacBook Air to Find Your Perfect Match</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-do-velocity-edits-on-pc-for-2024/"><u>How to Do Velocity Edits on PC for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-6-ways-to-mimic-professional-filming-gears/"><u>New 6 Ways to Mimic Professional Filming Gears</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-discover-the-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>New Discover the Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How To Use Speed Ramping to Create an Intense Action Footage
-date: 2025-01-07T10:09:40.884Z
-updated: 2025-01-11T23:49:02.681Z
+date: 2025-01-13T17:58:22.952Z
+updated: 2025-01-17T20:21:36.431Z
 tags: 
   - ai
   - animation videos
@@ -85,10 +85,6 @@ The lower keyframe is when the video is slowest, and the peak is when the video 
 
 ![adjusting key-frames wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-6.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Grab the keyframes and move them up to increase the speed or down to slow down the rate. You can also add more keyframes by moving the playhead to the spot where you want to change speed and clicking the plus button.
 
 After adjusting our keyframes, we can play it back to see if we like the result.
@@ -100,10 +96,6 @@ Since speed ramping can only be used for paid users, we also provide you with an
 1\. You can **drag** the video from your library to the timeline. While in the **timeline**, double-click to open the speed menu. Then choose the starting speed you want your video to be with the speed slider.
 
 ![uniform speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Next, move your playhead to the **point of the video** you want to slow down the speed. Here we will cut and then double-click that clip to open the speed menu again. Change the pace with the speed slider again
 
@@ -160,10 +152,6 @@ First, import a video from your media library in the Wondershare Filmora. And dr
 
 ![library in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Apply the speed ramping feature
 
 To apply the speed ramping feature, **right-click** on the clip on the timeline. And click speed in the menu and choose **speed ramping** to open the settings window.
@@ -208,10 +196,6 @@ We will use Boris FX BCC glitch to add some intensity to our video. It is a plug
 
 ![present a drop-down menu and reduce the effect](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-9.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You can change the settings around after choosing a preset. For example, let's turn up the glitch intensity to have our glitch a little more extreme. Moving further, we can change the glitch duration to our specific needs.
 
 Now we can watch our video to see our glitch with the motion blur effect. Isn't it crazy to make a cinematic video by yourself? The speed ramping feature and glitch effects can bring any sports video to the next level.
@@ -251,6 +235,10 @@ After recording a close-up eye video, add it on Wondershare Filmora and duplicat
 
 ![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2 Add a freeze frame to the video
 
 Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
@@ -265,13 +253,13 @@ With the two video tracks ready, it's time to apply a masking effect. Tap the **
 
 ![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
 
 ![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 4 Add the transition video
 
@@ -296,7 +284,7 @@ First, you need to create a close-up eye video. Although you can do that with yo
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create an Eye-zoom Transition
@@ -312,10 +300,6 @@ After recording a close-up eye video, add it on Wondershare Filmora and duplicat
 Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
 
 ![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
 
@@ -451,10 +435,6 @@ Vimeo is a popular video streaming platform where you can watch videos all day. 
 
 If you are embedding a Vimeo video on your website, you will want to play it on a loop. This will ensure maximum watch time from the audience. Besides, if you are a video creator, you may want to loop Vimeo videos for your video project. We will illustrate how to loop video on Vimeo for all scenarios.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Way 1\. Loop A Video on Vimeo Directly
 
 Most online users watch videos on Vimeo directly through the web browser. This is specifically applicable to computer users. If you want Vimeo loop video for any desired video, the steps are simple. You have to make some adjustments and additions to the video URL on the address bar. You should change the URL accurately for looping a video. Here are the steps on how to loop a video on Vimeo directly.
@@ -462,6 +442,10 @@ Most online users watch videos on Vimeo directly through the web browser. This i
 Step 1: On your device, launch the web browser. Open the official website of Vimeo Watch. Play any video of your liking.
 
 ![play video vimeo watch](https://images.wondershare.com/filmora/article-images/play-video-vimeo-watch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Now, you need to change the URL of the video you are playing. Here are the changes to make in the address bar.
 
@@ -472,6 +456,10 @@ Step 2: Now, you need to change the URL of the video you are playing. Here are t
 Therefore, the initial URL of the video was "<https://vimeo.com/754255543>". You have to change it to "player.vimeo.com/video/754255543?amp;loop=1".
 
 Step 3: After making the changes, press Enter key. The same video will play in a loop until you pause the video or close the web browser's tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2\. Loop a Vimeo Video When Embedded on Your Site
 
@@ -529,9 +517,17 @@ Step 2: Drag and drop the downloaded video file into the Project Media folder on
 
 ![drag vimeo video filmora timeline](https://images.wondershare.com/filmora/article-images/drag-vimeo-video-filmora-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips and they are on the same channel for looping. Alternative, you can copy and paste the video clip multiple times for looping.
 
 ![loop video in filmora](https://images.wondershare.com/filmora/article-images/copy-video-clips-to-loop-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: You can play the video and watch it in loop. Finally, click on the Export button to save the video in the desired file format.
 
@@ -560,6 +556,10 @@ Step 2: Drag and drop the downloaded video file into the Project Media folder on
 Step 3: Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips and they are on the same channel for looping. Alternative, you can copy and paste the video clip multiple times for looping.
 
 ![loop video in filmora](https://images.wondershare.com/filmora/article-images/copy-video-clips-to-loop-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: You can play the video and watch it in loop. Finally, click on the Export button to save the video in the desired file format.
 
@@ -629,10 +629,6 @@ For macOS 10.14 or later
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
@@ -687,11 +683,19 @@ For macOS 10.14 or later
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Now, the audio track gets separated from the video successfully. Wondershare Filmora also offers to add one more audio file. Yes, it is also possible with this software.
 
 **Step 4:** After separating the audio from the video, it is simple to delete the track, whether it is audio or video that is not in use or want to use. Click on the “Export” option for saving your required audio tracks, or you can even select the “iPod” for playing the audio. You can also save the audio file separately as the new file on your hard drive. After exporting the audio tracks, load the project file again that has the frames for the video and later export the video file.
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Whenever you think about the compatibility of editing software with different operating systems, Wondershare Filmora comes to mind as the first choice. All the new features of Wondershare Filmora in its latest version have received positive feedback and reviews. Definitely, it is the actual replacement of the previously used editors such as video editor in Windows or iMovie in Mac.
 
@@ -702,10 +706,6 @@ Just little guidance and assistance can help you use the Wondershare Filmora as 
 **Step 2:** Drag and drop your video clip in the editing area. Here, you can easily see the video and audio tracks are all together. Whatever effect you apply, both will show the results.
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** You have to separate the audio from the video files in this step. After selecting the track, whether audio or video, simply press the “U” letter on your keyboard. In this step, keep holding the cursor. It permits you to keep moving the video clips quickly. Now, it is easy to download audio files from this area.
 
@@ -819,14 +819,19 @@ Just little guidance and assistance can help you use the Wondershare Filmora as 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-youtubes-frame-advantage-five-free-tools/"><u>[Updated] In 2024, Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-track-mattes-the-ultimate-guide-for-after-effects/"><u>2024 Approved Track Mattes The Ultimate Guide For After Effects</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-drivers-for-your-hp-elitebook-x360-103er-g2-now/"><u>Get the Newest Drivers for Your HP EliteBook X360 103Er G2 Now</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-moto-g23-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Moto G23 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-150-2023-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nokia 150 (2023) to Mac? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>New 2024 Approved Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-legend-intro-maker-create-intro-video-with-ease/"><u>New In 2024, Legend Intro Maker – Create Intro Video with Ease</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-content-creati/"><u>New Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-step-by-step-ebook-mastery-a-comprehensive-calibre-tutorial/"><u>Ultimate Step-by-Step Ebook Mastery: A Comprehensive Calibre Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-11-tips-to-make-product-ad-videos/"><u>2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-capture-youtube-video-in-screenshot-forms-for-free/"><u>2024 Approved Capture YouTube Video in Screenshot Forms for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-kinetic-typography-text-effect-easyandfast/"><u>2024 Approved Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-image-jpgpng-to-gif-converters/"><u>Best Image (JPG/PNG) to GIF Converters</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/download-stunning-bmw-e46-wallpapers-and-background-photos-for-your-device-by-yl-software-premium-images/"><u>Download Stunning BMW E46 Wallpapers and Background Photos for Your Device by YL Software | Premium Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-windows-10-brightness-dialing-issues-successfully/"><u>How To Repair Windows 10 Brightness Dialing Issues Successfully</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g34-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G34 5G Fingerprint Lock</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-applying-the-effect-of-camera-shake-in-video-creation/"><u>New Applying the Effect of Camera Shake in Video Creation</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-time-lapse-to-normal-video/"><u>New In 2024, How to Convert Time-Lapse to Normal Video</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pros-and-cons-of-leading-race-rc-rock-crawlers-for-tough-trail-adventures/"><u>Pros and Cons of Leading Race RC Rock Crawlers for Tough Trail Adventures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solution-guide-what-to-do-when-you-encounter-a-bootmgr-error-on-your-pc/"><u>Solution Guide: What To Do When You Encounter a BOOTMGR Error on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-laptop-mic-issues-a-comprehensive-guide/"><u>Troubleshooting and Repairing Laptop Mic Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-essentials-of-decentralized-virtual-tokens-with-yl-softwares-analysis/"><u>Unveiling the Essentials of Decentralized Virtual Tokens with YL Software's Analysis</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-videos-with-imovie/"><u>Updated 2024 Approved How to Loop Videos with iMovie</u></a></li>
 </ul></div>
 

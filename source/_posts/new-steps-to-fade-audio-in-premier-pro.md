@@ -1,7 +1,7 @@
 ---
 title: New Steps To Fade Audio In Premier Pro
-date: 2025-01-01T18:29:32.141Z
-updated: 2025-01-05T19:03:03.964Z
+date: 2025-01-11T21:24:42.540Z
+updated: 2025-01-17T20:01:40.263Z
 tags: 
   - ai
   - animation videos
@@ -30,10 +30,6 @@ Step1To begin, open Premier Pro on your computer and then open the audio that yo
 Step2Once it is open, select the audio clip in the timeline and then click on “Sequence” at the top menu and select “Apply Audio Transition.”
 
 ![apply audio transition](https://images.wondershare.com/filmora/article-images/2022/08/apply-audio-transition.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can also use the keyboard shortcut Shift + Command + D (macOS) or Shift+ Ctrl + D (PC). This will add the “Constant Power Cross Fade” effect at the beginning and the end of the clip.
 
@@ -67,6 +63,10 @@ Step3Here, you can very simply add the fade-in and fade-out effects by simply dr
 
 ![add fade in or out effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using the Audio Waveform**
 
 You can also use the fade icons on the left and right edges of the audio waveform to quickly add a fade in and out.
@@ -75,14 +75,10 @@ To add a fade-in effect, drag the fade-in maker to the right. Then go to the end
 
 ![using the audio waveform](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related FAQs about Audio Fade
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. How Do I Fade to Black in Adobe Premiere Pro?
@@ -131,6 +127,10 @@ To add a duration for the audio transitions, go to Edit > Preferences > Timeline
 ## The Most Complete Guide to Make Fortnite Montage
 
 If you're skilled at playing Fortnite, you'll probably want to share your gameplay clips as montages with other players. The popularity of Fortnite montage videos is rapidly growing because millions of people play the game. Tons of people also like watching their peers play this online video game in the form of gaming montages. We'll explain how to make a montage Fortnite that will get views when you upload it on social media platforms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Fortnite?
 
@@ -389,10 +389,6 @@ It would be best to have your camera placed on a steady surface or mounted on a 
 
 ![keep your camera steady](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### A Spacious Area
 
 You will need a spacious area in which you will perform different tasks. Make sure your camera stands still while shooting all the frames of video. In an ample space, it becomes easier to do movements freely. It also helps prevent glitches in the final product.
@@ -404,7 +400,7 @@ Now you have to split your area into portions. Each task is in its part of the f
 ![making three portions of the area](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After covering the prerequisites, we will now learn the editing process of creating a video reverse effect.
@@ -432,6 +428,10 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 
 ![drag the shots to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Add videos of each action on the layers above by drag and drop.
 
 ##### Step3 Adding Image Mask to the Clips
@@ -443,16 +443,16 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 
 ![add image mask effect to the clips](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4 Adjustment of the Image Mask of each Footage
 
 * Now we will adjust the image mask of each footage so that each will show the task without any glitches.
 * For that purpose, double-click on the video. Next, click on "Effects" in the top right corner of the screen. Then select "Image Mask" and make the necessary adjustments so that each mask shows each footage.
 
 ![editing of image mask effect](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5 Trimming the Video Clip
 
@@ -482,15 +482,15 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 
 ![export the video](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step8 Final Video
 
 Now have a look at the final project. How smooth and perfect it looks. That's it!
 
 ![final video example](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-12.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -508,6 +508,10 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 * After opening the software, import the recording files by clicking "Import Media."
 
 ![download the filmora](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2 Drag the Shots to the Timeline
 
@@ -580,7 +584,7 @@ If this article has helped you, please mention your experience in the comment bo
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Latest 100+ Best TikTok Captions to Improve Your Next Post
@@ -588,10 +592,6 @@ If this article has helped you, please mention your experience in the comment bo
 * [Part 2: Creative Stimulation: A Comprehensive Inventory of Popular Titles on TikTok in 2024](#part2)
 * [Part 3: Automatically Generate TikTok Captions using Filmora's AI Copywriting Feature](#part3)
 * [Part 4: Summary](#part4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why Videos Posted on TikTok Need a Catchy Title
 
@@ -842,10 +842,6 @@ In the ever-evolving world of content creation, tech tools can be a creator's be
 
 [Create AI Captions](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Download Filmora and Find the AI Copywriting Feature
 
 Filmora, widely recognized for its video editing prowess, has now integrated an AI-powered copywriting feature. After downloading Filmora, navigate to the **'Tools'** menu. Among the list, you’ll find the **"AI Copywriting"** option. It's user-friendly and intuitive, making it perfect for both beginners and seasoned TikTokers.
@@ -858,6 +854,10 @@ Filmora's AI requires a bit of information to generate a caption that resonates 
 * **Enter Your Video Content Topic:** Give the AI a brief description of your video. It could be as simple as "a dog chasing its tail" or more abstract like "the feeling of nostalgia at a childhood park."
 
 After inputting the required details, Filmora's AI will churn out multiple caption suggestions. Choose the one that best fits or use them as inspiration to craft your unique spin.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Summary
 
@@ -881,18 +881,22 @@ Whether you're brainstorming creatively or seeking assistance from innovative to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-combat-black-screen-disruptions-in-gaming-feeds/"><u>[Updated] Combat Black Screen Disruptions in Gaming Feeds</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-spotlight-on-8-trusted-youtube-growth-services-for-2024/"><u>[Updated] Spotlight on 8 Trusted Youtube Growth Services for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/iso/"><u>创建硬盘ISO镜像文件：四种全新方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breezing-through-telnet-configuration-in-win11/"><u>Breezing Through Telnet Configuration in Win11</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-previewing-new-story-panel-enhancements-with-reels-rooms/"><u>Facebook Previewing New Story Panel Enhancements with Reels, Rooms</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-live-screen-archive-aggregators/"><u>In 2024, Live Screen Archive Aggregators</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/is-windows-movie-maker-still-available-in-2024/"><u>Is Windows Movie Maker Still Available, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-are-you-in-search-for-a-step-by-step-guide-to-how-to-add-effects-in-tiktok-here-it-is-to-add-some-flavor-to-your-tiktok-videos-use-these-how-to-add-effe/"><u>New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-list-of-outstanding-storytelling-youtubers-this-year-for-2024/"><u>The Ultimate List of Outstanding Storytelling YouTubers This Year for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-windows-11-battery-status-tool-and-maximizing-its-utility/"><u>Understanding the Windows 11 Battery Status Tool & Maximizing Its Utility</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grip-it-right-tips-for-eliminating-jitter-in-action-cam-movies/"><u>[New] Grip It Right Tips for Eliminating Jitter in Action Cam Movies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-filmmakers-choice-for-steady-videos/"><u>[New] In 2024, Filmmaker's Choice for Steady Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-detailed-verification-gopro-hero4-silver-edition-for-2024/"><u>[Updated] Detailed Verification GoPro HERO4 Silver Edition for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/avoiding-key-pitfalls-in-real-estate-resales-proven-tips-and-tools-by-massmail-software/"><u>Avoiding Key Pitfalls in Real Estate Resales: Proven Tips and Tools by MassMail Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-a-world-using-ai-to-build-captivating-tales/"><u>Crafting a World: Using AI to Build Captivating Tales</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/decoding-the-history-of-ai-how-old-is-this-revolutionary-tech/"><u>Decoding the History of AI: How Old Is This Revolutionary Tech?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/find-the-top-10-affordable-online-image-format-switchers/"><u>Find the Top 10 Affordable Online Image Format Switchers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-documenting-digital-dialogues/"><u>In 2024, Documenting Digital Dialogues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-how-to-install-and-configure-windows-10-on-a-new-disk-unit/"><u>In Depth: How To Install and Configure Windows 10 on a New Disk Unit</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/local-vs-global-is-a-local-large-language-model-right-for-your-needs/"><u>Local vs Global: Is a Local Large Language Model Right for Your Needs?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-the-night-to-day-effect-video/"><u>New In 2024, How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
 </ul></div>
 

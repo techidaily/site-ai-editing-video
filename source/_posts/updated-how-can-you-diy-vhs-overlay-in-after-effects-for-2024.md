@@ -1,7 +1,7 @@
 ---
 title: Updated How Can You DIY VHS Overlay in After Effects for 2024
-date: 2025-01-08T00:34:09.519Z
-updated: 2025-01-12T10:24:22.731Z
+date: 2025-01-10T23:07:24.356Z
+updated: 2025-01-18T01:54:55.100Z
 tags: 
   - ai
   - animation videos
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 The 90s generation is familiar with Video Home System video. Today, Moviemakers use VHS static overlay to give their videos an antique and vintage look.
 
 The VHS glitch overlay has become increasingly popular as it changes the video's theme, tone, and whole look. Let's see how we can add DIY VHS overlay in after effects-
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1：Step by Step DIY VHS Overlay in After Effects?
 
@@ -248,6 +252,10 @@ Detailed tutorials provided by the official channel
      data-ad-slot="1223367746"></ins>
 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Perfectly Use the Audio Mixer in Filmora
 
 Have you seen those classic and outstanding videos of professional YouTubers? Yeah, they feel different from the videos we usually make. The reason mainly lies within the outclass audio quality of those videos.
@@ -255,10 +263,6 @@ Have you seen those classic and outstanding videos of professional YouTubers? Ye
 And now, you might think it's impossible to mess with the audio control without the support of a professional. But believe me; it's much simpler than you think. In this brief guide, we'll show you how to use the audio mixer of Filmora to fine-tune all of your videos skillfully.
 
 But let's first see what an audio mixer is.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What is an audio mixer?
 
@@ -327,16 +331,12 @@ To open up the audio mixer, click on the "audio mixer" icon on the toolbar below
 ![click on the audio mixer icon](https://images.wondershare.com/filmora/article-images/2023/04/start-audio-mixer-in-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This is what your audio mixer will look like at the start.
 
 ![audio mixer starting interface](https://images.wondershare.com/filmora/article-images/2023/04/audio-mixer-interface-in-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now we can start adjusting the audio settings. Let's go with the audio levels first.
 
@@ -350,10 +350,6 @@ To adjust the audio levels, look at the left side of the audio mixer. Here you'l
 You can adjust the icon up or down to make these channels louder or softer.
 
 ![adjust the levels of your audio tracks](https://images.wondershare.com/filmora/article-images/2023/04/adjust-the-levels-of-your-audio-tracks.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After the audio levels, let's see how we can change the audio channels.
 
@@ -427,10 +423,6 @@ An audio mixer is necessary if you want to create impressive videos. This master
 ### **2.Where can we find the audio mixer in Filmora?**
 
 Like other highly advanced editing tools, you can also find the audio mixer in Filmora. After you've placed your media file on the editing panel, the "audio mixer" icon appears on the toolbar under the preview channel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **3.Is the audio mixer of Filmora available for free?**
 
@@ -534,6 +526,10 @@ See those circles above the audio levels? These are for adjusting the audio chan
 
 ![adjust the channels of your audio tracks](https://images.wondershare.com/filmora/article-images/2023/04/adjust-the-channels-of-your-audio-tracks.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To check the effect, let's rotate the knob to the left. And to see the result hit the "Play" button on the bottom left corner of the audio mixer interface. Here's how it looks.
 
 ![preview of the adjusted audio tracks](https://images.wondershare.com/filmora/article-images/2023/04/preview-of-the-adjusted-audio-tracks.gif)
@@ -587,6 +583,10 @@ And here we are, done!!! Now you can easily surprise your friends with your mast
 ### **1.How important is an audio mixer in video editing?**
 
 An audio mixer is necessary if you want to create impressive videos. This master volume control allows you to deepen the audio effect and merge two audio sources to get the maximum out of them. This is why most content creators give grave importance to audio mixers during video editing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2.Where can we find the audio mixer in Filmora?**
 
@@ -667,10 +667,6 @@ Step3 Now head to the "Advanced" tab and select process priority as "Below Norma
 
 ![set the advanced settings](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-valorant-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus Tips – How to Add Motion Blur to Your Valorant Gaming Video
 
 If you are unable to set the proper settings for your recording software, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to add a motion blur effect. Once you have recorded your gameplay through any recording software, you can easily edit it on Wondershare Filmora. It’s a professional tool that is compatible with Windows, Mac, Android, and iOS platforms. Using this tool, you can easily edit and create your videos without facing any inconvenience.
@@ -688,6 +684,10 @@ Filmora provides different presets that you can use to create your video from sc
 * This tool offers more than 70 AI portrait effects that can dramatically remove the background from your videos.
 * You can layer and edit multiple videos on this platform using the picture-in-picture feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Add Motion Blur Effect in Valorant Gameplay Video
 
 Do you want to know **how to turn on motion blur in Valorant** using Filmora? Here are the simple steps that you can follow in this regard:
@@ -704,6 +704,10 @@ Now drag and drop the uploaded video on the timeline of this tool. Once done, mo
 
 ![split the added clip](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-valorant-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Search for the Blur Effect
 
 Once you have split the video, head to the “Effects” section and click on “Video Effects” from the left side. Now search “Blur” from the search bar and choose any of the blur effects from the results. Drag and apply the blur effect on the timeline.
@@ -717,7 +721,7 @@ After you have applied the blur effect, go to “Transitions” and search for t
 ![export the edited video](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-valorant-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -735,10 +739,6 @@ Filmora provides different presets that you can use to create your video from sc
 * This tool offers more than 70 AI portrait effects that can dramatically remove the background from your videos.
 * You can layer and edit multiple videos on this platform using the picture-in-picture feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps to Add Motion Blur Effect in Valorant Gameplay Video
 
 Do you want to know **how to turn on motion blur in Valorant** using Filmora? Here are the simple steps that you can follow in this regard:
@@ -760,6 +760,10 @@ Now drag and drop the uploaded video on the timeline of this tool. Once done, mo
 Once you have split the video, head to the “Effects” section and click on “Video Effects” from the left side. Now search “Blur” from the search bar and choose any of the blur effects from the results. Drag and apply the blur effect on the timeline.
 
 ![search for the blur effect](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-valorant-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4 Export the Edited Valorant Gameplay Video
 
@@ -788,10 +792,6 @@ So, what are you waiting for? Read on to learn **how to create quiz videos for Y
 A quiz video is a type of content that provides viewers with a series of questions that are typically about a particular topic or subject matter and may also provide additional information about the topic. You can use the video for various purposes, including educational, entertainment, and marketing.
 
 ![what is a quiz video](https://images.wondershare.com/filmora/article-images/2023/02/what-is-a-quiz-video.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To make an appealing **video quiz**, you have to look at it from various angles, such as its purpose, type, and relevancy.
 
@@ -867,6 +867,10 @@ Finally, drag and drop the background video into the timeline.
 
 ![creating quiz video in filmora](https://images.wondershare.com/filmora/article-images/2023/02/creating-quiz-video-in-filmora.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Make An Intro
 
 Now, start by creating an introduction. You can do this by opening the **"Media"** tab, selecting a template, and dropping it in the timeline once it is downloaded.
@@ -933,10 +937,6 @@ After completing the previous steps, you can now create the entire quiz video by
 
 Once you are done, click the **"Play"** icon to preview your work, and select the **"Export"** icon to either save the clip to your device or upload it directly to your YouTube channel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In this detailed guide, we've explored what a **video quiz** is, its advantages, and scenes where you can use them. We've also walked you through the step-by-step process of making **an interactive video quiz** using the Wondershare Filmora software.
@@ -959,19 +959,20 @@ Hopefully, you've enjoyed reading this article and can now create quiz videos fo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-correct-yt-monetization-checklist-maximize-your-earnings/"><u>[New] 2024 Approved Correct YT Monetization Checklist – Maximize Your Earnings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-comparing-easy-flexible-recording-tools-for-mac-users-for-2024/"><u>[New] Comparing Easy, Flexible Recording Tools for Mac Users for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-navigate-your-first-successful-windows-11-sound-capture-for-2024/"><u>[New] Navigate Your First Successful Windows 11 Sound Capture for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-aural-tapestry-weaving-sounds-into-cinematic-threads/"><u>[Updated] Aural Tapestry Weaving Sounds Into Cinematic Threads</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012906874-football-manager-2022-wont-start-heres-how-to-get-past-the-launch-blockade-fixed/"><u>Football Manager 2022 Won't Start? Here’s How to Get Past the Launch Blockade - Fixed!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-unveiling-methods-to-easily-find-lesser-known-discord-servers/"><u>In 2024, Unveiling Methods to Easily Find Lesser-Known Discord Servers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/influencer-marketing/"><u>Influencer Marketing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-s-top-rated-free-video-editors-for-32-bit-windows-users/"><u>New 2024 Approved S Top-Rated Free Video Editors for 32-Bit Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-disk-usage-for-microsoft-telemetry-in-windows-10-environments/"><u>Optimizing Disk Usage for Microsoft Telemetry in Windows 10 Environments</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-10-gaming-wonders-offline-ios-masterpieces-without-internet/"><u>[New] 10 Gaming Wonders – Offline iOS Masterpieces Without Internet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-iphones-quick-focus-adjustment/"><u>[Updated] Master iPhone's Quick Focus Adjustment</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-stream-and-record-at-the-same-time/"><u>3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-create-a-zoom-motion-blur-effect-using-photoshop-if-you-are-unaware-of-how-to-do-this-read-this-article-to-learn-simple-yet-authentic-instruc/"><u>Do You Want to Create a Zoom Motion Blur Effect Using Photoshop? If You Are Unaware of How to Do This, Read This Article to Learn Simple yet Authentic Instructions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-what-to-do-within-the-first-hours-of-unboxing-your-new-windows-machine/"><u>Essential Tips: What to Do Within the First Hours of Unboxing Your New Windows Machine</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-3-ways-to-stream-and-record-at-the-same-time/"><u>In 2024, 3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-12-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 12 to SIM? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-era-of-quick-fixes-acer-drivers-update-for-win10-users/"><u>New Era of Quick Fixes: Acer Drivers Update for Win10 Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-directory-for-free-visual-treasures/"><u>Ultimate Directory for Free Visual Treasures</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954220029-updated-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>Updated In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-adding-custom-actions-to-file-context-menus/"><u>Windows 10/11: Adding Custom Actions to File Context Menus</u></a></li>
 </ul></div>
 

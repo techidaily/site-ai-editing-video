@@ -1,7 +1,7 @@
 ---
 title: New Make A Countdown Video for 2024
-date: 2025-01-10T01:10:31.394Z
-updated: 2025-01-12T06:56:35.544Z
+date: 2025-01-14T19:26:08.012Z
+updated: 2025-01-17T18:59:36.265Z
 tags: 
   - ai
   - animation videos
@@ -34,6 +34,10 @@ It's possible that you only want to show the minutes and seconds. Make a mask ar
 4\. Everything should be pre-composed, and the composition's tempo should be reversed to make it count down. Right-click the composition and choose Time > Time Reverse Layer to change its pace.
 
 ![create new text countdown video](https://images.wondershare.com/filmora/article-images/2022/11/create-new-text-countdown-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Using the timecode plugin
 
@@ -148,15 +152,7 @@ Navigate to Stock Media, where you'll find non-copyrighted music on Pixabay, and
 
 ![How to make a game montage with Filmora - Choose Background Music](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Choose Background Music
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5) Edit the Gaming Montage
 
@@ -169,6 +165,10 @@ The Effects tab allows you to add multiple overlays and filters to your gaming m
 Filters allow you to spice up your gaming videos. There are also different types of filters on Filmora.
 
 ![How to make a game montage with Filmora - Edit Gaming Montage](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Edit Gaming Montage
 
@@ -221,10 +221,6 @@ Uploaded by DemixB, the Call of Duty Game Montage uses Jacques Offenbach's Can C
 DemixB set the gunshot in the montage video to the music tune. The track builds up to the climax when the gunshot echoes with the attention-grabbing orchestral explosions.
 
 ![Best Gaming Montage Example - Call of Duty: Modern Warfare](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Call of Duty: Modern Warfare
 
@@ -306,10 +302,6 @@ Navigate to Stock Media, where you'll find non-copyrighted music on Pixabay, and
 
 Choose Background Music
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5) Edit the Gaming Montage
 
 With Filmora's auto gaming montage maker, you can watch the video clip with the music you have selected. This tool will analyze beat points to change the video and effects.
@@ -344,6 +336,10 @@ Include slow motion where there is a gunshot or other big gaming moment. You can
 
 Do not include game loading scenes or any unnecessary clips in the gaming montage. Your audience does not have the time to wait for the scenes to load because they want to see action fast.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Sync Gunshot with Music Beat
 
 Try to match gunshot sounds with beats and rhythms in shooter video games. The beats of the music and the soothing sync of gunshots will catch viewers' attention and your video will become popular among gamers.
@@ -355,10 +351,6 @@ You can spice up your gaming montage by adding transitions, especially when you 
 ### 5\. Color Grade the Video for the Mood
 
 Use color grading to your advantage, as it can set the mood of your viewers. You can decide to make some scenes black and white to catch the viewers’ attention.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Add Video Vignettes for Special Occasions
 
@@ -377,6 +369,10 @@ Uploaded by DemixB, the Call of Duty Game Montage uses Jacques Offenbach's Can C
 DemixB set the gunshot in the montage video to the music tune. The track builds up to the climax when the gunshot echoes with the attention-grabbing orchestral explosions.
 
 ![Best Gaming Montage Example - Call of Duty: Modern Warfare](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Call of Duty: Modern Warfare
 
@@ -469,17 +465,21 @@ For Example, while shooting a 3lau song, there is a need for a bus to come into 
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alternate Ways of Location Scouting
 
 If you don't have enough budget to get a studio space, then you can easily shoot by selecting spaces that are in your use or available. These are the following locations you should regard!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Location 1\. Your Home
 
 You should go with the space available at your home to shoot, such as: on couches or in the bedroom, to give a good impression to your music video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Location 2\. Office Space
 
@@ -529,10 +529,6 @@ It consists of one to two pages according to shoot days and has a plan of everyt
 
 **Note:** When you wrap up for day 1, you have another call sheet for day 2, day 3, and so on!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Do Planning
 
 You need to work efficiently and smartly to maintain everything according to the plan. You can cut the filming into halves to have a better lighting setup and character availability. On the shot day, you must change the lighting and rigging setup as little as possible.
@@ -557,6 +553,10 @@ Filming with people is not always bulky and flopping, but if you have a cooperat
 
 A cross-platform for making videos anywhere for all creators! ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Why your video editing isn't good enough? How about some creative inspo?
 
 * 100 Million+ Users
@@ -573,6 +573,10 @@ A cross-platform for making videos anywhere for all creators! ![filmora-02](http
  \* Secure Download
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternate Ways of Location Scouting
 
@@ -611,6 +615,10 @@ The weather is also a major factor when shooting a video, which you must check b
 ## Scheduling for the Music Video
 
 If you have a big project and more scenes to shoot, it's better to make a whole plan about each and everything. You have to make a schedule of using even a single light at a specific time and space. The following are the main considerations you should take care of!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Pre-Rig Day
 
@@ -684,6 +692,10 @@ Step3 Select the desired video portion, then click the Edit tab under Video Tool
 
 ![fade video sound windows editor](https://images.wondershare.com/filmora/article-images/2022/07/fade-video-sound-windows-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Select the Options option beneath Motion and Fades to fade your videos and the soundtrack. The first ribbon area is devoted to audio controls, much to what we saw for video sound. One drop-down choice is for fade in, and the other is for fade out. You may choose none, slow, medium, or quick for each of them.
 
 ![choose fade effects windows editor](https://images.wondershare.com/filmora/article-images/2022/07/choose-fade-effects-windows-editor.jpg)
@@ -734,10 +746,6 @@ Wondershare Filmora, which includes an audio and video editor, is an all-in-one 
 
 We'll give you a quick overview of exporting and sharing your audio-edited files and projects with a few clicks in the last section of this tutorial. To continue, it's important to note that Wondershare Filmora also enables you to share your content and quickly export it from the software's user interface. for the export to your PC to continue. On your software's screen, click the Export button in the top-right corner as shown:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: FAQs Regarding Video Fade
 
 ### 1\. What is the fade panel in Windows video editor?
@@ -751,10 +759,6 @@ As stated earlier, there is no option for fading in windows video editor, hence,
 ### 3\. How do I fade out music in Windows video editor?
 
 There is no direct command for making the music or sound fade out but you can do it manually, that is, in the video where ever you want the music or sound to fade out is that you can trim that clip out and then divide into two more clips. You can take the first of the two clips and lower its sound and in the next clip, you can mute the clip, note: the clips must be kept small, otherwise it will sound quite weird. If the respective lengths of the clips are kept quite small, only then will the fade feel natural. Due to unavailability of a direct command, fading the music out can be a very taxing job.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -810,10 +814,6 @@ As stated earlier, there is no option for fading in windows video editor, hence,
 
 There is no direct command for making the music or sound fade out but you can do it manually, that is, in the video where ever you want the music or sound to fade out is that you can trim that clip out and then divide into two more clips. You can take the first of the two clips and lower its sound and in the next clip, you can mute the clip, note: the clips must be kept small, otherwise it will sound quite weird. If the respective lengths of the clips are kept quite small, only then will the fade feel natural. Due to unavailability of a direct command, fading the music out can be a very taxing job.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The built-in video editor for Windows does not have a direct option, therefore fading procedures cannot be utilized without downloading and installing other software, such as [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which may assist with such problems. Filmora comes with built-in tools for text, video, and audio fading. In Filmora, there are at least four different ways to fade media. As a consequence, the conclusion we reach is that although the Windows video editor is strong and useful in a professional setting, it cannot be utilized to create effects that are often employed in the current world to draw in viewers.
@@ -836,18 +836,20 @@ The built-in video editor for Windows does not have a direct option, therefore f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-gameplay-memories-preserved-unveiling-6-minecraft-tips/"><u>[New] 2024 Approved Gameplay Memories Preserved Unveiling 6 Minecraft Tips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-breaking-the-freeze-reviving-your-obs-cam-for-2024/"><u>[New] Breaking the Freeze Reviving Your OBS Cam for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-3d-camera-tracking-effects-in-after-effects/"><u>2024 Approved How to Use 3D Camera Tracking Effects in After Effects</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-into-the-blueprint-cutting-edge-techniques-for-drones/"><u>2024 Approved Into the Blueprint Cutting-Edge Techniques for Drones</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-reimagining-your-tiktok-presence-step-by-step-renaming-process/"><u>2024 Approved Reimagining Your TikTok Presence Step-by-Step Renaming Process</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-tricks-for-always-launching-applications-as-an-admin-in-windows-11/"><u>Essential Tricks for Always Launching Applications as an Admin in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-fixing-two-users-ms-login-conflicts/"><u>Expert Tips: Fixing Two Users' MS Login Conflicts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-ideas-on-using-filmora-green-screen/"><u>In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-comment-on-youtube-live-chat/"><u>In 2024, How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-fade-audio-in-premier-pro/"><u>New Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-screens-sole-contender-software-or-hardware-triumph/"><u>The Screen's Sole Contender Software or Hardware Triumph?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-difference-between-time-lapse-and-hyperlapse-for-2024/"><u>Updated Difference Between Time Lapse and Hyperlapse for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-guide-to-screen-recording-facetime-meetings/"><u>[New] Essential Guide to Screen-Recording FaceTime Meetings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-master-the-art-of-earning-on-tiktok-a-guide-to-8-proven-techniques/"><u>[Updated] 2024 Approved Master the Art of Earning on TikTok A Guide to 8 Proven Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-picture-selections-captivating-live-viewing/"><u>[Updated] Prime Picture Selections Captivating Live Viewing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-thi/"><u>2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-create-animated-facebook-ads-with-high-roi/"><u>2024 Approved How to Create Animated Facebook Ads With High ROI?</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-13c-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora-for-2024/"><u>Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-14-pro-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 14 Pro In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>New How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-reno-11-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo Reno 11 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-strategies-for-creating-a-viral-sensation-on-tiktok/"><u>Top 10 Strategies for Creating a Viral Sensation on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-waveform-generator/"><u>Updated In 2024, Best Audio Waveform Generator</u></a></li>
 </ul></div>
 

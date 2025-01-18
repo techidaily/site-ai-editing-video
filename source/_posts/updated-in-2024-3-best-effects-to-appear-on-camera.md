@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, 3 Best Effects to Appear on Camera
-date: 2025-01-08T05:29:59.992Z
-updated: 2025-01-12T02:03:09.431Z
+date: 2025-01-16T23:13:19.895Z
+updated: 2025-01-18T01:12:31.858Z
 tags: 
   - ai
   - animation videos
@@ -37,6 +37,10 @@ Step2 Make a shot of your talent appearing from where the jacket landed. You can
 
 ![make a shot of your talent appearing](https://images.wondershare.com/filmora/article-images/2022/12/appearance_2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Download Filmora to edit your footage. You can get started by going to their official website.
 
 ![download filmora](https://images.wondershare.com/filmora/article-images/2022/12/appearance_3.jpg)
@@ -45,17 +49,9 @@ Step4 Now split the first clip on the frame where your jacket lands on the stool
 
 ![split the first clip on the frame](https://images.wondershare.com/filmora/article-images/2022/12/appearance_4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 Trim the second shot until the talents start acting and place it on the second track to match the first clip.
 
 ![trim the second shot](https://images.wondershare.com/filmora/article-images/2022/12/appearance_5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Make an Explosion Appearance
 
@@ -69,15 +65,15 @@ Step3 Freeze the frame of the empty plate with just the background and extend it
 
 ![freeze the frame of the empty plate](https://images.wondershare.com/filmora/article-images/2022/12/appearance_7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Delete the rest on the left. The trick is to use some explosion or smoke effect to hide the transition.
 
 Step5 Use the green screen sample in the default menu here. Add some smoke effects available in film stock. Place it on the third video track and move it to hide the transition.
 
 ![use the green screen sample](https://images.wondershare.com/filmora/article-images/2022/12/appearance_8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Make Roof Appearance
 
@@ -88,7 +84,7 @@ Step1 First, record the empty plate with just a background. Let the talent jump 
 ![record the empty plate](https://images.wondershare.com/filmora/article-images/2022/12/appearance_9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Now import the clip into Filmora again. Follow the steps from the second example so we have the subject appearing on the screen like this.
@@ -264,10 +260,6 @@ Step2 **Choose** a template
 
 ![instagram new template](https://images.wondershare.com/filmora/article-images/instagram-new-template.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 **Compile** clips, add music, text, and effects
 
 ![instagram compile clips](https://images.wondershare.com/filmora/article-images/instagram-compile-clips.jpg)
@@ -377,6 +369,10 @@ Step6 Users can **share** the video on social platforms or **tap** "**More**" to
 
 ![filmora mobile download video](https://images.wondershare.com/filmora/article-images/filmora-mobile-download-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step7 **Save** the final video to your device
 
 ![filmora mobile save video](https://images.wondershare.com/filmora/article-images/filmora-mobile-save-video.jpg)
@@ -390,6 +386,10 @@ Instagram Reel provides a platform to reach a wider audience and create engaging
 Step1 **Start** a new Reel on Instagram
 
 ![instagram new reel](https://images.wondershare.com/filmora/article-images/instagram-new-reel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 **Choose** a template
 
@@ -476,10 +476,6 @@ The strength of the hue is known as saturation. (Remember that this HSL panel mo
 
 Each color's luminance measures how brightly it reflects light. Use this tool to brighten or darken specific areas of your image (it works especially well to provide contrast to black and white images). To make the water and sky behind the model darker in this example photograph, I decreased the Luminance setting on the aqua panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Adjustment Brush
 
 Further isolate a section of your image using the Adjustment Brush so that you can change the Hue and any other parameters you like. Your Adjustment Brush is the final brush icon on the top of your editing panel. Adjust your Hue and begin painting on your image where you wish to change the color to begin color grading.(At the bottom of the Adjustment Brush Panel, you can adjust the brush's size or feathering.)
@@ -507,6 +503,10 @@ Utilize each panel to practice and experiment. There is no right or wrong method
 Almost every video has some titles and texts to show to the viewers. Instead of showing static texts on the video, everyone loves to add animated texts so that the video looks attractive and engaging. If you want to show credits and titles in intro and outro of the video, you will usually see texts scrolling vertically on the video.
 
 If you want to show any text repeatedly, you can add horizontal scrolling text effect to your video so that the repeated text does not look weird. You will need a video editor to add scrolling rolling text effect to texts and titles in your video. We will illustrate in simple steps how to animate text on scroll using free as well as premium video editors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Add Scrolling Text to Video with Filmora
 
@@ -538,6 +538,10 @@ Step5 Double-click on the text layer on Timeline and customize the text and styl
 
 ![customize scroll text style filmora](https://images.wondershare.com/filmora/article-images/2022/07/customize-scroll-text-style-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Use After Effects to Create Scrolling Text
 
 Adobe Affect Effects is an extremely popular video editor and there are so many different text effects available to apply to your video. After Effects scrolling text effects come with different variations so that your titles and texts look amazing on the screen. Apart from the available text effects, you can also download and get more text effects from external sources. Here are the steps to add text scroll after effects to your video.
@@ -545,10 +549,6 @@ Adobe Affect Effects is an extremely popular video editor and there are so many 
 Step1 Launch After Effects and type your text with the Text tool from the top bar.
 
 ![select text tool after effects](https://images.wondershare.com/filmora/article-images/2022/07/select-text-tool-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Duplicate the written text by going to Edit> Duplicate.
 
@@ -575,6 +575,10 @@ Step7 Right-click on Pre-comp and go to Time> Enable Time Remapping. Play the vi
 ![enable time remapping after effects](https://images.wondershare.com/filmora/article-images/2022/07/enable-time-remapping-after-effects.jpg)
 
 The above-mentioned steps are for horizontal scrolling text effect. If you want vertical scrolling text After Effects, you have to position the duplicate text and null object vertically and the required text will scroll vertically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Add Scrolling Text Effect with VSDC Free Video Editor
 
@@ -604,10 +608,6 @@ Step6 Shorten the duration of the text layer and then copy the text layer from T
 
 ![complete scrolling effect vsdc](https://images.wondershare.com/filmora/article-images/2022/07/complete-scrolling-effect-vsdc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Takeaway
 
 Adding scrolling text to your video should no more be an issue for you. If you are using After Effects, we have illustrated how you can create horizontal and vertical scrolling effect for text in your video perfectly. If you prefer a free video editor, you can use VSDC free video editor as well. But we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) where you can add scrolling effects to your text instantly, and there is a wide range of amazing scrolling effects available to apply to your video.
@@ -634,10 +634,6 @@ Step5 Double-click on the text layer on Timeline and customize the text and styl
 
 ![customize scroll text style filmora](https://images.wondershare.com/filmora/article-images/2022/07/customize-scroll-text-style-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Use After Effects to Create Scrolling Text
 
 Adobe Affect Effects is an extremely popular video editor and there are so many different text effects available to apply to your video. After Effects scrolling text effects come with different variations so that your titles and texts look amazing on the screen. Apart from the available text effects, you can also download and get more text effects from external sources. Here are the steps to add text scroll after effects to your video.
@@ -650,13 +646,13 @@ Step2 Duplicate the written text by going to Edit> Duplicate.
 
 ![duplicate written text after effects](https://images.wondershare.com/filmora/article-images/2022/07/duplicate-written-text-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Move the duplicate text out of the visible screen to the left by changing its position value.
 
 ![change text position value ae](https://images.wondershare.com/filmora/article-images/2022/07/change-text-position-value-ae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Turn on Position option and change the duration and add a keyframe.
 
@@ -669,6 +665,10 @@ Step5 Right-click on Composition setting and go to New> Null Object. Change the 
 Step6 Select all layers and right-click and select Pre-compose.
 
 ![select precompose after effects](https://images.wondershare.com/filmora/article-images/2022/07/select-precompose-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step7 Right-click on Pre-comp and go to Time> Enable Time Remapping. Play the video and you will see the scrolling effects that you see in end credits in videos.
 
@@ -724,16 +724,22 @@ Adding scrolling text to your video should no more be an issue for you. If you a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-hone-your-livestream-skills-on-youtubes-premier-platform-for-2024/"><u>[New] Hone Your Livestream Skills on YouTube's Premier Platform for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-ps4-game-capture-via-obs-studio/"><u>[Updated] In 2024, Mastering PS4 Game Capture via OBS Studio</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audioalert-essentials-downloading-and-editing-tamil-melodies-for-2024/"><u>AudioAlert Essentials Downloading & Editing Tamil Melodies for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/diving-deep-into-sj-cam-s6-features-and-performance/"><u>Diving Deep Into SJ-CAM S6 Features and Performance</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-random-letter-reveal-intro/"><u>In 2024, How to Make Random Letter Reveal Intro?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-13-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 13 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713950874876-looking-for-the-simple-steps-to-add-transition-effects-in-your-video-we-will-illustrate-how-to-add-transition-in-filmora-and-mention-tips-and-tricks-for-vid/"><u>Looking for the Simple Steps to Add Transition Effects in Your Video? We Will Illustrate How to Add Transition in Filmora and Mention Tips and Tricks for Video Transition Effects for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ering-your-personalized-playlist-hideaway-for-2024/"><u>Uncovering Your Personalized Playlist Hideaway for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-best-way-to-color-grading-and-color-correction-in-filmora-for-2024/"><u>Updated Best Way To Color Grading & Color Correction in Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-frame-rate-for-4k-video/"><u>Updated In 2024, Best Frame Rate for 4K Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/what-are-the-best-websites-to-download-amusing-and-funny-ringtones-for-2024/"><u>What Are the Best Websites to Download Amusing and Funny Ringtones for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-navigating-zooms-audio-recording-features-with-ease/"><u>[New] 2024 Approved Navigating ZOOM's Audio Recording Features with Ease</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-branding-excellence-integrating-watermarks-and-logos-into-video-media-for-2024/"><u>[New] Branding Excellence Integrating Watermarks and Logos Into Video Media for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-bringing-smiles-without-dollars-the-mememakers-way/"><u>[Updated] 2024 Approved Bringing Smiles without Dollars – The MemeMaker’s Way</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-iphones-premier-video-tools-pick-cameo-over-filmorago/"><u>[Updated] 2024 Approved IPhone's Premier Video Tools Pick Cameo Over FilmoraGo?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-charting-success-with-youtube-income-streams/"><u>[Updated] Charting Success with YouTube Income Streams</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-all-things-about-adding-effects-in-kinemaster/"><u>2024 Approved All Things About Adding Effects In Kinemaster</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ive-content-concepts-for-vlogs-for-2024/"><u>Creative Content Concepts for Vlogs for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/customize-your-scroll-delete-instagram-suggestions/"><u>Customize Your Scroll Delete Instagram Suggestions</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/fixing-device-conflict-issues-in-windows-with-tips-from-yl-software-experts/"><u>Fixing Device Conflict Issues in Windows with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-simple-utilisation-donedrive-pour-la-synchronisation-entre-deux-pc/"><u>Guide Simple : Utilisation D'OneDrive Pour La Synchronisation Entre Deux PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-fade-in-windows-video-editor-for-2024/"><u>Updated How To Add Fade In Windows Video Editor for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-random-letter-reveal-intro/"><u>Updated How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-correct-lens-distortion-with-filmora/"><u>Updated In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
 </ul></div>
 

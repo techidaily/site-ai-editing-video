@@ -1,7 +1,7 @@
 ---
 title: New A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing for 2024
-date: 2025-01-04T16:41:41.613Z
-updated: 2025-01-12T14:09:30.025Z
+date: 2025-01-16T04:01:24.886Z
+updated: 2025-01-18T04:13:22.177Z
 tags: 
   - ai
   - animation videos
@@ -128,6 +128,10 @@ Avoid adding any long intro monologues or skits to your tutorial. First, your go
 
 ![keep your intro short](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Break down your tutorial into steps
 
 No matter what your tutorial is about, breaking down your process into steps makes your tutorial a lot easier to understand with Filmora. You can do this in just a few minutes.
@@ -139,6 +143,10 @@ Step1 Move the playhead to where you want your first section to begin. Next, cli
 Step2 Click and drag your title on a track above your footage.
 
 ![click and drag your title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Double-click your new title and type in your section title. You can even adjust the style of the text to your liking. Repeat the process for as many steps as you'd like for your tutorial
 
@@ -152,13 +160,13 @@ Step1 Moving your playhead to the beginning of your video. Then go to file recor
 
 ![go to file record media](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-8.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Once you're done recording, you can adjust the volume and further edit the voiceover by double-clicking the new audio file on your timeline.
 
 ![adjust the volume](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5\. Emphasize important steps
 
@@ -238,10 +246,6 @@ Step2 Click settings to unlock even more options. Recording at the highest quali
 
 ![click settings to unlock even more options](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 When you're ready press these buttons to begin recording your tutorial and hit them again to finish your recording.
 
 ![begin recording your tutorial](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-3.jpg)
@@ -263,6 +267,10 @@ Step1 Move the playhead to where you want your first section to begin. Next, cli
 Step2 Click and drag your title on a track above your footage.
 
 ![click and drag your title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Double-click your new title and type in your section title. You can even adjust the style of the text to your liking. Repeat the process for as many steps as you'd like for your tutorial
 
@@ -308,10 +316,6 @@ Step6 You can also use the sliders in the animation tab to do this if you want.
 
 ![use the sliders](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step7 Lastly, the mask highlight. To achieve this effect, you need to duplicate your desired clip by right-clicking and clicking "Duplicate."
 
 ![clicking duplicate](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-16.jpg)
@@ -324,10 +328,6 @@ Step9 To make things easier, turn off the bottom track by clicking the eye icon.
 
 ![turn off the bottom track](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step10 Double-click the clip on top and go to "Video > "Mask" and .click the button to turn it on. In this tutorial, we're going to use a "Rectangle" mask but the choice is yours.
 
 ![go to video](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-19.gif)
@@ -335,10 +335,6 @@ Step10 Double-click the clip on top and go to "Video > "Mask" and .click the but
 Step11 Adjust the mask size and position in the preview window to the area you want to highlight.
 
 ![adjust the mask size](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-20.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step12 Once you're happy with the mask's position with the top clip, turn the bottom trackback on by clicking the eye icon.
 
@@ -351,6 +347,10 @@ Step13 here's where it all comes together. Double-click the bottom clip, click o
 Step14 Drag the opacity slider until you're happy with the contrast. Finally, you have a nifty mask highlight for your tutorial.
 
 ![drag the opacity slider](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -365,10 +365,6 @@ That's how you create a tutorial video with Wondershare Filmora. Ensure you foll
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Ways to Blur Zoom Background for Free
 
@@ -391,12 +387,16 @@ Step2Find the "Stop Video" button, which has a chevron pointing upward.
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/stop-video-on-zoom.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3Then choose "Video Settings" > "Backgrounds & Filters" by clicking the arrow.
 
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/background-and-filters-zoom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4Then choose "Blur," and your backdrop will instantly seem blurred.
 
@@ -455,6 +455,10 @@ Step1Only while you're in a meeting can you alter your backdrop. Tap the More ic
 Step2Select Virtual background after that. then choose a picture from the choices offered.
 
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/virtual-background-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3The backdrop of a picture or video added from your gallery using the Add icon will likewise successfully blur the background on your Zoom Android device. Now place Zoom calls as usual, and the backdrop of your live video will be automatically blurred.
 
@@ -530,10 +534,6 @@ Step5Below your camera video, you'll see a few possibilities. Tap "Blur" to make
 
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/blur-bg-zoom-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to blur Zoom background on Android
 
 Additionally, Zoom blur backdrops are the ideal option for first video conversations with clients, coworkers, or supervisors. On its Android app, Zoom offers customers the option to blur their backdrop. However, there is a catch: the function can only be activated once the user has entered a meeting. If a virtual backdrop isn't your style on Android, you may choose to blur the background instead. Everything in the backdrop will be blurred, keeping just your picture apparent throughout the conversation. Remember that all of your next meetings will have the blur function turned on. How? Read on.
@@ -542,15 +542,15 @@ Step1Only while you're in a meeting can you alter your backdrop. Tap the More ic
 
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/share-zoom-screen-android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2Select Virtual background after that. then choose a picture from the choices offered.
 
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/virtual-background-android.jpg)
 
 Step3The backdrop of a picture or video added from your gallery using the Add icon will likewise successfully blur the background on your Zoom Android device. Now place Zoom calls as usual, and the backdrop of your live video will be automatically blurred.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -656,10 +656,6 @@ Through this effect, you can smoothen your video by adding a realistic touch to 
 
 ![motion blur explained](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-plugin-for-ae-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: 3 Motion Blur Plugins for Adobe Effects
 
 Are you ready to use the **best motion blur plugin of After Effects**? In this section, we will discuss the top 3 motion blur plugins that can help you to create a motion blur effect in After Effects.
@@ -704,6 +700,10 @@ Pixel Motion Blur can also help you in creating a dynamic blur effect in your vi
 
 **Tutorial:** Do you want to try Pixel Motion Blur? Check the steps present in this video to discover how to use this special plugin without any hassle:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: RSMB vs. CC Force vs. Pixel: Which is the Best Motion Blur Plugin?
 
 Do you want to learn the difference between all the discussed motion blur plugins for Adobe Effects? Read this section to find out the comparison between the top 3 best motion blur plugins.
@@ -742,20 +742,19 @@ In this article, we have shed light on the top three motion blur plugins you can
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-edge-free-and-easy-top-11-youtube-title-inventors/"><u>[Updated] In 2024, Cutting-Edge, Free, and Easy Top 11 YouTube Title Inventors</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-navigating-the-latest-pro-cams-for-full-spheres-for-2024/"><u>[Updated] Navigating the Latest Pro Cams for Full Spheres for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/cross-platform-display-connect-and-share-your-iphone-screen-on-a-samsung-tv/"><u>Cross-Platform Display: Connect and Share Your iPhone Screen on a Samsung TV</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easy-ways-to-remove-motion-blur-in-photoshop-for-2024/"><u>Easy Ways to Remove Motion Blur In Photoshop for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-gap-integrating-zoom-into-your-gmail-setup/"><u>In 2024, Bridging Gap Integrating Zoom Into Your Gmail Setup</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-create-a-motion-blur-effect-in-your-videos-read-this-well-described-guide-to-learn-how-to-add-motion-blur-on-capcut-on-iphone-and-and/"><u>In 2024, Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>In 2024, How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-innovating-podcast-branding-a-comprehensive-logo-guidebook/"><u>In 2024, Innovating Podcast Branding A Comprehensive Logo Guidebook</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-personalized-/"><u>In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-vyncs-tracking-service-high-quality-monitoring-with-complex-membership-options/"><u>In-Depth Analysis of Vync's Tracking Service: High-Quality Monitoring with Complex Membership Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-art-of-handling-steam-game-installation-disk-writing-problems/"><u>Master the Art of Handling Steam Game Installation Disk Writing Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-windows-11-hang-challenges-expert-advice/"><u>Overcoming Common Windows 11 Hang Challenges: Expert Advice</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unleashing-creativity-crafting-compelling-fb-video-campaigns/"><u>[New] 2024 Approved Unleashing Creativity Crafting Compelling FB Video Campaigns</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-leveraging-url-posts-for-maximum-impact-on-insta-storypost-for-2024/"><u>[Updated] Leveraging URL Posts for Maximum Impact on Insta Story/Post for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-canva-collages/"><u>2024 Approved How to Make Canva Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-5-websites-and-software-to-convert-powerpoint-to-mp4/"><u>2024 Approved Top 5 Websites and Software to Convert Powerpoint to Mp4</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-magic5-ultimate-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor Magic5 Ultimate is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/1716464788910-how-to-avoid-the-biggest-slip-ups-for-new-youtube-enthusiasts/"><u>How to Avoid the Biggest Slip-Ups for New YouTube Enthusiasts!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-rectify-non-functional-content-warning-during-voice-chatting/"><u>How to Rectify Non-Functional 'Content Warning' During Voice Chatting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-pexels-a-photographers-toolkit/"><u>In 2024, Mastering Pexels A Photographer's Toolkit</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-get-green-screen-effects-on-your-video-without-green-screen-setup-in-your-background-learn-how-to-get-virtual-green-screen-background-and/"><u>New Do You Want to Get Green Screen Effects on Your Video without Green Screen Setup in Your Background? Learn How to Get Virtual Green Screen Background and Shoot Videos Like a Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/reign-as-a-tycoon-champion-with-our-12-must-play-games/"><u>Reign as a Tycoon Champion with Our #12 Must-Play Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-enhancements-required-for-apples-ai-ecosystem-to-rival-the-dominance-of-openai-and-google-insights-from-zdnet/"><u>Top 10 Enhancements Required for Apple's AI Ecosystem to Rival the Dominance of OpenAI and Google: Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unleashing-potential-learning-to-race-with-drones-and-best-models-for-2024/"><u>Unleashing Potential Learning to Race with Drones and Best Models for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-color-correction-basics-s-log-footage/"><u>Updated In 2024, Color Correction Basics (S-LOG Footage)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-vintage-film-effect-1980s-how-to-create/"><u>Updated Vintage Film Effect 1980S - How to Create</u></a></li>
 </ul></div>
 

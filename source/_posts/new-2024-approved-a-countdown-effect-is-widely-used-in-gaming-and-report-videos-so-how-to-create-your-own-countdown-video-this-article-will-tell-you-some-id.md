@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing
-date: 2025-01-10T09:54:56.747Z
-updated: 2025-01-12T09:31:29.412Z
+date: 2025-01-13T16:25:36.441Z
+updated: 2025-01-18T02:02:28.895Z
 tags: 
   - ai
   - animation videos
@@ -20,10 +20,6 @@ Have you ever wanted to use Adobe After Effects to recreate a countdown timer fo
 In this article, we will demonstrate how to use Adobe After Effects to put together a countdown video. This procedure is a straightforward one, and it will handle expressions as well as plugins. Stay here and read on to find out more about the various methods in which we might accomplish this goal!
 
 Let's begin!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Create a new composition
 
@@ -81,6 +77,10 @@ The Import section of the Preferences dialog box is capable of handling source t
 
 ![box preference countdown video](https://images.wondershare.com/filmora/article-images/2022/11/box-preference-countdown-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it! You are now familiar with the process of creating a straightforward countdown and a countdown timer in After Effects, and you have three options to choose from. Make use of this information to give your videos an interesting spin and to round out the experience for the audience.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -113,10 +113,6 @@ Appearance effects are optical illusions used to replicate imagined occurrences 
 A good branding and advertising strategy must include video. You can raise the caliber of clients who utilize your product by improving the image you provide.
 
 How can video help you build your brand? How well do you look? Although there is no quick fix to seem nice on-screen instantly, you can employ several appearance effects to enhance the general flow of your videos. Appearance effects are significant because they add a slight twist to your videos. They can help you stand out, add some humor and draw attention from your audience. These simple tricks could add extra fun and Spark to your videos.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Make Cloth Appearance
 
@@ -168,13 +164,13 @@ Step1 First, record the empty plate with just a background. Let the talent jump 
 
 ![record the empty plate](https://images.wondershare.com/filmora/article-images/2022/12/appearance_9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Now import the clip into Filmora again. Follow the steps from the second example so we have the subject appearing on the screen like this.
 
 ![import the clip into filmora again](https://images.wondershare.com/filmora/article-images/2022/12/appearance_10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Add the green screenshot onto the third video track.
 
@@ -184,6 +180,10 @@ Step4 Double-click on it, activate the setting window and then key out the backg
 
 ![activate the setting window ](https://images.wondershare.com/filmora/article-images/2022/12/appearance_12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Move the clip until it covers only the first frame of the appearing clip. Now keyframe the following subject from the outer frame to the final position.
 
 ![move the clip](https://images.wondershare.com/filmora/article-images/2022/12/appearance_13.jpg)
@@ -191,6 +191,10 @@ Step5 Move the clip until it covers only the first frame of the appearing clip. 
 Step6 Now search for some smoke effects and put it upside down. So it looks like the ceiling is broken when the subject falls. Then add some camera shake to the fall.
 
 ![search for some smoke effects](https://images.wondershare.com/filmora/article-images/2022/12/appearance_14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step7 Drag the camera shake effect back to the top track and shorten it to an ideal length. You can also add some sound effects if you want to this video.
 
@@ -268,9 +272,95 @@ Step 3: Go to the ‘Transform’ option in the properties window and adjust bas
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+Step 4: Click on ‘Enter’ to apply it to the video.
+
+In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
+
+Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
+
+Rotating a video in Blender can be used for other purposes than just rotating it.
+
+Here are some other things that you can do with a rotated video:
+
+\- Scale the video up or down
+
+\- Flip the video horizontally or vertically
+
+\- Change the position of the video in the 3D Viewport
+
+## How to rotate videos in Filmora
+
+Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
+
+### Step-by-step on how to rotate videos in Filmora
+
+To rotate a video clip using keyframes...
+
+Step 1: Import the video clip you want to rotate to your project.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
+
+Step 2: In the timeline, place the playhead at the beginning of the clip.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
+
+Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
+
+Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
+
+To rotate a video clip using the Transform Tool...
+
+Select the "Edit" tool from the toolbar.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
+
+Go to the “Transform” selection, then select the rotate option.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
+
+Adjust the rotation angle using the tool.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
+
+Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
+
+Step 2: Then, click on the "Strip" menu and select "Transform."
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
+
+Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
+
+Step 4: Click on Enter to save the rotation of the video.
+
+The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
+
+Step 1: Open the video that you want to rotate in Blender.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
+
+Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
+
+ Figure 5
+
+Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
 
 Step 4: Click on ‘Enter’ to apply it to the video.
 
@@ -362,10 +452,6 @@ Step 3: Go to the ‘Transform’ option in the properties window and adjust bas
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Click on ‘Enter’ to apply it to the video.
 
 In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
@@ -396,6 +482,10 @@ For macOS 10.14 or later
 
 There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-step on how to rotate videos in Filmora
 
 To rotate a video clip using keyframes...
@@ -423,106 +513,8 @@ Select the "Edit" tool from the toolbar.
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Go to the “Transform” selection, then select the rotate option.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Adjust the rotation angle using the tool.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
-
-Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
-
-Step 2: Then, click on the "Strip" menu and select "Transform."
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
-
-Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
-
-Step 4: Click on Enter to save the rotation of the video.
-
-The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
-
-Step 1: Open the video that you want to rotate in Blender.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
-
-Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
-
- Figure 5
-
-Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
-
-Step 4: Click on ‘Enter’ to apply it to the video.
-
-In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
-
-Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
-
-Rotating a video in Blender can be used for other purposes than just rotating it.
-
-Here are some other things that you can do with a rotated video:
-
-\- Scale the video up or down
-
-\- Flip the video horizontally or vertically
-
-\- Change the position of the video in the 3D Viewport
-
-## How to rotate videos in Filmora
-
-Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
-
-### Step-by-step on how to rotate videos in Filmora
-
-To rotate a video clip using keyframes...
-
-Step 1: Import the video clip you want to rotate to your project.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
-
-Step 2: In the timeline, place the playhead at the beginning of the clip.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
-
-Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
-
-To rotate a video clip using the Transform Tool...
-
-Select the "Edit" tool from the toolbar.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
 
 Go to the “Transform” selection, then select the rotate option.
 
@@ -557,6 +549,10 @@ Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
 Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Click on ‘Enter’ to apply it to the video.
 
@@ -674,99 +670,9 @@ Step 2: Go to Menu > View Menu > Advanced Controls in VLC Media Player and selec
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-5.png)
 
-Step 3: Play the video you want to crop and then click the Record button on the scene you want to crop and then the same button to pause the video where you want to crop it.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-6.png)
-
-Step 4: In Windows 7, 8, and XP, the film will automatically save in Library > Videos, and in My Documents > My Videos in Windows 7.
-
-VLC Media Player is unquestionably one of the greatest video players available for free. Nonetheless, it isn't the finest video reduction because it just reduces the size of videos by using certain simple parameters rather than complex ones. As a result, we offer Fimora, an all-in-one video toolbox that can convert, compress, download, record, edit, burn, and more, as a better video compressor. You can change the video resolution, bit rate, encoder, format, and other settings to compress video and audio files in a variety of formats. Follow the simple steps below to get this VLC compressor replacement on your Windows/Mac for free.
-
-## An easier way to resize videos using Filmora
-
-[Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful, yet easy to use video editor for PC and Mac. With the most intuitive and streamlined editing process out there, Filmora lets you cut and resize videos with just a few clicks of your mouse.
-
-Through this part, we'll show you how to resize videos using Filmora's three-step process: import video files, select video clips, and edit them. We'll also teach you some shortcuts for making the editing process as quick as possible!
-
-A common challenge for beginner video editors is knowing where to start. With Filmora, you begin by importing your video files, selecting the clip you want to cut, and then editing it. It's a three-step process that takes less than five minutes!
-
-Once you have finished editing your video clip, Filmora will give you the option to share it on social media or export it in MP4 or AVI format.
-
-Keep reading to learn more about how to cut and resize videos using Filmora's three-step process!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-### Step by Step on How to Resize Videos using Filmora
-
-Resizing videos in Filmora is a quick and easy process. To resize videos, first make sure you have imported your video file into the editor.
-
-**Resizing by changing the dimensions**
-
-Step 1: To import a video file, either drag and drop the file on the screen or click on "Import Files" in the toolbar.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-7.png)
-
-Step 2: Once you've imported your video, select the video clips that you want to resize by clicking on them; then, resizing them is as simple as dragging their borders!
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-8.png)
-
-Step 3: You can also use the size fields at the bottom of the frame to change their dimensions.
-
-Step 4: Keep in mind that changing one dimension of a video clip will affect both its width and height proportionally. For example, if you enlarge a 16:9 widescreen clip to 720p (from 480p), it will be double its original proportions (720x480).
-
-**Resizing by shrinking video file size.**
-
-Step 1: To import a video file, either drag and drop it onto the screen or use the toolbar's "Import Files" option.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-9.png)
-
-Step 2: Open the video shrinker's output window by clicking the "Export" button.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-10.png)
-
-Step 3: Select the Format tab and keep the video in its original format as a result. Then, in the "Settings" panel, click the triangle button below to downsize the video by choosing a lower video resolution, frame rate, or bit rate. When it comes to video formats, you can choose among FLV, MP4, and other similar formats, which normally result in smaller files.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
-
-Step 4: The shrunk file should be exported.
-
-## Conclusion
-
-So you’ve got this beautiful video you want to post on your social media page or website, but the dimensions are all wrong. No worries! There’s an easy solution to your problem. Filmora is a video editing software that is easy to use and versatile and powerful at the same time. Whether you’re just starting out or are a pro, Filmora is the perfect tool for the job. You don’t need to be an expert to edit videos in Filmora; it’s easy enough for beginners. With Filmora, you can resize your videos in seconds by following these simple steps above.
-
-Step 2: Go to the menu and pick Media > Convert/Save from the drop-down menu, then Add > Convert/Save from the drop-down menu.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 3: Choose a profile for the video you wish to convert.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-3.png)
-
-Step 4: Select the Start button to start VLC video compression.
-
-### Resizing by cutting unnecessary video segment
-
-Step 1: Launch the VLC Media Player
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-4.png)
-
-Step 2: Go to Menu > View Menu > Advanced Controls in VLC Media Player and select it from the menu.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-5.png)
 
 Step 3: Play the video you want to crop and then click the Record button on the scene you want to crop and then the same button to pause the video where you want to crop it.
 
@@ -910,6 +816,10 @@ Step 2: Open the video shrinker's output window by clicking the "Export" button.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Select the Format tab and keep the video in its original format as a result. Then, in the "Settings" panel, click the triangle button below to downsize the video by choosing a lower video resolution, frame rate, or bit rate. When it comes to video formats, you can choose among FLV, MP4, and other similar formats, which normally result in smaller files.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
@@ -923,6 +833,96 @@ So you’ve got this beautiful video you want to post on your social media page 
 Step 2: Go to the menu and pick Media > Convert/Save from the drop-down menu, then Add > Convert/Save from the drop-down menu.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-2.png)
+
+Step 3: Choose a profile for the video you wish to convert.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-3.png)
+
+Step 4: Select the Start button to start VLC video compression.
+
+### Resizing by cutting unnecessary video segment
+
+Step 1: Launch the VLC Media Player
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-4.png)
+
+Step 2: Go to Menu > View Menu > Advanced Controls in VLC Media Player and select it from the menu.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-5.png)
+
+Step 3: Play the video you want to crop and then click the Record button on the scene you want to crop and then the same button to pause the video where you want to crop it.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-6.png)
+
+Step 4: In Windows 7, 8, and XP, the film will automatically save in Library > Videos, and in My Documents > My Videos in Windows 7.
+
+VLC Media Player is unquestionably one of the greatest video players available for free. Nonetheless, it isn't the finest video reduction because it just reduces the size of videos by using certain simple parameters rather than complex ones. As a result, we offer Fimora, an all-in-one video toolbox that can convert, compress, download, record, edit, burn, and more, as a better video compressor. You can change the video resolution, bit rate, encoder, format, and other settings to compress video and audio files in a variety of formats. Follow the simple steps below to get this VLC compressor replacement on your Windows/Mac for free.
+
+## An easier way to resize videos using Filmora
+
+[Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful, yet easy to use video editor for PC and Mac. With the most intuitive and streamlined editing process out there, Filmora lets you cut and resize videos with just a few clicks of your mouse.
+
+Through this part, we'll show you how to resize videos using Filmora's three-step process: import video files, select video clips, and edit them. We'll also teach you some shortcuts for making the editing process as quick as possible!
+
+A common challenge for beginner video editors is knowing where to start. With Filmora, you begin by importing your video files, selecting the clip you want to cut, and then editing it. It's a three-step process that takes less than five minutes!
+
+Once you have finished editing your video clip, Filmora will give you the option to share it on social media or export it in MP4 or AVI format.
+
+Keep reading to learn more about how to cut and resize videos using Filmora's three-step process!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+### Step by Step on How to Resize Videos using Filmora
+
+Resizing videos in Filmora is a quick and easy process. To resize videos, first make sure you have imported your video file into the editor.
+
+**Resizing by changing the dimensions**
+
+Step 1: To import a video file, either drag and drop the file on the screen or click on "Import Files" in the toolbar.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-7.png)
+
+Step 2: Once you've imported your video, select the video clips that you want to resize by clicking on them; then, resizing them is as simple as dragging their borders!
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-8.png)
+
+Step 3: You can also use the size fields at the bottom of the frame to change their dimensions.
+
+Step 4: Keep in mind that changing one dimension of a video clip will affect both its width and height proportionally. For example, if you enlarge a 16:9 widescreen clip to 720p (from 480p), it will be double its original proportions (720x480).
+
+**Resizing by shrinking video file size.**
+
+Step 1: To import a video file, either drag and drop it onto the screen or use the toolbar's "Import Files" option.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-9.png)
+
+Step 2: Open the video shrinker's output window by clicking the "Export" button.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-10.png)
+
+Step 3: Select the Format tab and keep the video in its original format as a result. Then, in the "Settings" panel, click the triangle button below to downsize the video by choosing a lower video resolution, frame rate, or bit rate. When it comes to video formats, you can choose among FLV, MP4, and other similar formats, which normally result in smaller files.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
+
+Step 4: The shrunk file should be exported.
+
+## Conclusion
+
+So you’ve got this beautiful video you want to post on your social media page or website, but the dimensions are all wrong. No worries! There’s an easy solution to your problem. Filmora is a video editing software that is easy to use and versatile and powerful at the same time. Whether you’re just starting out or are a pro, Filmora is the perfect tool for the job. You don’t need to be an expert to edit videos in Filmora; it’s easy enough for beginners. With Filmora, you can resize your videos in seconds by following these simple steps above.
+
+Step 2: Go to the menu and pick Media > Convert/Save from the drop-down menu, then Add > Convert/Save from the drop-down menu.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Choose a profile for the video you wish to convert.
 
@@ -1022,17 +1022,19 @@ So you’ve got this beautiful video you want to post on your social media page 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-breezy-methodology-for-downloading-twitters-laughs-gifs/"><u>[Updated] 2024 Approved Breezy Methodology for Downloading Twitter's Laughs (GIFs)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mp4windows-10macos/"><u>最新推薦:高效率、無縫流暢的MP4播放軟體免費下載及Windows 10/macOS專用介紹</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/deep-insight-into-seamless-photo-and-video-upload-in-win11-for-2024/"><u>Deep Insight Into Seamless Photo & Video Upload in Win11 for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-defenders-how-facebook-and-google-can-thwart-scam-advertising/"><u>Digital Defenders: How Facebook & Google Can Thwart Scam Advertising</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-14-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 14</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-s23plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel S23+ Location Settings | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-professionals-picks-the-top-5-drones-to-invest-in/"><u>In 2024, Professional's Picks The Top 5 Drones to Invest In</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 13 Without Passcode Easily</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-quicklooker-windows-11s-speedy-photo-viewer/"><u>[New] 2024 Approved QuickLooker Windows 11'S Speedy Photo Viewer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-essential-guide-to-populating-powerpoint-decks-with-youtube-videos/"><u>[New] 2024 Approved The Essential Guide to Populating PowerPoint Decks With YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-shorts-earning-strategies-what-you-need-how-much-you-can-make/"><u>[New] Youtube Shorts Earning Strategies What You Need, How Much You Can Make</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ultimate-gimbal-picks-for-dslr-quality-videos/"><u>[Updated] In 2024, Ultimate Gimbal Picks for DSLR-Quality Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-5-hdmi-21-gaming-monitors-you-can-find-for-2024/"><u>[Updated] Top 5 HDMI 2.1 Gaming Monitors You Can Find for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-consider-a-lut-to-be-a-color-preset-that-a-filmmaker-can-use-to-start-working-on-a-project-quickly-sony-engineers-have-developed-luts-to-help-/"><u>2024 Approved Consider a LUT to Be a Color Preset that a Filmmaker Can Use to Start Working on a Project Quickly. Sony Engineers Have Developed LUTs to Help Filmmakers Perform Specific Tasks. All of These Are Available for Free</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-90-gt-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor 90 GT to New Android? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-random-letter-reveal-intro/"><u>In 2024, How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-portrait-perfection-free-official-passport-image-generator-download/"><u>In 2024, Portrait Perfection Free, Official Passport Image Generator Download</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/julys-ultimate-shopping-extravaganza-at-best-buy-exclusive-list-of-29-deals-to-beat-out-amazon-prime-day-zdnet-special-report/"><u>July's Ultimate Shopping Extravaganza at Best Buy: Exclusive List of 29 Deals to Beat Out Amazon Prime Day - ZDNet Special Report</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713950874876-looking-for-the-simple-steps-to-add-transition-effects-in-your-video-we-will-illustrate-how-to-add-transition-in-filmora-and-mention-tips-and-tricks-for-vid/"><u>Looking for the Simple Steps to Add Transition Effects in Your Video? We Will Illustrate How to Add Transition in Filmora and Mention Tips and Tricks for Video Transition Effects for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-decades-old-windows-authentication-error/"><u>Reversing Decades-Old Windows Authentication Error</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-way-to-color-grading-and-color-correction-in-filmora-for-2024/"><u>Updated Best Way To Color Grading & Color Correction in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-frame-rate-for-4k-video/"><u>Updated In 2024, Best Frame Rate for 4K Video</u></a></li>
 </ul></div>
 

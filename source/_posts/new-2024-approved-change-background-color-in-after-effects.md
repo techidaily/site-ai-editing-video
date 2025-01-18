@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Change Background Color in After Effects
-date: 2025-01-08T09:04:22.917Z
-updated: 2025-01-12T14:17:44.259Z
+date: 2025-01-16T04:47:08.781Z
+updated: 2025-01-17T18:22:47.652Z
 tags: 
   - ai
   - animation videos
@@ -19,10 +19,6 @@ Adobe After Effects is a powerful video editor. After Effects is particularly po
 
 During the post-production phase, you can change the background uniformly to any color scheme or special effect as per the requirement of the scene. Since the learning curve for After Effects is slightly steeper, you should know the exact steps to change After Effects background color. We will explain the process in simple steps and provide you with an alternative way to change background color.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. How to change video BG color in After Effects?
 
 After Effects is widely used for professionals to add animations and special effects to videos during video editing phase. Starting from editing social media videos and YouTube videos to short films and even movies, After Effects finds its application in every field of video editing. Changing background color in After Effects is super simple even though other video editing techniques could be slightly complex for beginners. Here are the steps on how to change background color in After Effects.
@@ -39,13 +35,13 @@ Step3 From the menu, click on Composition Settings option. You can also use Ctrl
 
 ![open composition settings ae](https://images.wondershare.com/filmora/article-images/2022/07/open-composition-settings-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 On Composition Settings window, go to Background Color and set the color as per your preference. You can also use a color picker as well to select any color from the video directly.
 
 ![bg color preference ae](https://images.wondershare.com/filmora/article-images/2022/07/bg-color-preference-ae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Click on Ok to set the new background color. Depending on the transparency of your video scene or the transition effect such as fade in and out, the background color will be more prominent.
 
@@ -77,6 +73,10 @@ Step4 You will see the background color of the video disappear. Go to Elements> 
 
 Step5 Finally, play the video and click on Export button to save the video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. FAQs about Video Background Colors
 
 ### 1\. How do I remove background color in After Effects?
@@ -101,10 +101,6 @@ Step2 Import your video under Project Media folder and drag and drop into Timeli
 
 ![import green screen video filmora](https://images.wondershare.com/filmora/article-images/2022/07/import-green-screen-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Double-click on the video clip and go to Video tab and turn on Chroma Key option. Select the solid color present in the background of the video and click on Ok button.
 
 ![adjust chroma key filmora](https://images.wondershare.com/filmora/article-images/2022/07/adjust-chroma-key-filmora.jpg)
@@ -112,10 +108,6 @@ Step3 Double-click on the video clip and go to Video tab and turn on Chroma Key 
 Step4 You will see the background color of the video disappear. Go to Elements> Background and drag and drop any background into Timeline. Make sure it is placed below the video clip and extend the duration of the background color as per your requirements.
 
 ![new background video filmora](https://images.wondershare.com/filmora/article-images/2022/07/new-background-video-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Finally, play the video and click on Export button to save the video.
 
@@ -164,10 +156,6 @@ In this case, [Wondershare Filmora](https://tools.techidaily.com/wondershare/fil
 
 ![neon effects in filmora](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Steps to Make a Neon Dance Effect With Filmora
 
 The public is tired now of seeing old video graphics in dancing videos. It's time to add neon colors to give a fascinating look. Follow the step-by-step guide mentioned below, and let's get going!
@@ -181,6 +169,10 @@ Before we begin to edit our video, make sure you download Wondershare Filmora. F
 * Now, drag the Video and drop it in the editing timeline below.
 
 ![add video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2 Add the Same Video again
 
@@ -204,10 +196,6 @@ After adding the same video, now convert BG into a black screen. For this, follo
 * In this drop-down option, scroll below to "**Difference**".
 
 ![changing the blending mode to difference](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * As soon as you click on the Difference option, you will notice a change in the main play window; it will all turn to a **black screen**.
 
@@ -341,6 +329,10 @@ We aim to create a black background for the original video we imported above. To
 
 ![adding the same video again](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Go into the Compositing Mode
 
 After adding the same video, now convert BG into a black screen. For this, follow the given steps:
@@ -354,6 +346,10 @@ After adding the same video, now convert BG into a black screen. For this, follo
 * In this drop-down option, scroll below to "**Difference**".
 
 ![changing the blending mode to difference](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * As soon as you click on the Difference option, you will notice a change in the main play window; it will all turn to a **black screen**.
 
@@ -416,10 +412,6 @@ It would help if you created multiple outlines to achieve the Neon Dance effect.
 **Tip:** The trick here will be to offset the video by a few seconds so that each video plays a little later than the other.
 
 ![offset the videos by a few seconds](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To efficiently blend the outlines with the green screen, you can change the blending mode of each of the exported videos to "**Lighten**."
 
@@ -503,10 +495,6 @@ Step1 In the first step, launch a browser on your device, head to the [GIMP webs
 
 ![downloading the gimp software to add motion blur to photos](https://images.wondershare.com/filmora/article-images/2023/02/downloading-the-gimp-software-to-add-motion-blur-to-photos.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 In the next step, click **“File”** on the GIMP dashboard, and select **“Open”** to access the Open Image window. Select your image file from your system and click **“Open”** to import the file.
 
 ![importing photo to gimp to add motion blur effect](https://images.wondershare.com/filmora/article-images/2023/02/importing-photo-to-gimp-to-add-motion-blur-effect.png)
@@ -544,6 +532,10 @@ Step1 Download the Filmora software on your PC, launch it, and click **“Create
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
 
 ![adding motion blur effect using filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-using-filmora.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Please note that motion blur is now a dynamic effect on the image. That means you can add multiple photos and make them into a slideshow with a blur effect transition. Or, press the **“Play”**  icon to preview your photo and pause the clip where you think motion blur works best.
 
@@ -671,6 +663,10 @@ Step2 **Import** your video to the timeline
 
 ![filmora import video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 **Export** the video
 
 ![filmora export video](https://images.wondershare.com/filmora/article-images/filmora-export-video.jpg)
@@ -693,13 +689,13 @@ Step1 Upload a video from your computer or **drag** and **drop** it onto the pag
 
 ![media io upload video](https://images.wondershare.com/filmora/article-images/media-io-upload-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Customize the output size, frame rate, and length, and add text before creating your GIF.
 
 ![media io edit settings](https://images.wondershare.com/filmora/article-images/media-io-edit-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Download the resulting GIF file or **save** it for later.
 
@@ -773,12 +769,16 @@ Step2 Customize the output size, frame rate, and length, and add text before cre
 
 ![media io edit settings](https://images.wondershare.com/filmora/article-images/media-io-edit-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Download the resulting GIF file or **save** it for later.
 
 ![media io download gif](https://images.wondershare.com/filmora/article-images/media-io-download-gif.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## People Also Ask
@@ -823,20 +823,20 @@ There are various tools available, both online and desktop-based, that can conve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-social-narrative-this-years-twittale-highlights/"><u>[Updated] In 2024, The Social Narrative This Year's TwitTale Highlights</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-stream-and-record-at-the-same-time/"><u>3 Ways To Stream And Record At The Same Time</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-quick-walkthrough-to-unveil-ms-paint-windows-11/"><u>A Quick Walkthrough to Unveil MS Paint, Windows 11</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/harmonizing-content-and-sound-in-instagram-reels-for-2024/"><u>Harmonizing Content & Sound in Instagram Reels for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-3-ways-to-stream-and-record-at-the-same-time/"><u>In 2024, 3 Ways To Stream And Record At The Same Time</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-from-twitter-posting-engaging-video-content-on-snapchat/"><u>In 2024, Direct From Twitter Posting Engaging Video Content on Snapchat</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mini-marvel-comprehensive-echo-dot-3rd-gen-review-unleashing-the-full-power-of-alexa/"><u>Mini Marvel: Comprehensive Echo Dot (3Rd Gen) Review - Unleashing the Full Power of Alexa</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-or-repairing-your-lg-usb-device-drivers-in-widnows-os/"><u>Step-by-Step Guide: Installing or Repairing Your LG USB Device Drivers in Widnows OS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-sea-of-thieves-overcoming-persistent-load-issues/"><u>Troubleshooting Sea of Thieves: Overcoming Persistent Load Issues</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954220029-updated-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>Updated In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-windows-10-webcam-recording-made-easy-top-10-software/"><u>Updated In 2024, Windows 10 Webcam Recording Made Easy Top 10 Software</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-90-days-of-free-final-cut-pro-usage-waiting-for-you/"><u>Updated Unleash Your Creativity 90 Days of Free Final Cut Pro Usage Waiting for You</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maintaining-softness-fading-effects-in-fl-studio-mixes/"><u>[New] Maintaining Softness Fading Effects in FL Studio Mixes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-from-lurker-to-influencer-enhancing-your-facebook-experience/"><u>2024 Approved From Lurker to Influencer Enhancing Your Facebook Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-to-use-montage-with-these-movies/"><u>2024 Approved Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978178460-asus-bluetooth-driver-download-and-updates-the-easy-way/"><u>ASUS Bluetooth Driver Download & Updates — The Easy Way</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-can-i-control-speed-of-a-video/"><u>How Can I Control Speed of a Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-quiz-videos-detailed-guide-for-2024/"><u>How To Create Quiz Videos Detailed Guide for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-x-5-ways-to-get-into-a-locked-iphone-x-drfone-by-drfone-ios/"><u>Locked Out of iPhone X? 5 Ways to get into a Locked iPhone X | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>New In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-text-reveal-animation-easy-masking-filmora/"><u>New TEXT REVEAL Animation | Easy Masking Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/step-by-step-to-split-a-clip-in-vlc-for-2024/"><u>Step by Step to Split a Clip in VLC for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/streamlining-your-room-for-oculus-vr-for-2024/"><u>Streamlining Your Room for Oculus VR for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-face-swap-frenzy-the-best-mobile-apps-to-try/"><u>Updated In 2024, Face Swap Frenzy The Best Mobile Apps to Try</u></a></li>
 </ul></div>
 

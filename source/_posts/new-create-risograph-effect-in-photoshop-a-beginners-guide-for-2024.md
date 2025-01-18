@@ -1,7 +1,7 @@
 ---
 title: New Create Risograph Effect In Photoshop A Beginners Guide for 2024
-date: 2025-01-05T03:01:47.275Z
-updated: 2025-01-12T05:30:27.390Z
+date: 2025-01-12T22:45:24.887Z
+updated: 2025-01-18T04:05:25.730Z
 tags: 
   - ai
   - animation videos
@@ -37,10 +37,6 @@ The tutorial will be divided into three parts to help you master the risograph e
 
 Firstly, we will focus on how to use Photoshop in the following way to create the primary risograph effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How To Create the Basic Risograph Effect in Photoshop
 
 Step1 Launch [**Adobe Photoshop**](https://www.adobe.com/) on your laptop/desktop (For this tutorial, we are using Photoshop CC 2021). Click **“Create New,”** select the document size, and click **“Create.”** Now set a paper-like textured layer on the canvas. Click **“Ctrl + Shift + N,”** and in the new layer window, set the mode to **“Multiply.”** Click **“OK.”** to confirm your action.
@@ -50,10 +46,6 @@ Step1 Launch [**Adobe Photoshop**](https://www.adobe.com/) on your laptop/deskto
 Step2 Next, press **“Ctrl+Shift+E”** to combine your layers and select the **“Edit”** option from the top toolbar. Scroll down and select **“Define Pattern.”** Set the pattern name and click **“OK.”**
 
 ![select edit option](https://images.wondershare.com/filmora/article-images/2023/01/defining-pattern-to-create-risograph-effect-in-photoshop.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click **"Layer"** from the toolbar and choose **"New Fill Layer"> "Pattern."** Next, select your new pattern layer and click **"OK"** to get a grid layer.
 
@@ -70,6 +62,10 @@ Step4 To add a Gradient Map Layer, click **“Layer,”** scroll down and click 
 Use the **“Properties”** panel and select the **“gradient”** colors. Here we’ve chosen shades of **“White”** and **“Red.”** Click **“OK”** to apply.
 
 ![select the gradient color](https://images.wondershare.com/filmora/article-images/2023/01/applying-gradient-map-to-create-risograph-effect-in-photoshop.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 For the image to have less contrast, click **“Image”** in the top toolbar and click **“Adjustments.”** Select **“Levels…”** from the menu. Now, set the black output to **73.**
 
@@ -112,6 +108,10 @@ Step2 Click the **“Move”** icon from the left menu and drag the object to se
 Step3 Apply the **Level** and **Filter Galler** to the new object (Same settings as the main subject). That’s it. You’ve successfully blended images using the layer mode.
 
 ![apply the level and filter galler](https://images.wondershare.com/filmora/article-images/2023/01/blending-image-using-layer-modes-to-create-risograph-effect.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Video Tutorial - How To Make a Risograph Texture Effect in Photoshop
 
@@ -166,15 +166,15 @@ Using it, you just have to import the media of your choice and leave the process
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. An Introductory Review of CapCut Video Editor
 
 [CapCut](https://www.capcut.com/my-edit) is a smart and high-efficiency tool to ease your content creation journey. Beginners and professionals use this platform for captivating social media content. It’s a handy tool to collaborate with teammates on projects within a secure workspace. Unfortunately, it’s a full-featured software but still far from many major video editing software.
 
 ![capcut video editor](https://images.wondershare.com/filmora/article-images/2023/capcut-lenta-template-slow-motion-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of CapCut
 
@@ -201,6 +201,10 @@ Despite using the **Camera Lenta CapCut Template**, you can also [create slow mo
 
 ![add media to capcut](https://images.wondershare.com/filmora/article-images/2023/capcut-lenta-template-slow-motion-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** After dropping the video, you will see the editing panel on the right side. Move there and hit the “Speed” option next to the “Split.” Then, choose “Curve” and find speed ramping templates. You can pick one otherwise, tap “Customize” and find a graph below. Adjust the dots on the graph downward to slow down or upward to fast forward the video smoothly.
 
 ![access curve section and adjust speed](https://images.wondershare.com/filmora/article-images/2023/capcut-lenta-template-slow-motion-4.jpg)
@@ -208,10 +212,6 @@ Despite using the **Camera Lenta CapCut Template**, you can also [create slow mo
 **Step 3:** After making the desired slow motion, go to the top right corner to hit the "Export" button. Set parameters from the "Export" screen and press the "Export" again to get the video in the gallery.
 
 ![export final video capcut](https://images.wondershare.com/filmora/article-images/2023/capcut-lenta-template-slow-motion-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. The Perfect Desktop Alternative in the Form of Wondershare Filmora for Slow Motion Videos
 
@@ -271,10 +271,6 @@ CapCut proves difficult for beginners to slow down video with speed ramping. So,
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. An Introductory Review of CapCut Video Editor
 
 [CapCut](https://www.capcut.com/my-edit) is a smart and high-efficiency tool to ease your content creation journey. Beginners and professionals use this platform for captivating social media content. It’s a handy tool to collaborate with teammates on projects within a secure workspace. Unfortunately, it’s a full-featured software but still far from many major video editing software.
@@ -340,11 +336,19 @@ After importing the file, drag the file to the timeline panel and hit “Ctrl + 
 
 ![change video speed filmora](https://images.wondershare.com/filmora/article-images/2023/capcut-lenta-template-slow-motion-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3Finalize the Process and Save it
 
 Make further editing if required or get a final preview to see the applied changes. After finalizing, save the project by selecting the "Export" button in the top right corner.
 
 ![export video from filmora](https://images.wondershare.com/filmora/article-images/2023/capcut-lenta-template-slow-motion-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Filmora in Video Editing
 
@@ -406,10 +410,6 @@ Select the text layer on your timeline to check out the keyframes applied in the
 
 ![edit text effects aniamtion premiere](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-effects-aniamtion-premiere.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bring the keyframes closer or spread them apart respectively. You can also adjust Velocity Controls present under different text properties as per the speed requirements.
 
 ## Part 2\. Alternative Way to Make Text Effects
@@ -433,6 +433,10 @@ Step2 Drag and drop your video clips under Project Media folder and then onto th
 Step3 Select a template whichever you think is perfect for your project and drop it on the timeline. Adjust its position on the timeline as per where you want it to appear. Double-click on it to edit the title and type in your text. Similarly, you can reposition the text from Viewer as per your need.
 
 ![cuatomize title text filmora](https://images.wondershare.com/filmora/article-images/2022/09/cuatomize-title-text-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Select the text style as well as adjust fonts and settings to get different styles for your texts. There is also an Advanced section available for detailed editing and getting the desired text effect.
 
@@ -569,6 +573,10 @@ Step4 Once you've selected your image, you can crop and resize it to fit your **
 
 Step5 When you're happy with the way your image looks, tap the **Done** icon to save your changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Change Your Telegram Profile Pictures
 
 If you are getting tired of the current profile, it is really easy for you to change it. Here's how to do it:
@@ -641,10 +649,6 @@ Simply tap the **"Always Allow"** option and search for contacts using their use
 
 ![setting telegram profile picture privacy to always allow](https://images.wondershare.com/filmora/article-images/2022/11/setting-telegram-profile-picture-privacy-to-always-allow.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 You can also choose the **"Never Allow"** feature to add contacts, users, or groups from whom you wish to hide your profile picture.
 
 To do this, search for and select the contacts (or users) from whom you want to hide your profile picture. Tap the **Checkmark** icon to apply your changes.
@@ -672,7 +676,7 @@ Step3 Once you've selected or taken a new photo, crop it as desired or edit it. 
 ![changing profile photo for telegram](https://images.wondershare.com/filmora/article-images/2022/11/changing-profile-photo-for-telegram.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How To Delete Your Telegram Profile Pictures
@@ -689,6 +693,10 @@ Step3 Now, tap the three-dots **Menu icon** at the top right side of the screen.
 
 Step4 Tap **"Delete"** again on the pop-up message to confirm your action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Hide Your Telegram Profile Pictures
 
 Telegram's security function allows you to hide your profile picture so that only people who you approve can see it, which is a great way to keep your privacy and avoid unwanted attention.
@@ -704,10 +712,6 @@ Step2 Select **"Privacy and Security"** and tap the **"Profile Photo"** option.
 Step3 If you want to keep your profile picture private, choose the **"My Contacts"** option. This way, only people in your contact book will be able to see it.
 
 ![setting who can see telegram profile picture](https://images.wondershare.com/filmora/article-images/2022/11/setting-who-can-see-telegram-profile-picture.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 You can add exceptions to your privacy settings from the **"Exceptions"** section. To hide your Telegram profile picture from certain users/contacts or groups, tap the **"Never Share With"** button. This will help prevent someone who is harassing you from seeing your profile picture.
 
@@ -730,10 +734,6 @@ Step3 Scroll down and tap the **"Settings"** option.
 Step4 Now, tap **"Privacy and Security"** and select the **"Profile Photo"** option. If you want to share your profile picture with only your contacts, choose the **"My Contacts"** option. This will hide your photo from everyone else on Telegram.
 
 ![telegram privacy settings](https://images.wondershare.com/filmora/article-images/2022/11/telegram-privacy-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Telegram offers two great options for managing who can see your profile picture: **"Always Allow"** and **"Never Allow."**
 
@@ -773,20 +773,15 @@ Your DP is perhaps the most important feature to personalize your profile on the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-a-comprehensive-look-at-merging-youtube-content-into-instagrams-story-feature/"><u>[New] A Comprehensive Look at Merging YouTube Content Into Instagram's Story Feature</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-craft-your-virtual-persona-with-our-metaverse-guide-for-2024/"><u>[New] Craft Your Virtual Persona with Our Metaverse Guide for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-full-spectrum-analysis-understanding-xmedia-suite-workshop-details/"><u>[Updated] Full Spectrum Analysis Understanding XMedia Suite Workshop Details</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/a-guide-to-adding-audio-in-wondershare-filmora/"><u>A Guide to Adding Audio in Wondershare Filmora</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-messengers-evolution-embrace-soundmojis/"><u>Decoding Messenger's Evolution: Embrace Soundmojis</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-netflix-app-when-it-stops-working-in-windows/"><u>How to Fix the Netflix App When It Stops Working in Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-lava-yuva-3-devices-by-drfone-android/"><u>How to Reset Gmail Password on Lava Yuva 3 Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mailcom-account-lifespan-finding-out-its-end-date/"><u>Mail.com Account Lifespan - Finding Out Its End Date</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-7-tips-to-create-teaching-videos/"><u>New 2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-download-and-use-windows-movie-maker-10/"><u>New How to Download and Use Windows Movie Maker 10</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-working-out-all-important-details-of-slowing-down-video-in-after-effects/"><u>New Working Out All Important Details of Slowing Down Video in After Effects</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-install-ultimate-guide-to-downloading-the-latest-arduino-mega-2560-board-drivers/"><u>Quick Install: Ultimate Guide to Downloading the Latest Arduino Mega 2560 Board Drivers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-before-and-after-editing-trick-filmora/"><u>Updated In 2024, Before & After Editing Trick - Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated In 2024, How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-renderforest-is-a-great-online-editing-platform-to-use-for-many-video-creators-if-you-want-to-make-an-intro-video-for-your-channel-or-daily-vlogs-yo/"><u>Updated Renderforest Is a Great Online Editing Platform to Use for Many Video Creators. If You Want to Make an Intro Video for Your Channel or Daily Vlogs, You Can Follow This Article to Know More Details</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-youtube-live-top-webcam-selection-tips/"><u>[New] 2024 Approved Mastering YouTube Live Top Webcam Selection Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hort-form-content-breakdown-now-in-2024/"><u>[New] Short Form Content Breakdown Now, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-blueprint-for-sourcing-top-tier-instagram-ringtones-and-crafting-standout-alarms/"><u>[Updated] The Ultimate Blueprint for Sourcing Top-Tier Instagram Ringtones and Crafting Standout Alarms</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-critical-system-breakdown-windows-c0000022-fixes/"><u>Addressing Critical System Breakdown: Windows C0000022 Fixes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-can-i-control-speed-of-a-video/"><u>How Can I Control Speed of a Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-vacation-slideshow-in-5-minutes/"><u>In 2024, How to Create a Vacation Slideshow in 5 Minutes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-navigating-digital-discussions-with-ease-essential-advice-for-successful-zoom-meetings/"><u>In 2024, Navigating Digital Discussions with Ease Essential Advice for Successful Zoom Meetings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>New In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/step-by-step-to-split-a-clip-in-vlc-for-2024/"><u>Step by Step to Split a Clip in VLC for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y100-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y100 Reset Code | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors for 2024
-date: 2024-12-31T21:36:20.002Z
-updated: 2025-01-05T20:46:17.772Z
+date: 2025-01-16T21:06:18.977Z
+updated: 2025-01-18T04:38:55.276Z
 tags: 
   - ai
   - animation videos
@@ -359,10 +359,6 @@ Summary
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 1\.** **How to Make Slow Motion Videos on [iPhone With Filmora](https://apps.apple.com/us/app/filmora-ai-video-editor-maker/id1019382747): 2 Ways**
 
 Creating slo mo videos is a staple in video editing, which helps make videos more cinematic and engaging. Understanding how to edit iPhone slow motion video will help you to create quality videos on the go. It also gives you more freedom in how you tell your visual story or keeping the attention of your viewers throughout the video.
@@ -378,10 +374,6 @@ When you slow motion a video, you make it easier for your viewers to observe det
 Open the App Store on your phone. Search for Wondershare Filmora, download and launch the app on your phone. Follow the instructions on the screen to create a Filmora account or log in to an existing one to start using the app.
 
 ![filmora iphone](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step 2: Import Video to Filmora**
 
@@ -485,15 +477,15 @@ Tap on the video clip, and at the bottom of the screen, select the speed slider.
 
 ![uniform speed](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Method 2[**Use the Speed Ramping Feature**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 The speed ramping feature will gradually change the speed of your video. When done right, speed ramps in a video add a cinematic feel and look. Tap on the video clip. Then tap on the Speed Ramping feature at the bottom of the screen. Use the graph that appears to set the speed ramp for your video. You may choose the presets already available or customize the speed based on your own desired setting. Tap Done when you are satisfied and save the video.
 
 ![speed ramping](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2.** **How to Make Slow Motion Videos on [Android with Filmora](https://play.google.com/store/apps/details): 2 Ways**
 
@@ -598,6 +590,10 @@ Two Point Tracking is a feature that allows you to track two points in a footage
 
 **Disadvantage:** It doesn't give effective results with a shaky video clip.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Four Point Tracking
 
 The Four Point Tracking feature lets you track four different points (corners) in your footage and apply the tracking data to a layer in your composition.
@@ -667,10 +663,6 @@ Click the **"Transform"** option to use the transform options and use the layer 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** You can select your layer and press the S, P, R, or T keys to adjust the scale, position, rotation, and opacity, respectively.
 
 Your text will now be added to your video footage. The method is similar to adding solid or null to your clips. However, the exact steps might differ a little.
@@ -715,13 +707,13 @@ Click the **"Transform"** option to use the transform options and use the layer 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** You can select your layer and press the S, P, R, or T keys to adjust the scale, position, rotation, and opacity, respectively.
 
 Your text will now be added to your video footage. The method is similar to adding solid or null to your clips. However, the exact steps might differ a little.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Video - Learn 3D Camera Tracking In After Effects
 
@@ -777,6 +769,10 @@ For Example, while shooting a 3lau song, there is a need for a bus to come into 
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
@@ -802,6 +798,10 @@ For Example, while shooting a 3lau song, there is a need for a bus to come into 
 
 If you don't have enough budget to get a studio space, then you can easily shoot by selecting spaces that are in your use or available. These are the following locations you should regard!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Location 1\. Your Home
 
 You should go with the space available at your home to shoot, such as: on couches or in the bedroom, to give a good impression to your music video.
@@ -819,7 +819,7 @@ For better daylight and illustrations in the music video, you can go with the ou
 ![outdoor location for shooting](https://images.wondershare.com/filmora/article-images/2023/04/outdoor-location-for-shooting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Location 4\. Public Places
@@ -828,11 +828,11 @@ Public places are easily available and have many options, such as public parks, 
 
 ![public places for music videos](https://images.wondershare.com/filmora/article-images/2023/04/public-places-for-music-videos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** During public shooting, ensure that the space is empty, and there should be no interruption of the public in filming the shots.
 
@@ -850,6 +850,10 @@ You need to come to the setup before the filming day to check the main things li
 
 ![loaded and checked everything on the pre rig day](https://images.wondershare.com/filmora/article-images/2023/04/loaded-and-checked-everything-on-the-pre-rig-day.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. A Call Sheet
 
 A call sheet is a daily shot list given to the cast and crew to follow the timelines, and it contains the phone number of everyone, their location, and the time to arrive on set. It also includes the nearest hospital, sunset, and sun-rising timing.
@@ -862,10 +866,6 @@ It consists of one to two pages according to shoot days and has a plan of everyt
 
 **Note:** When you wrap up for day 1, you have another call sheet for day 2, day 3, and so on!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Do Planning
 
 You need to work efficiently and smartly to maintain everything according to the plan. You can cut the filming into halves to have a better lighting setup and character availability. On the shot day, you must change the lighting and rigging setup as little as possible.
@@ -877,10 +877,6 @@ On day 1 of the Tokyo song, the filming is done in two halves; the first half da
 While in day 2, there is a filming of every memory. For this, there are setups of rooms and homes for making perfect shots according to the requirements of a music video.
 
 ![day 2 of filming tokyo song](https://images.wondershare.com/filmora/article-images/2023/04/day-2-of-filming-tokyo-song.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Take No Stress
 
@@ -915,9 +911,17 @@ A cross-platform for making videos anywhere for all creators! ![filmora-02](http
 
 If you don't have enough budget to get a studio space, then you can easily shoot by selecting spaces that are in your use or available. These are the following locations you should regard!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Location 1\. Your Home
 
 You should go with the space available at your home to shoot, such as: on couches or in the bedroom, to give a good impression to your music video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Location 2\. Office Space
 
@@ -966,10 +970,6 @@ It consists of one to two pages according to shoot days and has a plan of everyt
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** When you wrap up for day 1, you have another call sheet for day 2, day 3, and so on!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Do Planning
 
@@ -1011,22 +1011,20 @@ Filming with people is not always bulky and flopping, but if you have a cooperat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-top-tricks-in-sports-video-production/"><u>[New] 2024 Approved Top Tricks in Sports Video Production</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-instagram-video-to-mp3-sound/"><u>[New] In 2024, From Instagram Video to Mp3 Sound</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-streaming-directly-from-facebook-to-your-screen/"><u>[Updated] 2024 Approved Streaming Directly From Facebook to Your Screen</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-use-vlc-for-professional-screen-recording/"><u>[Updated] In 2024, How to Use VLC for Professional Screen Recording</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-keyframes-interval-everything-you-need-to-know/"><u>2024 Approved Keyframes Interval Everything You Need To Know</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tailoring-sound-fades-within-logic-pro-settings/"><u>2024 Approved Tailoring Sound Fades Within Logic Pro Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-manage-your-laptops-energy-efficient-features/"><u>How to Manage Your Laptop's Energy Efficient Features</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-way-to-add-transitions-to-videos/"><u>In 2024, Easy Way to Add Transitions to Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-xbox-360-gamepad-driver-pack-download-and-compatibility-tips/"><u>Latest Xbox 360 Gamepad Driver Pack: Download & Compatibility Tips</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713950879141-looking-for-the-steps-to-add-transitions-effects-in-premiere-pro-here-are-the-steps-to-add-and-edit-transitions-in-premiere-pro-and-an-alternative-way-to-vi/"><u>Looking for the Steps to Add Transitions Effects in Premiere Pro? Here Are the Steps to Add and Edit Transitions in Premiere Pro and an Alternative Way to Video Transitions for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-glitch-text-effect-for-2024/"><u>New Create Glitch Text Effect for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-tattoo-disappear-like-a-magic/"><u>New In 2024, Make A Tattoo Disappear Like A Magic</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-intriguing-power-struggle-within-tropico-a-comprehensive-game-review/"><u>The Intriguing Power Struggle Within Tropico: A Comprehensive Game Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-ranking-macbook-models-for-the-year-2024/"><u>Top-Ranking MacBook Models for the Year 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-color-finale-for-2024/"><u>What Is Color Finale for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-creating-immersive-iphone-video-content/"><u>2024 Approved Creating Immersive iPhone Video Content</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-message-engagement-how-to-tell-if-an-email-has-been-read-on-gmail/"><u>Decoding Message Engagement: How to Tell If an Email Has Been Read on Gmail</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-seamless-windows-driver-management-at-a-glance/"><u>Easy Setup: Seamless Windows Driver Management at a Glance</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/initial-steps-to-professional-motion-graphics-for-2024/"><u>Initial Steps to Professional Motion Graphics for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/journey-to-metaverse-leading-vr-headsets-reviewed/"><u>Journey to Metaverse Leading VR Headsets Reviewed</u></a></li>
+<li><a href="https://win-net.techidaily.com/mastering-batch-editing-managing-several-replacements-simultaneasternly-in-emeditors-find-and-replace-feature/"><u>Mastering Batch Editing: Managing Several Replacements Simultaneasternly in EmEditor's Find and Replace Feature</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>New Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-windows-with-5-mac-inspired-ideas/"><u>Simplify Your Windows with 5 Mac-Inspired Ideas</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/troubleshooting-faulty-gpu-output-guidance-by-yl-software-specialists/"><u>Troubleshooting Faulty GPU Output: Guidance by YL Software Specialists</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-use-speed-ramping-to-create-an-intense-action-footage/"><u>Updated In 2024, How To Use Speed Ramping to Create an Intense Action Footage</u></a></li>
 </ul></div>
 
