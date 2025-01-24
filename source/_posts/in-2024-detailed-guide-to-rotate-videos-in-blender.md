@@ -1,7 +1,7 @@
 ---
 title: In 2024, Detailed Guide to Rotate Videos in Blender
-date: 2024-12-09T07:29:57.641Z
-updated: 2024-12-11T20:19:06.952Z
+date: 2025-01-22T17:08:28.639Z
+updated: 2025-01-24T12:18:39.877Z
 tags: 
   - ai
   - animation videos
@@ -20,6 +20,10 @@ Blender is a 3D animation software that can be used to create stunning 3D models
 One of the biggest benefits of Blender is that it is easy to learn. The interface is intuitive and user-friendly, and there are plenty of tutorials available online that can help you get started. Blender also has a very active community, so if you ever get stuck, there is likely someone out there who can help you. It is a complex software, but there are many online tutorials like this article that can help you get started.
 
 To download Blender, go to <https://www.blender.org/download/>. Click on the link that says "Download Blender" and then select the version that you want to download. After you have downloaded Blender, install it on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step-by-Step on how to rotate videos in Blender
 
@@ -45,10 +49,6 @@ Step 1: Open the video that you want to rotate in Blender.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
 
  Figure 5
@@ -163,6 +163,10 @@ Here are some other things that you can do with a rotated video:
 
 \- Change the position of the video in the 3D Viewport
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to rotate videos in Filmora
 
 Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
@@ -176,10 +180,6 @@ For Win 7 or later (64-bit)
 For macOS 10.14 or later
 
 There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step-by-step on how to rotate videos in Filmora
 
@@ -257,10 +257,6 @@ Here are some other things that you can do with a rotated video:
 
 \- Change the position of the video in the 3D Viewport
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to rotate videos in Filmora
 
 Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
@@ -304,10 +300,6 @@ Select the "Edit" tool from the toolbar.
 Go to the “Transform” selection, then select the rotate option.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Adjust the rotation angle using the tool.
 
@@ -354,10 +346,6 @@ Here are some other things that you can do with a rotated video:
 \- Flip the video horizontally or vertically
 
 \- Change the position of the video in the 3D Viewport
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to rotate videos in Filmora
 
@@ -444,6 +432,10 @@ Click on the “**Titles**” tab and drag a Default Title to Track 2 on your Ti
 
 ![drag title in timeline filmora](https://images.wondershare.com/filmora/article-images/2023/01/title.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3
 
 Double-click on it and change the font to anything you like. Then, enter the text in the box in front of you. While you’re here, you can also edit the text spacing and other features.
@@ -465,10 +457,6 @@ Step 5
 Drag the “FILMORA” snapshot to track 2 and the “I” snapshot to track 3\. Then, click on the “Zoom” button and set this to 50%.
 
 ![zoom option in filmora](https://images.wondershare.com/filmora/article-images/2023/01/zoom.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 6
 
@@ -503,6 +491,230 @@ Step 11
 Double-click on the title track, go to the Video tab, and select “**Lighten**” from the **Blending Mode** tab.
 
 ![blending mode lighten in filmora](https://images.wondershare.com/filmora/article-images/2023/01/lighten.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 12
+
+Shift the title clip from Track 2 to Track 3\. Then, go to the **Effects** tab and drag the **Dark Film** effect to Track 1 on the timeline.
+
+![dark film effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/dark-film.png)
+
+Step 13
+
+Search for the “Blur” effect in the Effects tab. Then, drag “**Square Blur**” to Track 2 in the timeline.
+
+![blur effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
+
+Step 14
+
+Select the “**Cinema**” effect from the Effects tab and drag it to Track 4\. Double-click on it and change the border height to **0.10**.
+
+![cinematic bar filmora](https://images.wondershare.com/filmora/article-images/2023/01/cinema.png)
+
+Step 15
+
+Now, all left is to render the clip and review the final result.
+
+![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+Summary
+
+**What you've learned:**
+
+* Create a professional-level animated text in Filmora in 15 simple steps
+* How to add a video background and cinematic effects to your animated title
+* Adjust the settings of clips in the Filmora timeline
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+Download and install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). Just click the link, hit “**Download**”, and it will start automatically. Then, open a New Project.
+
+Step 2
+
+Click on the “**Titles**” tab and drag a Default Title to Track 2 on your Timeline.
+
+![drag title in timeline filmora](https://images.wondershare.com/filmora/article-images/2023/01/title.png)
+
+Step 3
+
+Double-click on it and change the font to anything you like. Then, enter the text in the box in front of you. While you’re here, you can also edit the text spacing and other features.
+
+![edit title in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
+
+Step 4
+
+Now, take a snapshot of the text. Then, double-click on the default title again and change the text to a single letter I. Once again, take a snapshot of this text and then delete the default title from the timeline.
+
+![take snapshot in filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
+
+You should have two snapshots in **My Media** now. One of them should say “FILMORA” and one with the letter “I”.
+
+![media center in filmora](https://images.wondershare.com/filmora/article-images/2023/01/my-media.png)
+
+Step 5
+
+Drag the “FILMORA” snapshot to track 2 and the “I” snapshot to track 3\. Then, click on the “Zoom” button and set this to 50%.
+
+![zoom option in filmora](https://images.wondershare.com/filmora/article-images/2023/01/zoom.png)
+
+Step 6
+
+Double-click on the “I” snapshot from the timeline. Then, input these settings when the window pops up. After that, drag the Playhead 1 second and 15 frames further down the timeline. Then, double-click on the “I” snapshot again, and change the Y-axis value to 0.
+
+![animate text in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text-animation.png)
+
+Step 7
+
+Copy the “I” snapshot track from the timeline. Then, paste it on Track 4\. Next, double-click on this one and change the X-axis position to whichever letter you want. In this case, it’s the letter “M”. As for the Y-Axis, you can change it any way that suits you.
+
+![text animations in filmora](https://images.wondershare.com/filmora/article-images/2023/01/track-4.png)
+
+Step 8
+
+Copy this process as often and with as many letters as you want. Then, when you’re done, export the title animation to your computer.
+
+![export project in filmora](https://images.wondershare.com/filmora/article-images/2023/01/export.png)
+
+Step 9
+
+Open a new project in Filmora and import the title animation we just created.
+
+Step 10
+
+Drag the custom title animation to Track 2 and drag any video background you have on Track 1.
+
+![insert video background filmora](https://images.wondershare.com/filmora/article-images/2023/01/background.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 11
+
+Double-click on the title track, go to the Video tab, and select “**Lighten**” from the **Blending Mode** tab.
+
+![blending mode lighten in filmora](https://images.wondershare.com/filmora/article-images/2023/01/lighten.png)
+
+Step 12
+
+Shift the title clip from Track 2 to Track 3\. Then, go to the **Effects** tab and drag the **Dark Film** effect to Track 1 on the timeline.
+
+![dark film effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/dark-film.png)
+
+Step 13
+
+Search for the “Blur” effect in the Effects tab. Then, drag “**Square Blur**” to Track 2 in the timeline.
+
+![blur effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
+
+Step 14
+
+Select the “**Cinema**” effect from the Effects tab and drag it to Track 4\. Double-click on it and change the border height to **0.10**.
+
+![cinematic bar filmora](https://images.wondershare.com/filmora/article-images/2023/01/cinema.png)
+
+Step 15
+
+Now, all left is to render the clip and review the final result.
+
+![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+Summary
+
+**What you've learned:**
+
+* Create a professional-level animated text in Filmora in 15 simple steps
+* How to add a video background and cinematic effects to your animated title
+* Adjust the settings of clips in the Filmora timeline
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+Download and install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). Just click the link, hit “**Download**”, and it will start automatically. Then, open a New Project.
+
+Step 2
+
+Click on the “**Titles**” tab and drag a Default Title to Track 2 on your Timeline.
+
+![drag title in timeline filmora](https://images.wondershare.com/filmora/article-images/2023/01/title.png)
+
+Step 3
+
+Double-click on it and change the font to anything you like. Then, enter the text in the box in front of you. While you’re here, you can also edit the text spacing and other features.
+
+![edit title in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
+
+Step 4
+
+Now, take a snapshot of the text. Then, double-click on the default title again and change the text to a single letter I. Once again, take a snapshot of this text and then delete the default title from the timeline.
+
+![take snapshot in filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
+
+You should have two snapshots in **My Media** now. One of them should say “FILMORA” and one with the letter “I”.
+
+![media center in filmora](https://images.wondershare.com/filmora/article-images/2023/01/my-media.png)
+
+Step 5
+
+Drag the “FILMORA” snapshot to track 2 and the “I” snapshot to track 3\. Then, click on the “Zoom” button and set this to 50%.
+
+![zoom option in filmora](https://images.wondershare.com/filmora/article-images/2023/01/zoom.png)
+
+Step 6
+
+Double-click on the “I” snapshot from the timeline. Then, input these settings when the window pops up. After that, drag the Playhead 1 second and 15 frames further down the timeline. Then, double-click on the “I” snapshot again, and change the Y-axis value to 0.
+
+![animate text in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text-animation.png)
+
+Step 7
+
+Copy the “I” snapshot track from the timeline. Then, paste it on Track 4\. Next, double-click on this one and change the X-axis position to whichever letter you want. In this case, it’s the letter “M”. As for the Y-Axis, you can change it any way that suits you.
+
+![text animations in filmora](https://images.wondershare.com/filmora/article-images/2023/01/track-4.png)
+
+Step 8
+
+Copy this process as often and with as many letters as you want. Then, when you’re done, export the title animation to your computer.
+
+![export project in filmora](https://images.wondershare.com/filmora/article-images/2023/01/export.png)
+
+Step 9
+
+Open a new project in Filmora and import the title animation we just created.
+
+Step 10
+
+Drag the custom title animation to Track 2 and drag any video background you have on Track 1.
+
+![insert video background filmora](https://images.wondershare.com/filmora/article-images/2023/01/background.png)
+
+Step 11
+
+Double-click on the title track, go to the Video tab, and select “**Lighten**” from the **Blending Mode** tab.
+
+![blending mode lighten in filmora](https://images.wondershare.com/filmora/article-images/2023/01/lighten.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 12
 
@@ -633,230 +845,6 @@ Step 15
 Now, all left is to render the clip and review the final result.
 
 ![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
-
-Summary
-
-**What you've learned:**
-
-* Create a professional-level animated text in Filmora in 15 simple steps
-* How to add a video background and cinematic effects to your animated title
-* Adjust the settings of clips in the Filmora timeline
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-Download and install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). Just click the link, hit “**Download**”, and it will start automatically. Then, open a New Project.
-
-Step 2
-
-Click on the “**Titles**” tab and drag a Default Title to Track 2 on your Timeline.
-
-![drag title in timeline filmora](https://images.wondershare.com/filmora/article-images/2023/01/title.png)
-
-Step 3
-
-Double-click on it and change the font to anything you like. Then, enter the text in the box in front of you. While you’re here, you can also edit the text spacing and other features.
-
-![edit title in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
-
-Step 4
-
-Now, take a snapshot of the text. Then, double-click on the default title again and change the text to a single letter I. Once again, take a snapshot of this text and then delete the default title from the timeline.
-
-![take snapshot in filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
-
-You should have two snapshots in **My Media** now. One of them should say “FILMORA” and one with the letter “I”.
-
-![media center in filmora](https://images.wondershare.com/filmora/article-images/2023/01/my-media.png)
-
-Step 5
-
-Drag the “FILMORA” snapshot to track 2 and the “I” snapshot to track 3\. Then, click on the “Zoom” button and set this to 50%.
-
-![zoom option in filmora](https://images.wondershare.com/filmora/article-images/2023/01/zoom.png)
-
-Step 6
-
-Double-click on the “I” snapshot from the timeline. Then, input these settings when the window pops up. After that, drag the Playhead 1 second and 15 frames further down the timeline. Then, double-click on the “I” snapshot again, and change the Y-axis value to 0.
-
-![animate text in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text-animation.png)
-
-Step 7
-
-Copy the “I” snapshot track from the timeline. Then, paste it on Track 4\. Next, double-click on this one and change the X-axis position to whichever letter you want. In this case, it’s the letter “M”. As for the Y-Axis, you can change it any way that suits you.
-
-![text animations in filmora](https://images.wondershare.com/filmora/article-images/2023/01/track-4.png)
-
-Step 8
-
-Copy this process as often and with as many letters as you want. Then, when you’re done, export the title animation to your computer.
-
-![export project in filmora](https://images.wondershare.com/filmora/article-images/2023/01/export.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 9
-
-Open a new project in Filmora and import the title animation we just created.
-
-Step 10
-
-Drag the custom title animation to Track 2 and drag any video background you have on Track 1.
-
-![insert video background filmora](https://images.wondershare.com/filmora/article-images/2023/01/background.png)
-
-Step 11
-
-Double-click on the title track, go to the Video tab, and select “**Lighten**” from the **Blending Mode** tab.
-
-![blending mode lighten in filmora](https://images.wondershare.com/filmora/article-images/2023/01/lighten.png)
-
-Step 12
-
-Shift the title clip from Track 2 to Track 3\. Then, go to the **Effects** tab and drag the **Dark Film** effect to Track 1 on the timeline.
-
-![dark film effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/dark-film.png)
-
-Step 13
-
-Search for the “Blur” effect in the Effects tab. Then, drag “**Square Blur**” to Track 2 in the timeline.
-
-![blur effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
-
-Step 14
-
-Select the “**Cinema**” effect from the Effects tab and drag it to Track 4\. Double-click on it and change the border height to **0.10**.
-
-![cinematic bar filmora](https://images.wondershare.com/filmora/article-images/2023/01/cinema.png)
-
-Step 15
-
-Now, all left is to render the clip and review the final result.
-
-![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
-
-Summary
-
-**What you've learned:**
-
-* Create a professional-level animated text in Filmora in 15 simple steps
-* How to add a video background and cinematic effects to your animated title
-* Adjust the settings of clips in the Filmora timeline
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-Download and install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). Just click the link, hit “**Download**”, and it will start automatically. Then, open a New Project.
-
-Step 2
-
-Click on the “**Titles**” tab and drag a Default Title to Track 2 on your Timeline.
-
-![drag title in timeline filmora](https://images.wondershare.com/filmora/article-images/2023/01/title.png)
-
-Step 3
-
-Double-click on it and change the font to anything you like. Then, enter the text in the box in front of you. While you’re here, you can also edit the text spacing and other features.
-
-![edit title in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
-
-Step 4
-
-Now, take a snapshot of the text. Then, double-click on the default title again and change the text to a single letter I. Once again, take a snapshot of this text and then delete the default title from the timeline.
-
-![take snapshot in filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
-
-You should have two snapshots in **My Media** now. One of them should say “FILMORA” and one with the letter “I”.
-
-![media center in filmora](https://images.wondershare.com/filmora/article-images/2023/01/my-media.png)
-
-Step 5
-
-Drag the “FILMORA” snapshot to track 2 and the “I” snapshot to track 3\. Then, click on the “Zoom” button and set this to 50%.
-
-![zoom option in filmora](https://images.wondershare.com/filmora/article-images/2023/01/zoom.png)
-
-Step 6
-
-Double-click on the “I” snapshot from the timeline. Then, input these settings when the window pops up. After that, drag the Playhead 1 second and 15 frames further down the timeline. Then, double-click on the “I” snapshot again, and change the Y-axis value to 0.
-
-![animate text in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text-animation.png)
-
-Step 7
-
-Copy the “I” snapshot track from the timeline. Then, paste it on Track 4\. Next, double-click on this one and change the X-axis position to whichever letter you want. In this case, it’s the letter “M”. As for the Y-Axis, you can change it any way that suits you.
-
-![text animations in filmora](https://images.wondershare.com/filmora/article-images/2023/01/track-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 8
-
-Copy this process as often and with as many letters as you want. Then, when you’re done, export the title animation to your computer.
-
-![export project in filmora](https://images.wondershare.com/filmora/article-images/2023/01/export.png)
-
-Step 9
-
-Open a new project in Filmora and import the title animation we just created.
-
-Step 10
-
-Drag the custom title animation to Track 2 and drag any video background you have on Track 1.
-
-![insert video background filmora](https://images.wondershare.com/filmora/article-images/2023/01/background.png)
-
-Step 11
-
-Double-click on the title track, go to the Video tab, and select “**Lighten**” from the **Blending Mode** tab.
-
-![blending mode lighten in filmora](https://images.wondershare.com/filmora/article-images/2023/01/lighten.png)
-
-Step 12
-
-Shift the title clip from Track 2 to Track 3\. Then, go to the **Effects** tab and drag the **Dark Film** effect to Track 1 on the timeline.
-
-![dark film effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/dark-film.png)
-
-Step 13
-
-Search for the “Blur” effect in the Effects tab. Then, drag “**Square Blur**” to Track 2 in the timeline.
-
-![blur effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
-
-Step 14
-
-Select the “**Cinema**” effect from the Effects tab and drag it to Track 4\. Double-click on it and change the border height to **0.10**.
-
-![cinematic bar filmora](https://images.wondershare.com/filmora/article-images/2023/01/cinema.png)
-
-Step 15
-
-Now, all left is to render the clip and review the final result.
-
-![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Summary
 
@@ -898,10 +886,6 @@ Step 4 Once done with making the changes on added subtitles, you can click on th
 
 ![export your kapwing project](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Automatically Generate your Subtitle on Kapwing
 
 Do you want to generate subtitles for your video instantly? Kapwing subtitle maker offers an Auto-Subtitle Generator that converts your voice into subtitles. This feature supports many languages so that anyone across the world can utilize this tool. Moreover, it also offers a translating feature that can help you in converting your subtitles into another language.
@@ -915,6 +899,10 @@ Step 1 Begin by accessing the website of the Kapwing tool. Click on "Subtitles" 
 Step 2 Once done with importing the video, click on "Subtitles" from the left section. From the new window, click on "Auto-generate." The tool will automatically create subtitles for your video by detecting the language.
 
 ![auto-generate the subtitles](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3 Once you created the subtitles through this feature, go to the "Translate" tab to translate subtitles into your preferred language. You can also edit the subtitles to change their background, opacity, text font, and size. Once done, click on the "Export Project" button.
 
@@ -932,9 +920,17 @@ Step 2 Import your video file by tapping on the "Upload" button. Afterward, go t
 
 ![manually add the subtitles](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3 After adding the complete subtitles, you can choose their font, style, color, and opacity from the right panel. Once done, hit the "Export Project" button.
 
 ![export the edited video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Add Subtitles to Videos with the Best Alternative of Kapwing
 
@@ -990,6 +986,10 @@ After the conversion, you can double-click the added subtitles to make modificat
 
 ![confirm the subtitle edits](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 By adding subtitles to your video, you can enhance your targeted audience and can also engage with them. It also helps in making your video content diverse for people across the globe. There are various online subtitle generators like Kapwing that can help you in adding subtitles, as described in this article. However, there are some drawbacks to using the Kapwing subtitle maker that can disrupt your work. If you want to use a proficient subtitle maker, you can use Wondershare Filmora to get the best results.
@@ -1010,24 +1010,24 @@ By adding subtitles to your video, you can enhance your targeted audience and ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-mixer-streams-on-macos-a-step-by-step-guide/"><u>[New] Mastering Mixer Streams on macOS A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-enhancing-detail-in-minecraft-worlds/"><u>[Updated] 2024 Approved Enhancing Detail in Minecraft Worlds</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-guide-for-setting-tiktok-countdown-timer/"><u>2024 Approved Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-pioneering-posts-a-facebook-guide-to-going-viral/"><u>[New] Pioneering Posts A Facebook Guide to Going Viral</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-master-obs-on-macos-download-setup-and-get-to-work/"><u>[Updated] In 2024, Master OBS on macOS Download, Setup & Get to Work</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-a/"><u>2024 Approved Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeat-lags-and-connectivity-bugs-a-players-guide-to-optimizing-new-world-performance/"><u>Defeat Lags and Connectivity Bugs: A Player’s Guide to Optimizing New World Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-tracking-phone-numbers-online-at-no-charge-and-within-legal-boundaries/"><u>Guide: Tracking Phone Numbers Online at No Charge and Within Legal Boundaries</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-xsplit-collection-comprehensive-gaming-review/"><u>2024 Approved XSplit Collection Comprehensive Gaming Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/best-tools-for-instant-time-lapse-videos/"><u>Best Tools for Instant Time-Lapse Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898942370-dive-deeper-10-intriguing-facts-about-everyday-emojis-you-wont-believe/"><u>Dive Deeper: 10 Intriguing Facts About Everyday Emojis You Won't Believe</u></a></li>
+<li><a href="https://solve-help.techidaily.com/edit-file-and-folder-settings-in-windows-with-ease-expert-advice-by-yl-software-solutions/"><u>Edit File and Folder Settings in Windows with Ease: Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-vintage-film-effect-1920s/"><u>How to Create Vintage Film Effect 1920S</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-ideas-on-using-filmora-green-screen/"><u>In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-14-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi 14 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-smart-7-hd-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Infinix Smart 7 HD</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-guide-to-top-8-laptop-skins-and-backdrops/"><u>In 2024, The Ultimate Guide to Top 8 Laptop Skins & Backdrops</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-customized-transitions-to-obs/"><u>New 2024 Approved How to Add Customized Transitions to OBS</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-fade-audio-in-premier-pro/"><u>New Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-integration-a-user-friendly-approach-to-getting-your-arduino-up-and-running-on-windows/"><u>Seamless Integration: A User-Friendly Approach to Getting Your Arduino Up & Running on Windows</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-nokia-g42-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Nokia G42 5G</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/turning-on-and-off-your-pcs-shield-master-the-system-protection-feature-in-windows-11/"><u>Turning On and Off Your PC's Shield: Master the System Protection Feature in Windows 11</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-edge-browsers-exe-app-errors-in-windows-with-simple-steps/"><u>Resolve Edge Browser's Exe App Errors in Windows with Simple Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-11-proplus-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme 11 Pro+</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-of-personal-assistants-arrives-with-rumored-apple-innovation-price-speculations-inside/"><u>The Future of Personal Assistants Arrives with Rumored Apple Innovation – Price Speculations Inside</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>Updated 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-/"><u>Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
 </ul></div>
 

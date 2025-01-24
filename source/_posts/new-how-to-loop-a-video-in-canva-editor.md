@@ -1,7 +1,7 @@
 ---
 title: New How to Loop a Video in Canva Editor
-date: 2024-12-07T02:02:04.508Z
-updated: 2024-12-12T10:16:07.402Z
+date: 2025-01-20T02:43:24.202Z
+updated: 2025-01-24T08:56:56.090Z
 tags: 
   - ai
   - animation videos
@@ -85,10 +85,6 @@ Lastly, If you want to make your loop more seamless then go to the Transitions t
 
 ![loop video in filmora editor](https://images.wondershare.com/filmora/article-images/loop-the-video-in-filmora-editor.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: FAQs About Video Loop
 
 **1\. Can you loop animation in Canva?**
@@ -135,6 +131,10 @@ Download the Filmora software from any browser. After installation opens the sof
 Move the play head to the end of your clip and press right-click to copy the video then use CTRL + V to paste the clip and continue pasting as many copies as you want to create.
 
 ![make copy of video filmora](https://images.wondershare.com/filmora/article-images/make-copy-of-video-in-filmora.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Add Transition to the video to make it more seamless**
 
@@ -207,10 +207,6 @@ Step2Click on Choose File button to upload your video from your hard drive. You 
 
 ![video filter clideo](https://images.wondershare.com/filmora/article-images/2022/08/video-filter-clideo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3After successful uploading, you will see the video filters on the right side of your video. Apply them one and one while playing your video so that you can see the changes in video color scheme instantly.
 
 ![apply filter to video clideo](https://images.wondershare.com/filmora/article-images/2022/08/apply-filter-to-video-clideo.jpg)
@@ -238,6 +234,10 @@ Step3After the video file gets uploaded, you will see Filters on the left side o
 Step4Click on the filters to see how they look on your video instantly. Once you have selected a filter for the video, click on Export button to save the edited video in desired file format.
 
 ![apply filter to video veedio](https://images.wondershare.com/filmora/article-images/2022/08/apply-filter-to-video-veedio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. [Clipchamp Video Filter Editor](https://clipchamp.com/en/video-filters-editor/)
 
@@ -286,6 +286,10 @@ Step4Click on the video filters one to one to apply them to the video and see wh
 Step5Once you have applied a filter and you can satisfy with it, click on Export button to save the edited video.
 
 ![export filter video flexclip](https://images.wondershare.com/filmora/article-images/2022/08/export-filter-video-flexclip.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 5\. [Kapwing Filter Video Editor](https://www.kapwing.com/tools/filter-video)
 
@@ -353,7 +357,7 @@ Once you have imported the video file, the software will present you with two ch
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-1.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 How your screen will look once you have imported a video file.
@@ -366,10 +370,6 @@ How your screen will look once you have imported a video file.
 * Batch Import
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-2.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** Choose a Preset in Handbrake.
 
@@ -386,6 +386,10 @@ How your screen will look once you have imported a video file.
 **Step 5:** Click on Browse in the bottom right corner to enter the Save File dialogue. At this point, you can set a file name and select a new save location.
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-6.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-7.jpeg)
 
@@ -458,6 +462,10 @@ Choose Custom under the Settings Option to customise Video Details with more pre
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-16.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 With this you will now have a video file that has been resized to a size or converted to a format that will hopefully function well with your desired platform.
 
 **Note:** You can also reset the resolution of an entire project before hand in Wondershare Filmora by choosing the right configuration from the **Project Settings** option, found under the **File Tab**.
@@ -491,10 +499,6 @@ How your screen will look once you have imported a video file.
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-5.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** Click on Browse in the bottom right corner to enter the Save File dialogue. At this point, you can set a file name and select a new save location.
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-6.jpeg)
@@ -513,6 +517,10 @@ How your screen will look once you have imported a video file.
 **Step 2:** Click on the Dimensions Tab to open up a dialog box that will let you edit video resolution.
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-9.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-10.jpeg)
 
@@ -549,7 +557,7 @@ Just keep in mind, when using WonderShare Filmora the resize option appears at t
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-12.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Drag the video file onto the timeline and then choose Export from the top bar.
@@ -580,10 +588,6 @@ With this you will now have a video file that has been resized to a size or conv
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-17.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Bottom Line
 
 Having read this piece, you may have noticed that software capable of resizing videos can prove quite useful. Wondershare Filmora is this, plus a lot more, its convenient and intuitive user interface is also something we believe will feel welcoming to users. Speaking of Handbrake, while effective and great for batch encoding — if you want to resize more than one video we recommend having Handbrake handy — its bare-bones interface can be intimidating. Regardless, both programs are convenient to utilize and perfectly capable of doing the task at hand with relative ease.
@@ -611,19 +615,11 @@ How your screen will look once you have imported a video file.
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-5.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** Click on Browse in the bottom right corner to enter the Save File dialogue. At this point, you can set a file name and select a new save location.
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-6.jpeg)
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-7.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **How to Resize Video via Option 2**
 
@@ -633,6 +629,10 @@ How your screen will look once you have imported a video file.
 * Batch Import
 
 ![resize-video-in-handbrake](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-in-handbrake-8.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Click on the Dimensions Tab to open up a dialog box that will let you edit video resolution.
 
@@ -840,10 +840,6 @@ It's possible that you only want to show the minutes and seconds. Make a mask ar
 
 ![create new text countdown video](https://images.wondershare.com/filmora/article-images/2022/11/create-new-text-countdown-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Using the timecode plugin
 
 To make a countdown timer, you can use the Timecode plugin rather than the "timeToCurrentFormat()" statement. The timer layout will be immediately created when the plugin is added to a New Solid; use the same steps as before to convert it to a countdown timer.
@@ -886,6 +882,10 @@ The Import section of the Preferences dialog box is capable of handling source t
 
 ![box preference countdown video](https://images.wondershare.com/filmora/article-images/2022/11/box-preference-countdown-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it! You are now familiar with the process of creating a straightforward countdown and a countdown timer in After Effects, and you have three options to choose from. Make use of this information to give your videos an interesting spin and to round out the experience for the audience.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -910,18 +910,24 @@ That's it! You are now familiar with the process of creating a straightforward c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-6-mac-methods-for-recording-live-tv-shows-like-netflix/"><u>[New] 2024 Approved The Ultimate 6 Mac Methods for Recording Live TV Shows Like Netflix</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-tecno-spark-20c-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Tecno Spark 20C to iPhone | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/challenges-and-limitations-address-potential-issues-with-vessel-tracking-systems-like-signal-spoofing-or-jamming-data-privacy-concerns-system-compatibility-244/"><u>Challenges and Limitations: Address Potential Issues with Vessel Tracking Systems Like Signal Spoofing or Jamming, Data Privacy Concerns, System Compatibility, and Coverage Gaps in Remote Areas</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-installation-problems-with-the-hcmon-driver-error/"><u>Fixing Installation Problems with the Hcmon Driver Error</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy A05s FRP</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-audio-transformer-devices-for-youtube-experts-for-2024/"><u>Ideal Audio Transformer Devices for YouTube Experts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/into-the-metaverse-top-8-vr-wearables-listed/"><u>Into the Metaverse Top 8 VR Wearables Listed</u></a></li>
-<li><a href="https://win11.techidaily.com/merge-gmail-with-outlook-on-windows-a-detailed-guide/"><u>Merge Gmail with Outlook on Windows: A Detailed Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-start-a-vlog/"><u>Updated How to Start a Vlog</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-convert-your-videos-to-60-fps-using-these-excellent-tools/"><u>Updated In 2024, Convert Your Videos to 60 FPS Using These Excellent Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-simplify-image-editing-picart-background-shedding/"><u>[New] 2024 Approved Simplify Image Editing PicArt Background Shedding</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-augmented-realms-blending-tech-and-entertainment-for-2024/"><u>[New] Augmented Realms Blending Tech & Entertainment for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-framework-for-an-epic-youtube-series/"><u>[New] The Framework for an Epic YouTube Series</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevating-selfies-and-pics-on-snapchat-edit-like-a-pro-for-2024/"><u>[Updated] Elevating Selfies and Pics on Snapchat – Edit Like a Pro for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-assembling-an-elite-home-studio-pc-for-cutting-edge-edits/"><u>[Updated] In 2024, Assembling an Elite Home Studio PC for Cutting-Edge Edits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-skype-speak-saver-mp3-conversion-masterclass-for-2024/"><u>[Updated] Skype Speak Saver MP3 Conversion Masterclass for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unparalleled-dramatic-audio-experiences/"><u>[Updated] Unparalleled Dramatic Audio Experiences</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-100plus-best-tiktok-captions-enhance-your-content/"><u>2024 Approved 100+ Best TikTok Captions Enhance Your Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/football-film-study-premier-insights-infographic-for-2024/"><u>Football Film Study Premier Insights Infographic for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gigglegenius-customize-memes-faster-than-you-think/"><u>GiggleGenius Customize Memes Faster Than You Think</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-fps-range-for-gradual-action-footage-for-2024/"><u>Prime FPS Range for Gradual Action Footage for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-is-windows-movie-maker-still-available/"><u>Updated Is Windows Movie Maker Still Available?</u></a></li>
 </ul></div>
 

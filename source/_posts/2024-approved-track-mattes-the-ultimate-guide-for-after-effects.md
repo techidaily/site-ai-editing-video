@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Track Mattes The Ultimate Guide For After Effects
-date: 2025-01-14T05:19:39.198Z
-updated: 2025-01-18T04:30:45.506Z
+date: 2025-01-23T07:26:35.034Z
+updated: 2025-01-24T05:56:20.661Z
 tags: 
   - ai
   - animation videos
@@ -59,13 +59,13 @@ If you are still unable to find the Track Matte option, press the **F1 key** or 
 
 ![finding the track matte option in after effects](https://images.wondershare.com/filmora/article-images/2022/07/finding-the-track-matte-option-in-after-effects.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. **Track Matte mode, Preserve Underlying Transparency,** and **Blending Modes** will be available now.
 
 Under Track Matte's drop-down menu, you can find four further options, two with Alpha and two with Luma. We'll discuss these options in detail in the next section.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. All Four Track Matte Options In After Effects
 
@@ -156,7 +156,7 @@ If you are still unable to find the Track Matte option, press the **F1 key** or 
 Under Track Matte's drop-down menu, you can find four further options, two with Alpha and two with Luma. We'll discuss these options in detail in the next section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4\. All Four Track Matte Options In After Effects
@@ -168,10 +168,6 @@ After Effects provides four types of Track Matte options: Alpha Matte, Alpha Inv
 **Luma:** This Track Matte type uses the top layer's brightness to mask the bottom layer.
 
 ![the four track matte options in after effects](https://images.wondershare.com/filmora/article-images/2022/07/the-four-track-matte-options-in-after-effects.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Let's find out the functions of each option one by one:
 
@@ -303,17 +299,9 @@ The video filter function is available in the free tier.
 
 **Disadvantages:** Slightly steeper learning curve for beginners.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Flexclip
 
 ![filter online5](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors5.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Flexclip positions itself as a holistic online video editor designed with both beginners and advanced users in mind.
 
@@ -419,10 +407,6 @@ Yes, the filter function can be tested without any charges.
 
 ![filter online3](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Flixier emerges as a dynamic online video editing platform, aiming to bridge the gap between advanced editing tools and user accessibility.
 
 Catering to novice editors and seasoned professionals, it offers tools that effortlessly combine efficiency with creativity.
@@ -443,6 +427,10 @@ The video filter function is available in the free tier.
 
 ![filter online5](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors5.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Flexclip positions itself as a holistic online video editor designed with both beginners and advanced users in mind.
 
 Whether you're crafting a short promotional clip, a personal vlog, or an extensive documentary, Flexclip provides the tools and templates to make the process seamless.
@@ -458,10 +446,6 @@ Absolutely, users can enjoy filter functions for free.
 **Advantages**: Rich video templates and intuitive design.
 
 **Disadvantages:** Limited advanced editing options in the free version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Kapwing
 
@@ -533,6 +517,10 @@ Additionally, you may access the Zoom dialog box and choose a different zoom lev
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/select-view-zoom-in-powerpoint.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Click the Zoom Button
 
 Zoom in by going to the View tab attributes. Select Zoom in from the View menu after clicking. There will be a Zoom window where you may choose or input the zoom level. More options for adjusting the zoom level are available under the Zoom group on the View tab of the ribbon.
@@ -545,10 +533,6 @@ Additionally, if you choose Fit, Presentation will resize the window to a proper
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/zoom-to-fit-powerpoint.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use the Zoom Slider at The Bottom of the Screen
 
 In PowerPoint, the Status Bar's lower-right application window has the Zoom slider. This tool lets you adjust the slide's magnification level. This just modifies your sense of how near or far away the slide looks onscreen; the slide itself is unaffected in any way.
@@ -558,6 +542,10 @@ In PowerPoint, the Status Bar's lower-right application window has the Zoom slid
 The horizontal scroll bar will then display underneath the slide if you zoom in on the slide until it can no longer fit horizontally on the screen. The slide may then be thoroughly examined at the selected magnification level by using it to scroll left and right.
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/adjust-zoom-status-bar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2Click the Zoom Out (-) button on the status bar
 
@@ -671,6 +659,10 @@ Did they have dinner on Mars? Photographers are becoming more daring with their 
 
 ![green screen key](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The following is all you need to know about the green screen key effect and how to apply it using different video editing software. In addition, you will discover why the effect is popular with video editors. Keep reading to find out more.
 
 ## Part1: What is keying in green screen?
@@ -682,10 +674,6 @@ It involves identifying a color or brightness value that you will make transpare
 ### Chroma Keys
 
 These allow you to select a specific color in your image and make everything that features the color transparent. Typically, chrome keys are best for images and videos featuring lots of green or blue backgrounds.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Luma Keys
 
@@ -707,10 +695,6 @@ Adobe After Effects green screen keying tool is arguably one of the top favorite
 
 Follow these steps to do green screen keying using Adobe After Effects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Upload your footage to Adobe After Effects
 
 ![upload footage to adobe](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-2.jpg)
@@ -722,6 +706,10 @@ Launch the program from your macOS or Windows device, and click on the **New Com
 ![using the green screen key presets](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-3.jpg)
 
 Once the footage is imported, click on the **Window** menu option on your workspace, and click on **Effects & Presets** from the sub-menu. Once the panel opens, tap **Animation Presets** and highlight the **Keylight + Key Cleaner + Advanced Spill Suppressor** preset from the **Image-Utilities** menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Drag and drop the preset to your footage
 
@@ -745,6 +733,10 @@ Once you apply the green screen key effect, you can add any custom background to
 
 Remember, you must have an active Adobe After Effects license to access the green screen keying feature. In addition, you get access to Adobe Creative Cloud, which offers access to creative asset libraries such as Behance and Adobe Fonts. Alternatively, you can check out the free 7-day trial available to all new users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part3: How to do Green Screen Keying in Filmora? \[Free& Easy\]
 
 Filmora is another popular video editing software that features a green screen editor as part of its effects. The tool, officially known as Chroma Key, allows you to swap your image backgrounds using different colors or images from your internal library.
@@ -754,6 +746,10 @@ In addition, the tool is available as a free trial for Windows and macOS devices
 ### 1\. Upload your footage to [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![upload your footage to filmora](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch the program on your device and click on the **New Project** option. A window will open where you can **Import** your green screen footage and the desired background. Once done, you will **Drag and Drop** the clips to your project's first and second tracks in the timeline.
 
@@ -778,6 +774,10 @@ You use this tool to soften your subject's edges during green screen keying.
 * **Edge Thickness.**
 
 The edge thickness tool helps you increase the sharpness of your subject's edges. As such, they appear more detailed resulting in a clear and well-balanced photo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Merge the new background
 
@@ -823,18 +823,22 @@ Yes. It is possible to create a green screen video without a green background. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-copyright-conduct-for-instagram-artists/"><u>[Updated] Copyright Conduct for Instagram Artists</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-7-tips-to-create-teaching-videos/"><u>2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-seamless-art-of-game-recording-on-sonys-playstation-4/"><u>2024 Approved The Seamless Art of Game Recording on Sony's PlayStation 4</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/90r-090p-092r-105r-plus-105p/"><u>90R - 0.90P = 0.92R - 1.05R + 1.05P</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/efficient-methods-for-acquiring-and-implementing-newest-epson-printer-drivers-on-a-windows-10-system/"><u>Efficient Methods for Acquiring and Implementing Newest Epson Printer Drivers on a Windows 10 System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-update-hp-laserjet-1320-printer-drivers-cu8145n-m97a-on-windows-os-step-by-step/"><u>Find and Update HP Laserjet 1320 Printer Drivers (Cu8145N M97A) on Windows OS - Step by Step!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-clipcutter-plus/"><u>In 2024, ClipCutter Plus</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-f14-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy F14 5G? Try These Fixes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-risograph-effect-in-photoshop-a-beginners-guide-for-2024/"><u>New Create Risograph Effect In Photoshop A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/splitting-audio-from-video-in-sony-vegas-step-by-step-for-2024/"><u>Splitting Audio From Video in Sony Vegas Step by Step for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-for-your-hp-laserjet-p2035-printers-driver-woes-in-the-windows-environment-solved/"><u>Step-by-Step Fix for Your HP LaserJet (P2035) Printer's Driver Woes in the Windows Environment [Solved]</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-your-own-lol-montage-video/"><u>Updated How to Create Your Own LOL Montage Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-hdri-everything-you-need-to-know-about-hdri-for-2024/"><u>What Is HDRI? Everything You Need to Know About HDRI for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/issecting-the-income-from-a-million-on-youtube-for-2024/"><u>[New] Dissecting the Income From a Million on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-dodge-digital-duplicates-to-increase-youtube-exposure/"><u>[Updated] Dodge Digital Duplicates to Increase YouTube Exposure</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-guide-to-eliminate-insta-suggest-feature/"><u>[Updated] Guide to Eliminate Insta Suggest Feature</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-a/"><u>2024 Approved Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-art-of-sharing-more-in-every-youtube-video/"><u>2024 Approved Mastering the Art of Sharing More in Every YouTube Video</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/5-dreamy-winter-scenes-as-youtube-backdrops-for-2024/"><u>5 Dreamy Winter Scenes as YouTube Backdrops for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-guide-repairing-function-key-issues-on-a-dell-laptop/"><u>DIY Guide: Repairing Function Key Issues on a Dell Laptop</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/your-way-the-insider-guide-to-youtube-video-management-hub/"><u>Find Your Way The Insider Guide to YouTube Video Management Hub</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-vintage-film-effect-1920s/"><u>How to Create Vintage Film Effect 1920S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-comprehensively-reviews-easeus-experts-unite/"><u>In 2024, Comprehensively Reviews EaseUS, Experts Unite</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-asus-rog-phone-8-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>Updated 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-/"><u>Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
 </ul></div>
 

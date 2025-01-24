@@ -1,7 +1,7 @@
 ---
 title: Updated How To Quickly Create A Screen Print Effect In Photoshop Detailed Gui
-date: 2024-12-05T11:32:37.758Z
-updated: 2024-12-12T05:20:55.465Z
+date: 2025-01-17T03:28:36.769Z
+updated: 2025-01-23T20:51:36.288Z
 tags: 
   - ai
   - animation videos
@@ -22,6 +22,10 @@ Nowadays, digital means such as Photoshop or Illustrator are used to create the 
 Suppose you’ve ever wanted to create the screen print effect in Photoshop to give that artistic look to your pictures and embed them in your clothes or other accessories but don’t know where to start or are not familiar with the process. In that case, this guide can surely help you figure this out quickly!
 
 So without any delay, let’s get on with it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Use Photoshop To Create The Print Effect
 
@@ -44,6 +48,10 @@ Step1 Launch the[Photoshop](https://www.adobe.com/products/photoshop.html) progr
 
 ![click create new](https://images.wondershare.com/filmora/article-images/2023/01/creating-new-document-in-photoshop-to-use-screen-print-effect.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, click the **“File”** option in the top toolbar, and from the drop-down menu, select **“Open.”** Next, choose the image you want to apply the screen print effect by browsing to its location on your computer.
 
 ![click the file option](https://images.wondershare.com/filmora/article-images/2023/01/adding-object-image-in-photoshop-to-create-screen-print-effect.png)
@@ -53,7 +61,7 @@ Step2 Next, click the **“Lasso”** tool from the left-side menu to create the
 ![click the lasso tool](https://images.wondershare.com/filmora/article-images/2023/01/selecting-object-via-lasso-tool-to-create-screen-print-effect-in-Photoshop.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Press the **CMD/Ctrl + C** on your computer's keyboard to copy the selection. Next, click the "**Layer**" option in the top toolbar, select "**New**," and click "**Layer via Copy**."
@@ -74,11 +82,19 @@ Step5 Select the object using the **"Move Tool"** and drag it to the background 
 
 ![select the object using the move tool](https://images.wondershare.com/filmora/article-images/2023/01/adjusting-the-size-of-object-to-create-screen-print-effect-in-Photoshop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, drag the handles to adjust the size of the object on the Background image.
 
 Step6 Click the **“T”** icon from the left-hand side menu and set the font style, color, and size. You can also click the **“3D”** option to convert your text to a three-dimensional form.
 
 ![click t icon](https://images.wondershare.com/filmora/article-images/2023/01/adding-text-to-the-canvas-in-photoshop.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Try removing the left-out white patches on the object using the **“Magic Eraser Tool”** to give a polished look to the print screen effect. Once you are satisfied, click the **“File”** option from the top toolbar panel and select **“Save As.”**
 
@@ -116,10 +132,6 @@ Controlling the speed of the video enables viewers to engage with the content mu
 
 ![learning how to speed up video on splice](https://images.wondershare.com/filmora/article-images/2023/01/learn-how-to-speed-up-video-on-splice.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This article will emphasize how to speed up videos on Splice, covering the procedures and alternatives that will assist you in producing splice speed up videos.
 
 ## Part I. Beginner's Guide to Splice
@@ -154,11 +166,11 @@ This function is quite helpful for showcasing your writing abilities to friends 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-**Note:** **_For a thorough review of the Splice video editing app, visit_** [**_this full review passage._**](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Note:** **_For a thorough review of the Splice video editing app, visit_** [**_this full review passage._**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part II. How to Change Video Speed Using Splice App
 
@@ -183,10 +195,6 @@ However, you can use alternative editing programs instead of utilizing them on y
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Ultimate Guide to Customize Video Speed in Filmora
 
@@ -255,10 +263,6 @@ Step1 Tap the video you want to modify the pace of in the timeline, and it turns
 
 ![modify the video in the timeline](https://images.wondershare.com/filmora/article-images/2023/01/modify-video-in-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 From the editing toolbar, choose Speed. Utilize the slider beneath the timeline to change the speed.
 
 ![choose speed in the editing toolbar](https://images.wondershare.com/filmora/article-images/2023/01/choose-speed-in-editing-toolbar.png)
@@ -307,6 +311,10 @@ Here's how you can use the customization mode on the Speed Ramping panel.
 4. Drag the white dot in the adjustment panel to change the video speed. Drag it upwards to accelerate the video speed or downwards to decelerate it.
 
 ![place the playhead to speed up](https://images.wondershare.com/filmora/article-images/2023/01/place-playhead-to-speed-up.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Splice Video Editor FAQs
 
@@ -363,7 +371,7 @@ The straightforward interface has just one function. Enter the start and end tim
 ![click crop](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. [YouTube Trimmer](https://www.youtubetrimmer.com/)
@@ -373,10 +381,6 @@ The video's beginning and ending times are selected in the same way as on the pr
 ![add youtube videos](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-2.jpg)
 
 Once you are done trimming your videos, you can download or export your videos in different formats, depending on your preference. It can be in mp4, mp3, or any other supported format.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Online YouTube trimmer (edit and download)
 
@@ -394,17 +398,9 @@ Step2You will notice a button to upload your media file once you are taken to th
 
 ![the editing page](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3You can trim your video section by dragging the mark after you've uploaded the media file.
 
 ![uploaded the media file](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4Now, delete the unwanted video segment and click on **'Export'** to save the trimmed video.
 
@@ -421,10 +417,6 @@ Step2From the main page, click 'Click to upload' to upload the media file.
 Step3After uploading the media file, Click on **'Trim'** from the editing section on the right side of the screen.
 
 ![uploading the media file](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4A pop-up screen will appear on your screen labeled as Trim Video. Trim the parts of the video as per your requirement and Click **'Trim'** to finish.
 
@@ -448,7 +440,15 @@ Step2By moving the playhead over the unwanted section and choosing the trash can
 
 ![choosing the trash can icon](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3When you're through trimming, click **"Export"**, then select a location to store the edited video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -478,24 +478,22 @@ Depending on the comparison of how different software work, it is justifiable to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-best-quick-windows-gallery-app/"><u>[New] In 2024, Best Quick Windows Gallery App</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mastering-tiktok-videos-editing-hacks-revealed-for-2024/"><u>[Updated] Mastering TikTok Videos Editing Hacks Revealed for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-glitch-effect-with-filmora/"><u>2024 Approved How to Make Glitch Effect with Filmora</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/mmakers-companion-the-journey-from-capturing-to-post-production-of-360-videos/"><u>A Filmmaker's Companion The Journey From Capturing to Post-Production of 360 Videos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/google-pixel-3-review/"><u>Google Pixel 3 Review</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-htc-u23-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast HTC U23 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-clear-audio-functionality-on-your-iphone-noisedistortion-solutions/"><u>How to Restore Clear Audio Functionality on Your iPhone (Noise/Distortion Solutions)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-to-mimic-professional-filming-gears-for-2024/"><u>How to to Mimic Professional Filming Gears for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-know-how-to-create-a-lol-montage-video-had-you-ever-tried-that-video-type-before-connect-with-this-article-to-study-the-tips-and-tricks-assoc/"><u>In 2024, Do You Know How to Create a Lol Montage Video? Had You Ever Tried that Video Type Before? Connect with This Article to Study the Tips and Tricks Associated with the Making of Montage Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-by-ste/"><u>In 2024, Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-adding-audio-in-wondershare-filmora/"><u>New 2024 Approved Guide Adding Audio in Wondershare Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-filter-to-video-online/"><u>New 2024 Approved How to Add Filter to Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-working-through-the-details-of-imovie-slow-motion-video-making-100-effective/"><u>New 2024 Approved Working Through the Details of iMovie Slow Motion Video Making 100 Effective</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-a-movie-with-windows-movie-maker/"><u>New Create a Movie with Windows Movie Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-the-popular-video-text-effects-to-your-video-in-2024/"><u>New How to Add the Popular Video Text Effects to Your Video, In 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/passos-simples-para-recuperacao-de-dados-excluidos-do-cartao-sd/"><u>Passos Simples Para Recuperação De Dados Excluídos Do Cartão SD</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/precision-techniques-for-capturing-the-essence-of-moments-with-gopro/"><u>Precision Techniques for Capturing the Essence of Moments with GoPro</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/resolving-the-data-recovery-cycle-on-your-iphone-a-step-by-step-guide/"><u>Resolving the 'Data Recovery' Cycle on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-16-from-honor-magic-6-lite-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 16 from Honor Magic 6 Lite to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-crossing-the-line-free-verifying-video-rights-on-tiktok-for-2024/"><u>[New] Crossing the Line-Free Verifying Video Rights on TikTok for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-complete-guide-to-crafting-perfect-instagram-stories/"><u>[New] In 2024, The Complete Guide to Crafting Perfect Instagram Stories</u></a></li>
+<li><a href="https://article-tips.techidaily.com/central-points-for-virtual-world-engagement-for-2024/"><u>Central Points for Virtual World Engagement for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/easy-steps-to-screen-save-your-work-in-windows-8-for-2024/"><u>Easy Steps to Screen Save Your Work in Windows 8 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/excellence-in-image-making-via-premium-grid-makers/"><u>Excellence in Image Making via Premium Grid Makers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-successfully-set-up-your-new-ipad-a-step-by-step-guide/"><u>How to Successfully Set Up Your New iPad: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-techniques-for-stunning-timelapses-in-gopro-studio/"><u>In 2024, Proven Techniques for Stunning Timelapses in GoPro Studio</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210349153-9782226307408-lexil-occidental/"><u>L'Exil occidental | Free Book</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-wont-play-solve-your-game-launch-issues-with-this-comprehensive-guide-steam-and-xbox/"><u>Starfield Won't Play? Solve Your Game Launch Issues with This Comprehensive Guide (Steam & Xbox)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
 </ul></div>
 

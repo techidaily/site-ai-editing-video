@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Create Intro with Legend Intro Maker
-date: 2024-12-06T07:13:43.277Z
-updated: 2024-12-11T22:06:10.169Z
+date: 2025-01-19T01:53:39.271Z
+updated: 2025-01-24T03:29:36.852Z
 tags: 
   - ai
   - animation videos
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 What makes the viewers get hooked to a video? Experts say the intro is the decider. That is why video creators focus on creating stunning intro videos. The intro of your video creates the first impression for the viewers. How do you make an intro video stand out? You need a great intro maker and your creativity skill.
 
 Legend Intro Maker is a popular choice among Android smartphone users. You will come across loads of intro maker apps. But Legend Intro Maker clearly stands out. That is why it is highly rated on Play Stores. You can create a high-quality intro and outro video in simple steps. We will illustrate how to create intro videos with mobile legends intro maker.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Basic Info of Legend Intro Maker
 
@@ -71,6 +67,10 @@ Step4 Tap on the Intro option located at the bottom. Select a suitable intro vid
 
 ![choose suitable intro from legend](https://images.wondershare.com/filmora/article-images/2022/11/choose-suitable-intro-from-legend.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Go to the Text option at the bottom and edit the texts and titles. You can go to the Font option to change the text font.
 
 ![change text font legend intro](https://images.wondershare.com/filmora/article-images/2022/11/change-text-font-legend-intro.jpg)
@@ -97,10 +97,6 @@ Step2 Click on the Titles option from the top bar. Go to the Openers option from
 
 ![click on the titles option](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Double-click on the intro video layer. Edit the default text and type in your titles. From the left panel, select any text style as per your preference.
 
 ![edit the default text](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
@@ -126,6 +122,10 @@ Step3 Double-click on the intro video layer. Edit the default text and type in y
 ![edit the default text](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 Step4 You can go to the Animation tab and select any animation from the left panel. Double-click on the selected animation to apply. Thereafter, you can move around the texts on the Program window to place them properly. Finally, click on Ok button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -184,103 +184,9 @@ Step 3: Go to the ‘Transform’ option in the properties window and adjust bas
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
 
-Step 4: Click on ‘Enter’ to apply it to the video.
-
-In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
-
-Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
-
-Rotating a video in Blender can be used for other purposes than just rotating it.
-
-Here are some other things that you can do with a rotated video:
-
-\- Scale the video up or down
-
-\- Flip the video horizontally or vertically
-
-\- Change the position of the video in the 3D Viewport
-
-## How to rotate videos in Filmora
-
-Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
-
-### Step-by-step on how to rotate videos in Filmora
-
-To rotate a video clip using keyframes...
-
-Step 1: Import the video clip you want to rotate to your project.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
-
-Step 2: In the timeline, place the playhead at the beginning of the clip.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
-
-Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-To rotate a video clip using the Transform Tool...
-
-Select the "Edit" tool from the toolbar.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
-
-Go to the “Transform” selection, then select the rotate option.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
-
-Adjust the rotation angle using the tool.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
-
-Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
-
-Step 2: Then, click on the "Strip" menu and select "Transform."
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
-
-Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
-
-Step 4: Click on Enter to save the rotation of the video.
-
-The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
-
-Step 1: Open the video that you want to rotate in Blender.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
-
-Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
-
- Figure 5
-
-Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
 
 Step 4: Click on ‘Enter’ to apply it to the video.
 
@@ -356,6 +262,10 @@ Step 3: In the Transform Properties window, you will see a list of different too
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Click on Enter to save the rotation of the video.
 
 The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
@@ -411,7 +321,7 @@ Step 1: Import the video clip you want to rotate to your project.
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: In the timeline, place the playhead at the beginning of the clip.
@@ -431,6 +341,104 @@ To rotate a video clip using the Transform Tool...
 Select the "Edit" tool from the toolbar.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
+
+Go to the “Transform” selection, then select the rotate option.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
+
+Adjust the rotation angle using the tool.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
+
+Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
+
+Step 2: Then, click on the "Strip" menu and select "Transform."
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
+
+Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
+
+Step 4: Click on Enter to save the rotation of the video.
+
+The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
+
+Step 1: Open the video that you want to rotate in Blender.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
+
+Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
+
+ Figure 5
+
+Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 4: Click on ‘Enter’ to apply it to the video.
+
+In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
+
+Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
+
+Rotating a video in Blender can be used for other purposes than just rotating it.
+
+Here are some other things that you can do with a rotated video:
+
+\- Scale the video up or down
+
+\- Flip the video horizontally or vertically
+
+\- Change the position of the video in the 3D Viewport
+
+## How to rotate videos in Filmora
+
+Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
+
+### Step-by-step on how to rotate videos in Filmora
+
+To rotate a video clip using keyframes...
+
+Step 1: Import the video clip you want to rotate to your project.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
+
+Step 2: In the timeline, place the playhead at the beginning of the clip.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
+
+Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
+
+Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
+
+To rotate a video clip using the Transform Tool...
+
+Select the "Edit" tool from the toolbar.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Go to the “Transform” selection, then select the rotate option.
 
@@ -610,64 +618,6 @@ Just little guidance and assistance can help you use the Wondershare Filmora as 
 
 **Step 4:** The tracks are separate now, so you can move, delete or edit them individually. Definitely, it doesn’t affect the other track.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## An easier way to split the audio from the video
-
-Most graphic designers and video editors consider the Sony Vegas Pro as the professional level software for editing purposes. Due to the user interface of advanced level, high pricing and availability only for the Mac users make people look for options as the editing tool and accessible on both devices using Windows and Mac.
-
-[Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is the best consideration among all of the editors. You can also use the Wondershare Filmora in dark mode as well. This feature helps the user edit in his comfort zone without causing any harm to the eyes. In the following steps, you can easily separate the audio from the videos in Wondershare Filmora.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-### Features
-
-* Simple interface and all the tools are easily available
-* Just need a few clicks along the drag and drop to perform the functionalities
-* Unlimited sharing of the videos on YouTube, Vimeo and many others
-* Splitting of the clips and screen
-* Easy to split up the audio from the video
-
-**Step 1:** After running the Wondershare Filmora, select the ratio of your choice 4:3 or 16:9 for entering in the mode of editing. Click on the “Import” so you can add the photos, video and audio from the folder of your system. After importing the videos, drag and drop in the timeline. As a default, all the files get merged with one another with no gap.
-
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
-
-**Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
-
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
-
-**Step 3:** Now, the audio track gets separated from the video successfully. Wondershare Filmora also offers to add one more audio file. Yes, it is also possible with this software.
-
-**Step 4:** After separating the audio from the video, it is simple to delete the track, whether it is audio or video that is not in use or want to use. Click on the “Export” option for saving your required audio tracks, or you can even select the “iPod” for playing the audio. You can also save the audio file separately as the new file on your hard drive. After exporting the audio tracks, load the project file again that has the frames for the video and later export the video file.
-
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Whenever you think about the compatibility of editing software with different operating systems, Wondershare Filmora comes to mind as the first choice. All the new features of Wondershare Filmora in its latest version have received positive feedback and reviews. Definitely, it is the actual replacement of the previously used editors such as video editor in Windows or iMovie in Mac.
-
-Wondershare Filmora not only adds the animation but as well offers customization. Adding the keyframes is very easy for the user to change the positions, scale or rotate the clips. The feature of colour matching is also available so you can match the clips from one frame to another. Even the shortcut keys are available for all the commands that bring effective and efficient editing tasks.
-
-Just little guidance and assistance can help you use the Wondershare Filmora as the options are suitable in front of your screen. No more waiting and thinking; start using this most straightforward editor and enjoy all the features of Wondershare Filmora.
-
-**Step 2:** Drag and drop your video clip in the editing area. Here, you can easily see the video and audio tracks are all together. Whatever effect you apply, both will show the results.
-
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
-
-**Step 3:** You have to separate the audio from the video files in this step. After selecting the track, whether audio or video, simply press the “U” letter on your keyboard. In this step, keep holding the cursor. It permits you to keep moving the video clips quickly. Now, it is easy to download audio files from this area.
-
-**Step 4:** The tracks are separate now, so you can move, delete or edit them individually. Definitely, it doesn’t affect the other track.
-
 ## An easier way to split the audio from the video
 
 Most graphic designers and video editors consider the Sony Vegas Pro as the professional level software for editing purposes. Due to the user interface of advanced level, high pricing and availability only for the Mac users make people look for options as the editing tool and accessible on both devices using Windows and Mac.
@@ -744,13 +694,67 @@ For macOS 10.14 or later
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
 
+**Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
+
+![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
+
+**Step 3:** Now, the audio track gets separated from the video successfully. Wondershare Filmora also offers to add one more audio file. Yes, it is also possible with this software.
+
+**Step 4:** After separating the audio from the video, it is simple to delete the track, whether it is audio or video that is not in use or want to use. Click on the “Export” option for saving your required audio tracks, or you can even select the “iPod” for playing the audio. You can also save the audio file separately as the new file on your hard drive. After exporting the audio tracks, load the project file again that has the frames for the video and later export the video file.
+
+![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
+
+Whenever you think about the compatibility of editing software with different operating systems, Wondershare Filmora comes to mind as the first choice. All the new features of Wondershare Filmora in its latest version have received positive feedback and reviews. Definitely, it is the actual replacement of the previously used editors such as video editor in Windows or iMovie in Mac.
+
+Wondershare Filmora not only adds the animation but as well offers customization. Adding the keyframes is very easy for the user to change the positions, scale or rotate the clips. The feature of colour matching is also available so you can match the clips from one frame to another. Even the shortcut keys are available for all the commands that bring effective and efficient editing tasks.
+
+Just little guidance and assistance can help you use the Wondershare Filmora as the options are suitable in front of your screen. No more waiting and thinking; start using this most straightforward editor and enjoy all the features of Wondershare Filmora.
+
+**Step 2:** Drag and drop your video clip in the editing area. Here, you can easily see the video and audio tracks are all together. Whatever effect you apply, both will show the results.
+
+![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 3:** You have to separate the audio from the video files in this step. After selecting the track, whether audio or video, simply press the “U” letter on your keyboard. In this step, keep holding the cursor. It permits you to keep moving the video clips quickly. Now, it is easy to download audio files from this area.
+
+**Step 4:** The tracks are separate now, so you can move, delete or edit them individually. Definitely, it doesn’t affect the other track.
+
+## An easier way to split the audio from the video
+
+Most graphic designers and video editors consider the Sony Vegas Pro as the professional level software for editing purposes. Due to the user interface of advanced level, high pricing and availability only for the Mac users make people look for options as the editing tool and accessible on both devices using Windows and Mac.
+
+[Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is the best consideration among all of the editors. You can also use the Wondershare Filmora in dark mode as well. This feature helps the user edit in his comfort zone without causing any harm to the eyes. In the following steps, you can easily separate the audio from the videos in Wondershare Filmora.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+### Features
+
+* Simple interface and all the tools are easily available
+* Just need a few clicks along the drag and drop to perform the functionalities
+* Unlimited sharing of the videos on YouTube, Vimeo and many others
+* Splitting of the clips and screen
+* Easy to split up the audio from the video
+
+**Step 1:** After running the Wondershare Filmora, select the ratio of your choice 4:3 or 16:9 for entering in the mode of editing. Click on the “Import” so you can add the photos, video and audio from the folder of your system. After importing the videos, drag and drop in the timeline. As a default, all the files get merged with one another with no gap.
+
+![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
 
 **Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now, the audio track gets separated from the video successfully. Wondershare Filmora also offers to add one more audio file. Yes, it is also possible with this software.
 
@@ -838,6 +842,10 @@ Step1 Open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![open filmora and click on new project](https://images.wondershare.com/filmora/guide/open-project-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Drag and drop the video clips on Timeline. If it is one video clip, you can cut it into multiple clips to add transitions in between them.
 
 ![drag and drop video clips](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
@@ -892,17 +900,9 @@ Step4 Place the transitions in between video clips and drag the transition as pe
 
 Import all the video clips to Timeline in Premiere. Go to Effects> Video Transitions and drag and drop the video transitions of your choice to Timeline. You should place the transitions in between the video clips and adjust their duration as per your requirements for smoother transition for jump cuts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Where are the transitions in Premiere Pro?
 
 The transitions are present under Effects tab located at the topmost bar. There are different types of video transitions as well as audio transitions available. If you are looking for how to add text transitions in Premiere Pro, you can type the text and add effects from Graphics tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to add transitions to photos in Premiere Pro?
 
@@ -928,20 +928,24 @@ We have illustrated how to add a transition in Premiere in simple steps. Besides
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-how-to-fix-shaky-gopro-videos/"><u>[New] How to Fix Shaky GoPro Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-infinite-loop-twitters-live-video-saga-in-23-for-2024/"><u>[New] Infinite Loop Twitter's Live Video Saga in '23 for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-adjust-the-tiktok-videos-length-to-make-them-captivating/"><u>2024 Approved Adjust the TikTok Videos Length to Make Them Captivating</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-f14-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-free-luts-to-use-in-shotcut/"><u>Best Free LUTs To Use in Shotcut</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone-for-2024/"><u>How to Loop a Video with iMovie on Mac and iPhone for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-guide-to-overlay-videos-in-premiere-pro/"><u>In 2024, Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-end-screen-creation-made-simple-free-templates-and-guides/"><u>In 2024, End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-combat-shake-in-visual-media/"><u>In 2024, How to Combat Shake in Visual Media</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-live-stream-xbox-to-facebook-live-for-2024/"><u>[Updated] How to Live Stream Xbox to Facebook Live for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-warriors-way-selecting-superior-hand-to-hand-titles/"><u>[Updated] Warrior's Way Selecting Superior Hand-to-Hand Titles</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-is-a-recommendation-about-bandicut-if-you-are-confused-please-check-it-out/"><u>2024 Approved This Is a Recommendation About Bandicut. If You Are Confused, Please Check It Out</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comparing-top-techniques-how-to-cast-your-computer-screen-on-a-smart-tv/"><u>Comparing Top Techniques: How to Cast Your Computer Screen on a Smart TV</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-do-masking-in-after-effects-alternative-provided-for-2024/"><u>How to Do Masking in After Effects Alternative Provided for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-guide-for-setting-tiktok-countdown-timer/"><u>In 2024, Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-captivate-audiences-unveiling-secrets-for-striking-youtube-banners/"><u>In 2024, Captivate Audiences Unveiling Secrets for Striking YouTube Banners</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-navigating-video-uploads-on-social-platforms/"><u>In 2024, Navigating Video Uploads on Social Platforms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/innovative-approaches-to-infusing-sound-into-avi-files-post-update/"><u>Innovative Approaches to Infusing Sound Into AVI Files Post-Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-pc-reboot-ready-look-for-these-signs/"><u>Is Your PC Reboot Ready? Look for These Signs</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-complete-guide-to-make-a-super-easy-rotating-video-effect/"><u>New 2024 Approved Complete Guide to Make a Super Easy Rotating Video Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>New 2024 Approved How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-add-vhs-effects-to-videos-for-free-a-2024-guide/"><u>New Add VHS Effects to Videos for Free A 2024 Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimizing-performance-comprehensive-guide-to-smoothing-out-gameplay-glitches-and-stuttering-in-pcs-apex-legends/"><u>Optimizing Performance: Comprehensive Guide to Smoothing Out Gameplay Glitches and Stuttering in PC's Apex Legends</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-guide-simple-methods-for-adding-annotations-to-videos/"><u>Quick Guide: Simple Methods for Adding Annotations to Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/uncover-6-budget-friendly-ai-companions-to-sora/"><u>Uncover 6 Budget-Friendly AI Companions to Sora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-free-ways-to-download-mobile-phone-green-screen-videos-and-pictures-no-copyright/"><u>New Free Ways to Download Mobile Phone Green Screen Videos and Pictures No Copyright</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/recognizing-the-signs-when-is-it-time-to-replace-your-pcs-power-supply-expert-insights-from-yl-computing/"><u>Recognizing the Signs: When Is It Time to Replace Your PC's Power Supply? - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ten-proven-methods-for-correcting-phantom-inputs-on-iphones/"><u>Ten Proven Methods for Correcting Phantom Inputs on iPhones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>Updated 2024 Approved Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
 </ul></div>
 

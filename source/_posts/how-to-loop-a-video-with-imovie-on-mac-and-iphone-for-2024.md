@@ -1,7 +1,7 @@
 ---
 title: How to Loop a Video with iMovie on Mac and iPhone for 2024
-date: 2024-12-08T11:33:55.127Z
-updated: 2024-12-12T07:57:45.218Z
+date: 2025-01-18T03:31:14.622Z
+updated: 2025-01-24T11:29:35.708Z
 tags: 
   - ai
   - animation videos
@@ -67,13 +67,13 @@ Step4 Drag and drop the video on your timeline. When you want to loop the video,
 
 ![drag video clip timeline imovie](https://images.wondershare.com/filmora/article-images/2022/11/drag-video-clip-timeline-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 Once you are done, go to File> Share> File option. Choose the destination to save the edited video.
 
 ![share video files imovie mac](https://images.wondershare.com/filmora/article-images/2022/11/share-video-files-imovie-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. iMovie Alternative to Loop Videos on Mac
 
@@ -96,6 +96,10 @@ Step2 Drag and drop the video file from Finder on Mac to the Project Media folde
 Step3 Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips. Besides, make sure that they are on the same channel for looping. You can drag and drop the video into the timeline multiple times.
 
 ![drag and drop video clip into timeline again](https://images.wondershare.com/filmora/guide/cut-video-mac-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 You can zoom out the timeline for better viewing. Play the video to check its output on Viewer. Finally, click on the Export button and save the video in the desired file format on your Mac.
 
@@ -253,10 +257,6 @@ When you're through with the editing aspect of Filmora, you have a wide range of
 
 You can now choose your preferred platform quickly by doing as follows to post your masterpiece immediately to YouTube or Vimeo or any other popular site.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Bottom Line
 
 Importing images, audio, and video for your movie is straightforward using iMovie. Additionally, you may add a variety of effects, sound effects, transitions, and title styles to your movie. Bring up iMovie. One of the greatest editing tools available is this entertaining and effective software. Additionally, users may quickly add subtitles to iPhone videos using iMovie. In this article, we have described text effects and shown how to apply them to iMovie on both a Mac and an iPhone.
@@ -292,6 +292,10 @@ The finest feature of Filmora right now is the ease with which you can do sophis
 While enabling you to add a large number of clips to its editor, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) also enables you to best improve your dull and uninteresting content. Within this software's timeline, you may apply a variety of visually appealing transitions to your video recordings. Select the Transition menu, which offers a number of effects available for you to pick from, from the menu bar on the left side of this program to access the transition effects library.
 
 ![add transitional effects](https://images.wondershare.com/filmora/guide/edit-and-customize-text-effects-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5Export and Publish
 
@@ -351,6 +355,10 @@ Using its radial blur feature, you can quickly add depth to your images and appl
 
 ![pine tools for radial blur](https://images.wondershare.com/filmora/article-images/2023/02/pine-tools-for-radial-blur.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Key Features:**
 
 * Numerous image editing tools
@@ -375,10 +383,6 @@ With Mass-images.pro tool, you can crop your images, do batch processing, or cre
 To create the **radial motion blur** effect on your images using the Mass-images.pro tool, you have to simply upload your file, set the radius and strength, and click **“Download.”** You can also configure the format and quality of your picture before downloading it.
 
 ![mass-image.pro for radial blur online](https://images.wondershare.com/filmora/article-images/2023/02/mass-image_pro-for-radial-blur-online.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Key features:**
 
@@ -420,10 +424,6 @@ You can also use the Font Meme to create a **radial blur image** by uploading th
 
 * No advanced image editing features
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4.[IMGonline.com.ua](https://www.imgonline.com.ua/eng/blur-radial.php)
 
 IMGonline is another free online tool that offers image resizing, converting, compression, EXIF editor, effects, and other tools.
@@ -433,7 +433,7 @@ IMGonline can also help you create beautiful **radial blur images** in the nick 
 ![imageonline.com.ua for radial blur photo](https://images.wondershare.com/filmora/article-images/2023/02/imageonline_com_ua-for-radial-blur-photo.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Key Features:**
@@ -518,11 +518,19 @@ Step1 In the first step, go to the Filmora website, download the file, and insta
 
 ![creating new project in filmora](https://images.wondershare.com/filmora/article-images/2023/02/creating-new-project-in-filmora.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 In the second step, go to the **“Effects”** tab, choose the **Tilt-shift Circle** for the radial blur effect, and add it to the timeline.
 
 ![adding radial blur effect in filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-radial-blur-effect-in-filmora.png)
 
 Step3 Finally, configure the size, X-axis, Y-axis, and intensity of the effect by double-clicking it in the timeline. You're all set! Export your file by clicking on the “Export” button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -545,10 +553,6 @@ Here are some common uses of the **Radial motion blur** effect:
 ## Best 6 Free Online Radial Blur Image Tools
 
 If you want to create a radial blur effect on your photos but don’t have the required resources like storage space, budget, or the right software, we recommend you try using the following tools:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.[Pine Tools](https://pinetools.com/tilt-shift-effect)
 
@@ -600,6 +604,10 @@ To create the **radial motion blur** effect on your images using the Mass-images
 
 * No advanced image editing features
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Font Meme
 
 Font Meme is an online resource for fonts and typography. Still, it offers other image editing features, such as 3D Rotation, Bevel Effect, Glow Effect, Invert Colors, Blend Images, and Add Background, to help you create memes instantly.  
@@ -673,6 +681,10 @@ To use Pop Art Studio, simply upload an image to the website or paste the URL an
 
 * Applies watermark to your images
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6.[Photokako](https://www.photo-kako.com/en/radial-blur/)
 
 Photokako is a Japanese photo editor that creates **radial motion blur** effects in your images with just a few clicks by uploading them from your system or pulling the image from a URL.
@@ -717,10 +729,6 @@ Step2 In the second step, go to the **“Effects”** tab, choose the **Tilt-shi
 
 ![adding radial blur effect in filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-radial-blur-effect-in-filmora.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Finally, configure the size, X-axis, Y-axis, and intensity of the effect by double-clicking it in the timeline. You're all set! Export your file by clicking on the “Export” button.
 
 ## Last Words
@@ -743,10 +751,6 @@ Are you thinking of stepping out of the familiar world of still photography to m
 As you all know I am a fan of travel videos and time-lapse video because why not? There is no denying that time-lapse techniques are a perfect medium for travel videos.
 
 In this article will give you some ideas to get started in time-lapse video or photography and let's define what a time-lapse video and what makes them great.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Time Lapse
 
@@ -777,10 +781,6 @@ For the best results, shoot in RAW format which takes image in the highest resol
 **3.Tripod**
 
 A tripod is essential to time-lapse video or photography, because the camera needs to stay perfectly still in order to emphasize the steady movement of your subject and to avoid overlay blurry videos or photos.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Capture Times-lapse Video
 
@@ -853,10 +853,6 @@ Step3 Click import action cam video to import your file
 
 ![import moving car video into filmora](https://images.wondershare.com/filmora/article-images/2022/11/import-moving-car-video-into-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 click on the speed icon add marker button. Then drag the marker all the way over the target video.
 
 ![drag marker car video](https://images.wondershare.com/filmora/article-images/2022/11/drag-marker-car-video.jpg)
@@ -880,6 +876,10 @@ Step2 Open Filmora, then click action camera tool
 Step3 Click import action cam video to import your file
 
 ![import moving car video into filmora](https://images.wondershare.com/filmora/article-images/2022/11/import-moving-car-video-into-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 click on the speed icon add marker button. Then drag the marker all the way over the target video.
 
@@ -913,18 +913,19 @@ Hope this article can give you an idea on how to make a good time-lapse video. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-best-youtube-conversion-tools-for-webm-format/"><u>[New] 2024 Approved 10 Best YouTube Conversion Tools for WebM Format</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-expert-audio-techniques-in-audacity-for-professionals/"><u>[New] 2024 Approved Expert Audio Techniques in Audacity for Professionals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-10-most-shared-tiktoks-in-social-media-circles/"><u>[Updated] 10 Most Shared TikToks in Social Media Circles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-accelerated-learning-for-background-deletion-using-affinitys-toolkit/"><u>[Updated] Accelerated Learning for Background Deletion Using Affinity's Toolkit</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-cooking-crusaders-youtube-stars-serving-up-deliciousness-for-2024/"><u>[Updated] Cooking Crusaders YouTube Stars Serving Up Deliciousness for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/monetary-spectrum-a-glimpse-into-mr-beasts-world-for-2024/"><u>Monetary Spectrum A Glimpse Into Mr. Beast’s World for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/izing-mastery-in-your-mind-the-no-ad-youtube-money-manual/"><u>Monetizing Mastery in Your Mind The No-Ad YouTube Money Manual</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/razer-book-13-review/"><u>Razer Book 13 Review</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ce-spheres-pinnacle-channels-top-15-yt-lists/"><u>Science Sphere's Pinnacle Channels Top 15 YT Lists</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nnovative-nomadism-how-to-stand-out-as-a-modern-travel-videographer/"><u>[New] Innovative Nomadism How To Stand Out as A Modern Travel Videographer</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-decoding-pexels-tips-and-tricks-for-leveraging-stock-photos/"><u>2024 Approved Decoding Pexels Tips and Tricks for Leveraging Stock Photos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-stream-and-record-at-the-same-time/"><u>3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-gionee-f3-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Gionee F3 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-create-a-zoom-motion-blur-effect-using-photoshop-if-you-are-unaware-of-how-to-do-this-read-this-article-to-learn-simple-yet-authentic-instruc/"><u>Do You Want to Create a Zoom Motion Blur Effect Using Photoshop? If You Are Unaware of How to Do This, Read This Article to Learn Simple yet Authentic Instructions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-page-to-screen-crafting-jujutsu-kaisen-stories-on-tiktok/"><u>From Page to Screen Crafting Jujutsu Kaisen Stories on TikTok</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-registering-access-to-the-latest-chatgpt-add-ons/"><u>Guide: Registering Access to the Latest ChatGPT Add-Ons</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-3-ways-to-stream-and-record-at-the-same-time/"><u>In 2024, 3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-best-luts-for-vlog/"><u>In 2024, Overview of Best LUTs for Vlog</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/swift-solutions-for-recording-video-talks-for-2024/"><u>Swift Solutions for Recording Video Talks for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954220029-updated-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>Updated In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
 </ul></div>
 

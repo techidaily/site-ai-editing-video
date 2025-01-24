@@ -1,7 +1,7 @@
 ---
 title: New How to Create Your Own LOL Montage Video for 2024
-date: 2025-01-12T05:48:18.781Z
-updated: 2025-01-17T20:37:18.446Z
+date: 2025-01-19T10:37:35.686Z
+updated: 2025-01-23T18:14:19.646Z
 tags: 
   - ai
   - animation videos
@@ -49,6 +49,10 @@ How to Create LOL Montage
 
 Initially, prepare lol video clips as separate pieces. You can also pick the older images or videos if you have any in your gallery that is recorded when you had played the game. Capture fresh copies if possible but ensure it lasts for a short duration. Avoid recording longer content because it reduces the excitement in the audience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How to pick the right video editing software
 
 Next, after collecting the number of League of legends play recordings, pick the ones that are important in creating the montage video. Then, select the best video editor to perform the desired edits on the collected content. Here is a few recommended video editing tool to enhance the overall edits on the recorded content.
@@ -64,10 +68,6 @@ You can work on many factors in the videos to enhance their overall performance.
 It is an exclusive video editor compatible with multi-platforms like Linux, Mac, and Windows, and you can use this app to trim and slice the videos into desired pieces. There are options to animate and keyframe the content hassle-free. This app enables you to work with multiple tracks without any watermark issues. Insert slow-motion effects and playback speed variations to add flavors to the edited content. It supports more than 70 languages and displays a simple interface.
 
 ![Openshot Video Editor](https://images.wondershare.com/filmora/article-images/2022/05/lol-montage-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Openshot Video Editor
 
@@ -160,6 +160,10 @@ Keep reading this article to learn more about frame rates and which is suitable 
 
 ![4k video frame rate](https://images.wondershare.com/filmora/article-images/4k-video-frame-rate.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do Frame Rates Affect Video Viewing?
 
 The motion will appear smoother if your video contains more frames per second. Even though your viewers are not tech-savvy, they will definitely notice the difference.
@@ -182,10 +186,6 @@ Below is a list of requirements any electronic device should fulfill before bein
 
 ![requirements of 4k videos](https://images.wondershare.com/filmora/article-images/4k-video-requirements.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * A resolution of not less than 3840\*2160.
 * A 10-bit color depth that allows for 1,024 shades of red, yellow, and blue.
 * A high dynamic range for color accuracy.
@@ -200,10 +200,6 @@ On the other hand, a lower FPS causes the file size to be smaller, causing it to
 Research reveals that the most acceptable frame rate is 30fps and 60fps. This is because the motion will appear natural to the human eye without being too fast or unrealistic.
 
 If you are wondering what is the best frame rate for 4k videos, we urge you to select 60fps because it contains more detail. The higher frame rate also makes the motion look very smooth and crisp. Perhaps you want to shoot a slow-motion video. In that case, an even higher frame rate of 120fps would be ideal.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Choose The Base Frame Rates for Your Next Video
 
@@ -230,6 +226,10 @@ The standard frame rate for television is 24fps. On the other hand, it would be 
 #### Motion in the video
 
 Lastly, the movement within the video will play a massive role in the frame rate you choose. The faster the motion, the higher the frame rate needs to be. For instance, action movies don't do well in frame rates of less than 60 fps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Set the Frame Rate of Your Editing Tools
 
@@ -267,6 +267,10 @@ Step2 In the dialogue box, select "Frame Rate" and choose the frame rate you thi
 
 Step3 Click "OK" and edit the videos as you like.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 4K is the trend of the era, and it would be a shame if you got left behind. The viewer's expectations are rising steadily, and they would rather skip your video to watch another if the quality is not up to par. In addition to giving you a competitive edge, 4K videos are very crisp and allow you to enjoy deep, vibrant colors.
@@ -283,9 +287,17 @@ Step1 Launch the platform on your device and select the "File" tab. After a drop
 
 ![filmora project settings](https://images.wondershare.com/filmora/article-images/project-settings-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 In the dialogue box, select "Frame Rate" and choose the frame rate you think is ideal for your video.
 
 ![export video frame rate](https://images.wondershare.com/filmora/guide/video-and-audio-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Click "OK" and edit the videos as you like.
 
@@ -535,10 +547,6 @@ Step 5: Click on the Enter in the keyboard button.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Your video will now be rotated by the selected number of degrees.
 
 ## How to Rotate Videos in Filmora
@@ -595,6 +603,10 @@ Filmora is a lightweight video editor that is easy to use and offers powerful fe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create Custom Lower Thirds in Filmora
 
 As a video creator, there are times when you need to use Lower Thirds. Although many lower-third presets are available, making unique and personalized ones can ensure your video stands out.
@@ -647,6 +659,10 @@ Double-click on the text clip to open the settings, then type some text there an
 
 ![double-click on the text clip](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4 Add animation to the text
 
 Click **Advanced > Animation > Up Down 1** animation. Adjust the animation length by dragging the two brackets on the timeline on the right side. Click Ok.
@@ -685,6 +701,10 @@ Playback the video and see how it looks.
 
 ![a name card with a solid background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-13.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sometimes you might want to create a name card with a solid background like the sample above. To create it, we can use the same method. Here's how to do it:
 
 ##### Step1 Make the lower third background
@@ -696,10 +716,6 @@ Select the white color sample from the sample color folder and drop it onto the 
 Change the scale to 30%, then reposition the white sample to your desired place. Click OK.
 
 ![change the scale to 30%](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-15.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step2 Create an image mask for the lower third background
 
@@ -738,6 +754,10 @@ Similar to the tutorial before, move the play head again a few frames earlier to
 To let the background card exit the frame, add two more keyframes to the background card. Add a keyframe with no changes to settings. Move the play head to the right for a few frames and add another keyframe.
 
 ![add two more keyframes](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-23.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you want the name card to exit to the bottom, change the Y-axis number until it exits. Change the scale and opacity to 0\. Then, playback and adjust the keyframes.
 
@@ -781,10 +801,6 @@ Go to **Titles > Plain Text > Basic 6** and drop it onto the second video track 
 
 ![add a text for your lower thirds](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Double-click on the text clip to open the settings, then type some text there and adjust the size and font.
 
 ![double-click on the text clip](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-7.jpg)
@@ -815,10 +831,6 @@ Playback again to find where the texts disappear, then move the play head to a p
 
 ![add keyframes to the white line clip when exiting](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-11.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You don't need to change the setting this time because this keyframe is used to keep the position and opacity unchanged.
 
 Instead, move the play head again to the right for a few frames and add another keyframe. Move the texts out of the frame by changing the y-axis number, then change the opacity to 0\. This keyframe is used to create the white line animation exiting the frame and turning back to transparent in the meantime.
@@ -842,10 +854,6 @@ Select the white color sample from the sample color folder and drop it onto the 
 Change the scale to 30%, then reposition the white sample to your desired place. Click OK.
 
 ![change the scale to 30%](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-15.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step2 Create an image mask for the lower third background
 
@@ -881,10 +889,6 @@ Similar to the tutorial before, move the play head again a few frames earlier to
 
 ![move the play head again](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-22.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To let the background card exit the frame, add two more keyframes to the background card. Add a keyframe with no changes to settings. Move the play head to the right for a few frames and add another keyframe.
 
 ![add two more keyframes](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-23.gif)
@@ -894,10 +898,6 @@ If you want the name card to exit to the bottom, change the Y-axis number until 
 Finally, you can add a Subscribe button from the new default Filmora element pack “Social Media.”
 
 ![add a subscribe button](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-24.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wrapping up
 
@@ -919,20 +919,18 @@ These are two ways you can create your own Lower Thirds in FIlmora. You can also
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-maximizing-roi-adopting-the-power-of-triple-strategies-in-copywriting-for-facebook-advertising/"><u>[New] 2024 Approved Maximizing ROI Adopting the Power of Triple Strategies in Copywriting for Facebook Advertising</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-uncover-11-free-effective-youtube-naming-solutions/"><u>[New] In 2024, Uncover 11 Free, Effective YouTube Naming Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-luminance-hdr-review-is-this-a-good-choice-to-create-hdr/"><u>[Updated] Luminance HDR Review Is This a Good Choice to Create HDR</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-failed-to-create-d3d-device-error-solutions-included/"><u>How to Overcome 'Failed to Create D3D Device' Error - Solutions Included</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-beyond-hd-the-exceptional-experience-with-hp-envy-27/"><u>In 2024, Beyond HD - The Exceptional Experience with HP Envy 27</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-elevate-your-iphone-x-experience-with-pro-animoji-use/"><u>In 2024, Elevate Your iPhone X Experience with Pro Animoji Use</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-beyond-wirecast-for-broadcast-solutions/"><u>In 2024, Navigating Beyond WireCast for Broadcast Solutions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-collection-highest-quality-webcam-supports/"><u>[New] Excellence Collection Highest Quality Webcam Supports</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cutting-edge-techniques-top-lenses-for-youtube-stars/"><u>[Updated] In 2024, Cutting-Edge Techniques Top Lenses for YouTube Stars</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-dive-into-memelore-the-kinemaster-method/"><u>[Updated] In 2024, Dive Into Memelore The KineMaster Method</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-create-a-complete-system-image-backup-of-windows-using-microsofts-built-in-tools/"><u>How to Create a Complete System Image Backup of Windows Using Microsoft's Built-In Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-youtube-link-building-a-strategic-guide/"><u>Mastering YouTube Link Building A Strategic Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-correcting-the-error-code-ce-34878-0-on-sonys-console/"><u>Solution Steps for Correcting the Error Code CE-34878-0 on Sony's Console</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-microphone-issues-effective-fixes-and-tips/"><u>Solving iPhone Microphone Issues - Effective Fixes & Tips</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
 </ul></div>
 

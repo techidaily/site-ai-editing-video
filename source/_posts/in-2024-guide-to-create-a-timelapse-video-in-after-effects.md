@@ -1,7 +1,7 @@
 ---
 title: In 2024, Guide to Create a Timelapse Video in After Effects
-date: 2024-12-05T22:10:19.665Z
-updated: 2024-12-12T11:12:30.160Z
+date: 2025-01-16T21:47:02.617Z
+updated: 2025-01-24T00:29:50.518Z
 tags: 
   - ai
   - animation videos
@@ -99,6 +99,11 @@ No matter how you make your time lapse videos, After Effects has a ton of featur
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top Fixes to Resolve Issues with Premiere Pro Slow Playback
 
 Video editors are massively relying on Adobe Premiere Pro for their professional projects. This tool ensures workflow in video production and relieves several complex editing tasks. Unfortunately, it does have some errors, like [**Premiere Pro playback slow**](https://tools.techidaily.com/wondershare/filmora/download/), which users refer to as patience-testing. Apart from being the most stable video editor, Premiere Pro consumes many resources.
@@ -144,6 +149,10 @@ To do so, open the Premiere Pro and go to the “Preferences” menu. From the l
 
 ![delete media cache files slow playback](https://images.wondershare.com/filmora/article-images/2023/resolve-premiere-pro-slow-playback-issue-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 3: Optimize Rendering for Performance
 
 If **Premiere Pro slow playback** still exists, then use this method to fix it. Set the optimized rendering to fix the performance of playback. Press the "Edit" option from the top toolbar and choose the "Preferences." Then, navigate toward "Memory" and find a pop-up window. From that screen, click on "Memory" dropdown and pick "Performance." Finally, tap on "OK" and get a better playback.
@@ -161,6 +170,10 @@ Sometimes, lagging in playback occurs when you work on multiple applications. Th
 There is another fix you can try to overcome **Premiere Pro playback slow**. Without any delay, ensure that the Render is set to GPU Acceleration. Simply go to the “File” option at the top toolbar and click on the “Project Settings.” Then, pick “General” and set it to “Mercury Playback Engine GPU Acceleration.” This option is under the Playback Section and Video Render.
 
 ![turn on gpu acceleration slow playback](https://images.wondershare.com/filmora/article-images/2023/resolve-premiere-pro-slow-playback-issue-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 6: Change Playback Resolution
 
@@ -181,10 +194,6 @@ Now, pick the "Codec" option from another window and tap "QuickTime." Specify a 
 The working size of video files gets increased with visual and audio effects. If your videos are still lagging in playbacks, then head to mute those effects to fix this issue. From the playback toolbar, choose the "fx" button. Alternatively, click on the "+" icon at the top right side of Program Monitor. Drag it to the button panel and press the “fx” button to toggle it “Off.”
 
 ![mute fx effects slow playback](https://images.wondershare.com/filmora/article-images/2023/resolve-premiere-pro-slow-playback-issue-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Make the Slow-Motion Video Making Easy with Wondershare Filmora
 
@@ -240,10 +249,6 @@ To wrap up, **Adobe Premiere Pro's slow playback** can occur for several reasons
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What Does a Video with a Slow Playback Mean?
 
 [**Premiere Pro Playback Slow**](https://tools.techidaily.com/wondershare/filmora/download/) is a common issue faced by editors these days. It refers to playback slowness and choppiness of a fresh or edited video. Many users report a complete blackout in video footage during the playback. Lagging in playback might result from insufficient RAM or inadequate storage space. Maybe an outdated GPU, heavy video effects, or active background programs cause it.
@@ -270,7 +275,7 @@ Adobe Premiere Pro enables a High-Quality playback option by default. It helps i
 ![disable high quality playback slow playback](https://images.wondershare.com/filmora/article-images/2023/resolve-premiere-pro-slow-playback-issue-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Delete Media Cache Files
@@ -304,10 +309,6 @@ There is another fix you can try to overcome **Premiere Pro playback slow**. Wit
 Due to the higher resolution of videos, playback lagging occurs. It has a quick solution: changing the playback resolution to a lower rate. For this purpose, go to "Settings" at the top right and choose the “Dynamic Quality” option. Select a lower resolution, like 1:2 or lower. You should look for options that can reduce resolution from the original resolution of the clip.
 
 ![change playback resolution slow playback](https://images.wondershare.com/filmora/article-images/2023/resolve-premiere-pro-slow-playback-issue-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 7: Use Proxy Videos in Adobe
 
@@ -379,10 +380,6 @@ To wrap up, **Adobe Premiere Pro's slow playback** can occur for several reasons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tips for Choosing Location and Scheduling Music Video
 
 Making viral music videos is everyone's dream; what if you get exact tips to follow before shooting your music video to make it high-ranked? Obviously, it'll be a treat for you!
@@ -396,6 +393,10 @@ The pleasant and eye-catchy location always makes your music video trending or f
 ![finding the right location for the music video](https://images.wondershare.com/filmora/article-images/2023/04/finding-the-right-location-for-the-music-video.jpg)
 
 If you are going with large projects, you need to consider the following requirements!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Availability of electricity
 
@@ -458,17 +459,21 @@ For better daylight and illustrations in the music video, you can go with the ou
 
 ![outdoor location for shooting](https://images.wondershare.com/filmora/article-images/2023/04/outdoor-location-for-shooting.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Location 4\. Public Places
 
 Public places are easily available and have many options, such as public parks, playgrounds, bridges, and public parking.
 
 ![public places for music videos](https://images.wondershare.com/filmora/article-images/2023/04/public-places-for-music-videos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** During public shooting, ensure that the space is empty, and there should be no interruption of the public in filming the shots.
 
@@ -577,10 +582,6 @@ The weather is also a major factor when shooting a video, which you must check b
 
 If you have a big project and more scenes to shoot, it's better to make a whole plan about each and everything. You have to make a schedule of using even a single light at a specific time and space. The following are the main considerations you should take care of!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Pre-Rig Day
 
 You need to come to the setup before the filming day to check the main things like electricity, measure exact spaces, check the lightning setup, loaded everything such as the bus, crew, and gears.
@@ -660,10 +661,6 @@ After you name each folder, use the Import button to upload each video files you
 ![use the Import button to upload each video files](https://images.wondershare.com/filmora/article-images/2022/12/organize-media-filmora-4.jpg)
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** since the media files you import into your project get the name associated with the code given by the source, it becomes hard to capture a specific file while editing. You need to rename each of the elements you imported for easier access.
 
@@ -770,7 +767,7 @@ Step3 Drag-n-drop the video to the timeline and perform the necessary editing. A
 ![click on the export button](https://images.wondershare.com/filmora/article-images/2022/12/use-proxies-filmora-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Keep Your Videos and Audio Tracks Organized
@@ -786,6 +783,10 @@ Step1 Click on the Add icon at the left side of the Timeline and select Add Vide
 Step2 Drag-n-drop the video clips and audio clips to the relevant timeline.
 
 ![drag-n-drop the video clips and audio clips](https://images.wondershare.com/filmora/article-images/2022/12/organize-audio-and-video-tracks-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Keyboard Shortcuts
 
@@ -820,7 +821,7 @@ Step3 Afterward, move drag-n-drop the audio clips to the timeline and apply the 
 ![move drag-n-drop the audio clips to the timeline](https://images.wondershare.com/filmora/article-images/2022/12/edit-in-stages-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Repeat the process for different operations in stages until you finish.
@@ -851,17 +852,18 @@ You can use Filmora to edit videos and other media files downloaded from YouTube
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-8-best-film-cameras-for-beginners-from-35mm-to-point-and-shoot/"><u>[Updated] 8 Best Film Cameras for Beginners (From 35Mm to Point-and-Shoot)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mov-file-management-made-simple-on-windows-10/"><u>2024 Approved .mov File Management Made Simple on Windows 10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-alert-sound-pick-optimal-websites/"><u>2024 Approved Superior Alert Sound Pick Optimal Websites</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-honor-x50-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Honor X50 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First</u></a></li>
-<li><a href="https://win-trending.techidaily.com/resolving-image-quality-issues-tips-for-clear-scans-from-yl-software-solutions/"><u>Resolving Image Quality Issues: Tips for Clear Scans From YL Software Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tailored-guide-for-format-hard-drive-on-apple-computers/"><u>Tailored Guide for Format Hard Drive on Apple Computers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-stability-in-the-click-quashing-jitter/"><u>[New] 2024 Approved Stability in the Click Quashing Jitter</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-tiny-titans-top-games-anthology/"><u>[New] 2024 Approved Tiny Titans' Top Games Anthology</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-jumpstart-your-virtual-engagement-with-these-tips-for-livestreams/"><u>[New] In 2024, Jumpstart Your Virtual Engagement with These Tips for Livestreams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-7-free-apps-to-record-screens-of-budget-pcs/"><u>[New] Top 7 Free Apps to Record Screens of Budget PCs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-pinnacle-guide-to-uncomplicated-online-live-streams/"><u>2024 Approved The Pinnacle Guide to Uncomplicated Online Live Streams</u></a></li>
+<li><a href="https://article-files.techidaily.com/complete-critique-unmasking-the-bublcam-360-experience-for-2024/"><u>Complete Critique Unmasking the Bublcam 360 Experience for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/exposing-ms-bda-through-graphical-display/"><u>Exposing MS BDA Through Graphical Display</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-be-aware-of-vhss-meaning-there-is-nothing-to-be-worried-about-because-we-will-guide-you-in-this-article/"><u>In 2024, Do You Want to Be Aware of VHSs Meaning? There Is Nothing to Be Worried About because We Will Guide You in This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-film-a-slow-motion-video/"><u>New 2024 Approved How To Film a Slow Motion Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-ways-to-make-time-lapse-video-on-macbook/"><u>Updated 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora-for-2024/"><u>Updated How to Correct Lens Distortion With Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
 </ul></div>
 

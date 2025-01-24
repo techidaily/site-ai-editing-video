@@ -1,7 +1,7 @@
 ---
 title: New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations
-date: 2025-01-16T02:13:55.096Z
-updated: 2025-01-17T18:01:29.043Z
+date: 2025-01-19T01:59:52.629Z
+updated: 2025-01-24T09:56:54.360Z
 tags: 
   - ai
   - animation videos
@@ -40,7 +40,7 @@ Step4 Click on "Effects." Once again, scroll to search or choose an effect categ
 ![post videos tiktok](https://images.wondershare.com/filmora/article-images/2022/07/post-videos-tiktok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Adding Effects Before Recording
@@ -60,10 +60,6 @@ Step2 On the right side of the screen, tap Filters. The screen's bottom will rev
 Step3 To see the choices, swipe. By tapping the tabs, you may quickly navigate to that particular set of filters. Alternatively, you may just swipe and browse through each choice. Select a filter by tapping it. To lessen or intensify the filter effect, move the slider to the left or right.
 
 ![select protrait tiktok](https://images.wondershare.com/filmora/article-images/2022/07/select-protrait-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 If you like the result, press the screen to start recording your video normally. Tap the Stop symbol at the very left to remove the filter.
 
@@ -176,10 +172,6 @@ Step3 You will see a mini timeline under Effect Controls and labels A and B deno
 
 ![effects control panel premiere](https://images.wondershare.com/filmora/article-images/2022/07/effects-control-panel-premiere.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 You can adjust the slider below A label to change the start time of the transition. Similarly, you can change the slider below B label to change the end time of the transition.
 
 Step5 Instead of setting the start and end time of the transition, you can set the duration of the transition as a whole. Go to Duration option located above A and B labels and drag right and left to change the duration.
@@ -210,6 +202,10 @@ Step2 Drag and drop the video clips on Timeline. If it is one video clip, you ca
 
 ![drag and drop video clips](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 There are different categories of transition effects and drag and drop your desired transition on the Timeline.
 
 ![drag and drop desired transition](https://images.wondershare.com/filmora/guide/find-transition.png)
@@ -223,10 +219,6 @@ Step4 Place the transitions in between video clips and drag the transition as pe
 ### How do I add transitions to all clips in Premiere?
 
 Import all the video clips to Timeline in Premiere. Go to Effects> Video Transitions and drag and drop the video transitions of your choice to Timeline. You should place the transitions in between the video clips and adjust their duration as per your requirements for smoother transition for jump cuts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Where are the transitions in Premiere Pro?
 
@@ -254,15 +246,15 @@ Step3 There are different categories of transition effects and drag and drop you
 
 ![drag and drop desired transition](https://images.wondershare.com/filmora/guide/find-transition.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Place the transitions in between video clips and drag the transition as per the duration requirements. Play the video and once you are satisfied, click on Export button to save the video.
 
 ![click on export button](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
 
 ## Part 4\. Related FAQs about Premiere Transitions
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I add transitions to all clips in Premiere?
 
@@ -286,10 +278,6 @@ We have illustrated how to add a transition in Premiere in simple steps. Besides
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Create Realistic Fire Effects
 
 Do you know that many cinema films and big-budget companies use visual effects to create realistic fires? It saves them from potential danger in production and helps them manage the time required to create a project. In this article, you will get pro tips and easy ways to add Fire effects by Wondershare Filmora.
@@ -297,6 +285,10 @@ Do you know that many cinema films and big-budget companies use visual effects t
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** let's not count Michael Bay and Christopher Nolan productions because their movies have a higher budget, and creating fake fire is easy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. What do you need to create fire effects?
 
@@ -420,10 +412,6 @@ Click on a large scale **14** and drag it into your timeline above the smoke eff
 
 ![adding flame effect](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### #Step3 Adjust the flame effect
 
 Now, we have to do steps similar to the ones above the first job. But first, you have to click on the edges of the effect. Then, match it to the length of your video.
@@ -526,6 +514,10 @@ Visit [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/dow
 Before adding the fire effects to your video, you must ensure that you are familiar with the editing software. Your first step would be to add your clips to the **timeline.** Drag the footage from the library and enter it into the timeline.
 
 ![import footage](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3\. create the fire effect more realistic by adding smoke**
 
@@ -698,6 +690,10 @@ Cine LUTS V2 is a pack of 15 cinematic-style LUTs to color grade your videos. Wi
 
 ![cine luts v2](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. [Cine LUTS V1](https://www.petermckinnon.com/v1-luts)
 
 With the Cine LUTs V1 pack, you'll have access to 7 unique LUTs. This **Peter McKinnon LUT pack** gives your videos a cinematic look. Furthermore, this pack has different LUTs, including Orange & Teal and Noir. The Orange & Teal LUT adds a warm orange tone to the highlights and a cool teal tone to the shadows. However, you can use the Noir LUT to add a more dramatic look to your video.
@@ -732,10 +728,6 @@ Besides video editing capabilities, you can color grade your videos like Peter M
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-luts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In conclusion, Peter McKinnon is an impressive content creator and professional. There are many different LUTs inspired by **Peter McKinnon LUT packs**. Furthermore, these LUTs allow you to experiment and find the perfect color grading for your videos. Moreover, you can use these LUTs pack for a travel vlog, B-roll, or even a short film. With these LUTs, your videos will look better than ever.
@@ -757,7 +749,7 @@ In conclusion, Peter McKinnon is an impressive content creator and professional.
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Top Peter McKinnon Influenced LUTs for Videos
@@ -776,15 +768,19 @@ With the Cine LUTs V1 pack, you'll have access to 7 unique LUTs. This **Peter Mc
 
 ![cine luts v1](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. [Arctic Shade](https://fixthephoto.com/peter-mckinnon-luts-pack-free/download-1)
 
 Arctic Shade LUT is a color grading tool inspired by Peter McKinnon's technique. Applying this LUT adjusts the white balance to give your video a balanced white exposure. Furthermore, it increases saturation and enhances contrast to make your colors pop. It's a great option to experiment with and matches the color grading style of Peter McKinnon.
 
 ![arctic shade](https://images.wondershare.com/filmora/article-images/2023/arctic-shade.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. [Bleak Galaxy](https://fixthephoto.com/vlog-lut/download-7)
 
@@ -817,6 +813,10 @@ In conclusion, Peter McKinnon is an impressive content creator and professional.
 [Add LUTs on Video](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -836,15 +836,19 @@ In conclusion, Peter McKinnon is an impressive content creator and professional.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-key-applications-for-superior-vtuber-audible-identity/"><u>[New] 2024 Approved Key Applications for Superior Vtuber Audible Identity</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-from-live-events-to-records-the-pathway-with-4-key-steps-on-fb/"><u>[New] From Live Events to Records The Pathway with 4 Key Steps on FB</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-teenyvid-viewers-assessment-on-screenshots-for-2024/"><u>[New] TeenyVid Viewer's Assessment on Screenshots for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-top-savings-on-walmart-best-buy-ahead-of-prime-day-202n-exclusive-deals-revealed/"><u>Find Top Savings on Walmart, Best Buy Ahead of Prime Day 202N: Exclusive Deals Revealed</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/schritt-fur-schritt-anleitung-zum-ubertragen-eines-benutzerkontos-von-windows-11-zu-einem-anderen-datentrager/"><u>Schritt-Für-Schritt-Anleitung Zum Übertragen Eines Benutzerkontos Von Windows 11 Zu Einem Anderen Datenträger</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-color-finale-for-2024/"><u>What Is Color Finale for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-crafting-compelling-narratives-with-your-own-fb-slideshow-creation-for-2024/"><u>[New] Crafting Compelling Narratives with Your Own FB Slideshow Creation for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-boost-your-media-library-top-20-freeware-tools-turning-instagram-videos-into-mp4/"><u>[Updated] 2024 Approved Boost Your Media Library Top 20 Freeware Tools Turning Instagram Videos Into MP4</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mp3-repository-from-fb-posts/"><u>[Updated] 2024 Approved MP3 Repository From Fb Posts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-9-buzzworthy-workout-videos-that-stay-on-top-of-trends/"><u>[Updated] In 2024, 9 Buzzworthy Workout Videos That Stay on Top of Trends</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-quintessential-fb-video-list-for-you/"><u>[Updated] In 2024, The Quintessential FB Video List for You</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-ultimate-media-players-5-great-options-besides-flvto-for-seamless-video-streaming/"><u>Discover the Ultimate Media Players: 5 Great Options Besides FLVTO for Seamless Video Streaming</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-the-best-10-cost-free-photo-hosters/"><u>In 2024, Ultimate Guide to the Best 10 Cost-Free Photo Hosters</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-use-virtual-green-screen-to-shoot-video/"><u>New 2024 Approved How To Use Virtual Green Screen to Shoot Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/passos-essenciais-para-a-reconstrucao-de-documentos-grande-e-descartados-irreversivelmente/"><u>Passos Essenciais Para a Reconstrução De Documentos Grande E Descartados Irreversivelmente</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-the-power-of-reversal-advanced-tiktok-video-editing-techniques/"><u>Updated Unleash the Power of Reversal Advanced TikTok Video Editing Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Make a Countdown Video
-date: 2024-12-06T08:02:45.770Z
-updated: 2024-12-11T18:51:09.858Z
+date: 2025-01-19T10:11:17.572Z
+updated: 2025-01-24T10:12:38.400Z
 tags: 
   - ai
   - animation videos
@@ -20,6 +20,10 @@ Have you ever wanted to use Adobe After Effects to recreate a countdown timer fo
 In this article, we will demonstrate how to use Adobe After Effects to put together a countdown video. This procedure is a straightforward one, and it will handle expressions as well as plugins. Stay here and read on to find out more about the various methods in which we might accomplish this goal!
 
 Let's begin!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Create a new composition
 
@@ -326,10 +330,6 @@ Smartphone video editors were introduced to enhance the application of slow moti
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: CapCut Video Editor: An Exceptional Mobile App for Video Editing
 
 CapCut is an editing application that caters to the needs of both Android and iPhone users. Whether you are working as a seasoned editor or a team member, it assists all. It harbors numerous video editing tools like the **CapCut slow-motion effect**. Moreover, users can also access keyframe editor, effects and filters, stock videos, and more.
@@ -360,15 +360,15 @@ Once you have added the video, navigate towards the toolbar at the bottom. From 
 
 ![start to edit the process](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3
 
 From the appearing options, select the “Speed” option for **the CapCut slow-mo effect.**
 
 ![access the speed settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 4
 
@@ -383,7 +383,7 @@ Drag the playback speed slider toward the left side of the screen. This will add
 ![adjust speed settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: CapCut Slow Mo Alternative: Wondershare Filmora for Smartphone Users
@@ -434,11 +434,19 @@ After opening a project in Filmora, select the video in the timeline and access 
 
 ![set the uniform speed preferences](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2Add Optical Flow Effect
 
 To add a layer of smoothness to your slow-motion video, access "AI Frame Interpolation." You can find this option at the bottom of the Uniform Speed tab. Expand this option and select the "Optical Flow" option.
 
 ![enable the optical flow option](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3Activate Rendering and Export Video
 
@@ -532,10 +540,6 @@ After seeing **how to slow down videos on CapCut**, you must think that it is so
 
 Using this **CapCut slow-motion video** has its benefits, as it offers multiple speed change options. You can change video speed using Normal playback speed or speed “Curve” alteration. In this section, we’ll teach you how to create a slow motion in Filmora. We are going to use the Curve technique to manipulate speed professionally.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide to Slow Down Video in Filmora App
 
 You can find multiple speed templates here to craft a cinematic-level slow motion. By utilizing the Custom speed setting options, this effect is possible. To fashion professional-grade and artistic slow motion in Filmora, follow these steps:
@@ -545,6 +549,10 @@ You can find multiple speed templates here to craft a cinematic-level slow motio
 Download the Filmora app from the Play Store or App Store and launch it. Then, click the "New Project" tab and import a video from the device gallery.
 
 ![create a new project in filmora](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 2Access the Speed Curve Option
 
@@ -579,7 +587,7 @@ After opening a project in Filmora, select the video in the timeline and access 
 ![set the uniform speed preferences](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-15.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2Add Optical Flow Effect
@@ -593,10 +601,6 @@ To add a layer of smoothness to your slow-motion video, access "AI Frame Interpo
 To analyze the outcome of activating optical flow, navigate towards the timeline panel. From the given options, click on the "Render Preview" icon and wait for its completion. Once the rendering is complete, click the "Export" button after the preview.
 
 ![enable the render preview option](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-17.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Video Editing Features of Filmora
 
@@ -659,7 +663,7 @@ Step1 First, click on this [link](https://bit.ly/3zGa5H3) to download the adjust
 ![add the adjustment layers folder](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-final-cut-pro-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Now open Final Cut Pro and locate the “Adjustment Layer” under the “Titles” section. After locating it, drag and drop it into the timeline. This adjustment layer was created as a title layer in Apple Motion that got published in Final Cut Pro using the built-in publishing tools.
@@ -670,6 +674,10 @@ Step3 Once you have created the adjustment layer, you can apply any sort of effe
 
 ![customize final cut pro adjustment layer](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-final-cut-pro-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips – How to Use Adjustment Layers in the Best Alternative to FCPX?
 
 If you want to use an alternative to Final Cut Pro for creating the adjustment layer, you can try [Wondershare Filmora 12](https://tools.techidaily.com/wondershare/filmora/download/). You can edit your videos in an advanced and secure environment using this tool. It supports all multiple platforms, such as Windows, Mac, Android, and iOS. You can do color correction in your videos to manage the saturation, brightness, contrast, exposure, and other factors in Filmora.
@@ -679,10 +687,6 @@ If you want to use an alternative to Final Cut Pro for creating the adjustment l
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Moreover, you can also create 3D animated titles in Filmora to give your project a unique look. It also provides a wide range of keyboard shortcut presets through which you can make your editing easier and faster. Apart from editing and modifying your videos, you can also increase their vibrancy by using Filmora effects. You can explore and select a diverse range of visual effects in Filmora to give a new dimension to your video clips.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of Filmora
 
@@ -706,10 +710,6 @@ Launch Filmora and click on the “New Project” button. Afterward, upload the 
 Now head to the “Media” section on the left side, where you can find the option of the “Adjustment Layer.” Next, drag and drop the adjustment layer into the timeline. You can double-click on it to change its settings effectively.
 
 ![add the adjustment layer](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-final-cut-pro-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step3 Add Multiple Presets to Adjustment Layer
 
@@ -727,10 +727,6 @@ However, if you want a more compatible and easier-to-use tool to generate adjust
 
 Moreover, you can also create 3D animated titles in Filmora to give your project a unique look. It also provides a wide range of keyboard shortcut presets through which you can make your editing easier and faster. Apart from editing and modifying your videos, you can also increase their vibrancy by using Filmora effects. You can explore and select a diverse range of visual effects in Filmora to give a new dimension to your video clips.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Features of Filmora
 
 * Filmora offers cloud services that allow you to collaborate with your team members effectively. On its workspace cloud platform, you can share and review the edited video clips with your team members in a comfortable environment.
@@ -759,6 +755,10 @@ Now head to the “Media” section on the left side, where you can find the opt
 From the settings, you can change blending mode, rotation, position, and opacity easily. Moreover, you can add different presets to the adjustment layer for more modifications. You can use the color match tool to adjust the colors in your video clip. With this tool, you can also add a border across the video clips using the adjustment layer. Also, you can color code the adjustment layer to create a more attractive look in the video clip.
 
 ![customize the adjustment layer](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-final-cut-pro-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -782,19 +782,20 @@ However, if you want a more compatible and easier-to-use tool to generate adjust
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-decoding-the-variance-in-360-videos-and-vrs/"><u>[New] 2024 Approved Decoding the Variance in 360 Videos and VRs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-modern-techniques-record-idevice-screen-effortlessly/"><u>[New] In 2024, Modern Techniques Record iDevice Screen Effortlessly</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-embed-facebook-live-on-a-website-for-2024/"><u>[Updated] How to Embed Facebook Live on a Website for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-tiktok-closing-scenes/"><u>[Updated] In 2024, Mastering the Art of TikTok Closing Scenes</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-list-of-viral-stock-images-and-stories-for-2024/"><u>[Updated] The Ultimate List of Viral Stock Images & Stories for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bright-ideas-elevate-your-video-with-strategic-lighting-for-2024/"><u>Bright Ideas Elevate Your Video with Strategic Lighting for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-best-free-artificial-intelligence-resources-to-create-elegant-email-messages-with-chatgpt-and-tame-your-inbox-clutter/"><u>Discover the Best Free Artificial Intelligence Resources to Create Elegant Email Messages with ChatGPT & Tame Your Inbox Clutter</u></a></li>
-<li><a href="https://driver-install.techidaily.com/happy-printing-unleash-power-of-officejet-7740/"><u>Happy Printing: Unleash Power of Officejet 7740</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-address-and-overcome-a-youtube-content-id-issue/"><u>[New] How to Address and Overcome a YouTube Content ID Issue</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-standout-book-trailer-highlights/"><u>[Updated] Standout Book Trailer Highlights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-a-novices-vision-on-vectors-categories-explored-and-apps/"><u>2024 Approved A Novice's Vision on Vectors Categories Explored and Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-animation-amalgamator-a-top-choice-for-saving-and-storing-your-tweeted-gifs/"><u>2024 Approved Animation Amalgamator A Top Choice for Saving and Storing Your Tweeted GIFs</u></a></li>
+<li><a href="https://win-top.techidaily.com/descubre-la-excelencia-en-los-utilidades-de-respaldo-para-servidores-windows-con-aomei-backupper-server-el-favorito-entre-expertos/"><u>Descubre La Excelencia en Los Utilidades De Respaldo Para Servidores Windows Con AOMEI Backupper Server – ¡El Favorito Entre Expertos!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-6s-plus-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 6s Plus Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-track-and-blur-faces-in-premiere-pro/"><u>How To Track and Blur Faces in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-7-tips-to-create-teaching-videos/"><u>New 2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-download-and-use-windows-movie-maker-10/"><u>New How to Download and Use Windows Movie Maker 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/paired-monitors-preservation/"><u>Paired Monitors Preservation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-warnings-in-your-systems-integrated-development-tools/"><u>Resolving Unsupported Hardware Warnings in Your System's Integrated Development Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-the-stranger-things-upside-down-effect/"><u>Updated 2024 Approved How to Create the Stranger Things Upside Down Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-6-websites-to-free-download-motivational-video-footage/"><u>Updated In 2024, 6 Websites to Free Download Motivational Video Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated In 2024, How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-what-are-the-stages-of-film-production/"><u>Updated What Are The Stages Of Film Production</u></a></li>
 </ul></div>
 

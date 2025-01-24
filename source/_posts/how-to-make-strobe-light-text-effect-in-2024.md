@@ -1,7 +1,7 @@
 ---
 title: How to Make Strobe Light Text Effect, In 2024
-date: 2024-12-04T20:28:11.201Z
-updated: 2024-12-12T08:04:39.189Z
+date: 2025-01-18T01:51:23.978Z
+updated: 2025-01-23T22:02:51.740Z
 tags: 
   - ai
   - animation videos
@@ -57,10 +57,6 @@ Then you should double-click on the original Default Title you added and start e
 
 ![change the second title text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Insert the snapshots
 
 Remove the two title clips you added to the timeline. You have to work with the Snapshots you took now.
@@ -97,9 +93,17 @@ Press OK.
 
 ![tap on the compositing option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Add the sound effect
 
 Again, you must hide the second snapshot in the timeline with the same step as before. Then, drag the sound effect to the audio track timeline next. Tap on the Play button under the Preview to see how the effect looks with the sound. Cut out the extra second of the sound effect clip to align it with the ending section of all of the other clips.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add the initial keyframes
 
@@ -132,6 +136,10 @@ Move the play head to the 3-second mark from the beginning. If you need clarific
 Here, tap on the Split icon and remove the clip's first half. Then, double-click on the second half and go to Animation. Press the Add button to insert a keyframe here and change the scale and position of the title at this point. Move it to the placement you want, right above the lens flare. Also, drag the slider for the Opacity parameter to zero at this point.
 
 ![drag the slider for opacity](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Subsequently, move the play head to the point when the lens flare effect stop, which is around 2 seconds more. At this point, you have to add another keyframe and change the Opacity to 100.
 
@@ -183,10 +191,6 @@ In the folder, double-click on the Snapshot folder. Choose both of the Snapshots
 
 ![choose and import both snapshots](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Import additional music and background visuals
 
 After you have imported the snapshots to Filmora, you have to tap on the Import File option again. Go to the folder where you saved specific files like Lens flare, background video, particles, and sound effect clips. If you have these previously saved in other folders, make sure to keep them all in one folder ahead of time and open that one here.
@@ -240,7 +244,7 @@ Now, play the preview again.
 ![drag and drop particles video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adjust the second title, again
@@ -366,10 +370,6 @@ Though as mentioned above, the Ray Tracing feature was removed in 2020, its adva
 
 The release of the **Ray-Traced 3D** setting in After Effects CS6 made it easier than ever to create stunning 3D images and animations. Let’s focus on how to use it in After Effects appropriately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How To Set It
 
 Adobe After Effects has a three-dimensional space animation setting, but this doesn't include Ray Tracing. You need to change the default settings if you want to use it in your animation. To do so:
@@ -484,16 +484,12 @@ Though as mentioned above, the Ray Tracing feature was removed in 2020, its adva
 
 3D Ray Tracing in After Effects works by giving your text and paths more depth. Extruded layers have a z-axis depth, making them three-dimensional. This extra dimension is viewable from all angles, even when the layer is rotated. In contrast, non-extruded layers have zero depth on the z-axis. So, they will disappear if you try to rotate them 90 degrees on the x or y-axis.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5\. Ray-Traced 3D Settings In Adobe After Effects
 
 The release of the **Ray-Traced 3D** setting in After Effects CS6 made it easier than ever to create stunning 3D images and animations. Let’s focus on how to use it in After Effects appropriately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How To Set It
@@ -511,6 +507,10 @@ A layer becomes a 3D layer when the 3D checkbox is checked in the timeline and h
 The former deals with the layer's depth and edges shape, while the latter deals with the interaction of layers with depth and includes shadow, reflection, refraction, and transparency option.
 
 ![layer properties timeline in after effects](https://images.wondershare.com/filmora/article-images/2022/07/layer-properties-timeline-in-after-effects.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When To Use It
 
@@ -567,9 +567,17 @@ A smart phone and a tripod will do. You don’t need to have all those professio
 
 ## Part 2\. Reasons Why You Need a Video Editor?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Videos Are Impactful
 
 While pictures can tell a thousand words, video tells a thousand more. On your videos, your audiences can see your feelings about a particular topic, and with the correct techniques and editing secrets, you can effectively tell someone or many people a message you want to get across. Whether it is a message on how to make a do-it-yourself video or what is the best video editor for beginners?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. People Access Video Everywhere
 
@@ -589,10 +597,6 @@ I take down notes when preparing a video, I used to write the things that I need
 
 ![do it yourself video prepare](https://images.wondershare.com/filmora/article-images/2022/07/do-it-yourself-video-prepare.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 I put myself a little make up on when producing a video, it makes me feel more confident to speak in front of my virtual audiences because I know that I looked presentable in any way.
 
 Now we need to set our do-it-yourself like studio (it can be your room; it can be in the living room or anywhere that you can see that has a good background) or you can use a green backdrop and just make wonders in the post editing.
@@ -604,10 +608,6 @@ During these days, I’m filming using my Canon GX7 Mark II and it’s a result 
 After you finished a vlog/video, you need to edit it and that’s the most exciting part for me, at least. Put your teaser, your intro, the body of the video itself and don’t forget the outro.
 
 ![do it yourself video editing](https://images.wondershare.com/filmora/article-images/2022/07/do-it-yourself-video-editing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -658,7 +658,7 @@ After you finished a vlog/video, you need to edit it and that’s the most excit
 ![do it yourself video editing](https://images.wondershare.com/filmora/article-images/2022/07/do-it-yourself-video-editing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -700,10 +700,6 @@ Keyframes are different from delta frames in that a higher keyframe value result
 The Keyframe Interval can be adjusted to create a faster or slower transition between two keyframes. A shorter Keyframe Interval will create a faster transition, while a longer one will create a slower transition.
 
 For example, if you want your transition to look smoother, use a longer interval, like two seconds. Conversely, a zoom effect over a 0.2-second interval will be quicker.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. A concept closely connected to Keyframe Interval - Bitrates
 
@@ -752,6 +748,10 @@ Step3 On the Settings Window, click **"Output"** and configure the output mode t
 Step4 Finally, edit the **Keyframe Interval,** set it to **2** seconds, and click **"OK"** to save your changes.
 
 ![changing the keyframe interval value on obs studio](https://images.wondershare.com/filmora/article-images/2022/07/changing-the-keyframe-interval-value-on-obs-studio.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6\. Will Keyframe Interval Affect Your Video’s Quality?
 
@@ -803,17 +803,14 @@ Hopefully, the information provided in this guide was helpful, and you now have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-turn-your-meet-webinar-into-an-interactive-participant-showcase/"><u>[New] 2024 Approved Turn Your Meet Webinar Into an Interactive Participant Showcase</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-can-a-64gb-drive-manage-large-video-files/"><u>[New] Can a 64GB Drive Manage Large Video Files?</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-evolved-windows-editor-programs-for-films/"><u>[Updated] In 2024, Evolved Windows Editor Programs for Films</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/iphones-finest-leading-cost-free-photo-layout-apps-ranked-for-2024/"><u>IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-top-sources-for-free-public-domain-video-downloads-for-2024/"><u>New Top Sources for Free Public Domain Video Downloads for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-location-unavailable-errors-a-step-by-step-guide-for-iphone-users/"><u>Solving 'Location Unavailable' Errors: A Step-by-Step Guide for iPhone Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solving-your-razer-mic-issues-five-simple-solutions-to-restore-audio-functionality/"><u>Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-privacy-dilemma-with-chatgpt-use/"><u>The Privacy Dilemma with ChatGPT Use</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-the-best-of-the-best-linksys-wrt3200acm-and-its-open-source-superiority/"><u>The Ultimate Guide to the Best of the Best: Linksys WRT3200ACM and Its Open-Source Superiority</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-your-journey-to-flawless-video-subtitling-essential-digital-aids-listed/"><u>[New] Your Journey to Flawless Video Subtitling Essential Digital Aids Listed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/expert-tips-to-correct-acrocefexeexe-error-and-enhance-stability/"><u>Expert Tips to Correct acrocefexe.exe Error and Enhance Stability</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-harnessing-windows-11-for-high-impact-visually-striking-videos/"><u>In 2024, Harnessing Windows 11 for High-Impact, Visually Striking Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-setup-get-the-best-keyboard-drivers-for-windows-7-now/"><u>Instant Setup: Get the Best Keyboard Drivers for Windows 7 Now</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/review-expose-on-netgears-advanced-x6-wifi-mesh-enhancer-a-deep-dive-into-its-innovative-traits/"><u>Review Exposé on Netgear's Advanced X6 Wifi Mesh Enhancer – A Deep Dive Into Its Innovative Traits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solutions-for-fixing-misinstalled-ryzen-master-driver-on-your-pc/"><u>Solutions for Fixing Misinstalled Ryzen Master Driver on Your PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-list-top-2024-recommendations-for-quality-17-inch-laptops/"><u>The Ultimate List: Top 2024 Recommendations for Quality 17-Inch Laptops</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-speech-to-control-navigate-chatgpt-effortlessly-by-voice/"><u>Transforming Speech to Control: Navigate ChatGPT Effortlessly by Voice</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-match-merge-and-master-color-correction-in-fcp/"><u>Updated In 2024, Match, Merge, and Master Color Correction in FCP</u></a></li>
 </ul></div>
 

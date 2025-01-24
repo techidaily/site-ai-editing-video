@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Edit Facebook Video Ads for E-Commerce Business
-date: 2025-01-17T04:16:24.492Z
-updated: 2025-01-18T02:51:51.908Z
+date: 2025-01-23T01:34:59.614Z
+updated: 2025-01-24T05:41:49.377Z
 tags: 
   - ai
   - animation videos
@@ -99,10 +99,6 @@ Now that you have all of your content imported into [Filmora](https://tools.tech
 
 ![arrange facebook video clips ads](https://images.wondershare.com/filmora/article-images/2022/09/arrange-facebook-video-clips-ads.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you need to trim or split any of the photos or video clips, you can do so by using the "Trim" and "Split" options. To trim a photo or video clip, hover over the desired clip and click on the " scissors " icon. Then, drag it to the desired location. To split a photo or video clip, hover over the desired clip and click on the " split " icon. Then, drag it to the desired location.
 
 You can also add some transitions between the video clips by going to the "Transitions" tab and dragging and dropping the desired transition into place.
@@ -161,6 +157,10 @@ It is important to use the correct project aspect ratio when creating a Facebook
 
 ![select aspect ratio fb video ads](https://images.wondershare.com/filmora/article-images/2022/09/select-aspect-ratio-fb-video-ads.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step5Import your media files into Filmora
 
 Once you have decided on the project aspect ratio, you can start importing your video and photo files. To do this, go to the "Media Library" and click on "Import Media Files." Find the folder where you saved your content and select all of the files that you want to use. Then, click "Open" to import the files into Filmora.
@@ -172,10 +172,6 @@ Once you have decided on the project aspect ratio, you can start importing your 
 Now that you have all of your content imported into Filmora, you can start editing it. One thing you may want to do is set the background color for your video. To do this, go to the "Media" tab and click on the "Sample Color" section. Then, select the desired color for your background. Make sure to use your branding color palette.
 
 ![set bg color fb video](https://images.wondershare.com/filmora/article-images/2022/09/set-bg-color-fb-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step7Add Catchy headline and text
 
@@ -217,15 +213,15 @@ To export your video, click on the "Export" button at the top section. Select th
 
 ![export facebook ads video filmora](https://images.wondershare.com/filmora/article-images/2022/09/export-facebook-ads-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Recommended Export Quality
 
 * Format: MP4
 * Resolution: 720 or 1080
 * Frame rate 30 fps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -308,11 +304,11 @@ As **Reflect** is the default, the **Extend** uses artificial intelligence to ex
 
 ![extend the pixels](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-7.jpg)
 
-Besides the three, there is also the **Tile** option. Each of them would give a different result. You can try and use the one that works best for you.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Besides the three, there is also the **Tile** option. Each of them would give a different result. You can try and use the one that works best for you.
 
 ## Summary
 
@@ -344,10 +340,6 @@ Step4 Once it finishes analyzing, the smooth level will default to 10\. See the 
 
 ![after finish analyzing](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-4.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Please note that the center point of your image will always be the most stable. The more shaky a clip is, the more it will crop into that image.
 
 If you are unsatisfied with the default setting, increasing the Smoothness Level will result in more cropping to the image. On the contrary, if you put the Smoothness Level down to zero, you are no longer cropping into the image, but the result won't be as smooth.
@@ -359,6 +351,10 @@ Should the cropping bother you, such as it crops the subject's hair out of the f
 If you change it to **None**, you will see the black bars that simulate how it stabilizes the clip. Try to hit play on the preview screen, and then you can see more clearly how the tool keeps the center of the frame to make it stable and less shaky.
 
 ![hit play on the preview screen](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-6.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As **Reflect** is the default, the **Extend** uses artificial intelligence to extend the pixels, as you are often aware in Photoshop.
 
@@ -432,6 +428,10 @@ Here you will see almost more than **20 videos.** So, instead of using the actua
 
 ![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Who will get Stock Media?**
 
 Want to get stock media? You can only have access to the stock media library if you already buy the license of Wondershare Filmora.
@@ -494,6 +494,10 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 * Set the mask on video according to your style and choice.
 
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -614,10 +618,6 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step7 Add masks on the Video
 
 Now, it's time to select a specific video portion and add a mask. Due to this, we will have a selective blur portion. For this, follow the below guidelines:
@@ -633,7 +633,7 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can adjust the mask size and position by rotating and changing its shape.
@@ -689,10 +689,6 @@ Have you tried to add a miniature effect before? If yes, then share your experie
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## S-Log Is a Gamma Curve Optimized for Digital Cameras to Maximize the Image Sensor’s Performance. Although These Videos May Look Flat and Washed Out, They Contain Lots of Color Information
 
 S-Log is a gamma curve optimized for digital cameras to maximize the image sensor's performance. Although these videos may look flat and washed out, they contain lots of color information. Even better, video creators can use color correction to edit the S-Log videos and make them look as natural as possible. That's what this article is all about.
@@ -702,10 +698,6 @@ S-Log is a gamma curve optimized for digital cameras to maximize the image senso
 This tutorial assumes that you already have an S-Log footage. If not, you can record S-Log footage using most Canon, Sony, and Panasonic cameras.
 
 ![how to color-correct an s-log footage](https://images.wondershare.com/filmora/article-images/2023/01/record-s-log-footage.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Let's get to the steps!
 
@@ -719,45 +711,9 @@ Start by adding your video to the timeline on [Wondershare Filmora](https://tool
 
 ![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
 
-##### Step2 Read and study the histogram
-
-Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
-
-![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
-
-##### Step3 Adjust the image colors
-
-Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
-
-![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
-
-After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
-
-![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
-
-Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
-
-**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
-
-##### Step4 Adjust the color saturation
-
-Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
-
-![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
-
-##### Step5 Preview and compare the video
-
-Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
-
-![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
-
-## Summary
-
-I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2 Read and study the histogram
 
@@ -790,84 +746,128 @@ Does your video still look a little flat? Probably yes! In that case, click the 
 Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
 
 ![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
-
-## Summary
-
-I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
-
-##### Step2 Read and study the histogram
-
-Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
-
-![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
-
-##### Step3 Adjust the image colors
-
-Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
-
-![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
-
-After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
-
-![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
-
-Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
-
-**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
-
-##### Step4 Adjust the color saturation
-
-Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
-
-![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
-
-##### Step5 Preview and compare the video
-
-Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
-
-![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
-
-## Summary
-
-I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
-
-##### Step2 Read and study the histogram
-
-Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
-
-![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
-
-##### Step3 Adjust the image colors
-
-Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
-
-![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
-
-After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
-
-![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
-
-Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
-
-**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
-
-##### Step4 Adjust the color saturation
-
-Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
-
-![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Summary
+
+I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
+
+##### Step2 Read and study the histogram
+
+Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
+
+![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
+
+##### Step3 Adjust the image colors
+
+Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
+
+![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
+
+After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
+
+![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
+
+Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
+
+**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
+
+##### Step4 Adjust the color saturation
+
+Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
+
+![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
+
+##### Step5 Preview and compare the video
+
+Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
+
+![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
+
+## Summary
+
+I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
+
+##### Step2 Read and study the histogram
+
+Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
+
+![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
+
+##### Step3 Adjust the image colors
+
+Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
+
+![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
+
+After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
+
+![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
+
+Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
+
+**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
+
+##### Step4 Adjust the color saturation
+
+Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
+
+![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
+
+##### Step5 Preview and compare the video
+
+Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
+
+![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
+
+## Summary
+
+I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
+
+##### Step2 Read and study the histogram
+
+Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
+
+![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
+
+##### Step3 Adjust the image colors
+
+Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
+
+![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
+
+![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
+
+Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
+
+**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
+
+##### Step4 Adjust the color saturation
+
+Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
+
+![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
 
 ##### Step5 Preview and compare the video
 
@@ -897,19 +897,20 @@ I guess that was easy, right? Up to this juncture, you should be able to perform
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-guide-to-alternative-screen-recording-software-for-2024/"><u>[New] The Ultimate Guide to Alternative Screen Recording Software for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-creating-compelling-sports-content-from-the-ground-up/"><u>[Updated] In 2024, Creating Compelling Sports Content From the Ground Up</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-essential-tips-for-attending-tiktok-live-events/"><u>[Updated] In 2024, Essential Tips for Attending TikTok Live Events</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-hero-5-black-evaluated-against-nikkors-km-170/"><u>[Updated] In 2024, HERO 5 Black Evaluated Against Nikkor's KM-170</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-windows-videography-embrace-hdr-magic/"><u>[Updated] Windows Videography Embrace HDR Magic</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-media-techniques-for-mp3-extraction/"><u>2024 Approved Instagram Media Techniques for Mp3 Extraction</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-video-traffic-triumph-key-youtube-seo-tools/"><u>2024 Approved Video Traffic Triumph - Key YouTube SEO Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/cut-down-input-lag-in-cyberpunk-2077-tips-and-tricks-to-enhance-your-gaming-experience/"><u>Cut Down Input Lag in Cyberpunk 2077: Tips & Tricks to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expanding-horizons-in-artificial-intelligence-apple-unveils-innovative-ai-powered-models-insights-and-capabilities-revealed/"><u>Expanding Horizons in Artificial Intelligence: Apple Unveils Innovative AI-Powered Models - Insights & Capabilities Revealed</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshoot-your-apex-legends-engine-glitches-with-these-easy-steps/"><u>Troubleshoot Your Apex Legends Engine Glitches with These Easy Steps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unlocking-the-potential-effective-use-of-split-screen-on-facebook-for-2024/"><u>Unlocking the Potential Effective Use of Split-Screen on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-a-marketers-manual-for-recognizing-fabricated-supporters-for-2024/"><u>[New] A Marketer’s Manual for Recognizing Fabricated Supporters for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-stock-watch-top-15-youtube-guides/"><u>[Updated] Stock Watch Top 15 YouTube Guides</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-thrifty-pc-recording-utilities/"><u>[Updated] Thrifty PC Recording Utilities</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-hyperlapse-vs-timelapse-videos/"><u>2024 Approved Hyperlapse VS Timelapse Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-y200-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo Y200 Phone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/expert-strategies-for-decoding-instagram-metrics-and-trends-for-2024/"><u>Expert Strategies for Decoding Instagram Metrics and Trends for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-magic-v2-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Magic V2</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-usb-device-recognition-on-windows-10-with-proven-solutions/"><u>Mastering USB Device Recognition on Windows 10 with Proven Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713953297744-new-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-cont/"><u>New A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>New How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-tiktok-loop-video/"><u>New How to Make a TikTok Loop Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-adobe-lightroom-color-grading-tutorial/"><u>New In 2024, Adobe Lightroom Color Grading Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-this-article-let-me-share-with-you-how-to-start-a-vlog-ideas-and-any-tips-for-you-to-start-your-own-vlogging-channel/"><u>New In This Article Let Me Share with You How to Start a Vlog? Ideas and Any Tips for You to Start Your Own Vlogging Channel</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/perfecting-iphone-cinematic-work-top-8-tips-for-excellent-pro-video-production-for-2024/"><u>Perfecting iPhone Cinematic Work Top 8 Tips for Excellent Pro Video Production for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-st/"><u>Updated If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign</u></a></li>
 </ul></div>
 

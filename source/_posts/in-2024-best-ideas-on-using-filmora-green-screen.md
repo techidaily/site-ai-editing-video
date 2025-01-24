@@ -1,7 +1,7 @@
 ---
 title: In 2024, Best Ideas on Using Filmora Green Screen
-date: 2024-12-05T18:13:55.609Z
-updated: 2024-12-12T04:39:46.856Z
+date: 2025-01-20T19:53:14.487Z
+updated: 2025-01-24T12:09:47.588Z
 tags: 
   - ai
   - animation videos
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 ## Best Ideas on Using Filmora Green Screen
 
 Green screener chroma key is commonly used in film, tv shows, and social media videos nowadays. This article will show you how to light film and edit a green screen. Additionally, you can have some fun ideas with a chroma key. Therefore, keep reading this article to know all the information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Cool Ideas to Use Green Screen
 
@@ -38,10 +34,6 @@ Green screener chroma key is commonly used in film, tv shows, and social media v
 **4\. T-shirt TV Screen**
 
 ![t-shirt tv screen](https://images.wondershare.com/filmora/article-images/2023/01/fun-green-screen-4.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Setting Up The Green Screen
 
@@ -110,10 +102,6 @@ LUT Generator is an excellent tool for creating color-grading picture and video 
 
 Furthermore, it offers over 290 cinematic styles LUTs and 50+ LUTs that are optimized for drones and GoPro videos. If you want a surreal look, you can also use 70+ Psychedelia LUTs. This tool allows you to apply third-party effects easily on your photos and videos. Moreover, you can even match the tone of clips from different cameras to give a uniform look.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Create LUTs Using LUT Generator Free Download?
 
 If you don't want to apply online LUTs that are available, you can create your own. To do so, you have to download the LUT Generator tool and follow these simple steps to create LUTs.
@@ -139,10 +127,6 @@ Click the "Convert to CUBE" button in the LUT Generator and select the modified 
 In Preferences, choose the desired size of the 3D LUT as .CUBE format. You can choose between 25x25x25 or 64x64x64\. After selecting your desired size, your customized LUT will be created in .CUBE format.
 
 ![create luts with lut generator app](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Create Online LUTs Using Online LUT Creator?
 
@@ -213,6 +197,10 @@ Furthermore, you can make changes frame-by-frame to your video footage. This too
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Conclusion
 
@@ -287,10 +275,6 @@ Right-click the original downloaded PNG file in the Develop module. Go to "Devel
 
 ![paste settings in original png](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step6
 
 Now export the edited PNG by right-clicking on the PNG and selecting "Export." In the Export popup menu, ensure you have the same settings as in the screenshot.
@@ -302,6 +286,14 @@ Now export the edited PNG by right-clicking on the PNG and selecting "Export." I
 Go back to <www.onlinelutcreator.com/lutcreator> and upload the edited PNG. Generate your LUT and download it. You can now use this LUT to adjust the same color to other videos or photos.
 
 ![generate lut from edited png](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Part: Wondershare Filmora – The Perfect Tool to Use Your LUTs
 
@@ -323,13 +315,13 @@ Furthermore, you can make changes frame-by-frame to your video footage. This too
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Conclusion
 
@@ -356,6 +348,10 @@ You have to install iMovie app from App Store as it does not come pre-install. I
 Step1 Open iMovie app on your iPhone. Tap on Create Project option and tap on Movie on the next screen.
 
 ![new project imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/new-project-imovie-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Select the video from your iPhone that you want to edit and add filters. After your selection, tap on Create Movie option located at the bottom.
 
@@ -411,21 +407,17 @@ Step2 Drag and drop video clips under Project Media folder. Thereafter, drag and
 
 ![drag and drop video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Go to Effects from the top panel and click on Filters from the left panel. You will see all the different categories of filters.
 
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Select any filter and drag and drop it on Timeline. You can stretch the duration of the filter as per your requirements.
 
 You can also check Overlay> Utility option from the left panel to add face filters to your video in the same manner. If you want to save the modified video, click on Export button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -474,7 +466,7 @@ For the first shot, stay on one side of the frame and do the first action. For e
 ![shooting the first clip](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-1.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To make it more realistic, make an interaction by reacting to the "clone" while facing the other direction.
@@ -531,6 +523,10 @@ Step4 Once you are satisfied, adjust the clip length on the timeline and make su
 
 ![adjust the clip length](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Extra tip:** Add one more effect to make it more magical.
 
 Step1 Open the **Effects** window and search for "up down 1."
@@ -544,10 +540,6 @@ Step2 Drag and drop the effect onto the timeline where the first cut is set. Adj
 Then, drag and drop the effect again in the transition between the first and the second clip. Adjust it to the appropriate length, then it will give a more dramatic effect.
 
 Step3 You can playback and see how it looks on the preview screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -565,11 +557,19 @@ Step1 Bring the first clip to the timeline and cut the clip where you pretend to
 
 ![bring the first clip to the timeline](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 After you have the first part of the effect ready, let's start working on the clone part using masking.
 
 First, place the second clip on a different window track, and the starting point is where you react to the "clone."
 
 ![place the second clip on a different window track](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, double-click the second clip and go to the Filmora setting window. Tap on the **Mask** section > **Single line**.
 
@@ -631,18 +631,18 @@ Making a clone effect on video is easy using Filmora. You can use the same trick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-aligning-zoom-sessions-with-desktop-and-smartphone-calendars/"><u>[Updated] Aligning Zoom Sessions with Desktop and Smartphone Calendars</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-emojis-on-youtube-comments-for-2024/"><u>[Updated] How to Add Emojis on YouTube Comments for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-social-media-showdown-twitters-toptiktok-selection/"><u>[Updated] Social Media Showdown Twitter's #TopTikTok Selection</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-lava-blaze-2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Lava Blaze 2</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>How to Use a Stabilization Tool in Filmora for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screenflow-mastery-on-macos-uncovered/"><u>[New] 2024 Approved ScreenFlow Mastery on macOS Uncovered</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-10-gratis-video-call-tools-for-virtual-gatherings/"><u>[New] 2024 Approved Top 10 Gratis Video Call Tools for Virtual Gatherings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-adjust-twitter-video-compact-summary/"><u>[New] In 2024, Adjust Twitter Video Compact Summary</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-action-replay-compare-gopros-hero5-black-and-session/"><u>[Updated] Action Replay Compare GoPro's Hero5 Black & Session</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-resolve-cod-black-ops-cold-war-error-80070057/"><u>Effective Solutions to Resolve Cod: Black Ops Cold War Error 80070057</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-footage-the-art-of-video-stabilization-in-fcpx/"><u>Elevate Your Footage The Art of Video Stabilization in FCPX</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-effectively-convert-iphone-photos-jpeg-png-into-pdfs-for-2024/"><u>How to Effectively Convert iPhone Photos (JPEG, PNG) Into PDFs for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different-too/"><u>In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-video-in-canva/"><u>In 2024, How to Loop Video in Canva</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-storytelling-mastery-crafting-a-dynamic-marketing-plan/"><u>Instagram Storytelling Mastery Crafting a Dynamic Marketing Plan</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-motion-blur-on-capcut-iphone-and-android/"><u>New 2024 Approved How To Add Motion Blur On CapCut? (IPhone & Android)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>In 2024, Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>New How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora-for-2024/"><u>New How To Make a Video by Mouse in Filmora for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-importance-of-using-a-vpn-a-comprehensive-guide/"><u>Understanding the Importance of Using a VPN: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-make-vintage-film-effect-1950s/"><u>Updated In 2024, How to Make Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-this-article-let-me-share-with-you-how-to-start-a-vlog-ideas-and-any-tips-for-you-to-start-your-own-vlogging-channel/"><u>New In This Article Let Me Share with You How to Start a Vlog? Ideas and Any Tips for You to Start Your Own Vlogging Channel</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-guide-to-10-must-have-ig-video-editing-tools/"><u>The Ultimate Guide to 10 Must-Have IG Video Editing Tools</u></a></li>
 </ul></div>
 
