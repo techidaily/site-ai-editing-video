@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Step by Step to Crop Videos Using Lightworks
-date: 2025-01-16T19:38:47.871Z
-updated: 2025-01-24T11:31:59.993Z
+date: 2025-01-25T21:28:35.814Z
+updated: 2025-01-31T22:28:28.763Z
 tags: 
   - ai
   - animation videos
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 Video cropping refers to delete unwanted parts from your videos with software like Lightworks. It is also known as clipping which ultimately result in cutting off something, cropping or reducing an image. The very important question here is how to crop video in lightworks?
 
 Video cropping can be done with the help of various methods, some are free while others are paid. Here we will discuss about both the methods which you can choose one to get rid of unwanted portions from your videos or photos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## About Lightworks
 
@@ -37,6 +41,10 @@ Step 2: After importing your videos into Lightworks, you can now proceed towards
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-3.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: How to crop videos using the DVE tool? You can now go to the ‘Crop’ option under the DVE tab and move your cursor over any unwanted portion of the video and click-and-drag it down and in the right direction. This will distort and stretch the video to remove that particular portion from there while preserving its overall appearance and quality.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-4.jpeg)
@@ -123,10 +131,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step-by-step on how to crop videos using Filmora?
 
 Step 1: Open a video that you want to edit.
@@ -189,10 +193,6 @@ Step 1: Open a video that you want to edit.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-5.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Open the Filmora editing tool and select the "Crop and Zoom" icon.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-6.jpeg)
@@ -211,15 +211,7 @@ Step 2: After importing your videos into Lightworks, you can now proceed towards
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-2.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-3.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: How to crop videos using the DVE tool? You can now go to the ‘Crop’ option under the DVE tab and move your cursor over any unwanted portion of the video and click-and-drag it down and in the right direction. This will distort and stretch the video to remove that particular portion from there while preserving its overall appearance and quality.
 
@@ -327,6 +319,10 @@ When it came to design, I previously relied on a combination of Adobe Illustrato
 
 We choose to disregard it. But I decided to give it another shot about two or three years ago, and this time I was impressed enough to switch PicMonkey out for it in my collection of editing tools. Canva had added a large number of features that made the program simpler to use and gave users the ability to accomplish more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Promo
 
 Promo has a wonderful look that pops. You may build quick video intros for your social media or YouTube channel by using their intro maker, and then post and share them on your social networks afterwards. Promo.com provides filmmakers and video editors with high-quality professional video clips, royalty-free music, adjustable video templates, bespoke text, and logos, and more through their monthly membership programs. You may utilize Promo to create videos in a variety of orientations and forms, including horizontal, vertical, square, and even banner films.
@@ -336,10 +332,6 @@ To summarize, Promo is a video maker that has an impressive design and allows fo
 ![promo intro maker](https://images.wondershare.com/filmora/article-images/promo-youtube-maker.jpg)
 
 Promo.com is my one-stop-shop for all of my business promotional videos because it offers a variety of video ad templates that I can easily edit on my browser without the need for any program, and they also offer a great selection of stock footage and text overlay options to make the videos look more professional. Promo.com has a lot of awesome templates for a bunch of different categories.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Filmora
 
@@ -364,10 +356,6 @@ The readers of this post have been provided with a list of many free online 3D i
 A video intro is a brief introduction, typically lasting between 5 and 15 seconds, that introduces your video, YouTube channel, or brand. Video intros are becoming increasingly popular. It is often the first occasion on which a viewer will have the chance to interact with the content you produce.
 
 Because of this, it has the power to attract attention from the very beginning and to develop trust in the company or product that you are promoting. It goes without saying that this is one of the most critical factors to consider when trying to attract and connect with your desired audience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. What are some good intro makers?
 
@@ -405,10 +393,6 @@ To summarize, Promo is a video maker that has an impressive design and allows fo
 
 Promo.com is my one-stop-shop for all of my business promotional videos because it offers a variety of video ad templates that I can easily edit on my browser without the need for any program, and they also offer a great selection of stock footage and text overlay options to make the videos look more professional. Promo.com has a lot of awesome templates for a bunch of different categories.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Filmora
 
 If you're worried about how challenging and time-consuming it will be to create the ideal video introduction, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will put those worries to rest. You can finish your introduction in record time thanks to iStock and Shutterstock's vast libraries of high-quality stock films, photos, and music, as well as their ability to create fully adjustable titles and more than 5000 intro themes.
@@ -438,6 +422,10 @@ The readers of this post have been provided with a list of many free online 3D i
 It is no secret that videos are a powerful marketing tool. In fact, studies have shown that including video on a landing page can increase conversion rates by up to 80%.
 
 ![Powerful Marketing Tool ](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Powerful Marketing Tool
 
@@ -491,6 +479,10 @@ Strong Hook
 
 ![Attention-Grabbing Headline](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Attention-Grabbing Headline
 
 You only have a few seconds to make a strong impression. Use a strong wisely and you'll soon see your sales start to climb.
@@ -511,10 +503,6 @@ When creating a video that is designed to convert viewers into paying customers,
 
 Focus on the Viewer
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Use Persuasive Language
 
 There's no denying it – persuasive language is a powerful tool for sales. By speaking in a way that encourages your audience to take action, you can convince them to buy your product or service. And when it comes to sales, every little bit counts.
@@ -524,6 +512,10 @@ But what exactly is persuasive language? In essence, it's a way of speaking that
 So how can you use it effectively in your own sales pitches? Here are 35 words customers love to hear when making a decision:
 
 ![Use Persuasive Language](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use Persuasive Language
 
@@ -596,6 +588,10 @@ Sales videos are all about encouraging potential customers to buy a product or s
 
 ![Sales videos](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sales videos
 
 A sales video is a powerful tool that can help you to generate sales leads and close more deals. By providing potential customers with an overview of your products or services, you can give them the information they need to make an informed purchase decision. In addition, a sales video can help to build trust and credibility with your audience. By featuring testimonials from satisfied customers, you can show potential buyers that your products or services deliver on their promises.
@@ -628,15 +624,15 @@ Once you know who your target audience are, then it’s time for you to create a
 
 Target Audience
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Start with a Strong Hook
 
 A strong hook is the key to creating a video that converts into sales. You have to make sure that your video is engaging and informative, while also offering something that viewers can't find elsewhere. A good hook will grab attention and keep viewers engaged throughout the entire video. There are a few different things you can do to create a strong hook for your video such as:
 
 ![Strong Hook](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Strong Hook
 
@@ -645,6 +641,10 @@ Strong Hook
 * Targeting the most common pain of your audience.
 
 ![Attention-Grabbing Headline](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Attention-Grabbing Headline
 
@@ -666,6 +666,10 @@ When creating a video that is designed to convert viewers into paying customers,
 
 Focus on the Viewer
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Use Persuasive Language
 
 There's no denying it – persuasive language is a powerful tool for sales. By speaking in a way that encourages your audience to take action, you can convince them to buy your product or service. And when it comes to sales, every little bit counts.
@@ -675,10 +679,6 @@ But what exactly is persuasive language? In essence, it's a way of speaking that
 So how can you use it effectively in your own sales pitches? Here are 35 words customers love to hear when making a decision:
 
 ![Use Persuasive Language](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Use Persuasive Language
 
@@ -759,14 +759,16 @@ Wrap Up
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-ensuring-permanent-absence-from-tiktok-platform/"><u>[New] Ensuring Permanent Absence From TikTok Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722887227163-cutting-costs-on-youtube-premium-heres-how-students-can-save/"><u>Cutting Costs on YouTube Premium? Here's How Students Can Save</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-guide-for-2024/"><u>How To Quickly Create A Screen Print Effect In Photoshop Detailed Guide for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y27s to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-should-i-switch-from-iphone-to-google-pixel-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Should I Switch From iPhone To Google Pixel? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-the-ultimate-guide-to-make-a-text-collage/"><u>In 2024, The Ultimate Guide to Make a Text Collage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/which-is-superior-in-media-management-vlc-or-mx/"><u>Which Is Superior in Media Management VLC or MX?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-separate-worlds-of-nlp-ml/"><u>Exploring the Separate Worlds of NLP, ML</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ios-10-updates-unveiled-explore-the-enhanced-lockscreen-features/"><u>IOS 10 Updates Unveiled: Explore the Enhanced Lockscreen Features</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713950874876-looking-for-the-simple-steps-to-add-transition-effects-in-your-video-we-will-illustrate-how-to-add-transition-in-filmora-and-mention-tips-and-tricks-for-vid/"><u>Looking for the Simple Steps to Add Transition Effects in Your Video? We Will Illustrate How to Add Transition in Filmora and Mention Tips and Tricks for Video Transition Effects for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-crowned-at-2021-witsas-ict-summit/"><u>Mondly Crowned at 2021 WITSA's ICT Summit</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-realme-11x-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Realme 11X 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-a-video-on-vimeo/"><u>Updated 2024 Approved How to Loop a Video on Vimeo?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-way-to-color-grading-and-color-correction-in-filmora-for-2024/"><u>Updated Best Way To Color Grading & Color Correction in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-frame-rate-for-4k-video/"><u>Updated In 2024, Best Frame Rate for 4K Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/windows-11-mov-to-avi-conversion-tutorial-for-2024/"><u>Windows 11 MOV to AVI Conversion Tutorial for 2024</u></a></li>
 </ul></div>
 

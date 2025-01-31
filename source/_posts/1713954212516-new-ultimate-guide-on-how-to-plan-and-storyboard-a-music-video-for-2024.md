@@ -1,7 +1,7 @@
 ---
 title: New Ultimate Guide on How To Plan and Storyboard a Music Video for 2024
-date: 2025-01-21T23:52:24.778Z
-updated: 2025-01-23T19:21:42.829Z
+date: 2025-01-27T19:04:01.759Z
+updated: 2025-01-31T23:11:13.693Z
 tags: 
   - ai
   - animation videos
@@ -65,10 +65,6 @@ Once you have an idea of what you want your music video to be about, you can put
 
 ![treatment of the plan](https://images.wondershare.com/filmora/article-images/2023/04/treatment-of-the-plan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the artist approves the direction of the video, it's time to move on to storyboarding!
 
 ## Storyboard your music video
@@ -93,13 +89,13 @@ After doing your storyboarding on paper, take photos of each shot in a sequence 
 
 ![take pictures of the sketch](https://images.wondershare.com/filmora/article-images/2023/04/take-pictures-of-the-sketch.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Before going to the next step, make sure to download **Wondershare Filmora**. It is powerful editing software that can help you easily make a storyboard. With its wide range of features, you can also customize your clips with special effects, transitions, and more.
 
 ![filmora logo](https://images.wondershare.com/filmora/article-images/2023/04/filmora-logo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -165,15 +161,15 @@ Now import all the scenes and music to Filmora. You can also create separate fol
 
 ![importing song and scene pictures to filmora](https://images.wondershare.com/filmora/article-images/2023/04/importing-song-and-scene-pictures-to-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4Drop your media onto the timeline
 
 Drag and drop the song to the audio timeline. Then press shift, select all images, and drop them into the picture timeline. If you realize you are missing enough clips to complete the song, you can draw and add more shots.
 
 ![dropping song and pictures into the timeline](https://images.wondershare.com/filmora/article-images/2023/04/dropping-song-and-pictures-into-the-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step5Adjust the frame
 
@@ -235,6 +231,10 @@ Have you ever used [**Adobe Premiere Pro**](https://www.adobe.com/products/premi
 
 **Adobe Premiere Pro** also allows you to color-correct the videos. You can adjust the elements such as saturation, contrast, hue, and brightness. Furthermore, you can add different types of blur effects, including the Gaussian blur effect. You can also add further alterations to your video file by adding text overlays and other graphics elements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Add Gaussian Blur Effect Using Premiere Pro
 
 Are you eager to know how to use **Adobe Premiere Pro for Gaussian blur**? Read this section to find out the authentic yet easy steps to create the Gaussian blur effect using Premiere Pro:
@@ -242,10 +242,6 @@ Are you eager to know how to use **Adobe Premiere Pro for Gaussian blur**? Read 
 Step1 Proceed to Adobe Premiere Pro tool and upload the video in which you want to add the Gaussian blur effect. Afterward, double-click on the Project Media window and select "New Item." From there, click on "Adjustment Layer."
 
 ![choose the adjustment layer](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 On the menu of the Adjustment Layer, change the timebase to 60 FPS. Press the “OK” button to proceed. Now add the created adjustment layer to the timeline right above the video clip. Extend it according to the video clip.
 
@@ -259,16 +255,16 @@ Step4 To create animation, copy your video clip and paste it above the adjustmen
 
 ![search for crop effect](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 Add a new keyframe and then change the “Top” to 100%. After rendering the video, you can see the final results in the preview window.
 
 ![set the top value to 100](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative to Premiere Pro to Create Gaussian Blur Effect
@@ -322,7 +318,7 @@ Begin by launching Filmora enhanced video editor on your PC or MacBook. Now clic
 ![create a new filmora project](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2 Search for Square Blur
@@ -330,6 +326,10 @@ Begin by launching Filmora enhanced video editor on your PC or MacBook. Now clic
 Following this, drag and drop the imported video on the timeline of Filmora. Afterward, head to the “Effects” tab and search for "Square Blur." From the results, select Square Blur and apply it to your video clip in the timeline.
 
 ![search for square blur](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3 Adjust the Blur Settings
 
@@ -379,10 +379,6 @@ Below is a list of requirements any electronic device should fulfill before bein
 
 ![requirements of 4k videos](https://images.wondershare.com/filmora/article-images/4k-video-requirements.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * A resolution of not less than 3840\*2160.
 * A 10-bit color depth that allows for 1,024 shades of red, yellow, and blue.
 * A high dynamic range for color accuracy.
@@ -407,6 +403,10 @@ Most filmmakers and videographers see it fit to shoot videos in 120p or 4K. This
 Below are some factors you should consider when choosing the best frame rate for a 4k video.
 
 ![factors for choosing frame rate for videos](https://images.wondershare.com/filmora/article-images/factors-for-choosing-frame-rate.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### File size
 
@@ -479,10 +479,6 @@ Step1 Launch the platform on your device and select the "File" tab. After a drop
 Step2 In the dialogue box, select "Frame Rate" and choose the frame rate you think is ideal for your video.
 
 ![export video frame rate](https://images.wondershare.com/filmora/guide/video-and-audio-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Click "OK" and edit the videos as you like.
 
@@ -584,10 +580,6 @@ But it’s not just about transporting subjects to new locations. A green screen
 
 The magic of green screens is everywhere, bridging the gap between imagination and reality. With the rise of accessible technology and software, what was once restricted to big-budget studios is now at the fingertips of anyone with a camera, a green cloth, and a vision. And with the platforms we're about to delve into, sourcing green screen mobile frame HD content has never been easier. So, ready to jump into this world?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part2: Free Websites to Download Mobile Phone Green Screen Videos and Pictures
 
 In today's digital age, the demand for high-quality visuals is at an all-time high. Green-screen videos and images can elevate your content, whether you're a budding YouTuber, a professional filmmaker, or someone trying to make a memorable Instagram story. Thankfully, there are numerous platforms where you can find green-screen mobile frame content; even better, they're free! Let’s dive deeper into these treasure troves:
@@ -608,6 +600,10 @@ Videezy stands out for its user-friendly interface and many free green screen vi
 
 One can't discuss free visual content without mentioning Pixabay. This platform is a goldmine for both videos and images. Their collection of background green screen mobile frame assets is extensive. The community-driven nature means there's a diverse range of content, suitable for different cultural and thematic needs. Plus, the no-copyright angle ensures peace of mind.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 05Pexels
 
 Pexels mirrors Pixabay in many ways, offering various video green screen frame content. However, what sets Pexels apart is its emphasis on contemporary and trendy visuals. For those keen on staying ahead of the curve and ensuring their content resonates with younger audiences, Pexels is a go-to resource.
@@ -619,6 +615,10 @@ While it might not have the extensive library of the earlier mentions, Coverr co
 ### 07Shutterstock
 
 Typically, Shutterstock would be the last place to look for free content. Known for its premium offerings, the platform occasionally throws in some freebies. It's like a lucky draw. When you find a green screen frame video without the price tag, rest assured, it's a high-quality piece.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part3: Summary
 
@@ -642,17 +642,22 @@ So, there you have it. Green screens are the secret behind those cool videos whe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-harness-your-contents-potential-with-ideal-post-days/"><u>[New] 2024 Approved Harness Your Content's Potential with Ideal Post Days</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-professional-window-capturer-version-11-for-2024/"><u>[New] Professional Window Capturer - Version 11 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-motion-with-precision-how-to-choose-between-30-and-60fps-for-2024/"><u>[Updated] Capturing Motion with Precision How to Choose Between 30 and 60Fps for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-maximizing-videography-with-youtubes-creative-commons/"><u>[Updated] In 2024, Maximizing Videography with YouTube's Creative Commons</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/duplizieren-von-windows-11-partitionen-auf-ssd-techniken-und-methoden/"><u>Duplizieren Von Windows 11 Partitionen Auf SSD - Techniken Und Methoden</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/guide-saving-your-favorite-twitch-streams-by-downloading-past-broadcasts/"><u>Guide: Saving Your Favorite Twitch Streams by Downloading Past Broadcasts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-to-mimic-professional-filming-gears-for-2024/"><u>How to to Mimic Professional Filming Gears for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Bootloader Easily</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-by-ste/"><u>In 2024, Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-if-you-want-to-know-what-to-prepare-and-how-to-make-the-wedding-video-perfect-for-videographers-check-out-this-menu-here/"><u>New If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-gui/"><u>Updated How To Quickly Create A Screen Print Effect In Photoshop Detailed Gui</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-simplified-guide-for-iphones-voice-capture-feature-for-2024/"><u>[New] Simplified Guide for iPhone's Voice Capture Feature for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-amped-arcs-and-zigzags-in-olympic-speed/"><u>[Updated] 2024 Approved Amped Arcs & Zigzags in Olympic Speed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pinnacle-ai-editmaster-for-stunning-images/"><u>[Updated] 2024 Approved Pinnacle AI EditMaster for Stunning Images</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-thi/"><u>2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easy-steps-to-send-your-kindle-e-books-to-buddies/"><u>Easy Steps to Send Your Kindle E-Books to Buddies!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora-for-2024/"><u>Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-hot-40i-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Hot 40i.</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/hyperlapse-vs-timelapse-videos-for-2024/"><u>Hyperlapse VS Timelapse Videos for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-download-free-youtube-pics-and-templates/"><u>In 2024, Download Free YouTube Pics & Templates</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-realme-gt-3-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Realme GT 3 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-youtube-intro-for-2024/"><u>New How To Create A YouTube Intro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>New How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-checklist-pre-purchase-considerations-for-desktops/"><u>The Ultimate Checklist: Pre-Purchase Considerations for Desktops</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/4-youtube-gaming-video-ideas-to-boost-gaming-channels-for-2024/"><u>Top 14 YouTube Gaming Video Ideas to Boost Gaming Channels for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-zoom-video-in-vlc-media-player/"><u>Updated 2024 Approved How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-waveform-generator/"><u>Updated In 2024, Best Audio Waveform Generator</u></a></li>
 </ul></div>
 

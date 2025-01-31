@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Loop a Video on Android
-date: 2025-01-23T06:08:10.451Z
-updated: 2025-01-23T20:18:32.540Z
+date: 2025-01-29T18:34:33.319Z
+updated: 2025-01-31T20:55:36.756Z
 tags: 
   - ai
   - animation videos
@@ -21,10 +21,6 @@ Looping a video on Android is a great way to watch your favorite shows or movies
 
 Looping a video on Android can be helpful for several reasons. First, it's just plain fun to watch a video over and over again! Your phone doesn't have to work as hard to keep the video playing. This means that your battery life will last longer and you'll be able to use your phone more often without worrying about it running out of battery life quickly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Steps to Loop a Video on Android
 
 Looping videos can also come in handy when trying to find something specific in a series of videos. For example, if you want to see how long it takes before someone gets hit by a car while crossing the street, then looping through the first few seconds of each clip might help find exactly what you're looking for!
@@ -42,6 +38,10 @@ You can install it from the play-store after installation opens the app. You can
 After selecting the video, you can trim your video or select the duration of your video. Suppose you have a video of 30 seconds so you can also make that video of 1 minute.
 
 ![crop the video duration android](https://images.wondershare.com/filmora/article-images/2022/11/crop-the-video-duration-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3 Select the loop option
 
@@ -68,6 +68,10 @@ Step1 Install a program like Final Cut Pro or Filmora. These programs allow you 
 Step2 Get started by choosing a period and location this will help you decide what kind of scenery will make sense for your scene. The longer the period, the more important it is to pick one that has a lot of natural light. If there are no natural light sources available, consider shooting on an overcast day or at night instead.
 
 Step3 Next, choose what type of camera angle works best for showing off your subject matter; this could be static shots or moving ones that mimic motion through time or space. Also, consider how far away from your subject matter you want viewers to see them from before deciding on which angle works best for showing both sides equally well without making either side too large.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Benefits of editing time-lapse on computer
 
@@ -112,7 +116,7 @@ After selecting the video place it on a timeline or drop it on the timeline. If 
 ![put the vido on the timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4 Customize the video
@@ -151,23 +155,19 @@ After selecting the video place it on a timeline or drop it on the timeline. If 
 
 ![put the vido on the timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4 Customize the video
 
 You can add different effects to your video. You can select a title page according to your choice or select any transition.
 
 ![customize the video](https://images.wondershare.com/filmora/guide/add-and-customize-overlays-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step5 Set duration and export it
 
 Set the duration of your video, you can also trim your video or set the time of each clip. Lastly, export the video to your desktop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -237,7 +237,7 @@ This is an empty background clip. This clip includes only background settings wi
 Once the shots have been taken, we move towards editing these clips, and for this purpose, we are using Filmora. Here is a step-by-step guide for editing these shots.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps To Edit These Clips
@@ -307,6 +307,10 @@ Step7 Find the point where the subject starts to descend toward the floor. Cut t
 Step8 Move the clip next to the freeze frame clip.
 
 ![borax fx effect](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-6.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Keyframing**
 
@@ -383,10 +387,6 @@ Before we discuss the complete process of creating the print effect while using 
 * **Fonts**: You can also add fonts to the final image to add your ideas or thoughts, making your final project more eye-catching and engaging.
 * **Photoshop latest version:** For this tutorial, we will use the Photoshop CC 2021 version, so make sure to download and install it to your computer immediately!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What Are The Steps To Create Print Effect in PhotoShop?
 
 Now that you know the necessary resources, the following are the **steps to create the print effect in Photoshop**:
@@ -398,6 +398,10 @@ Step1 Launch the[Photoshop](https://www.adobe.com/products/photoshop.html) progr
 Now, click the **“File”** option in the top toolbar, and from the drop-down menu, select **“Open.”** Next, choose the image you want to apply the screen print effect by browsing to its location on your computer.
 
 ![click the file option](https://images.wondershare.com/filmora/article-images/2023/01/adding-object-image-in-photoshop-to-create-screen-print-effect.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Next, click the **“Lasso”** tool from the left-side menu to create the selection around the object in the image.
 
@@ -426,6 +430,10 @@ Next, drag the handles to adjust the size of the object on the Background image.
 Step6 Click the **“T”** icon from the left-hand side menu and set the font style, color, and size. You can also click the **“3D”** option to convert your text to a three-dimensional form.
 
 ![click t icon](https://images.wondershare.com/filmora/article-images/2023/01/adding-text-to-the-canvas-in-photoshop.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Try removing the left-out white patches on the object using the **“Magic Eraser Tool”** to give a polished look to the print screen effect. Once you are satisfied, click the **“File”** option from the top toolbar panel and select **“Save As.”**
 
@@ -457,10 +465,6 @@ If you are a video creator, there are times when you have to loop a video. This 
 
 If you are a macOS user, you can use iMovie to loop your video. iMovie comes pre-install on macOS devices. iMovie happens to be one of the most preferred video editors among beginners. In fact, iMovie comes pre-installed on iPhones and iPads. You can easily loop your video on your mobile devices as well. We will illustrate how to loop a video on iMovie on iPhone as well as on Mac.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. How to loop a video on iMovie iPhone
 
 iMovie by Apple comes pre-installed on iPhone and iPad. Naturally, it is one of the most widely used video editors by iPhone users. iMovie app has options for basic and even advanced levels of video editing. Looping a video on iMovie involves a few simple steps that everyone can perform easily. Here are the steps on how to loop a video in the iMovie app on your iPhone.
@@ -475,10 +479,6 @@ Step3 Tap on New Project “+” icon and select the Movie option to get started
 
 ![make a movie project imovie](https://images.wondershare.com/filmora/article-images/2022/11/make-a-movie-project-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 You should tap on the Video option and select the video that you want to put into a loop. After selecting a video, tap on Create Movie option.
 
 ![tap create movie imovie](https://images.wondershare.com/filmora/article-images/2022/11/tap-create-movie-imovie.jpg)
@@ -490,6 +490,10 @@ Step5 Tap on the video on the timeline to select the video and tap on the Duplic
 Step6 Once you are done with the iMovie loop, tap on the Done option located in the top-left corner. Thereafter, tap on the Share icon at the bottom.
 
 ![done video loop imovie](https://images.wondershare.com/filmora/article-images/2022/11/done-video-loop-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step7 You will get a pop-up where you have to tap on the Save Video option. The edited video will be saved on your iPhone. You can open the new video from the Photos app.
 
@@ -517,10 +521,6 @@ Step5 Once you are done, go to File> Share> File option. Choose the destination 
 
 ![share video files imovie mac](https://images.wondershare.com/filmora/article-images/2022/11/share-video-files-imovie-mac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. iMovie Alternative to Loop Videos on Mac
 
 If you are looking for an iMovie alternative to perform iMovie loop video action easily, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora is available for both Mac and Windows. Filmora is a better video editor than iMovie. It is a premium video editor and it has more features and functionalities.
@@ -539,6 +539,10 @@ Step2 Drag and drop the video file from Finder on Mac to the Project Media folde
 
 ![drag and drop video file to project media](https://images.wondershare.com/filmora/guide/split-video-mac-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips. Besides, make sure that they are on the same channel for looping. You can drag and drop the video into the timeline multiple times.
 
 ![drag and drop video clip into timeline again](https://images.wondershare.com/filmora/guide/cut-video-mac-02.jpg)
@@ -554,10 +558,6 @@ If you want to loop a video on your Mac, iMovie is the most preferred option. Th
 Step1 Download and install Wondershare Filmora. Launch Filmora and click on New Project on the welcome screen.
 
 ![download and install wondershare filmora](https://images.wondershare.com/filmora/guide/startup-window-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Drag and drop the video file from Finder on Mac to the Project Media folder on Filmora. Thereafter, drop the video file into the timeline.
 
@@ -591,16 +591,22 @@ If you want to loop a video on your Mac, iMovie is the most preferred option. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-compreous-guide-to-recording-and-securing-periscope-videos/"><u>[Updated] 2024 Approved A Compreous Guide to Recording & Securing Periscope Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-bridge-the-gap-instagram-meets-tiktok-for-2024/"><u>[Updated] Bridge the Gap Instagram Meets TikTok for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convenient-cleanup-integrating-uninstall-shortcuts-into-wins-interface/"><u>Convenient Cleanup: Integrating Uninstall Shortcuts Into Win's Interface</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gems-in-this-understated-asus-laptop-a-creatives-dream-revealed/"><u>Discover the Hidden Gems in This Understated Asus Laptop - A Creative's Dream Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-for-resolving-no-device-driver-detected-errors/"><u>Guidelines for Resolving No Device Driver Detected Errors</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-evaluating-the-benefits-of-instagrams-selfie-credentials/"><u>In 2024, Evaluating the Benefits of Instagram’s Selfie Credentials</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210816454-9781644118672-runes-for-the-green-witch/"><u>Runes for the Green Witch | Free Book</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamline-recorder-quality-test/"><u>[Updated] 2024 Approved StreamLine Recorder Quality Test</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snap-sharing-made-simple-camera-roll-to-social-now/"><u>[Updated] In 2024, Snap Sharing Made Simple Camera Roll to Social Now</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-/"><u>2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-honor-play-8t-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Honor Play 8T to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/comprehensive-guide-to-permanently-sever-tiktok-connection/"><u>Comprehensive Guide to Permanently Sever TikTok Connection</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/discover-a-quick-guide-to-add-personalized-video-filters-in-vn-app-learn-how-to-use-built-in-filters-and-import-external-ones-for-creative-video-editing-for/"><u>Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-this-article-to-/"><u>Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y200e-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y200e 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hear-the-game-of-thrones-in-your-phone-top-sites-listed/"><u>Hear the Game of Thrones in Your Phone - Top Sites Listed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-methods-to-cut-video-in-vlc-on-windows/"><u>In 2024, 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-detailed-guide-to-rotate-videos-in-blender/"><u>In 2024, Detailed Guide to Rotate Videos in Blender</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-speaker-driver-pack-for-logitech-devices-on-windows-10-7-and-8/"><u>Latest Speaker Driver Pack for Logitech Devices on Windows 10, 7 & 8</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-6-websites-to-free-download-motivational-video-footage/"><u>Updated In 2024, 6 Websites to Free Download Motivational Video Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-x100-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo X100? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

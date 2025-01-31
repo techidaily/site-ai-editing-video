@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, 3 Best Effects to Appear on Camera
-date: 2025-01-17T09:25:19.828Z
-updated: 2025-01-24T05:25:00.136Z
+date: 2025-01-24T21:59:04.040Z
+updated: 2025-01-31T19:10:23.627Z
 tags: 
   - ai
   - animation videos
@@ -45,10 +45,6 @@ Step4 Now split the first clip on the frame where your jacket lands on the stool
 
 ![split the first clip on the frame](https://images.wondershare.com/filmora/article-images/2022/12/appearance_4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 Trim the second shot until the talents start acting and place it on the second track to match the first clip.
 
 ![trim the second shot](https://images.wondershare.com/filmora/article-images/2022/12/appearance_5.jpg)
@@ -58,6 +54,10 @@ Step5 Trim the second shot until the talents start acting and place it on the se
 Step1 This effect is the easiest. You need to film the empty plate with just a background. Then let the talent enter the frame and jump into the place.
 
 ![let the talent enter the frame](https://images.wondershare.com/filmora/article-images/2022/12/appearance_6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Now import the clip into Filmora and place it onto the first video track.
 
@@ -142,10 +142,6 @@ There are several fantastic camera effects that you can experiment with in your 
      data-ad-slot="1223367746"></ins>
 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Simple Methods for Making a High-Quality Recap Video
 
 Recap videos are a great way to capture the highlights of an event and share them with a wider audience. Whether you're a professional videographer or a hobbyist, creating a recap video can be a fun and rewarding experience. But with so many different techniques and approaches, knowing where to start can be challenging.
@@ -153,10 +149,6 @@ Recap videos are a great way to capture the highlights of an event and share the
 In this article, we'll explore four methods for making a recap video to help you capture the essence of your event and keep your audience engaged. From planning and scripting to shooting and editing, we'll cover all the key steps in creating a high-quality recap video. Whether a seasoned pro or a beginner, you can find something valuable in this guide.
 
 ![how to make recap video](https://images.wondershare.com/filmora/article-images/recap-video.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1\. How To Make a Recap Video from Scratch Using Filmora for Desktop
 
@@ -181,16 +173,12 @@ Step3 **Drag and drop** media like clips, overlay, and tracks to the timeline
 ![filmora add media](https://images.wondershare.com/filmora/article-images/drag-new-year-book-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 **Import** photos and videos.
 
 ![filmora import clips](https://images.wondershare.com/filmora/article-images/drag-recap-files-to-edit.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 **Add** the imported media and **edit** the clip.
 
@@ -221,6 +209,10 @@ Step3 **Drag** your footage onto the timeline, and when prompted, **select** "**
 Step4 **Customize** the texts in the template to match the details of your event.
 
 Step5 **Preview** the final result in the player window, and if satisfied, **click** "**Export**" and **adjust** the output settings in the "**Output Settings**" window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3\. How to Create an End-of-Year Recap Video With Filmora for Mobile
 
@@ -253,10 +245,6 @@ Step6 Users can **share** the video on social platforms or **tap** "**More**" to
 Step7 **Save** the final video to your device
 
 ![filmora mobile save video](https://images.wondershare.com/filmora/article-images/filmora-mobile-save-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4\. How To Create a Memories Recap Video on Instagram Reel
 
@@ -296,6 +284,10 @@ When creating an event recap video, there are key tips to remember to ensure tha
 * **Share it widely**: Share the video on different platforms to reach a wider audience.
 
 By following these tips and working with the right tools and techniques, you can create a video that truly captures the essence of your event and resonates with your audience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -373,6 +365,10 @@ Step4 **Add** your photos and footage to the template, then **tap** "**Go**."
 
 ![filmora mobile add media](https://images.wondershare.com/filmora/article-images/filmora-mobile-add-media.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 **Preview** the output. **Tap** "**Pro Export**"
 
 ![filmora mobile preview](https://images.wondershare.com/filmora/article-images/filmora-mobile-preview.jpg)
@@ -423,10 +419,6 @@ When creating an event recap video, there are key tips to remember to ensure tha
 * **Share it widely**: Share the video on different platforms to reach a wider audience.
 
 By following these tips and working with the right tools and techniques, you can create a video that truly captures the essence of your event and resonates with your audience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -468,6 +460,10 @@ Blending and balancing are the other two parameters that you can modify. You can
 
 The amount of the image that is judged to be in the highlights, shadows, or midtones can be changed with the balance slider. For instance, if I move the balance slider to the right, less of the highlights will show the adjustment. Only the highlights with the highest brightness will be affected by the change.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. HSL/Color Panel
 
 Move to the HSL/Color Panel, which stands for Hue, Saturation, and Luminance, after your image is ready to use. It is located under Tone Curve in the Develop Panel. This adjustment panel, in contrast to the ones stated before, will let you change different colors in your image independently of one another. Hue, Saturation, and Luminance are the three modifications that each color will receive.
@@ -506,6 +502,10 @@ Utilize each panel to practice and experiment. There is no right or wrong method
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Add Scrolling Text Effect
 
 Almost every video has some titles and texts to show to the viewers. Instead of showing static texts on the video, everyone loves to add animated texts so that the video looks attractive and engaging. If you want to show credits and titles in intro and outro of the video, you will usually see texts scrolling vertically on the video.
@@ -538,6 +538,10 @@ Step4 Once you are satisfied with any scrolling text effects, drag and drop it i
 
 ![drag scroll effects timeline filmora](https://images.wondershare.com/filmora/article-images/2022/07/drag-scroll-effects-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Double-click on the text layer on Timeline and customize the text and style as you feel. Thereafter, you can click on Advanced button for more customization. Finally, click on OK button.
 
 ![customize scroll text style filmora](https://images.wondershare.com/filmora/article-images/2022/07/customize-scroll-text-style-filmora.jpg)
@@ -583,10 +587,6 @@ So far, we have mentioned premium video editors to add scrolling effect to the t
 Step1 Install VSDC free video editor and click on New Project option. Click on Finish button and select the video from your hard drive where you want to add text.
 
 ![import video to vsdc](https://images.wondershare.com/filmora/article-images/2022/07/import-video-to-vsdc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Select Type tool from the left panel and draw a box on the video where you can type your text. Make sure the text layer is on top of the video layer in Timeline.
 
@@ -642,10 +642,6 @@ Step1 Launch After Effects and type your text with the Text tool from the top ba
 
 ![select text tool after effects](https://images.wondershare.com/filmora/article-images/2022/07/select-text-tool-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Duplicate the written text by going to Edit> Duplicate.
 
 ![duplicate written text after effects](https://images.wondershare.com/filmora/article-images/2022/07/duplicate-written-text-after-effects.jpg)
@@ -657,6 +653,10 @@ Step3 Move the duplicate text out of the visible screen to the left by changing 
 Step4 Turn on Position option and change the duration and add a keyframe.
 
 ![add key frame after effects](https://images.wondershare.com/filmora/article-images/2022/07/add-key-frame-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Right-click on Composition setting and go to New> Null Object. Change the duration and make it the same as the Duplicate layer and add a keyframe there. Besides, move the null object out of the visible screen to the right.
 
@@ -671,6 +671,10 @@ Step7 Right-click on Pre-comp and go to Time> Enable Time Remapping. Play the vi
 ![enable time remapping after effects](https://images.wondershare.com/filmora/article-images/2022/07/enable-time-remapping-after-effects.jpg)
 
 The above-mentioned steps are for horizontal scrolling text effect. If you want vertical scrolling text After Effects, you have to position the duplicate text and null object vertically and the required text will scroll vertically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Add Scrolling Text Effect with VSDC Free Video Editor
 
@@ -696,10 +700,6 @@ Step5 You will find the mouse pointer change and you have to click on the spot t
 
 ![add scrolling effects vsdc](https://images.wondershare.com/filmora/article-images/2022/07/add-scrolling-effects-vsdc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Shorten the duration of the text layer and then copy the text layer from Timeline. Paste it again and again until you cover the video layer completely so that the scroll effect goes on as long as the video runs.
 
 ![complete scrolling effect vsdc](https://images.wondershare.com/filmora/article-images/2022/07/complete-scrolling-effect-vsdc.jpg)
@@ -724,22 +724,14 @@ Adding scrolling text to your video should no more be an issue for you. If you a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-chortlecraft-funny-visuals-for-social-engagement/"><u>[New] ChortleCraft Funny Visuals for Social Engagement</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-discover-the-leading-5-ps2-android-game-emulators/"><u>[New] In 2024, Discover The Leading 5 PS2 Android Game Emulators</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-enhancing-gift-box-gratification-new-approaches-to-unveiling/"><u>[New] In 2024, Enhancing Gift Box Gratification New Approaches to Unveiling</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-perfect-speech-interpretation-googles-innovative-solution/"><u>[New] In 2024, Perfect Speech Interpretation Google's Innovative Solution</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-unmatched-mac-streaming-discover-the-1-5-tools/"><u>[New] Unmatched Mac Streaming Discover the #1-5 Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-sub/"><u>2024 Approved Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-elevate-your-youtube-live-gameplay-even-when-numbers-are-low/"><u>In 2024, Elevate Your Youtube Live Gameplay – Even when Numbers Are Low</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-canva/"><u>New 2024 Approved How to Add Subtitles in Canva?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-diy-vhs-overlay-in-after-effects-in-2024/"><u>New How to DIY VHS Overlay in After Effects, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-use-rule-of-thirds-in-video/"><u>New In 2024, How to Use Rule of Thirds in Video</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/numerisation-des-documents-juridiques-grace-a-labbyy-pour-le-leader-de-lassurance-sante-publique-allemande/"><u>Numérisation Des Documents Juridiques Grâce À L'ABBYY Pour Le Leader De L'assurance Santé Publique Allemande</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/le-pictures-download-for-free/"><u>Profile Pictures - Download for FREE</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-12-best-free-voip-applications/"><u>Top 12 Best Free VoIP Applications</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-15-best-luts-to-buy/"><u>Updated 2024 Approved 15 Best LUTS to Buy</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-6-websites-to-free-download-motivational-video-footage/"><u>Updated 6 Websites to Free Download Motivational Video Footage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-ideas-for-time-lapse-video/"><u>Updated Ideas for Time-Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-easy-steps-to-create-intro-video-with-after-effects/"><u>Updated In 2024, Easy Steps to Create Intro Video with After Effects</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-blackout-brilliance-minute-edition/"><u>[New] Blackout Brilliance Minute Edition</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-vimeo-playback-velocity/"><u>[New] Enhancing Vimeo Playback Velocity</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-/"><u>2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/discover-a-quick-guide-to-add-personalized-video-filters-in-vn-app-learn-how-to-use-built-in-filters-and-import-external-ones-for-creative-video-editing-for/"><u>Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-this-article-to-/"><u>Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
+<li><a href="https://fox-info.techidaily.com/enhancing-your-mac-installation-manual-for-sierra-version-for-2024/"><u>Enhancing Your Mac Installation Manual for Sierra Version for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smart-picklist-top-value-free-livestream-software-and-apps-reviewed-this-year-for-2024/"><u>Smart Picklist Top Value Free Livestream Software & Apps Reviewed This Year for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-embrace-dxvk-for-a-better-windows-gaming-experience/"><u>Why Embrace DXVK for a Better Windows Gaming Experience?</u></a></li>
 </ul></div>
 

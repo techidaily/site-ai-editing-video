@@ -1,7 +1,7 @@
 ---
 title: Looking for the Steps to Add Transitions Effects in Premiere Pro? Here Are the Steps to Add and Edit Transitions in Premiere Pro and an Alternative Way to Video Transitions for 2024
-date: 2025-01-20T11:07:06.574Z
-updated: 2025-01-24T04:32:14.841Z
+date: 2025-01-30T16:05:55.796Z
+updated: 2025-01-31T17:59:56.418Z
 tags: 
   - ai
   - animation videos
@@ -27,10 +27,6 @@ Step1 Open Adobe Premiere Pro and go to File> Import. Select a video clip from y
 
 ![import video premiere pro](https://images.wondershare.com/filmora/article-images/2022/07/import-video-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Drag the video clip from the Project panel and drop it to Timeline for adding transitions.
 
 ![drop create video sequence](https://images.wondershare.com/filmora/article-images/2022/07/drop-create-video-sequence.jpg)
@@ -47,10 +43,6 @@ Step5 Click and drag the selected transition and drop it to the Timeline and pla
 
 Generally, a video transition is placed in between two video clips so that jumping from one clip to another is seamless. After placing the transition, play the video to check out how it looks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to edit transitions in Premiere
 
 Now that you know how to add transition Premiere Pro, you should also know how to edit the transitions after applying them. This is because when you drag and drop the transition on the Timeline, the transition comes with default duration. You can edit the duration as per your video requirements. Besides, Premiere Pro lets you edit different settings of the video transitions for customization. Here are the steps on how to edit transitions in Premiere.
@@ -62,6 +54,10 @@ Step2 Go to Effect Controls tab located at the top by the side of Effects tab.
 Step3 You will see a mini timeline under Effect Controls and labels A and B denoting the start and end time.
 
 ![effects control panel premiere](https://images.wondershare.com/filmora/article-images/2022/07/effects-control-panel-premiere.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 You can adjust the slider below A label to change the start time of the transition. Similarly, you can change the slider below B label to change the end time of the transition.
 
@@ -97,6 +93,10 @@ Step3 There are different categories of transition effects and drag and drop you
 
 ![drag and drop desired transition](https://images.wondershare.com/filmora/guide/find-transition.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Place the transitions in between video clips and drag the transition as per the duration requirements. Play the video and once you are satisfied, click on Export button to save the video.
 
 ![click on export button](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
@@ -111,9 +111,17 @@ Import all the video clips to Timeline in Premiere. Go to Effects> Video Transit
 
 The transitions are present under Effects tab located at the topmost bar. There are different types of video transitions as well as audio transitions available. If you are looking for how to add text transitions in Premiere Pro, you can type the text and add effects from Graphics tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to add transitions to photos in Premiere Pro?
 
 Adding transitions to photos in Premiere Pro is the same as videos. Therefore, you should import photos to Project panel and drag and drop them to Timeline. Go to Effects> Video Transitions and drop the selected transitions in between the photos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -146,6 +154,10 @@ Import all the video clips to Timeline in Premiere. Go to Effects> Video Transit
 ### Where are the transitions in Premiere Pro?
 
 The transitions are present under Effects tab located at the topmost bar. There are different types of video transitions as well as audio transitions available. If you are looking for how to add text transitions in Premiere Pro, you can type the text and add effects from Graphics tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to add transitions to photos in Premiere Pro?
 
@@ -206,10 +218,6 @@ The tool is a video editing expert, so many professional video editors rely on i
 **Step 1:** To start off with the process, import the video onto the timeline that needs to be edited. Navigate to the top of the screen and select "Effect Controls" to proceed further. Select any specific shape present below the "Opacity" option on the left to add a mask to your clip.
 
 ![add mask on premiere pro](https://images.wondershare.com/filmora/article-images/2023/mask-track-with-adobe-premiere-pro-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** Set the shape according to the person or object you will track by masking. Now, under the “Mask” option, you will see the “Mask Feather” option. Click on “Mask Feather” and adjust it so it won’t look too harsh on the edges.
 
@@ -282,7 +290,7 @@ Mask tracking is handy for adding effects to a moving object in your video. By t
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. What Do You Know About Mask Tracking in Videos?
@@ -316,13 +324,13 @@ The tool is a video editing expert, so many professional video editors rely on i
 
 ![change mask feather and other properties](https://images.wondershare.com/filmora/article-images/2023/mask-track-with-adobe-premiere-pro-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Go to the beginning of the video you are editing, return to the editing section, and look for the “Mask Path” option. Now hit the “Track Selected Masked Forward” button and wait for the system to complete the **Premiere Pro tracking mask** process and save the video.
 
 ![track mask automatically](https://images.wondershare.com/filmora/article-images/2023/mask-track-with-adobe-premiere-pro-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Making Masking Easy with Wondershare Filmora: Reviewing the Details
 
@@ -347,10 +355,6 @@ This part is all about the amazing alternative that you’re looking for. [Wonde
 * [**Speed Ramping**](https://tools.techidaily.com/wondershare/filmora/download/)**:** This feature produces distinctive cinematic effects by managing your keyframes and altering the speed of your film.
 
 ![speed ramping filmora](https://images.wondershare.com/filmora/article-images/2023/mask-track-with-adobe-premiere-pro-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [**AI Thumbnail Creator**](https://tools.techidaily.com/wondershare/filmora/download/)**:** The tool uses AI to create attractive, engaging thumbnails that get the viewers’ attention. You can use different presets to beautify your thumbnail.
 
@@ -416,10 +420,6 @@ When used correctly, a quiz can be a powerful learning tool. But how do you use 
 
 To answer these questions, we've provided some advantages of creating **video quizzes** and some scenarios where you can use them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Advantages
 
 Here are some advantages of **video quizzes:**
@@ -482,6 +482,10 @@ Finally, drag and drop the background video into the timeline.
 
 ![creating quiz video in filmora](https://images.wondershare.com/filmora/article-images/2023/02/creating-quiz-video-in-filmora.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Make An Intro
 
 Now, start by creating an introduction. You can do this by opening the **"Media"** tab, selecting a template, and dropping it in the timeline once it is downloaded.
@@ -495,10 +499,6 @@ To add text to your intro, click on the **text track** in the timeline. Enter th
 Next, add the GK questions and answers to your video using the **"Titles"** tab. You should adjust the display time and text on the timeline as needed.
 
 ![adding quiz media to the timeline](https://images.wondershare.com/filmora/article-images/2023/02/adding-quiz-media-to-the-timeline.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4 Increase Interactivity In Your Quiz Video
 
@@ -591,7 +591,7 @@ Talking about this principle, stop-motion animation is quite common in old anima
 ![stop-motion animation effect](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-games-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: What is Motion Blur in Games? Why Do Games Have It?
@@ -700,10 +700,6 @@ As it opens, select the "Import" icon on the screen to add the gaming video that
 
 ![tap on the import button](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-games-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Add Motion Blur to Gaming Video
 
 Next, you must drag the play head to the point where you wish to add the motion blur effect on the gaming video. As you reach the point, click the “Scissors” icon to split the video. Once it is done, navigate to the "Effects" tab and select "Video Effects" from the left panel. Then, tap on the search bar and continue to search for "Blur." You must drag the first result of this search to the point where you wish to add the motion blur.
@@ -715,6 +711,10 @@ Next, you must drag the play head to the point where you wish to add the motion 
 To smoothen the results, you must look for a transition. Proceed to the "Transitions" tab and look for "Dissolve" from the search bar. With the Dissolve transition in line, drag it onto the timeline in the same position where the motion blur is added. Once done, click the "Export" button and follow the on-screen instructions to export your edited gaming video.
 
 ![export your motion-blurred video](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-games-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -736,18 +736,16 @@ This article has presented a comprehensive overview of **motion blur gaming** an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ndroid-centric-top-downloads-for-youtube-videos-explored-for-2024/"><u>[New] Android-Centric Top Downloads for YouTube Videos Explored for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oneplus-open-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/5peg5pww5o2u5lii5asx77ya5y2h57qn5y2o5li655s16isr5li75p255qe5ywo6z2i5oyh5y2x/"><u>无数据丢失：升级华为电脑主板的全面指南</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726026358635-pc/"><u>無料動画連結ツール:PC用優秀なオプションと簡単操作ガイド</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-audio-plug-ins-for-video-editors/"><u>In 2024, Best Audio Plug-Ins For Video Editors</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-streamlining-media-files-from-xmltxt-to-srt-mastery/"><u>In 2024, Streamlining Media Files From XML/TXT to SRT Mastery</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/insightful-assessment-of-the-pioneer-bdr-xs06-portable-blu-ray-players-functionality-and-performance/"><u>Insightful Assessment of the Pioneer BDR-XS06 Portable Blu-Ray Player's Functionality and Performance</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/learn-how-to-use-3d-camera-tracking-in-adobe-after-effects-and-take-your-skills-to-the-next-level-for-2024/"><u>Learn How to Use 3D Camera Tracking in Adobe After Effects and Take Your Skills to the Next Level for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>New How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-montage-makes-it-easy-to-create-and-share-videos-this-article-will-explain-what-it-can-do-and-show-you-examples-of-movies-that-use-montage/"><u>New Montage Makes It Easy to Create and Share Videos. This Article Will Explain What It Can Do and Show You Examples of Movies that Use Montage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-motion-blur-photo-with-gimp-step-by-step-guide-for-2024/"><u>New Motion Blur Photo With GIMP Step-By-Step Guide for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-gt-neo-5-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme GT Neo 5 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-unraveling-the-mystery-of-phantom-taps-solutions-for-your-apple-watch-troubles/"><u>1: Unraveling the Mystery of 'Phantom Taps': Solutions for Your Apple Watch Troubles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-resource-for-downloading-and-upgrading-canons-mx492-and-mx-series-printer-drivers-on-windows-pcs/"><u>Comprehensive Resource for Downloading and Upgrading Canon's MX492 & MX Series Printer Drivers on Windows PCs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-address-missing-or-damaged-msodll-files/"><u>Comprehensive Solutions to Address Missing or Damaged mso.dll Files</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-smooth-cut-transition-effect/"><u>How to Create a Smooth Cut Transition Effect?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-well-does-the-latest-iphone-14-stack-up-insights-in-depth-analysis/"><u>How Well Does the Latest iPhone 14 Stack Up? Insights In-Depth Analysis.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-15-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 15 without Passcode or Face ID</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swift-strategies-for-iphones-and-freeipodcasts-download-techniques/"><u>In 2024, Swift Strategies for iPhones and FreeiPodcasts Download Techniques</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-phantom-v-fold-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Phantom V Fold FRP Bypass</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-make-timelapse-video-with-imovie/"><u>New 2024 Approved Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-follow-a-few-simple-steps-and-learn-how-to-create-a-professional-glowing-edge-effect-to-your-videos-in-filmora/"><u>New Follow a Few Simple Steps and Learn How to Create a Professional Glowing Edge Effect to Your Videos in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/we-all-know-very-well-that-a-1-second-video-has-several-images-in-a-single-row-even-with-imovie-time-lapse-you-can-create-this-so-without-any-further-ado-le/"><u>We All Know Very Well that a 1-Second-Video Has Several Images in a Single Row. Even with iMovie Time-Lapse, You Can Create This! So, without Any Further Ado, Lets Learn How to Make a Timelapse in iMovie</u></a></li>
 </ul></div>
 

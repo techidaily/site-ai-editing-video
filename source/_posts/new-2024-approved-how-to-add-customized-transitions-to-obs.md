@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Customized Transitions to OBS
-date: 2025-01-22T17:04:21.841Z
-updated: 2025-01-23T21:03:19.325Z
+date: 2025-01-28T16:29:04.434Z
+updated: 2025-01-31T19:25:32.098Z
 tags: 
   - ai
   - animation videos
@@ -51,10 +51,6 @@ Step6 If your video animation has audio, go to Audio Monitoring and select Monit
 
 ![audio monitor output obs](https://images.wondershare.com/filmora/article-images/2022/07/audio-monitor-output-obs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step7 Scroll down and click on Preview Transition button to check if the stinger transition is taking place as expected. You can adjust the transition point and other parameters to get it perfect.
 
 ![preview stinger transition](https://images.wondershare.com/filmora/article-images/2022/07/preview-stinger-transition.jpg)
@@ -62,10 +58,6 @@ Step7 Scroll down and click on Preview Transition button to check if the stinger
 Step8 Finally, click on Ok button and play the video to check out the stinger transition on the big screen.
 
 The steps on how to add a custom transition to Streamlabs OBS are almost similar, and therefore, you can add stinger transition using Streamlabs comfortably.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. OBS Alternative to Add Transitions
 
@@ -80,10 +72,6 @@ We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/film
 Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as per your operating system. Open Filmora and click on New Project option.
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/open-project-02.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Import or drop your video clips under Project Media folder. Then drag and drop them on Timeline and place them sequentially as appropriate.
 
@@ -100,6 +88,10 @@ Step4 Check them out and once you have selected one to apply, drag and drop it i
 Step5 Play the video and click on Export button to save the video.
 
 ## Part 4: Related FAQs about OBS Transitions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I add a transition overlay in OBS?
 
@@ -123,10 +115,6 @@ Step2 Import or drop your video clips under Project Media folder. Then drag and 
 
 ![import or drop video clips](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Go to Transitions tab located at the top of the application screen. You will see different categories of transitions on the left side.
 
 ![go to transitions tab](https://images.wondershare.com/filmora/guide/add-transitions-1.png)
@@ -138,6 +126,10 @@ Step4 Check them out and once you have selected one to apply, drag and drop it i
 Step5 Play the video and click on Export button to save the video.
 
 ## Part 4: Related FAQs about OBS Transitions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I add a transition overlay in OBS?
 
@@ -196,10 +188,6 @@ Step4 Double-click on the text layer to type in your desired text. Reposition th
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Use Premiere Pro to Make Motion Text
 
 Adobe Premiere Pro is one of the most preferred video editors among professionals. Even though Premiere Pro does not come with a vast set of motion text effects, you can download them online and import them to use for the texts in your video. Here are the steps to create text motion graphics on Premiere Pro.
@@ -278,6 +266,10 @@ Step1 Go to Graphics> Essential Graphics and select a motion text effect templat
 
 ![select motion text template premiere](https://images.wondershare.com/filmora/article-images/2022/09/select-motion-text-template-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Double-click on the text to edit the words and type in your text. Go to Essential Graphics panel to customize the text effect parameters as per your requirements.
 
 ![customize text premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/customize-text-premiere-pro.jpg)
@@ -287,10 +279,6 @@ Step3 If you want to edit the animation, select the text layer and go to Effects
 ![adjust key frame premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/adjust-key-frame-premiere-pro.jpg)
 
 Bring the keyframes closer or spread them apart to speed up or slow down. Tweak parameters like? Velocity Controls under different text properties to edit the animation effectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. How to Make Motion Text in After Effects
 
@@ -347,15 +335,15 @@ With many video filter editors available online, choosing the right one can be d
 * [Part 2: Best Alternatives](#part2)
 * [Part 3: Summary](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Top 5 Free Online Video Filter Editors
 
 ### Veed.io
 
 ![filter online4](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Veed.io is more than just an online video editor. This platform is designed with the user in mind, ensuring a hassle-free experience as they navigate its diverse video editing tools. One of the standout features is, undoubtedly, its video filter capabilities.
 
@@ -374,6 +362,10 @@ One of the commendable aspects of Veed.io is its commitment to transparency. Use
 ### Clideo
 
 ![filter online1](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Clideo is a multifaceted online video editing solution that caters to a broad spectrum of editing needs.
 
@@ -431,13 +423,13 @@ Absolutely, users can enjoy filter functions for free.
 
 **Disadvantages:** Limited advanced editing options in the free version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Kapwing
 
 ![filter online2](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 KAPWING has swiftly carved its niche in the world of online video editing, offering a unique blend of simplicity and versatility. Beyond just a video editor, KAPWING is a creative toolkit that empowers users to bring their video visions to life with ease.
 
@@ -503,10 +495,6 @@ One of the commendable aspects of Veed.io is its commitment to transparency. Use
 
 ![filter online1](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Clideo is a multifaceted online video editing solution that caters to a broad spectrum of editing needs.
 
 Whether you're looking to merge clips, resize videos for various platforms, or infuse creativity with video filters, Clideo offers a comprehensive toolkit.
@@ -523,9 +511,17 @@ Yes, the filter function can be tested without any charges.
 
 **Disadvantages** **:** Limited filters in the free version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Flixier
 
 ![filter online3](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Flixier emerges as a dynamic online video editing platform, aiming to bridge the gap between advanced editing tools and user accessibility.
 
@@ -647,6 +643,10 @@ Step4 Next, double-click on the clip and check out the effects menu at the top o
 
 ![effects menu](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Open the preset drop-down menu. There will be a lot of presets with different colors. Select the preset you want to use. In this scenario, let us select Just Blue.
 
 ![select the preset](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-6.jpg)
@@ -654,6 +654,10 @@ Step5 Open the preset drop-down menu. There will be a lot of presets with differ
 Step6 If you see a blue tint at a place or object which you want to be white and black, click on the first color.
 
 ![first color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step7 Now adjust the range slider to decrease the number of unwanted tints.
 
@@ -729,10 +733,6 @@ Step6 If you see a blue tint at a place or object which you want to be white and
 
 ![first color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step7 Now adjust the range slider to decrease the number of unwanted tints.
 
 ![adjusting the range slider](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-8.jpg)
@@ -799,24 +799,18 @@ Follow all the steps in the correct order. This is how you can use NewBlue effec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-in-stream-ad-configurations-on-facebook-for-peak-performance/"><u>[New] 2024 Approved Mastering In-Stream Ad Configurations on Facebook for Peak Performance</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ommand-center-redefined-your-pathway-through-studio/"><u>[New] Command Center Redefined Your Pathway Through Studio</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-enchanting-eloquence-exploring-the-top-8-storytelling-haunts-for-2024/"><u>[New] Enchanting Eloquence Exploring the Top 8 Storytelling Haunts for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-track-mattes-the-ultimate-guide-for-after-effects/"><u>2024 Approved Track Mattes The Ultimate Guide For After Effects</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-halo-your-ultimate-companion-for-a-deep-dive-into-advanced-health-tracking/"><u>Amazon Halo - Your Ultimate Companion for a Deep Dive Into Advanced Health Tracking</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-recording-advice-macbooks-camera-insights/"><u>Essential Recording Advice MacBook's Camera Insights</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/explore-the-wonders-of-smart-home-automation-with-the-newly-released-amazon-echo-show-10-gen-3-a-hands-free-review/"><u>Explore the Wonders of Smart Home Automation with the Newly Released Amazon Echo Show 10 (Gen 3) – A Hands-Free Review!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-film-a-slow-motion-video/"><u>How To Film a Slow Motion Video</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-storm-5g-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Storm 5G PIN</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-your-guide-to-flawless-solo-livestreaming-operations/"><u>In 2024, Your Guide to Flawless, Solo Livestreaming Operations</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>New 2024 Approved Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-a-guide-to-create-your-own-lol-montage-video-for-2024/"><u>New A Guide to Create Your Own LOL Montage Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-on-using-filmora-green-screen/"><u>New In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-loop-a-video-on-android/"><u>New In 2024, How to Loop a Video on Android</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-countdown-video/"><u>New In 2024, Make A Countdown Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/steps-to-fade-audio-in-premier-pro/"><u>Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-powerhouse-new-release-epic-5-with-an-astounding-512mb-l3-cache-and-128-cores/"><u>Unveiling the Powerhouse: New Release Epic 5 with an Astounding 512MB L3 Cache and 128 Cores</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-this-ar/"><u>Updated Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tep-by-step-privacy-adjustments-for-youtube-for-2024/"><u>[New] Step-by-Step Privacy Adjustments for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-picks-free-video-editing-software-to-watch/"><u>[New] Top Picks Free Video Editing Software to Watch</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhance-image-vibrance-and-contrast-in-photoshop/"><u>[Updated] In 2024, Enhance Image Vibrance and Contrast in Photoshop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sifting-through-centuries-online-unlicensed-treasures/"><u>2024 Approved Sifting Through Centuries Online Unlicensed Treasures</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-complete-guide-to-make-a-super-easy-rotating-video-effect/"><u>New 2024 Approved Complete Guide to Make a Super Easy Rotating Video Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>New 2024 Approved How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-add-vhs-effects-to-videos-for-free-a-2024-guide/"><u>New Add VHS Effects to Videos for Free A 2024 Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/passos-faceis-para-salvar-sua-performance-em-jogo-no-windows-com-o-software-de-captura-do-movavi/"><u>Passos Fáceis Para Salvar Sua Performance Em Jogo No Windows Com O Software De Captura Do Movavi</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-media-error-0xc10100be-explained/"><u>Resolving Media Error: 0XC10100be Explained</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rotibox-wireless-earmuffs-assessment-the-ultimate-mix-of-cozy-fashion-and-solid-sound-quality/"><u>Rotibox Wireless Earmuffs Assessment: The Ultimate Mix of Cozy Fashion & Solid Sound Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-audio-connection-sharing-earbuds-between-android-devices/"><u>Seamless Audio Connection: Sharing Earbuds Between Android Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ten-proven-methods-for-correcting-phantom-inputs-on-iphones/"><u>Ten Proven Methods for Correcting Phantom Inputs on iPhones</u></a></li>
 </ul></div>
 

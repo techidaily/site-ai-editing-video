@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved 3 Ways to Create Motion Text Effects for Your Video
-date: 2025-01-21T18:13:38.634Z
-updated: 2025-01-24T12:21:20.167Z
+date: 2025-01-26T18:38:18.277Z
+updated: 2025-01-31T20:32:43.318Z
 tags: 
   - ai
   - animation videos
@@ -111,6 +111,10 @@ Step3 Go to Titles and search for “animation” and you will get all the motio
 
 ![select animation title text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-animation-title-text-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Double-click on the text layer to type in your desired text. Reposition the text layer on the timeline and on the video from Viewer.
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
@@ -131,15 +135,7 @@ Step3 If you want to edit the animation, select the text layer and go to Effects
 
 ![adjust key frame premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/adjust-key-frame-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bring the keyframes closer or spread them apart to speed up or slow down. Tweak parameters like? Velocity Controls under different text properties to edit the animation effectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. How to Make Motion Text in After Effects
 
@@ -153,9 +149,17 @@ Step2 Go to Effects and Presets panel, go through and search for the desired mot
 
 ![drag preset text layer after effects](https://images.wondershare.com/filmora/article-images/2022/09/drag-preset-text-layer-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 From Current Time Indicator, slide the keyframes to adjust the animation. Click on the text layer to expand it and adjust different parameters to get the desired text animation.
 
 ![adjust desired text animation after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-desired-text-animation-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Best Motion Effects Ideas to Try
 
@@ -202,6 +206,10 @@ Kapwing allows users to create videos from scratch with Kapwing's extensive libr
 
 ![convert image to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Easily convert images and GIFs to videos with music and stop scrolling with Kapwing's image-to-video tool. With kapwing, you can turn your photos into a dynamic slideshow for a presentation or an engaging video for social media and YouTube. Even with minimal editing experience, you can turn a single image into a professional video.
 
 Kapwing supports turning a single image into a video, as well as joining multiple images one by one into a slideshow-style video. With an intuitive timeline and the ability to specify the duration of each image, you won't need to read a long tutorial to convert an image to a video with this easy online tool. Follow the steps below to convert your images to videos using kapwing.
@@ -225,6 +233,10 @@ Even though an online image-to-video maker is not as powerful as photo and video
 ### 2\. [Image to video](https://imagetovideo.com/)
 
 ![image to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This website offers a lot of different tools that you can use to create videos from your photos, crop videos, or add 3D transitions between frames. Keep in mind that the maximum number of photos you can use in one video is limited to thirty. Once you get to the home page of this platform, just upload your photos and arrange them in any way you want.
 
@@ -256,17 +268,9 @@ After importing the files into the program, drag the video clip to the video edi
 
 ![add a photo to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After that, edit your photo as you choose. Place the image anywhere you want, then drag its edge to change the size of the playing windows. The picture-in-picture track can also be customized using a variety of customizable settings provided by Filmora. To access the picture, color, and motion panel, double-click the additional image on the track. Here, you can select from more than 30 motion effects to animate the added photo, alter its saturation and hue, perform some color correction, or alter its transformation.
 
 ![edit photos](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then click the "**Effects**" button for more mask and effect options. Go to the Utility option under Filters and then drag the image mask onto the photo on the timeline. Double click on the photo and then you can change the shape, height, width, and blending of the image mask. On the mask tab, you can shape the photo with a single click. You can also invert the mask to create a new shape. Choose one of the effects according to your wish to make your video more unique.
 
@@ -292,6 +296,10 @@ First, download and install [Filmora](https://tools.techidaily.com/wondershare/f
 
 ![import files to filmora](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Launch Filmora Video Editor and click "**New Project**" to get started. Click "**Import**" and then "**Import media files**" or click "**Import media files here**" to find your video and photos on your computer. Double-click the files and they will be imported into the program. You can also directly drag and drop photo and video files into the video editing program. Then you need to set up the project such as aspect ratio and resolution.
 
 ##### Step2Add a photo to the video and apply some effects
@@ -309,6 +317,10 @@ Then click the "**Effects**" button for more mask and effect options. Go to the 
 ##### Step3Save the new video file
 
 ![save the new video file](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After adding a photo to a video and making basic adjustments, you can export it in various ways by pressing the "**Export**" button. You can save it in different formats in the Format tab. If you want to play the video creation on iPod, iPhone, or iPad, click "**Device**" and select the device from the list. You can also upload your video directly to YouTube or burn it to DVDs for playback on your TV using a DVD player. You can also share the video directly on social networks.
 
@@ -345,6 +357,10 @@ There are many ways to monetize your content. If you're already making videos, y
 Go to your play-store and type TikTok on its search bar. Install the app on your phone and create an account on it. You can sign up through your phone number, Gmail, or Facebook. After that, they will send you a code to verify your account.
 
 ![download tiktok to create account](https://images.wondershare.com/filmora/article-images/2022/11/download-tiktok-to-create-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2 Make or select a video template
 
@@ -430,10 +446,6 @@ After putting the video on the timeline add some effects to your video. If you a
 
 ![add effects and transitions](https://images.wondershare.com/filmora/guide/find-transition.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4 Edit the duration of the video then export it
 
 After making all the editing videos, you can also select the duration according to your requirements. You can also edit the duration of your per video.
@@ -470,10 +482,6 @@ After putting the video on the timeline add some effects to your video. If you a
 
 ![add effects and transitions](https://images.wondershare.com/filmora/guide/find-transition.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4 Edit the duration of the video then export it
 
 After making all the editing videos, you can also select the duration according to your requirements. You can also edit the duration of your per video.
@@ -502,10 +510,6 @@ VN editor is one of the best choices for video editing on mobiles and Mac. Fast 
 
 ![luts fo vn editor completed](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to use LUTs in VN editor?
 
 First, we must know that it is compatible with which platforms. So, it is now available for Android, iOS, and Mac OS only. However, you can also use it on Windows with some Android or iOS emulators, but it is not a very continent way in our suggestions. Even after doing this, it does not work well on your Windows. Maybe you will face some glitches or malfunctioning problems. So it is better to use it on only those platforms for which it is primarily available. Please read the instructions below since we will go through how to use LUTs in it later on.
@@ -518,6 +522,10 @@ First of all, we will learn how you can do it on Mac:
 2. Add your video and then tap the filters option.
 
 ![tap the filters option](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Now choose custom filters and then select the LUTs pack.
 
@@ -594,7 +602,7 @@ VN Editor is undoubtedly an excellent choice to add LUTs to your videos. However
 ![downloaded preset luts](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Choose the LUT and click OK. Your new fantastic video is ready now.
@@ -625,10 +633,6 @@ Pencil Hub is also a good option in this concern. However, it does not have too 
 
 YRP ETIDZ is another good option if you are still looking for some fantastic VN LUTs. They, too not have a large variety of presets and LUTs. However, if you want some most commonly used LUTs for VN Editor, then they are a good option. You'll notify of their most website updates by checking their YouTube channel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4\. How to add LUTs to the best alternative to the VN editor?
 
 VN Editor is undoubtedly an excellent choice to add LUTs to your videos. However, the VN editor is best suitable for mobile devices. To enhance your LUTs and effects, it would be great if you used some desktop software. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) offers a great variety of built-in LUTs to choose from. Let's look at how we can use Filmora to add LUTs:
@@ -647,10 +651,6 @@ VN Editor is undoubtedly an excellent choice to add LUTs to your videos. However
 1. Choose the LUT and click OK. Your new fantastic video is ready now.
 
 ![choose the lut and click ok](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Closing Thoughts
 
@@ -676,18 +676,20 @@ This post recommends several lut resources and demonstrates how to import them i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-youtube-editing-101-incorporating-time-markers/"><u>[Updated] 2024 Approved YouTube Editing 101 Incorporating Time Markers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-discarding-virtual-gatherings-on-fb-pcsmartphones/"><u>[Updated] In 2024, Discarding Virtual Gatherings on FB, PC/Smartphones</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[Updated] In 2024, Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-chart-topping-storytellers-to-follow-on-youtube-this-year/"><u>2024 Approved Chart-Topping Storytellers to Follow on YouTube This Year</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ecco-la-guida-per-il-ritrovamento-dei-dati-sulliphone-spento-e-non-salvato/"><u>Ecco La Guida per Il Ritrovamento Dei Dati Sull'iPhone Spento E Non Salvato!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-use-virtual-green-screen-to-shoot-video/"><u>New 2024 Approved How To Use Virtual Green Screen to Shoot Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/omplete-look-at-youtube-tvs-content-library-for-2024/"><u>The Complete Look at YouTube TV's Content Library for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vsco-slow-motion/"><u>VSCO Slow Motion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-content-catchment-area-2024/"><u>[New] Content Catchment Area 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-enabling-your-brands-mobile-reach-launching-youtube-channels-with-ease/"><u>[New] In 2024, Enabling Your Brand's Mobile Reach Launching YouTube Channels with Ease</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-spectral-synergy-using-color-theories-effectively-for-2024/"><u>[New] Spectral Synergy Using Color Theories Effectively for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-dive-into-the-deep-end-of-facebook-meme-culture-for-2024/"><u>[Updated] Dive Into The Deep End of Facebook Meme Culture for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-integrating-webm-format-into-adobe-media-encoder/"><u>Guide: Integrating WebM Format Into Adobe Media Encoder</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Pro Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-find-x6-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo Find X6 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-titans-understanding-facebook-twitter-instagram-and-youtube/"><u>The Digital Titans: Understanding Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
 

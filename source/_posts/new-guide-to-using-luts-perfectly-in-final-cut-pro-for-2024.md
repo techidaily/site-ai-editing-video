@@ -1,7 +1,7 @@
 ---
 title: New Guide To Using Luts Perfectly in Final Cut Pro for 2024
-date: 2025-01-23T05:58:06.958Z
-updated: 2025-01-24T00:40:52.337Z
+date: 2025-01-24T22:05:52.405Z
+updated: 2025-01-31T23:18:44.765Z
 tags: 
   - ai
   - animation videos
@@ -56,10 +56,6 @@ Prince Meyson offers this skin tone enhancer LUT pack. It has a neutral, balance
 
 ![pro retouching essentials pack ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Apply LUTs on Final Cut Pro
 
 Now that you've discovered there are many Final Cut Pro LUTs free to download. The most important thing is to learn how to use these free LUTs on your video using FCPX. Here are some methods to learn to apply LUTs using Final Cut Pro in simple steps.
@@ -71,6 +67,10 @@ Now that you've discovered there are many Final Cut Pro LUTs free to download. T
 Open Final Cut Pro and import your video. Once the video is imported, click on the clip you want to apply the LUT.
 
 ![import video to final cut pro ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2
 
@@ -136,6 +136,10 @@ Furthermore, Wondershare Filmora offers options for color adjustments and enhanc
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Conclusion
 
 In conclusion, Final Cut Pro is a powerful tool for video editing. This tool allows you to make color corrections and color adjustments to your videos. Furthermore, Final Cut Pro offers the option to use LUTs for color grading. You can find many best LUTs for FCPX available online to use in this tool. However, Wondershare Filmora is another amazing tool that you use to color-grade your videos professionally.
@@ -177,7 +181,7 @@ Prince Meyson offers this skin tone enhancer LUT pack. It has a neutral, balance
 ![pro retouching essentials pack ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Apply LUTs on Final Cut Pro
@@ -237,6 +241,10 @@ Import your video into Final Cut Pro and click on your video in the library and 
 In the section of the “Inspector” menu, click the drop-down menu and select the “General” option. It will open up new options in the menu where you have to choose the “Camera LUT” option and select your preferred LUT. After selecting your LUT, save your video by choosing the option.
 
 ![change settings and apply luts](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Discussing Wondershare Filmora LUTs - The Best Video Editing Platform
 
@@ -308,6 +316,10 @@ Some amazing perks that you get with Filmora include:
 * ✅ Mobile phone compatibility
 * ✅Wide range of download formats
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part II. How to Speed Up a Video in Canva?
 
 Managing video duration on your preferred domain is so crucial these days, mainly because of our smaller attention spans. This is why you should be looking to change video speed in Canva as soon as you get your hands on the project. Unfortunately, at the time of writing, there are no known features in which you can speed up the video in Canva. However, there are some alternative methods for archiving sped-up videos.
@@ -331,10 +343,6 @@ Managing video duration on your preferred domain is so crucial these days, mainl
 2) Once that's done, drag and drop your clip on the timeline and adjust it according to your requirements.
 
 ![how to speed up canva video 3](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Hit preview once you are comfortable with video positioning_
 
@@ -416,10 +424,6 @@ Everything is seamless in Filmora, and it's supported on all major operating sys
 1) Now that your video is in the timeline, right-click it and select the custom "**Speed & duration**" button.
 
 ![speed up video in filmora 3](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-16.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) In the new window, change the speed value greater than **1**, just like you did in the case of Eizgif. You can also adjust the speed slider for better coverage.
 
@@ -541,6 +545,10 @@ Step5 Trim the second shot until the talents start acting and place it on the se
 
 ![trim the second shot](https://images.wondershare.com/filmora/article-images/2022/12/appearance_5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Make an Explosion Appearance
 
 Step1 This effect is the easiest. You need to film the empty plate with just a background. Then let the talent enter the frame and jump into the place.
@@ -559,6 +567,10 @@ Step5 Use the green screen sample in the default menu here. Add some smoke effec
 
 ![use the green screen sample](https://images.wondershare.com/filmora/article-images/2022/12/appearance_8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Make Roof Appearance
 
 The last trick here is combining the techniques from the two previous effects.
@@ -575,13 +587,13 @@ Step3 Add the green screenshot onto the third video track.
 
 ![add the green screenshot onto the third video track](https://images.wondershare.com/filmora/article-images/2022/12/appearance_11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Double-click on it, activate the setting window and then key out the background using the chroma key feature.
 
 ![activate the setting window ](https://images.wondershare.com/filmora/article-images/2022/12/appearance_12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Move the clip until it covers only the first frame of the appearing clip. Now keyframe the following subject from the outer frame to the final position.
 
@@ -651,7 +663,7 @@ Until recently, you needed expensive enterprise level software like Sony Vegas o
 * [Start Using Lower Thirds Today](#Part5)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. What is a Lower Third?
@@ -683,10 +695,6 @@ Lower thirds can also create movement. Many lower thirds come gliding onto the s
 As simple as it may sound, seeing an overlay on a screen or a moving lower third adds professionalism to even the simplest videos. It gives the audience a sense of polish and high perceived value.
 
 ![Filmora Note](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Tips:** A lower third lasts approximately 3-6 seconds and is placed in the “title safe area” of your video. A quick explanation of the “title safe area” is that if the video is cropped to fit certain resolutions, your lower third will still appear without the fear of it being cropped out and losing pertinent information for the audience.
 
@@ -732,10 +740,6 @@ Tip #6
 
 Often, I might use a lower third to emphasize a certain point, or to use different wording (than I used in my video) if I think it makes the point clearer. This can be helpful if you make a small mistake in your original video and it makes more sense than adding b-roll over the video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Step By Step To Explain Filmora
 
 Using [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) it is extremely easy to create a lower third for your video.
@@ -771,10 +775,6 @@ For lower thirds you want to choose the template that will best compliment your 
 Things to consider are your branding colors and the information you want to convey.
 
 Currently, there are many options to choose from with 43 lower third templates to choose from in Filmora.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Choose a Lower Third Template
 
@@ -843,6 +843,10 @@ In the shot below, the viewer automatically knows he is looking at the rooftops 
 
 ![Why Add A Lower Third](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-a-lower-third-to-your-video-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Why Add A Lower Third
 
 Lower thirds can also create movement. Many lower thirds come gliding onto the screen and add visual interest to a plain shot.
@@ -852,10 +856,6 @@ As simple as it may sound, seeing an overlay on a screen or a moving lower third
 ![Filmora Note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Tips:** A lower third lasts approximately 3-6 seconds and is placed in the “title safe area” of your video. A quick explanation of the “title safe area” is that if the video is cropped to fit certain resolutions, your lower third will still appear without the fear of it being cropped out and losing pertinent information for the audience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. 6 Quick Tips to Add A Lower Third
 
@@ -984,21 +984,21 @@ Wrap Up
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-discover-the-top-12-tycoon-games-for-captivating-players/"><u>[New] 2024 Approved Discover the Top 12 Tycoon Games for Captivating Players</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-funny-frameworks-crafting-memes-with-ease/"><u>[New] Funny Frameworks Crafting Memes with Ease</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-step-by-step-guide-to-smooth-facetime-calls-on-mobile/"><u>[Updated] In 2024, Step-by-Step Guide to Smooth FaceTime Calls on Mobile</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-unlocking-twitters-full-potential-the-ultimate-guide/"><u>[Updated] Unlocking Twitter’s Full Potential The Ultimate Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-thi/"><u>2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-twirling-titans-olympic-ice-revelations/"><u>2024 Approved Twirling Titans Olympic Ice Revelations</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora-for-2024/"><u>Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-building-a-custom-google-cardboard-for-immersive-experience/"><u>In 2024, Building a Custom Google Cardboard for Immersive Experience</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-elevating-marketing-through-real-peoples-endorsements/"><u>In 2024, Elevating Marketing Through Real People’s Endorsements</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-rofl-roundup-10-best-apps-for-meme-creation/"><u>In 2024, ROFL Roundup 10 Best Apps for Meme Creation</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>New How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-something-about-skin-care-vlog-ideas/"><u>New Something About Skin Care Vlog Ideas</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-problems-when-alienware-command-center-is-unresponsive/"><u>Solving Problems When Alienware Command Center Is Unresponsive</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-waveform-generator/"><u>Updated In 2024, Best Audio Waveform Generator</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-hps-vivid-spectrum-with-the-z32x-4k-monitor/"><u>[New] Exploring HP's Vivid Spectrum with the Z32X 4K Monitor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flawless-cross-sound-mixing-in-audacity-pro/"><u>2024 Approved Flawless Cross-Sound Mixing in Audacity Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-to-use-montage-with-these-movies/"><u>2024 Approved Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/gopro-hero5-black-vs-yi-4k-action-camera-which-is-better-in-2024/"><u>GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-quiz-videos-detailed-guide-for-2024/"><u>How To Create Quiz Videos Detailed Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chucklechief-easy-meme-design-tool/"><u>In 2024, ChuckleChief Easy Meme Design Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>New In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-text-reveal-animation-easy-masking-filmora/"><u>New TEXT REVEAL Animation | Easy Masking Filmora</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/nightlight-nuggets-essential-dos-and-donts-of-nocturnal-imaging/"><u>Nightlight Nuggets Essential Do's & Don'ts of Nocturnal Imaging</u></a></li>
+<li><a href="https://article-posts.techidaily.com/stable-frames-photo-and-video-shake-control/"><u>Stable Frames Photo & Video Shake Control</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforma-tus-archivos-mp4-gratuitamente-en-webm-con-el-servicio-de-conversion-rapida-de-movavi/"><u>Transforma Tus Archivos MP4 Gratuitamente en WEBM Con El Servicio De Conversión Rápida De Movavi</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-benefits-of-live-streaming-on-youtube/"><u>Updated Benefits of Live Streaming on YouTube</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-computing-spawn-violator-visuals-high-quality-banners-and-desktop-pictures/"><u>YL Computing Spawn Violator Visuals: High-Quality Banners & Desktop Pictures</u></a></li>
 </ul></div>
 

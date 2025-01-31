@@ -1,7 +1,7 @@
 ---
 title: How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024
-date: 2025-01-18T07:16:16.790Z
-updated: 2025-01-24T01:31:39.861Z
+date: 2025-01-29T20:26:03.436Z
+updated: 2025-01-31T18:10:02.387Z
 tags: 
   - ai
   - animation videos
@@ -39,6 +39,10 @@ Make sure that the software is in the 11.3.0 or higher version. Because the feat
 
 ![upgrade to filmora 11](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Add the music file
 
 Next, you should click on the "Create New Project" button from the homepage. Then, tap on the "Click here to import media" section when it opens and add the file to the software window from your internal storage.
@@ -58,10 +62,6 @@ Next, you should go to the Effects tab. When this window opens, you should tap o
 When you tap on it, you see a list of different visualizer effects in a collection. Please choose one of them that you prefer and download it.
 
 ![tap on the filmstock tab](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After that, you must drag the visualizer effect selected from the collection to the editing timeline above the background image you added previously. Again, use the slider on the clip to drag it forward and fit the size of both the music clip and the image.
 
@@ -96,6 +96,10 @@ On the timeline, you have to adjust the visualizer effect over the portrait phot
 After fitting the image within the visualizer, click on the Mask tab in the same editor window. Choose the circular shape preset and scroll down to find the adjustment parameters like position, scaling, horizontal/vertical lining, etc. Keep making the changes per your needs, like fitting the image to the same size as the circular visualizer.
 
 Move it to place the image inside the visualizer. After you are done, press the OK button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add a Title
 
@@ -149,10 +153,6 @@ You can also add another pre-made background cover image that you created before
 
 ![make changes like adjusting the scale](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Add the Audio Visualizer Effects
 
 Next, you should go to the Effects tab. When this window opens, you should tap on the Filmstock tab beside the Default one for advanced features like Audio Visualizer. Click on it next.
@@ -182,10 +182,6 @@ When it is available on the media window, hold, drag, and then drop it above the
 Next, the editing window for that will open. Make changes to the size and placement of the portrait photo, with elements like scale, position, rotation, opacity, etc. Move the photo in the preview window to the section where you want the image to appear. Then, tap the OK button under the window.
 
 ![tap the ok button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add the overlapping visualizer effect
 
@@ -221,6 +217,10 @@ After making the changes, you will return to the main editor timeline. Press the
 
 ![press the play button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Indeed, Filmora is a high-quality editing software for video editors with effects and sound clips to optimize the project. Advanced functions like the Audio Visualizer system are available for high-quality project optimization since it instantly handles most of the heavy editing load.
@@ -239,6 +239,10 @@ You should follow the sequence mentioned accurately to make the right effects at
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create One Click Video Reverse Effect in Filmora
 
@@ -267,11 +271,7 @@ It is a viral film by Christopher Nolan, which was a great success. He explained
 ![tenet 2020](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How To Shoot Video Reverse Effect?
@@ -287,10 +287,6 @@ It would be best to have your camera placed on a steady surface or mounted on a 
 ### A Spacious Area
 
 You will need a spacious area in which you will perform different tasks. Make sure your camera stands still while shooting all the frames of video. In an ample space, it becomes easier to do movements freely. It also helps prevent glitches in the final product.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Splitting of Area into Portions
 
@@ -391,10 +387,6 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 * After opening the software, import the recording files by clicking "Import Media."
 
 ![download the filmora](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step2 Drag the Shots to the Timeline
 
@@ -518,6 +510,10 @@ Step1 Tap the video you want to modify the pace of in the timeline, and it turns
 
 ![modify the video in the timeline](https://images.wondershare.com/filmora/article-images/2023/01/modify-video-in-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 From the editing toolbar, choose Speed. Utilize the slider beneath the timeline to change the speed.
 
 ![choose speed in the editing toolbar](https://images.wondershare.com/filmora/article-images/2023/01/choose-speed-in-editing-toolbar.png)
@@ -540,6 +536,10 @@ Upon clicking your video clip, a tab will display several options to modify the 
 
 ![click the fast or slow option](https://images.wondershare.com/filmora/article-images/2023/01/click-fast-or-slow-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Method 2\. Change the Speed Uniformly with "Uniform Speed"**
 
 If you wish to change the uniform speed of your video clip, double-clip the video to access the Speed Panel. Adjust the speed slider based on your speed uniform preference.
@@ -557,6 +557,10 @@ The Speed Ramping tab will let you customize the speed line. Also, it provides y
 The best thing about this feature is Filmora allows you to maintain the original audio pitch. Thus, it would not sound strange after speed-ramping the media.
 
 ![choose the speed ramping panel](https://images.wondershare.com/filmora/guide/speed-ramping-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here's how you can use the customization mode on the Speed Ramping panel.
 
@@ -585,17 +589,9 @@ You can choose between utilizing the Splice app and learning how to speed up vid
 
 You must confirm that Splice is already loaded on your iPhone and is the most recent version. Open the program after installation, browse the project with the watermark and learn how to speed up video on iPhone with Splice. After selecting the watermark with a tap, click **"Edit"** from the menu in the screen's top right-hand corner. You'll now see a new tab labeled **"Effects"** immediately below the **"Audio"** tab; tap on it, and scroll down until you find the "Watermark" slider. To remove the watermark, slide it the entire way to the left. Your project is now free of the watermark.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom Line
 
 Most people need help to produce high-quality videos on their devices. Most often, they'll need to transfer them to their computers for extensive editing and polishing. That's no longer the case, particularly with the emergence of mobile editing programs like the Splice app. You can quickly and effortlessly produce high-quality video material with a few clicks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part II. How to Change Video Speed Using Splice App
 
@@ -629,6 +625,10 @@ Upon clicking your video clip, a tab will display several options to modify the 
 
 ![click the fast or slow option](https://images.wondershare.com/filmora/article-images/2023/01/click-fast-or-slow-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Method 2\. Change the Speed Uniformly with "Uniform Speed"**
 
 If you wish to change the uniform speed of your video clip, double-clip the video to access the Speed Panel. Adjust the speed slider based on your speed uniform preference.
@@ -646,6 +646,10 @@ The Speed Ramping tab will let you customize the speed line. Also, it provides y
 The best thing about this feature is Filmora allows you to maintain the original audio pitch. Thus, it would not sound strange after speed-ramping the media.
 
 ![choose the speed ramping panel](https://images.wondershare.com/filmora/guide/speed-ramping-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here's how you can use the customization mode on the Speed Ramping panel.
 
@@ -725,10 +729,6 @@ Filmora also offers advanced color grading tools so that you can correct and enh
 1. Adjust the speed according to your preference by dragging the slider or entering a value.
 1. Play the video to preview the new speed.
 1. Once you are done with the slow down time lapse video, you can save or export the edited video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Summary**
 
@@ -851,19 +851,24 @@ Back
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-video-praise-mastery/"><u>[Updated] 2024 Approved The Ultimate Checklist for Video Praise Mastery</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-master-your-media-free-fb-video-conversion-techniques/"><u>[Updated] Master Your Media - Free FB Video Conversion Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-7-tips-to-create-teaching-videos/"><u>2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/excellent-6-apps-for-video-interpretation-for-2024/"><u>Excellent 6 Apps for Video Interpretation for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/guia-paso-a-paso-para-recuperar-archivos-eliminados-por-avast-cleanup/"><u>Guía Paso a Paso Para Recuperar Archivos Eliminados Por Avast Cleanup</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-expert-advice-on-achieving-high-quality-gopro-videos/"><u>In 2024, Expert Advice on Achieving High-Quality GoPro Videos</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leading-photo-restoration-firms-reviewed-insights-on-benefits-and-limitations/"><u>Leading Photo Restoration Firms Reviewed – Insights on Benefits & Limitations</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-risograph-effect-in-photoshop-a-beginners-guide-for-2024/"><u>New Create Risograph Effect In Photoshop A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-add-miniature-effect-to-videos/"><u>New Easy Steps to Add Miniature Effect to Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/splitting-audio-from-video-in-sony-vegas-step-by-step-for-2024/"><u>Splitting Audio From Video in Sony Vegas Step by Step for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-7-budget-friendly-mobile-phone-contracts/"><u>Top 7 Budget-Friendly Mobile Phone Contracts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transforming-console-play-an-in-depth-look-at-the-playstation/"><u>Transforming Console Play: An In-Depth Look at the PlayStation</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-your-own-lol-montage-video/"><u>Updated How to Create Your Own LOL Montage Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-hdri-everything-you-need-to-know-about-hdri-for-2024/"><u>What Is HDRI? Everything You Need to Know About HDRI for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-easy-to-learn-art-of-earning-wealth-reddits-ultimate-guide/"><u>[Updated] 2024 Approved The Easy-to-Learn Art of Earning Wealth Reddit's Ultimate Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>[Updated] 2024 Approved Upgrade Your View Enabling YouTube's High-Quality AV1 Option</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-igtv-video-placement-to-facebook-networks-5-ways/"><u>2024 Approved IGTV Video Placement to Facebook Networks (5 Ways)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ience-the-power-of-visuals-discover-all-50-banners-in-our-digital-collection-for-2024/"><u>Experience the Power of Visuals Discover All 50 Banners in Our Digital Collection for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-establish-a-new-identity-in-gmail-the-ultimate-guide-to-using-an-email-alias/"><u>How to Establish a New Identity in Gmail: The Ultimate Guide to Using an Email Alias</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y36-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y36 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-audio-plug-ins-for-video-editors/"><u>In 2024, Best Audio Plug-Ins For Video Editors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-peering-through-hololens-a-peek-at-next-gen-interaction/"><u>In 2024, Peering Through HoloLens A Peek at Next-Gen Interaction</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-how-to-use-3d-camera-tracking-in-adobe-after-effects-and-take-your-skills-to-the-next-level-for-2024/"><u>Learn How to Use 3D Camera Tracking in Adobe After Effects and Take Your Skills to the Next Level for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video-for-2024/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>New How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-montage-makes-it-easy-to-create-and-share-videos-this-article-will-explain-what-it-can-do-and-show-you-examples-of-movies-that-use-montage/"><u>New Montage Makes It Easy to Create and Share Videos. This Article Will Explain What It Can Do and Show You Examples of Movies that Use Montage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review/"><u>New VSDC Free Video Editor Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-boot-problems-with-windows-getting-ready/"><u>Step-by-Step Guide to Fix Boot Problems with 'Windows Getting Ready'</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpt-enterprise-potential/"><u>Unveiling ChatGPT Enterprise Potential</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
+<li><a href="https://win-net.techidaily.com/usb-cloning-techniques-on-windows-1110-a-step-by-step-guide-including-startup-data/"><u>USB Cloning Techniques on Windows 11/10: A Step-by-Step Guide Including Startup Data</u></a></li>
 </ul></div>
 
