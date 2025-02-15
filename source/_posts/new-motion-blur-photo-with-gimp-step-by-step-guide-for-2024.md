@@ -1,7 +1,7 @@
 ---
 title: New Motion Blur Photo With GIMP Step-By-Step Guide for 2024
-date: 2025-01-30T21:54:49.377Z
-updated: 2025-01-31T17:21:07.394Z
+date: 2025-02-09T00:34:23.661Z
+updated: 2025-02-14T21:47:53.196Z
 tags: 
   - ai
   - animation videos
@@ -54,11 +54,11 @@ Step3 Next, click the **“Filters”** option from the top toolbar, select **�
 
 ![adding motion blur effect to photo using gimp](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-to-photo-using-gimp.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Once you are satisfied with your changes, click **“OK”** to apply the effect to the image, and make some other edits if needed. Finally, click **“File”** from the top toolbar, choose **“Export As,”** click **“File Type”** to select the format, and select the **“Export”** option to save your file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative To GIMP To Create Motion Blur Effect
 
@@ -96,10 +96,6 @@ Step5 Once satisfied with the outcome, click the "Export" option, go to the **"L
 
 ![exporting file from filmora](https://images.wondershare.com/filmora/article-images/2023/02/exporting-file-from-filmora.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Filmora offers many export options, such as your device, YouTube, Vimeo, and DVD, with just a few clicks.
 
 ## Last Words
@@ -161,6 +157,10 @@ Hopefully, you found this article helpful in resolving your queries, and you can
      data-ad-slot="1223367746"></ins>
 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## This Article Will Show You How to Make a Tattoo Disappear on Your Body Magically
 
 Do you have any tattoos that you don't like anymore? Have you ever wished you had the superpower to make unwanted tattoos vanish? Then, keep reading this article since this article will provide you with how to use masking and colour correction to make a tattoo disappear in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -184,7 +184,7 @@ After preparing everything, you need to go to Filmora 11 and start editing. If y
 ![go to filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Editing Tutorial
@@ -193,6 +193,10 @@ Step1 First, drag and drop the arm video clip onto the first video track and the
 
 ![drag and drop the arm video clip onto the first video track](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Add a mask around the tattoo part from the picture. You must hide the first video track to see the mask clearly.Then, double-click on the picture on the timeline and go to the setting window on the top left. Find the Mask Section and select the circle shape. Now you can see the mask is applied.
 
 ![add a mask around the tattoo part](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-6.jpg)
@@ -200,10 +204,6 @@ Step2 Add a mask around the tattoo part from the picture. You must hide the firs
 Step3 Adjust the position and size of the mask to reveal only the tattoo part. Then you must change the "Blur Strength" to add more blur to the edge of the mask.
 
 ![add more blur to the edge of the mask](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 With the mask finalized,unhide the first video track with the arm video clip. Next, adjust the position and size of the tattoo and make it fit the arm clip.
 
@@ -228,7 +228,7 @@ Step2 Next, find the "Evaporate 1" from the "Transitions" window. Drag and drop 
 ![find the evaporate 1](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-12.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Adjust the length if needed. Finally, Let's playback and see how it looks!
@@ -275,10 +275,6 @@ Step 4: After installation, launch Camtasia and click on New Recording option to
 
 ![camtasia get started new recording](https://images.wondershare.com/filmora/article-images/camtasia-get-started-new-recording.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: If you have clicked on New Recording option, you will get a widget where you need to select your screen to start capturing. You can also select external webcam and microphone. Once you are ready to recording, Click on Rec red button.
 
 ![camtasia ready to record](https://images.wondershare.com/filmora/article-images/camtasia-ready-to-record.jpg)
@@ -324,10 +320,6 @@ Step 5: Go to Audio Effects to enhance the audio of the video. Moreover, you can
 Step 6: On the canvas, check out how your edited video looks like. Once you are satisfied, click on Export button to save the video on your hard drive.
 
 ![camtasia save the video](https://images.wondershare.com/filmora/article-images/camtasia-save-the-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Camtasia Alternative to Edit Videos
 
@@ -563,6 +555,10 @@ Import your video into the timeline and right-click on the icon you see with the
 
 ![access speed in time time ramping](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2
 
 Expand the timeline to see the ramping line. Now click on the ramping line by using the “Ctrl + click” command. You can also add keyframes by going to the toolkit on the left side of the screen and selecting the “Add Keyframe” button. Another option is the time remapping speed settings from the top and activating the keyframe.
@@ -576,7 +572,7 @@ Move the timeline cursor to the right side and add another keyframe there. Now, 
 ![adjust speed using keyframe](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Quick Alternative: Wondershare Filmora and Slow-Motion Clips
@@ -584,6 +580,10 @@ Move the timeline cursor to the right side and add another keyframe there. Now, 
 You might have gotten the answer to “**how to make slow-motion video in Premiere Pro**” until now. But another question comes into mind: “[How to make slow-mo videos easily](https://tools.techidaily.com/wondershare/filmora/download/)?” Using Adobe Premiere Pro can be tricky for starters, so they look for alternative tools. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great option if you struggle with using Adobe Premier Pro.
 
 The tool is easy to use and can process heavy videos, keeping its quality intact. With its AI features, the edits that used to take hours can now be done within minutes. The tool has amazing options for all kinds of media editing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Perform Slow Motion in Filmora Using Different Methods
 
@@ -628,10 +628,6 @@ Tap the “Speed Ramping” next to the “Uniform Speed” in the right-side pa
 In the Speed Ramping Section, you will get 6 templates. Pick one or hit the “Customize” to design your own speed ramping in videos. Later, move to the toolbar of the timeline section and choose “Render Preview” next to the “Copilot” icon. It will bring a smooth playback of your speed ramping in videos.
 
 ![apply changes and render preview](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Matchless Features of Wondershare Filmora
 
@@ -717,6 +713,10 @@ Install Filmora 13 on your device and open it to access “New Project” from t
 
 ![create new project in filmora](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2Adjust the Speed and Other Use Advanced Options
 
 Later, drag that file to the timeline and right-click on it to get a list. Select the “Uniform Speed” option from that list and head to the editing panel opened to the right. Under the “Speed,” there will be a slider. You have to move it to the left for slow-motion video. While adjusting speed with that slider, track video duration from the “Duration” section. Below that option, you can toggle the “Reverse Speed” option if required.
@@ -726,6 +726,10 @@ Later, drag that file to the timeline and right-click on it to get a list. Selec
 Otherwise, check the “Ripple Edit” and “Maintain Pitch” option for good. Now, extend the “AI Interpolation” menu and choose “Optical Flow.” It will let AI automatically adjust the video speed in slow motion with high quality.
 
 ![select ai frame and custom settings](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Method 2: Using Speed Ramping
 
@@ -753,10 +757,6 @@ Wondershare Filmora offers a creative editing experience. It has a number of imp
 
 * [**AI Copywriting**](https://tools.techidaily.com/wondershare/filmora/download/)**:** If you are stuck creating a unique script, get help from AI copywriting in Filmora. It gives several video ideas to generate YouTube video titles and descriptions. This creative personal assistant will bring content aligning with your video goals. The generated script can be used to make videos from Filmora’s text-to-video feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Regular videos do not always generate the same level of response from viewers. Slow-mo videos can make a video more entertaining and improve the film’s narrative. It's good to use when you want to draw attention to the most significant shot in a video. This article shows **how to make slow motion in Premiere Pro** and offers an amazing alternative. Thus, try to use Filmora and improve your editing experiences with ease.
@@ -779,16 +779,16 @@ Regular videos do not always generate the same level of response from viewers. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-real-time-stage-performances/"><u>[New] 2024 Approved Best Real-Time Stage Performances</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-evolution-of-burst-mode-in-gopro-cameras/"><u>[New] In 2024, The Evolution of Burst Mode in GoPro Cameras</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-dxgkrnl-errors-disrupting-windows-media-playback/"><u>Diagnose and Repair Dxgkrnl Errors Disrupting Windows Media Playback</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-vmixadaptive-mac-and-pc-harmony/"><u>In 2024, VMixAdaptive Mac & PC Harmony</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/section-amoeba/"><u>Section Amoeba</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-resolve-windows-error-code-0xc0000001-instantly/"><u>Steps to Resolve Windows Error Code 0XC0000001 Instantly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-of-the-finest-running-watches/"><u>Ultimate Selection of the Finest Running Watches</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-breaking-down-the-system-behind-highlighted-video-comments/"><u>[Updated] In 2024, Breaking Down the System Behind Highlighted Video Comments</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-pathway-to-popularity-masterful-igtv-video-posts/"><u>[Updated] In 2024, The Pathway to Popularity Masterful IGTV Video Posts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-effective-solutions-for-continuous-airpod-connection-stability-with-iphone/"><u>11 Effective Solutions for Continuous AirPod Connection Stability with iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/bitraser-pro-comprehensive-tutorial-on-secure-data-destruction-via-video/"><u>BitRaser Pro: Comprehensive Tutorial on Secure Data Destruction via Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-rectifying-6-common-gpt-errors/"><u>Mastering the Art of Rectifying 6 Common GPT Errors</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/policy-change-alert-privacy-update/"><u>Policy Change Alert - Privacy Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solve-printing-errors-on-the-hp-officejet-pro-6978-with-easy-driver-fixes/"><u>Solve Printing Errors on the HP OfficeJet Pro 6978 with Easy Driver Fixes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
 </ul></div>
 

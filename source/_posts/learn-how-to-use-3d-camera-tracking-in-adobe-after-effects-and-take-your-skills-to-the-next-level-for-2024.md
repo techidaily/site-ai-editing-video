@@ -1,7 +1,7 @@
 ---
 title: Learn How to Use 3D Camera Tracking in Adobe After Effects and Take Your Skills to the Next Level for 2024
-date: 2025-01-29T16:09:49.425Z
-updated: 2025-01-31T20:34:15.734Z
+date: 2025-02-09T23:09:23.931Z
+updated: 2025-02-15T00:26:09.628Z
 tags: 
   - ai
   - animation videos
@@ -20,6 +20,10 @@ Adobe After Effects is an ever-growing product, with new features introduced alm
 **Camera Tracking** is extracting the camera movement from a recorded video sequence. This process allows filmmakers to add computer-generated elements to a live action shot, track objects throughout a shot for compositing, and estimate camera movements for virtual reality applications.
 
 In this article, we will explore what Camera **Tracking** is and Motion Tracking in After Effect. We'll also show you how to use 3D Camera Tracking in After Effects on a Windows PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. What Is Camera Tracking
 
@@ -57,10 +61,6 @@ Single Point tracking tracks a single position in a video clip. You can use it f
 **Advantage:** Single Point Tracking is perfect for tracking a single position or motion of a single object.
 
 **Disadvantage:** No scale or rotation properties and needs a clear contrast point for effective results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Two Point Tracking
 
@@ -145,6 +145,10 @@ Your text will now be added to your video footage. The method is similar to addi
 
 ### Video - Learn 3D Camera Tracking In After Effects
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this article, we've discussed what Camera Tracking is and why to use it. We also provided information regarding Motion Tracking, its four types, and their advantages and disadvantages.
@@ -166,6 +170,10 @@ You have to select the tracking points and a plane to which it must be tracked. 
 Now, you have to find a **tracking point** that lays the red **"target"** parallel to your selected plane. Next, select the triangle that lines up best for your surface. Move the **arrow** away to disable the picker and stop the red **"target."**
 
 ![establishing the tracking points and plane](https://images.wondershare.com/filmora/article-images/2022/08/establishing-the-tracking-points-and-plane.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Add The Text To Your Video Clip
 
@@ -213,6 +221,11 @@ We hope this guide helps you to add text to your video footage without much effo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10 Recommended Websites to Discover Awesome Premiere Pro Video Templates
 
 The Premiere Pro templates are a great help to start working on the video right away. You don’t need to create your video from scratch thus, saving time. Moreover, there are fully adaptable features that make your video eye-catching. The article provides knowledge about 10 free Premiere Pro templates. So, let us commence this! Are you with us?
@@ -230,6 +243,10 @@ The first website offering Adobe Premiere templates is known as Envato Elements.
 Moreover, if you are into print and website design, you will find Envato Elements beside you. The search bar makes the search effective as you can choose between categories or applications. The search filter has made life easy for designers and creators.
 
 ![envato elements website](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Storyblocks
 
@@ -272,7 +289,7 @@ Moreover, Mixkit can be used for stock videos, music, sound effects, and music t
 ![mixkit premiere pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. VideoHive
@@ -342,10 +359,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 In video editing, you mainly face problems related to color grading and lower attractiveness of video. To cater to these issues, you can use the LUTs because they can upscale the performance of your video in no time. Yet, if you are not familiar with the concept of LUTs, this article is for you. Here, we will discuss the meaning of having LUTs in editing and other metrics of this exceptional element.
 
 By the end of this article, you will also discover a tool that will help you with **LUTs video editing**. Thus, let's get below to learn more about LUTs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What Do You Know About LUTs?
 
@@ -445,6 +458,10 @@ In the following article, you have learned **what are LUTs in video editing**. F
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: What Are the Different Types of LUTs Available for Utility?
 
 To fully understand **LUT editing**, you need to be aware of the types of LUTs. In this section, we will discuss the types of LUTs. Have a look below to find out more about them:
@@ -505,10 +522,6 @@ The best and most optimized platform that can be used for this purpose is [Wonde
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-luts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Features of Wondershare Filmora
 
 Wondershare Filmora has built much in [LUTs video editing](https://tools.techidaily.com/wondershare/filmora/download/) over time. From changing its existence from a category to a dedicated section, Filmora has come a long way. Find out some important features about Filmora and its exceptional functionality:
@@ -545,10 +558,6 @@ But the downside of using this method is that after the recording is complete, y
 
 Correctly synching an audio file with a video is easier than you think. You just need to prepare beforehand and use a suitable video editing tool. So considering these factors, let's first see what preparations we need. After that, we'll recommend a top-class video editing tool to achieve this goal in detailed steps. Why are we still waiting? Let's begin our journey.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Preparation for Syncing Audio With Video During Recording
 
 You must make some preparations to sync an audio file with a video properly. It's to have a sound spike to match the footage properly with the separate audio file. And it might look disturbing, but even a simple Clap might do the job.
@@ -557,13 +566,13 @@ And if you want a professional way, just imagine the clapper board. You must hav
 
 ![a clapper board used to start a film scene](https://images.wondershare.com/filmora/article-images/2023/04/film-start-clapper-board.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Every time you cut your shot, remember to clap on camera again the next time you roll. It's best to clap before you say "Action" or speak so that it's easy to find and sync when editing. But if you forget, you can also clap at the end of the shot before you cut. That is called a **Tail Slate**!!!
 
 After you've recorded your video like this, the next step is pretty simple. The video editor we recommend is no other than the world's leading tool in the market, Wondershare Filmora. Let's move forward and see how to sync audio with video using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Sync Audio With Video Using Filmora
 
@@ -585,10 +594,6 @@ On top of that, you can also adjust the audio files like audio ducking, silent d
 
 As far as the audio synching is concerned, you can do it either manually or with auto synchronization. And we will explain both of these processes in a stepwise manner to give you complete mastery over your audio synching. Let's start with the manual process first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps To Manually Sync Audio With Video Using Filmora
 
 ##### Step1Download & install
@@ -604,6 +609,10 @@ If you haven't downloaded the latest version of Filmora yet, click the button be
 The next step is to import all the files. Launch the Filmora and click on the "New Project" button from the opening interface.
 
 ![click on the new project](https://images.wondershare.com/filmora/article-images/2023/04/create-a-new-project-on-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When a new project is created, you'll see an "Import Media" section on it. Click on this section to browse your audio and video files from the computer. Or you can also drag and drop these files here to import them.
 
@@ -675,19 +684,11 @@ Filmora will start synchronizing your files, and you'll see the "Synchronization
 
 ![syncing in process](https://images.wondershare.com/filmora/article-images/2023/04/syncing-in-process.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step5Finish your editing
 
 You can finish your editing when the separate audio file perfectly aligns with the video file. Delete the audio from the in-camera video file and hit the "Export" button.
 
 Congratulations! We have successfully synced separate audio and video files. Now let's take a look at some hot FAQs before we end our guide.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: FAQs About Synching Audio With Video
 
@@ -753,6 +754,10 @@ Now that the video and audio files are on the timeline, you'll have to find the 
 
 ![find the sound spike on video and audio files](https://images.wondershare.com/filmora/article-images/2023/04/find-the-sound-spike-on-video-and-audio-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now take the independent audio clip and align it so that both the spikes match.
 
 ![align the sound spikes with each other](https://images.wondershare.com/filmora/article-images/2023/04/align-the-sound-spikes-with-each-other.jpg)
@@ -812,10 +817,6 @@ You can finish your editing when the separate audio file perfectly aligns with t
 Congratulations! We have successfully synced separate audio and video files. Now let's take a look at some hot FAQs before we end our guide.
 
 ## Part 4: FAQs About Synching Audio With Video
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Is auto synchronization better than manual syncing?
 
@@ -851,22 +852,16 @@ This brief guide has covered all the details about how to sync audio and video f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-prime-picks-aggregating-the-top-video-call-software/"><u>[New] In 2024, Prime Picks Aggregating the Top Video Call Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-content-creators-dilemma-which-site-reigns-vimeo-youtube-for-2024/"><u>[Updated] Content Creators' Dilemma Which Site Reigns - Vimeo, YouTube for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-pioneering-strategies-to-escalate-your-channels-popularity/"><u>[Updated] Pioneering Strategies to Escalate Your Channel's Popularity</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-a/"><u>2024 Approved Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-microsoft-hololens-review-a-glimpse-of-holographic-future/"><u>2024 Approved Microsoft HoloLens Review- a Glimpse of Holographic Future</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-vintage-film-effect-1920s/"><u>How to Create Vintage Film Effect 1920S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-14-ultra-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi 14 Ultra</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oppo-a56s-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Oppo A56s 5G Lock Screen Password</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-giants-stream-nba-season-together/"><u>Social Giants Stream NBA Season Together</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-art-of-incorporating-s2t-features-into-ppt-for-2024/"><u>The Art of Incorporating S2T Features Into PPT for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/to-stay-or-to-switch-your-smartphone-dilemna/"><u>To Stay or to Switch: Your Smartphone Dilemna</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>Updated 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-/"><u>Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/a-collection-of-the-most-engrossing-amusing-ig-accounts-for-2024/"><u>A Collection of The Most Engrossing, Amusing IG Accounts for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-nubia-z50-ultra-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Nubia Z50 Ultra Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-set-up-twitch-green-screen/"><u>How to Set Up Twitch Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-personalized-/"><u>In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphoneipadmac-message-recall-techniques-the-ultimate-how-to/"><u>IPhone/iPad/Mac Message Recall Techniques - The Ultimate How-To</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-video-creation-our-picks-for-the-top-12-flip-screen-cams-for-2024/"><u>Mastering Video Creation Our Picks for the Top 12 Flip-Screen Cams for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-3-best-effects-to-appear-on-camera-made-with-filmora/"><u>New In 2024, 3 Best Effects to Appear on Camera Made with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-3-best-motion-blur-plugins-for-adobe-after-effects/"><u>Updated 2024 Approved 3 Best Motion Blur Plugins for Adobe After Effects</u></a></li>
 </ul></div>
 

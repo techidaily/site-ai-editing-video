@@ -1,7 +1,7 @@
 ---
 title: New Best Practical Tips to Improve Your Lighting in the Sun for 2024
-date: 2025-01-25T18:04:13.004Z
-updated: 2025-01-31T18:26:21.201Z
+date: 2025-02-09T17:19:05.264Z
+updated: 2025-02-14T16:14:25.811Z
 tags: 
   - ai
   - animation videos
@@ -30,10 +30,6 @@ You may need those things to film under the harsh sun:
 
 Now let's see when and how to use them against the strong sunlight!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2) Direct to the Sun
 
 If we want a specific background for our shot but our talent has to face the sun, here are some tips you can do to undermine the unflattering light or the blindness.
@@ -48,6 +44,10 @@ We use it outside so we can open our aperture to get nice blurry backgrounds wit
 
 ![black flag](https://images.wondershare.com/filmora/article-images/2022/12/black-flag.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Using a black piece of poster board works perfectly fine, hold it up to the sun. Also, remember to angle your "flag" to create harsh lines or fully shade your talent.
 
 **3\. Adjust your camera to fit the environment**
@@ -61,6 +61,10 @@ Have you ever been filming outside only to see your talent dark in the frame wit
 By using a "bounce", we can reflect the light from the sun to our talent. Make sure to lift the bounce and move it around to get the right amount of light on your talent.
 
 This should give us a nice look with the sun backlighting our subject and the bounce filling in the shadows and giving us soft light on our talent's face!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4) Artificial lighting
 
@@ -81,7 +85,7 @@ Now, take a look at the comparison with all the lighting conditions we create:
 ![backlight vs backlight bounce](https://images.wondershare.com/filmora/article-images/2022/12/comparison-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -137,10 +141,6 @@ The editor will open automatically next. You have to tap on the Create New Proje
 
 ![drag and drop default title](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, drag the title from this section and drop it into the editing timeline. Double-click on the title in the timeline to open the title editing window. Insert the text you want to add as the title in the text field and adjust the size, font, and other font modifications here.
 
 ## Edit the title and click snapshots
@@ -155,10 +155,6 @@ Then you should double-click on the original Default Title you added and start e
 
 ![change the second title text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Insert the snapshots
 
 Remove the two title clips you added to the timeline. You have to work with the Snapshots you took now.
@@ -170,7 +166,7 @@ In the folder, double-click on the Snapshot folder. Choose both of the Snapshots
 ![choose and import both snapshots](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Import additional music and background visuals
@@ -240,7 +236,7 @@ Subsequently, move the play head to the point when the lens flare effect stop, w
 Play the preview of the whole thing to see how the effect looks in completion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -264,6 +260,10 @@ Double-click on the installer from your notifications or browser downloads secti
 The editor will open automatically next. You have to tap on the Create New Project button to access the editing screen, tap on the Titles tab, and choose the Default Title. If you prefer another version, browse through the different title presets available as options and download the one you prefer.
 
 ![drag and drop default title](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, drag the title from this section and drop it into the editing timeline. Double-click on the title in the timeline to open the title editing window. Insert the text you want to add as the title in the text field and adjust the size, font, and other font modifications here.
 
@@ -303,6 +303,10 @@ The background video is the first file you will drag and drop to the timeline. F
 
 ![drag and drop the background video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit the snapshots via Chroma Key and Composting
 
 You must hide the second snapshot you added, i.e., the one in the 3rd Track on the timeline. After that, click on snapshot 1 and tap on the Chroma Key icon in the toolbar right above the timeline.
@@ -314,6 +318,10 @@ Following it, move the slider for Edge Thickness to extend it and see the previe
 Press OK.
 
 ![tap on the compositing option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add the sound effect
 
@@ -340,6 +348,10 @@ Then, double-click on this Particles video clip on the timeline and go to the Co
 Now, play the preview again.
 
 ![drag and drop particles video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Adjust the second title, again
 
@@ -366,10 +378,6 @@ Using Filmora will allow you to add the cinematic effect quickly and efficiently
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Separating Audio From Video in DaVinci Resolve [Step by Step]
 
@@ -446,10 +454,6 @@ In Wondershare Filmora, there are templates for the spilt screens as well. It is
 
 **Step 4:** Now it is easy to select the video and click on it. Select the audio and video clips separately. Simply edit, delete or move your audio whenever you want it to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## An easier way to separate the audio from the video
 
 However, the DaVinci Resolve is the software of advanced level and the best choice for professionals. But its pricing that is $299, is quite disturbing for most of the users. So, they are always searching for a suitable approach and reasonable as well. And that is the first and foremost [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . You can split the audio and listen to your favourite track on any media player.
@@ -605,6 +609,10 @@ In Wondershare Filmora, there are templates for the spilt screens as well. It is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10 Recommended Websites to Discover Awesome Premiere Pro Video Templates
 
 The Premiere Pro templates are a great help to start working on the video right away. You don’t need to create your video from scratch thus, saving time. Moreover, there are fully adaptable features that make your video eye-catching. The article provides knowledge about 10 free Premiere Pro templates. So, let us commence this! Are you with us?
@@ -639,10 +647,6 @@ From images, music, templates, effects to transitions, logos, and animations, Mo
 
 ![motionelements templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. [Motion Array](https://motionarray.com/browse/premiere-pro-templates/)
 
 Claiming to be an all-in-one video and filmmaker’s platform, Motion Array takes complete responsibility for making your projects successful. The website takes the raw concept of your project and turns it into completion. Adobe Premiere Pro templates can be downloaded via Motion Array with other effects.
@@ -674,10 +678,6 @@ VideoHive offers the best quality and fast researched Premiere Pro templates. Wi
 If you are interested in making a slideshow, animated title, transition, or logo stings, you will find VideoHive there for you.
 
 ![templates for premiere pro by videohive](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. [Videezy](https://www.videezy.com/free-video/premiere-pro-templates)
 
@@ -745,19 +745,17 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-directscreen-w11-instant-recording-on-windows-11/"><u>2024 Approved DirectScreen W11 Instant Recording on Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a59-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A59 5G</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/como-desbloquear-region-locks-de-dvd-con-windows-1187/"><u>Cómo Desbloquear Region Locks De DVD Con Windows 11/8/7</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/how-to-create-hit-facebook-song-vids-10-edition/"><u>How to Create Hit Facebook Song Vids - #10 Edition</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-enable-the-motion-blur-effect-while-playing-dying-light-2-read-this-article-to-find-out-how-to-use-dying-light-2-motion-blur-for-a-gr/"><u>In 2024, Do You Want to Enable the Motion Blur Effect While Playing Dying Light 2? Read This Article to Find Out How to Use Dying Light 2 Motion Blur for a Great Gaming Experience</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-defy-2-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Defy 2 Phone without Any Data Loss</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-export-video-in-filmora/"><u>New In 2024, How To Export Video in Filmora</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-alert-antop-at-127-revolutionizing-home-tv-with-stylish-design-and-exceptional-performance/"><u>Review Alert! Antop AT-127 - Revolutionizing Home TV with Stylish Design and Exceptional Performance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/samsung-galaxy-s22s22plus-and-apple-iphone-13-face-off-comprehensive-specs-breakdown-gadgetpulse/"><u>Samsung Galaxy S22/S22+ and Apple iPhone 13 Face-Off: Comprehensive Specs Breakdown | GadgetPulse</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-enlivening-images-with-apples-soundtrack-for-2024/"><u>[New] Enlivening Images with Apple's Soundtrack for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-from-novice-to-pro-creating-metaverse-laughter/"><u>[New] In 2024, From Novice to Pro Creating Metaverse Laughter</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-magix-vpx-the-ultimate-software-showdown/"><u>[Updated] Magix VPX The Ultimate Software Showdown</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-0x80070141-device-unreachability-issue/"><u>Overcoming Windows 0X80070141 Device Unreachability Issue</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-insiders-approach-leveraging-luts-in-adobe-premiere-projects-for-2024/"><u>The Insider's Approach Leveraging LUTs in Adobe Premiere Projects for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-the-issue-of-a-non-functional-steelseries-arctis-7-microphone/"><u>Troubleshooting Tips: Solving the Issue of a Non-Functional SteelSeries Arctis 7 Microphone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/usbwindows-11plus/"><u>USBメディアからWindows 11を起動するコツ（上位手法２つ+追加のアドバイス）</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-color-finale-for-2024/"><u>What Is Color Finale for 2024</u></a></li>
 </ul></div>
 

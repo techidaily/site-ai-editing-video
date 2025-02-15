@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024
-date: 2025-01-27T22:59:33.571Z
-updated: 2025-01-31T21:15:55.152Z
+date: 2025-02-13T22:35:45.869Z
+updated: 2025-02-14T20:26:53.418Z
 tags: 
   - ai
   - animation videos
@@ -47,10 +47,6 @@ Step3 Now extend the adjustment clip according to the layers. Once done, you can
 
 ![adjust the adjustment clip](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Three Ways to Use Adjustment Layers in DaVinci Resolve
 
 Do you want to know how to use the **DaVinci Resolve adjustment layer**? Read this part of the article to discover how to use the adjustment layer (clip) in DaVinci Resolve.
@@ -65,6 +61,10 @@ Step2 Now click on “Inspector” from the top right corner and enhance the “
 
 ![insert the zoom effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Color Grading
 
 Color grading can change the perspective of your video clip. Do you want to give your video an aesthetic, gloomy, or colorful vibe? Change the color grading properties using the adjustment layer (clip) in DaVinci Resolve. To use an adjustment layer for color grading, we have jotted down the simple steps below:
@@ -74,6 +74,10 @@ Step1 Drag and drop your clip above on the timeline. Once you are done, head to 
 Step2 On the Color page, go to “Library” from the right side and select the effect called “Color Space Transform” from the Resolve FX Color section. After applying this effect, you can enhance the visual appearance of your video.
 
 ![select the color space transform option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Shake Transition
 
@@ -113,6 +117,10 @@ Go to the "Media" tab and locate the option "Adjustment Layer." Once done, drag 
 
 ![insert the adjustment layer](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Manage the Adjustment Layer Settings
 
 From the opened settings, you can alter the blending mode according to your choice. You can also change opacity and position for more adjustments. Also, you can apply various presets to add a cinematic look. Moreover, you can apply different borders across your video clip for a more enhanced look.
@@ -136,7 +144,7 @@ Once done with launching Filmora, hit the “New Project” button and upload th
 ![create your new video project](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2 Add the Adjustment Layer
@@ -144,10 +152,6 @@ Once done with launching Filmora, hit the “New Project” button and upload th
 Go to the "Media" tab and locate the option "Adjustment Layer." Once done, drag and drop the adjustment layer to the timeline and double-click on it to change its settings.
 
 ![insert the adjustment layer](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step3 Manage the Adjustment Layer Settings
 
@@ -198,10 +202,6 @@ Double-click on the installer from your notifications or browser downloads secti
 
 ![click install](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Add the title
 
 The editor will open automatically next. You have to tap on the Create New Project button to access the editing screen, tap on the Titles tab, and choose the Default Title. If you prefer another version, browse through the different title presets available as options and download the one you prefer.
@@ -240,10 +240,6 @@ Choose all files and click on Open to add them to the Filmora software. Now star
 
 ![open all of the files](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Drag the files into the timeline
 
 The background video is the first file you will drag and drop to the timeline. For the best effect, choose a flashing light background video. Next, drag the first title you edited into Track 2, right above the first one. Make sure to adjust the length of the clip to match the background video length. Repeat the same for the second snapshot, adding it above the first snapshot in the timeline.
@@ -265,10 +261,6 @@ Press OK.
 ## Add the sound effect
 
 Again, you must hide the second snapshot in the timeline with the same step as before. Then, drag the sound effect to the audio track timeline next. Tap on the Play button under the Preview to see how the effect looks with the sound. Cut out the extra second of the sound effect clip to align it with the ending section of all of the other clips.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add the initial keyframes
 
@@ -292,10 +284,6 @@ Now, play the preview again.
 
 ![drag and drop particles video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adjust the second title, again
 
 Remember how you clicked on the hide button for the second snapshot for title 2? Now, you have to click on the unhide icon beside it.
@@ -309,6 +297,10 @@ Here, tap on the Split icon and remove the clip's first half. Then, double-click
 Subsequently, move the play head to the point when the lens flare effect stop, which is around 2 seconds more. At this point, you have to add another keyframe and change the Opacity to 100.
 
 Play the preview of the whole thing to see how the effect looks in completion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -326,6 +318,14 @@ Double-click on the installer from your notifications or browser downloads secti
 
 ![click install](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Add the title
 
 The editor will open automatically next. You have to tap on the Create New Project button to access the editing screen, tap on the Titles tab, and choose the Default Title. If you prefer another version, browse through the different title presets available as options and download the one you prefer.
@@ -382,10 +382,6 @@ Press OK.
 
 ![tap on the compositing option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Add the sound effect
 
 Again, you must hide the second snapshot in the timeline with the same step as before. Then, drag the sound effect to the audio track timeline next. Tap on the Play button under the Preview to see how the effect looks with the sound. Cut out the extra second of the sound effect clip to align it with the ending section of all of the other clips.
@@ -425,6 +421,10 @@ Here, tap on the Split icon and remove the clip's first half. Then, double-click
 Subsequently, move the play head to the point when the lens flare effect stop, which is around 2 seconds more. At this point, you have to add another keyframe and change the Opacity to 100.
 
 Play the preview of the whole thing to see how the effect looks in completion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -443,10 +443,6 @@ Using Filmora will allow you to add the cinematic effect quickly and efficiently
 Adding titles and texts to a video clip during the post-production phase is a common thing. You may need to add texts in the intro and outro of the video as well as to highlight important parts in the middle of the video. Showing regular and static texts and titles is very unappealing, and that is why everyone includes font effects to animate the texts.
 
 There are different types of font effects available to apply to the texts and titles in your video. There are premium video editors available with a wide range of effects such as After Effect font effects. If you are an occasional video creator, you can use online font effects while you edit your videos on the go. We will illustrate how to add font effects to videos on any device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Add Font Effects to Video on Windows PC
 
@@ -476,6 +472,10 @@ Step6Customize the text effect by double clicking on the text effect located on 
 
 ![change text effect](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step7Play the video and click on Export button. Select your desired file format and save the edited video on your hard drive.
 
 ## Part 2\. Add Video Font Effects on Mac
@@ -490,13 +490,13 @@ Step2Drag and drop the selected video into Timeline for your iMovie project. Cli
 
 ![choose title from imovie](https://images.wondershare.com/filmora/article-images/2022/08/choose-title-from-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3Place the mouse point over the different text styles to check them. Drag and drop the desired text style into the Timeline and place it where you want the text to appear. You can stretch the duration of the text effect.
 
 ![drag text title imovie](https://images.wondershare.com/filmora/article-images/2022/08/drag-text-title-imovie.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4From Viewer interface, double click on the text part of the video to customize the text. You will see options to change the font, font size, color and much more.
 
@@ -552,19 +552,20 @@ Adding font effects on video is a common practice especially when you have intro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-cheap-yet-superior-gaming-keyboard-guide-under-100/"><u>[New] 2024 Approved Cheap, Yet Superior Gaming Keyboard Guide Under $100</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-from-dull-to-vivid-mastering-the-art-of-color-in-videos-for-2024/"><u>[New] From Dull to Vivid Mastering the Art of Color in Videos for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-inside-the-evolved-sony-bdp-s6700-world/"><u>[Updated] 2024 Approved Inside the Evolved Sony BDP-S6700 World</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-simplifying-streaming-key-tactics-for-youtube-and-twitch-via-obs/"><u>[Updated] In 2024, Simplifying Streaming Key Tactics for YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-storage-space-used-daily-extended-video-size/"><u>2024 Approved Storage Space Used Daily Extended Video Size</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/galaxy-xcover-6-pro-tactical-edition-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Galaxy XCover 6 Pro Tactical Edition support - Turn Off Screen Lock.</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/gueriznez-facilement-votre-systeme-avec-la-sauvegarde-complete-gratuit-en-ligne-pour-windows-11/"><u>Guériznez Facilement Votre Système Avec La Sauvegarde Complète Gratuit en Ligne Pour Windows 11!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/still-going-strong-discover-whats-new-in-ubuntu-touchs-ota-4-version-and-its-innovative-upgrades/"><u>Still Going Strong: Discover What's New in Ubuntu Touch's OTA-4 Version and Its Innovative Upgrades</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-track-and-blur-faces-in-premiere-pro/"><u>How To Track and Blur Faces in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-methods-to-cut-video-in-vlc-on-windows/"><u>In 2024, 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-discovering-the-fundamentals-of-skilled-interview-conduct/"><u>In 2024, Discovering the Fundamentals of Skilled Interview Conduct</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-step-by-step-techniques-for-convincing-reddit-readers/"><u>In 2024, Step-By-Step Techniques for Convincing Reddit Readers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-srt-integration-in-mp4s-a-complete-blueprint/"><u>Mastering SRT Integration in MP4s A Complete Blueprint</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-device-drivers-securing-acer-aspires-optimal-performance-on-windows-systems/"><u>Navigating Device Drivers: Securing Acer Aspire's Optimal Performance on Windows Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-mac-video-editing-software-top-vsdc-alternatives/"><u>New 2024 Approved Mac Video Editing Software Top VSDC Alternatives</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-download-and-use-windows-movie-maker-10/"><u>New How to Download and Use Windows Movie Maker 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-artistic-journey-via-microsofts-innovative-imagery-toolkit/"><u>Pioneering Artistic Journey via Microsoft’s Innovative Imagery Toolkit</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y27-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y27 5G Location | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c210s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nokia C210s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-the-stranger-things-upside-down-effect/"><u>Updated 2024 Approved How to Create the Stranger Things Upside Down Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-6-websites-to-free-download-motivational-video-footage/"><u>Updated In 2024, 6 Websites to Free Download Motivational Video Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated In 2024, How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-what-are-the-stages-of-film-production/"><u>Updated What Are The Stages Of Film Production</u></a></li>
 </ul></div>
 
