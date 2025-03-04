@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects
-date: 2025-02-12T20:40:32.044Z
-updated: 2025-02-14T17:50:10.928Z
+date: 2025-02-27T00:09:03.085Z
+updated: 2025-03-04T03:53:58.850Z
 tags: 
   - ai
   - animation videos
@@ -56,10 +56,6 @@ Step1 Go to the "**Effects and Preset**" tab and search for the "**Fast Box Blur
 Step2 Increase the "**Blur Radius**" to see the edges feather.
 
 ![after effects editing the blur radius](https://images.wondershare.com/filmora/article-images/after-effects-blur-radius.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Use Variable Mask Feather in After Effects?
 
@@ -116,10 +112,6 @@ Whether creating a simple animation or a complex visual effect, this tool gives 
 Step1 Open Wondershare Filmora and **create** a new project. **Import** the video and **drag** it to the timeline.
 
 ![filmora add media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Double-click the video in the Player Window. In the editing window, **click "Video**"> "**Mask**" and add a shape mask.
 
@@ -220,10 +212,6 @@ QuickTime is among the most popular multimedia players available for PC users. D
 
 Do you use QuickTime player to watch music videos, movies, and TV shows? Well, you may find it interesting that the QuickTime player allows you to add subtitles. As there are multiple methods through which you can add subtitles in QuickTime, we are going to discuss them one by one in this blog. So, let’s start our discussion!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Turn on the Subtitles in QuickTime
 
 As you might know, some videos come with embedded subtitles. It’s up to you whether you want to view them while playing the video or not. If you are playing a video with embedded subtitles in the QuickTime player but are somehow unable to view the subtitles, it’s probably because the subtitles feature is turned off. So, you need to enable the subtitles by following certain steps.
@@ -233,10 +221,6 @@ As you might know, some videos come with embedded subtitles. It’s up to you wh
 Step1 Open the QuickTime Player application on your Mac computer.
 
 ![open quicktime player](https://images.wondershare.com/filmora/article-images/2023/02/turn-on-subtitles-in-quicktime-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Play the video having subtitles embedded in it.
 
@@ -344,10 +328,6 @@ Step8 Choose a subtitle template and add it to the video timeline.
 
 ![add subtitles to a video in the filmora app](https://images.wondershare.com/filmora/article-images/2023/02/add-subtitles-to-a-video-using-filmora-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step9 You can add text, modify text style, and add animations.
 
 Step10 Click the “Ok” button to save the subtitles.
@@ -421,10 +401,6 @@ Step7 Now, click the “Titles” option present at the top of the Filmora inter
 Step8 Choose a subtitle template and add it to the video timeline.
 
 ![add subtitles to a video in the filmora app](https://images.wondershare.com/filmora/article-images/2023/02/add-subtitles-to-a-video-using-filmora-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step9 You can add text, modify text style, and add animations.
 
@@ -522,10 +498,6 @@ Applying LUT doesn't take time, and it instantly improves color grading. This wa
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Add LUTs in Premiere Pro?
 
 LUTs are great video editing tools with extended color grading and schemas. Premiere Pro is a commonly consumed video editing tool with extensive features. Being a new user, you might not be aware of the functionality of LUTs in the platform. To add LUTs to Premiere Pro, you need to follow simple steps:
@@ -551,10 +523,6 @@ LUTs are already transforming video editing functionalities with automated color
 * **Real-time Preview:** Using LUTs, users would be able to preview color grading. This way, they will know what their video after LUT would look like. Hence, they can preview different LUT presets and proceed with the desired one.
 * **Wide Compatibility:** The platform compatibility of LUTs will also enhance. After all, you will access them on mobile, web, and desktop devices without problems. You can use LUTs in everyday life by applying them to visual content.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus Part: Wondershare Filmora – An Alternative Haven for Adding LUTs
 
 LUTs are great utility when it comes to video editing environments. Apart from Premiere Pro, several other tools are working to improve the industry. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software where you can upgrade your videos. You can add different elements, effects, and transitions in Filmora. You can also use and apply LUT presets within Filmora.
@@ -564,10 +532,6 @@ LUTs are great utility when it comes to video editing environments. Apart from P
 [Add LUTs on Video](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -613,10 +577,6 @@ LUTs are great video editing tools with extended color grading and schemas. Prem
 **Step 2:** From the project window on the bottom left, press the "New Item" tab and choose "Adjustment Layer." Adjust video settings from the available panel, including the "Width," "Height," "Timebase," and "Pixel Aspect Ratio," and click "OK."
 
 ![add adjustment layer](https://images.wondershare.com/filmora/article-images/2023/add-adjustment-layer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Drag and drop the created adjustment layer from the project window into the timeline and set the length adjacent to the video. Select the adjustment layer, and press "Lumetri Color" from the top in the right-hand panel. From the "Basic Correction" category, set "Input LUT" and proceed to click the "Browse" option from the drop-down menu. Navigate your LUT from the folder and click "Open" to apply desired LUT to the video.
 
@@ -682,18 +642,18 @@ Videos are close to all of us, as they store our important visual data. This is 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-crafting-visual-stories-select-the-best-ig-video-editors/"><u>[New] 2024 Approved Crafting Visual Stories Select the Best IG Video Editors</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-cured-non-appearance-of-tiny-vid-content/"><u>[New] In 2024, Cured Non-Appearance of Tiny Vid Content</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-audio-amplification-for-online-photo-archiving/"><u>2024 Approved Audio Amplification for Online Photo Archiving</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-building-awesome-channel-art-for-your-youtube-presence/"><u>2024 Approved Building Awesome Channel Art for Your YouTube Presence</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-spark-10-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Spark 10 Pro to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-6-tips-for-your-first-facebook-ads/"><u>New In 2024, 6 Tips for Your First Facebook Ads</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-images-into-video-kapwing-tutorial/"><u>New In 2024, How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-something-about-skin-care-vlog-ideas/"><u>New Something About Skin Care Vlog Ideas</u></a></li>
-<li><a href="https://network-issues.techidaily.com/retrieved-missing-wireless-adapter-in-win10-configuration/"><u>Retrieved Missing Wireless Adapter in Win10 Configuration</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>Updated How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-grid-layout-geniuses-for-photo-perfection/"><u>[Updated] Grid Layout Geniuses for Photo Perfection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-expertsnap-recording-tool-win-10-version/"><u>[Updated] In 2024, ExpertSnap Recording Tool, Win 10 Version</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-circular-and-spherical-artistry-building-block-by-block-for-2024/"><u>[Updated] Mastering Circular & Spherical Artistry Building Block by Block for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-secrets-of-facebook-videos-for-2024/"><u>[Updated] Unveiling the Secrets of Facebook Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fixing-warped-youtube-videos-step-by-step/"><u>In 2024, Fixing Warped YouTube Videos Step-by-Step</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 6s</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-resources-for-finding-the-perfect-rental-property/"><u>Top 10 Resources for Finding the Perfect Rental Property</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Best Tips on How to Design Travel Slideshow
-date: 2025-02-07T18:33:58.766Z
-updated: 2025-02-14T23:52:11.657Z
+date: 2025-03-03T07:02:37.144Z
+updated: 2025-03-03T22:07:14.561Z
 tags: 
   - ai
   - animation videos
@@ -91,10 +91,6 @@ There are several online sites and tools available from where you can select and
 
 ![Travel Slideshow Templates](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3 Best tool for creating a travel slideshow- Wondershare Filmora
 
 For creating your travel slideshow in an interesting manner and that too in a hassle-free manner, **[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)** is excellent. Though it is a professional video editing tool with advanced features, it supports multiple additional tasks as well including slideshow making. Using the software, your slideshow having pictures, videos, and music files can be created in no time.
@@ -288,10 +284,6 @@ Next, choose the transitions you want to add between the images and the videos. 
 ### 06Add Music
 
 Music will set the right tone and mood for your slideshow. You can either download the relevant song from any online site or a music library or can also combine multiple audio clips to be added to the slideshow.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2 Importance of using a travel slideshow template
 
@@ -546,17 +538,9 @@ Step1 Right-click the clip in the editing timeline > Edit Properties.
 
 ![right-click the clip](https://images.wondershare.com/filmora/article-images/2022/12/background-to-black-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Select the Color menu > Advanced.
 
 ![select the color menu](https://images.wondershare.com/filmora/article-images/2022/12/background-to-black-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Setting the color parameters.
 
@@ -644,10 +628,6 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
 ## Summary
@@ -706,10 +686,6 @@ Double-click the Crop effect, then change the Left and Right values to make the 
 
 ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
 ##### Step 4 Apply more graininess to the film
@@ -732,17 +708,9 @@ First, fire up Filmora and load the video you want to send back to the 1950s. Th
 
 ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
@@ -793,10 +761,6 @@ Step3You have to enable 3D option for the text from the 3D icon on text layer. U
 Step4Similarly, click on Geometry Options and add depth to your text to get 3D effect on your text.
 
 ![click geometry after effects](https://images.wondershare.com/filmora/article-images/2022/08/click-geometry-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5You have to create a new Camera layer by right-clicking Timeline and go to New>Camera option. You will get Camera Settings window to adjust the parameters and click on Ok button.
 
@@ -878,10 +842,6 @@ Step2Go to File> Import Media > Import Media Files to import the video file. Alt
 
 ![import media files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3Go to Titles tab and go to left panel, click on Titles option. Search “3D” in the search field and check out all 3d text effects and animations available.
 
 ![select 3d title filmora](https://images.wondershare.com/filmora/article-images/2022/08/select-3d-title-filmora.jpg)
@@ -924,20 +884,20 @@ There is no doubt that if you include 3D text effects and animations in your vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-of-vr-filmmaking-with-advanced-techniques-using-adobe-premiere-pro/"><u>[New] Unveiling the Secrets of VR Filmmaking with Advanced Techniques Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-upgrade-webcam-videos-with-simple-editing-techniques-for-2024/"><u>[New] Upgrade WebCam Videos with Simple Editing Techniques for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagrams-most-active-hours/"><u>[Updated] 2024 Approved Mastering Instagram's Most Active Hours</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-novices-path-to-professional-gopro-video-editing/"><u>[Updated] 2024 Approved Novice's Path to Professional GoPro Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-kinetic-typography-text-effect-easyandfast/"><u>2024 Approved Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-screen-showdown-top-6-hdmi-21-monitors-reviewed/"><u>2024 Approved The Ultimate Screen Showdown Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-ultimate-mic-selection-for-vloggers-and-streamers/"><u>2024 Approved Ultimate Mic Selection for Vloggers and Streamers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amazing-discover-these-6-shocking-programs-flawlessly-functioning-with-windows-xp/"><u>Amazing! Discover These 6 Shocking Programs Flawlessly Functioning with Windows XP</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-image-jpgpng-to-gif-converters/"><u>Best Image (JPG/PNG) to GIF Converters</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-do-velocity-edits-on-pc-for-2024/"><u>How to Do Velocity Edits on PC for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-use-montage-with-these-movies/"><u>In 2024, Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2-methods-to-cut-video-in-vlc-on-windows/"><u>New 2 Methods to Cut Video in VLC on Windows</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-videos-with-imovie/"><u>Updated 2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-in-this-article-weve-reviewed-a-list-of-the-best-music-video-makers-for-you-it-includes-free-music-video-makers-used-on-pc-and-online-video-/"><u>Updated In 2024, In This Article, Weve Reviewed a List of the Best Music Video Makers for You. It Includes Free Music Video Makers Used on PC and Online Video Maker App</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-lumafusion-offers-various-look-up-table-presets-or-luts-such-as-filmic-delog-and-filmic-deflat-and-several-stylistic-luts-for-use-with-neutral-use-v/"><u>Updated LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-high-end-photo-overlays-for-creative-texting/"><u>[New] In 2024, High-End Photo Overlays for Creative Texting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-dissecting-the-hidden-mechanics-behind-youtubes-popularity-index-for-2024/"><u>[Updated] Dissecting the Hidden Mechanics Behind YouTube's Popularity Index for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unheard-vocal-verifiers-6-stealthy-smartphone-recordings/"><u>[Updated] Unheard Vocal Verifiers 6 Stealthy Smartphone Recordings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/craft-powerpoint-to-interactive-movie-scripts-for-2024/"><u>Craft PowerPoint to Interactive Movie Scripts for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-know-how-you-can-trim-or-merge-using-wondershare-filmora-trimming-and-merging-using-this-tool-is-an-easy-task-learn-how-for-2024/"><u>Do You Know How You Can Trim or Merge Using Wondershare Filmora? Trimming and Merging Using This Tool Is an Easy Task; Learn How for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-steps-to-loop-youtube-videos-on-iphone/"><u>Easy Steps to Loop YouTube Videos on iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-c53-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme C53 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-analysis-the-powerhouse-that-is-dji-phantom-3/"><u>In-Depth Analysis The Powerhouse That Is DJI Phantom 3</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-easy-steps-to-export-video-in-filmora/"><u>New 2024 Approved Easy Steps to Export Video in Filmora</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-shrinking-large-video-files-down-to-manageable-mb-sizes/"><u>Step-by-Step Guide: Shrinking Large Video Files Down to Manageable MB Sizes</u></a></li>
 </ul></div>
 

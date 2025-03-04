@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Add Effects on TikTok
-date: 2025-02-08T21:40:35.338Z
-updated: 2025-02-14T22:55:56.755Z
+date: 2025-02-24T18:13:52.757Z
+updated: 2025-03-03T16:50:59.447Z
 tags: 
   - ai
   - animation videos
@@ -38,10 +38,6 @@ Step3 Choose the filter you want to use. To search, use the scroll, or choose a 
 Step4 Click on "Effects." Once again, scroll to search or choose an effect category to browse. Tap "Save" to save the changes you've made. Tap "Next" and then "Post" to continue.
 
 ![post videos tiktok](https://images.wondershare.com/filmora/article-images/2022/07/post-videos-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Adding Effects Before Recording
 
@@ -206,10 +202,6 @@ Step10 Double-click on the clip, go to effects, and choose a single-line mask.
 
 ![choose single line mask](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-13.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step11 Drag the mask to the point where it shows the outfit on its right side.
 
 ![drag the mask line](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-14.gif)
@@ -217,10 +209,6 @@ Step11 Drag the mask to the point where it shows the outfit on its right side.
 Step12 Blur the mask edges by increasing blur numbers.
 
 ![blur the mask edges](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-15.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step13 Click on the add button to add a mask keyframe and move the play head forward until the first outfit leaves the frame.
 
@@ -268,10 +256,6 @@ Step5 We are done with the first track so lock it.
 
 ![lock first track](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Import the clip again on the second track. And find the sections of the clips where the subject is walking in the video. Cut the remaining part.
 
 ![import the clip on the second track](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-9.gif)
@@ -296,17 +280,9 @@ Step11 Drag the mask to the point where it shows the outfit on its right side.
 
 ![drag the mask line](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-14.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step12 Blur the mask edges by increasing blur numbers.
 
 ![blur the mask edges](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-15.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step13 Click on the add button to add a mask keyframe and move the play head forward until the first outfit leaves the frame.
 
@@ -387,10 +363,6 @@ It is a great LUT pack that you can use for your photos and videos. Speedy Grade
 
 ![speedy grade pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. [GoPro LUTs Color Grading Pack](https://3dlutcreator.com/userstore.php?packid=2)
 
 Yet another fantastic LUT pack, especially for outdoor vlogging and videography, is GoPro LUTs Color Grading Pack. This pack comes with over 50 different LUTs, each suitable for GoPro videos. You can use these LUTs to give your vlogs and videos a more cinematic and professional touch. It enhances the brown and muddiness in your videos and balances the exposure to provide the perfect outdoor look.
@@ -420,10 +392,6 @@ It is an exceptional and diversely influencing pack of 3DLUT Mobile. It changes 
 The last one on this list is RakhmonovFilmsLUT Pack which has over 100 LUTs. Each LUT is different from the others in style and tone. This pack gives your videos a more meaningful natural-looking color tone. These LUTs create a movie-like feel to your content by correcting colors that look more professional. It adds depth and dramatic touch to your media files with the correct exposure and white balance.
 
 ![rakhmonov films luts](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Conclusion
 
@@ -523,10 +491,6 @@ With new tools and applications, video editing becomes more accessible with a pr
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
@@ -536,10 +500,6 @@ With new tools and applications, video editing becomes more accessible with a pr
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Easy Steps to Add Miniature Effect to Videos
 
@@ -854,22 +814,22 @@ Have you tried to add a miniature effect before? If yes, then share your experie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/est-gif-creation-tools-reviewed-by-industry-vets/"><u>[New] Best GIF Creation Tools Reviewed by Industry Vets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-audio-awaits-top-melodic-spots-for-podcast-starts/"><u>[Updated] Audio Awaits Top Melodic Spots for Podcast Starts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-pixel-perfect-converter-max-resolution-for-2024/"><u>[Updated] Pixel Perfect Converter Max Resolution for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-poco-x6-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-sunny-side-up-videography-for-android/"><u>2024 Approved Sunny Side-Up Videography for Android</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-guide-understanding-the-tiff-image-format/"><u>Comprehensive Guide: Understanding the TIFF Image Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-the-art-of-effective-chatgpt-top-tips-and-tricks/"><u>Conquer the Art of Effective ChatGPT: Top Tips & Tricks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211250158-9781954925113-the-toad-and-the-jaguar/"><u>The Toad and the Jaguar | Free Book</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-10-printer-spooler-non-responsive/"><u>Windows 10 Printer Spooler Non-Responsive</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-currently-hot-in-vr-tech-for-2024/"><u>[New] Currently Hot in VR Tech for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hrink-it-down-youtubes-video-trimming-process-for-2024/"><u>[New] Shrink It Down YouTube's Video Trimming Process for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-auditory-illusions-video-meets-apple-music-for-2024/"><u>[Updated] Auditory Illusions Video Meets Apple Music for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-art-of-mixing-on-youtube-music/"><u>[Updated] In 2024, The Art of Mixing on YouTube Music</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/handbrake-und-h265-encoding-effiziente-einrichtung-fur-optimale-videokodierung-mit-hevc/"><u>HandBrake Und H.265 Encoding: Effiziente Einrichtung Für Optimale Videokodierung Mit HEVC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-essential-tips-for-compelling-screenplay-narration/"><u>In 2024, Essential Tips for Compelling Screenplay Narration</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-hot-40i-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Hot 40i Device</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>New How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-6-tips-for-your-first-facebook-ads/"><u>New In 2024, 6 Tips for Your First Facebook Ads</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-images-into-video-kapwing-tutorial/"><u>New In 2024, How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-something-about-skin-care-vlog-ideas/"><u>New Something About Skin Care Vlog Ideas</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-12-proplus-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 12 Pro+ 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpt-enterprise-potential/"><u>Unveiling ChatGPT Enterprise Potential</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-waveform-generator/"><u>Updated In 2024, Best Audio Waveform Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Add Effects on TikTok
-date: 2025-02-13T16:38:05.765Z
-updated: 2025-02-14T22:48:02.513Z
+date: 2025-02-24T21:12:49.422Z
+updated: 2025-03-03T16:00:03.444Z
 tags: 
   - ai
   - animation videos
@@ -38,10 +38,6 @@ Step3 Choose the filter you want to use. To search, use the scroll, or choose a 
 Step4 Click on "Effects." Once again, scroll to search or choose an effect category to browse. Tap "Save" to save the changes you've made. Tap "Next" and then "Post" to continue.
 
 ![post videos tiktok](https://images.wondershare.com/filmora/article-images/2022/07/post-videos-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Adding Effects Before Recording
 
@@ -178,10 +174,6 @@ Expand the timeline to see the ramping line. Now click on the ramping line by us
 
 ![add a new keyframe](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3
 
 Move the timeline cursor to the right side and add another keyframe there. Now, double-click on the first keyframe and drag it to the right side just a bit. After that, drag the speed ramping line downwards to create a ramp. To change the length of keyframes more precisely, go to “Effects Control” from the top and manage its length.
@@ -212,10 +204,6 @@ Install Filmora 13 on your device and open it to access “New Project” from t
 
 ![create new project in filmora](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2Adjust the Speed and Other Use Advanced Options
 
 Later, drag that file to the timeline and right-click on it to get a list. Select the “Uniform Speed” option from that list and head to the editing panel opened to the right. Under the “Speed,” there will be a slider. You have to move it to the left for slow-motion video. While adjusting speed with that slider, track video duration from the “Duration” section. Below that option, you can toggle the “Reverse Speed” option if required.
@@ -225,10 +213,6 @@ Later, drag that file to the timeline and right-click on it to get a list. Selec
 Otherwise, check the “Ripple Edit” and “Maintain Pitch” option for good. Now, extend the “AI Interpolation” menu and choose “Optical Flow.” It will let AI automatically adjust the video speed in slow motion with high quality.
 
 ![select ai frame and custom settings](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Method 2: Using Speed Ramping
 
@@ -245,10 +229,6 @@ Tap the “Speed Ramping” next to the “Uniform Speed” in the right-side pa
 In the Speed Ramping Section, you will get 6 templates. Pick one or hit the “Customize” to design your own speed ramping in videos. Later, move to the toolbar of the timeline section and choose “Render Preview” next to the “Copilot” icon. It will bring a smooth playback of your speed ramping in videos.
 
 ![apply changes and render preview](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Matchless Features of Wondershare Filmora
 
@@ -297,10 +277,6 @@ This guide will tell you **how to make a slow-motion video on Premiere Pro**. Fo
 Import your video into the timeline and right-click on the icon you see with the video file on the timeline. From here, go to “Time-Remapping” and click on “Speed.” You will know the function has been activated when you see the white line on your timeline.
 
 ![access speed in time time ramping](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 2
 
@@ -383,10 +359,6 @@ Regular videos do not always generate the same level of response from viewers. S
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Freeze Frame to Your Video From Any Device?
 
@@ -529,10 +501,6 @@ Prince Meyson offers this skin tone enhancer LUT pack. It has a neutral, balance
 
 ![pro retouching essentials pack ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Apply LUTs on Final Cut Pro
 
 Now that you've discovered there are many Final Cut Pro LUTs free to download. The most important thing is to learn how to use these free LUTs on your video using FCPX. Here are some methods to learn to apply LUTs using Final Cut Pro in simple steps.
@@ -550,10 +518,6 @@ Open Final Cut Pro and import your video. Once the video is imported, click on t
 Go to the “Effect Browser” and search for the LUT option from the search menu. After selecting it, you will get a “Custom LUT” layer. Select the custom LUT layer and drag and drop it onto your video clip. Then, click on the video clip and go to the “Inspector” window.
 
 ![open inspector window](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step3
 
@@ -640,10 +604,6 @@ This free LUT pack is a perfect choice to give your videos a cinematic look. It 
 Perfect Green Video LUT is a pack of 3 cinematic-style LUTs. This pack is ideal for travel or nature videos as it increases the green tone in your videos. It has a lush, green color grading that can make your videos look vibrant and lively. Additionally, this pack is effective for outdoor scenes as it improves your video's natural colors and makes it look more dynamic.
 
 ![perfect green video lut ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. [Cyberpunk Color Grades](https://motionarray.com/final-cut-pro-templates/cyberpunk-color-grades-818232/)
 
@@ -755,22 +715,24 @@ In conclusion, Final Cut Pro is a powerful tool for video editing. This tool all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-displaycast-critique-service-for-2024/"><u>[Updated] DisplayCast Critique Service for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ai-enhances-favorite-air-tracker-by-forecasting-flight-delays-discover-how-techbrief/"><u>AI Enhances Favorite Air Tracker by Forecasting Flight Delays: Discover How | TechBrief</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easy-guide-to-zoom-video-in-vlc/"><u>Easy Guide to Zoom Video in VLC</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-oppo-find-x7-ultra-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Find X7 Ultra Safely | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-bokeh-effect-for-2024/"><u>How to Make a Bokeh Effect for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-guide-for-2024/"><u>How To Quickly Create A Screen Print Effect In Photoshop Detailed Guide for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-cutting-edge-screen-recorders-for-professionals/"><u>In 2024, Cutting-Edge Screen Recorders for Professionals</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-the-ultimate-guide-to-make-a-text-collage/"><u>In 2024, The Ultimate Guide to Make a Text Collage</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/launching-a-successful-vlog-a-guide-to-profitability-for-2024/"><u>Launching a Successful Vlog A Guide to Profitability for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/premium-audio-devices-for-online-recording-reviewed-2023-for-2024/"><u>Premium Audio Devices for Online Recording Reviewed 2023 for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-navigation-the-essential-guide-to-win11-shortcuts/"><u>Streamlining Navigation: The Essential Guide to Win11 Shortcuts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-economical-path-to-enhanced-speeds-in-depth-look-at-the-raspberry-pis-ms2-hatplus/"><u>The Economical Path to Enhanced Speeds: In-Depth Look at the Raspberry Pi's M.S2 HAT+</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ins-and-outs-of-a-digital-video-recorder-dvr-an-informative-overview/"><u>The Ins and Outs of a Digital Video Recorder (DVR): An Informative Overview</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-maximizing-earnings-on-youtube-shorts-essentials-and-prospective-income/"><u>[New] 2024 Approved Maximizing Earnings on YouTube Shorts Essentials & Prospective Income</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-complete-manual-taking-editing-and-sharing-display-images/"><u>[New] The Complete Manual Taking, Editing, and Sharing Display Images</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-client-speeches-transforming-marketing-narratives/"><u>[Updated] 2024 Approved Client Speeches Transforming Marketing Narratives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-hitch-youtube-sounds-into-imovie-tracks-swiftly/"><u>[Updated] 2024 Approved Hitch YouTube Sounds Into iMovie Tracks Swiftly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pro-photographys-selections-the-creme-de-la-4k-dslrs-for-2024/"><u>[Updated] Pro Photography's Selections The Crème De La 4K DSLRs for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-spice-up-viewers-innovative-cooking-channel-naming-tips/"><u>[Updated] Spice Up Viewers Innovative Cooking Channel Naming Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-your-pcs-visual-fidelity-with-updated-radeon-drivers-windows-edition/"><u>Elevating Your PC's Visual Fidelity with Updated Radeon Drivers, Windows Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-the-future-of-computing-with-macos-15-top-notch-enhancements-for-your-apple-macbook-insights-from-zdnet/"><u>Experience the Future of Computing with MacOS 15 - Top-Notch Enhancements for Your Apple MacBook | Insights From ZDNET!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-audio-plug-ins-for-video-editors/"><u>In 2024, Best Audio Plug-Ins For Video Editors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-14-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 14 Is Unlocked</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-how-to-use-3d-camera-tracking-in-adobe-after-effects-and-take-your-skills-to-the-next-level-for-2024/"><u>Learn How to Use 3D Camera Tracking in Adobe After Effects and Take Your Skills to the Next Level for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video-for-2024/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>New How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-montage-makes-it-easy-to-create-and-share-videos-this-article-will-explain-what-it-can-do-and-show-you-examples-of-movies-that-use-montage/"><u>New Montage Makes It Easy to Create and Share Videos. This Article Will Explain What It Can Do and Show You Examples of Movies that Use Montage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-motion-blur-photo-with-gimp-step-by-step-guide-for-2024/"><u>New Motion Blur Photo With GIMP Step-By-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review/"><u>New VSDC Free Video Editor Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-fresh-install-of-nvidia-graphics-card-drivers-made-easy/"><u>Update or Fresh Install of NVIDIA Graphics Card Drivers Made Easy</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>Updated How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024
-date: 2025-02-12T21:28:58.369Z
-updated: 2025-02-14T21:07:34.861Z
+date: 2025-03-03T05:26:19.051Z
+updated: 2025-03-03T23:44:26.293Z
 tags: 
   - ai
   - animation videos
@@ -40,10 +40,6 @@ Step1 After adding the desired video clip in CapCut, select it and scroll in the
 Step2 Moreover, you can choose the direction and times of the motion blur effect. Once you are done, tap on the “Tick” icon. After some seconds, the motion blur effect will be applied to your video.
 
 ![set direction and times setting](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. On Android
 
@@ -302,19 +298,11 @@ To help you better put the guidance into practice, we have prepared a video tuto
 
 Apart from the practical guidance, there are two important concepts you need to be aware of: radius and channels. Below, we’ve discussed both of them in detail to make things more understandable to you:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Radius
 
 Radius refers to the size of the dots that make up the halftone image and is an important factor in determining the overall look of the photo.
 
 You can adjust the sizes of the dots to change the gradient, spacing in between, and blur of the color and image. However, if you want a more subtle effect, you will need to use a smaller radius. For a more dramatic effect, like vintage comics, old ads, or DIY grunge zines., you will need to use a larger radius.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Channel
 
@@ -403,10 +391,6 @@ Add special blockbusting looks to your important video clips. With the Canon C-L
 
 ![Canon C-Log Blockbuster ](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. [Slight Warmth](https://fixthephoto.com/canon-lut/download-4)
 
 Blend unique sunlight touch to your outdoor visual media with these free Canon LUTs. It helps you improve the standards of your images and videos with evening sunshine. Your important outdoor moments will become captured in attractive visual media with pleasing tranquility. The available LUT filter possesses a warm color gradient to initiate creativity.
@@ -478,10 +462,6 @@ Red-brownish mountains look impressive in their original colors. A pink-grade LU
 Landscapes look great in their clean yet natural colors. But if your photography or videography goes wrong, landscapes may look poor. In this scenario, using a landscape Canon LUT is a great thing to have. After all, the LUT has useful color preset filters that will provide refreshing looks. The greenery will be restored, and the blue sky will be back.
 
 ![Landscape](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 16\. [Landscape](https://fixthephoto.com/lut-color-grading/download-3)
 
@@ -536,29 +516,17 @@ Take your video concept to the next level with cinema Canon C-Log3 LUT. In this 
 
 ![1. Cinema Canon C-Log3 ](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. [City Building](https://fixthephoto.com/canon-lut/download-1)
 
 Transform your city building with this free Canon LUT pack. There are exciting LUT preset filters for providing new looks into tall building structures. The combination of weather, greenery, traffic, and buildings demands upgraded looks, for which such LUTs are ideal. With special color orientation, this LUTs pack will optimize color schemes within the city.
 
 ![2. City Building ](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. [Canon C-Log Blockbuster](https://elements.envato.com/canon-c-log-blockbuster-and-standard-luts-for-fina-9JY4V26)
 
 Add special blockbusting looks to your important video clips. With the Canon C-Log Blockbuster LUTs pack, upgrade your videos with a cinematic touch. There are 20 Blockbuster C-Log LUTs that will extend the color grading of your videos. This also improves the quality of your clips, bringing more engagement. Thus, you can make your documentaries and social clips more enchanting.
 
 ![Canon C-Log Blockbuster ](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. [Slight Warmth](https://fixthephoto.com/canon-lut/download-4)
 
@@ -602,10 +570,6 @@ An aerial picture of your city determines its beauty. But the sandy or dusty atm
 
 ![city film luts](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 11\. [Dusty Light](https://fixthephoto.com/film-luts/download-10)
 
 Sometimes interior images look more attractive in dusty lighting. This LUT pack comes with diverse filter presets that add brownish dusty looks. Thus, your visual content will be enhanced with optimized resolutions within dusty lighting. The Canon LUT will adjust the color schemes within your visual content. Hence, you will have a visually appealing image with outstanding dusty contrast.
@@ -635,10 +599,6 @@ Red-brownish mountains look impressive in their original colors. A pink-grade LU
 Landscapes look great in their clean yet natural colors. But if your photography or videography goes wrong, landscapes may look poor. In this scenario, using a landscape Canon LUT is a great thing to have. After all, the LUT has useful color preset filters that will provide refreshing looks. The greenery will be restored, and the blue sky will be back.
 
 ![Landscape](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 16\. [Landscape](https://fixthephoto.com/lut-color-grading/download-3)
 
@@ -755,17 +715,17 @@ Color Finale includes several high-end color suite capabilities. Color Finale in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-initiate-your-virtual-presence-with-ease-live-streaming-101/"><u>[New] In 2024, Initiate Your Virtual Presence with Ease Live Streaming 101</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-vocal-clarity-macs-acoustic-secrets/"><u>[New] Vocal Clarity Mac's Acoustic Secrets</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-enhancing-quality-without-the-mic-a-practical-guide/"><u>[Updated] In 2024, Enhancing Quality without the Mic A Practical Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-galaxy-a25-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Galaxy A25 5G.</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-video-in-canva/"><u>In 2024, How to Loop Video in Canva</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-2020-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE (2020) to Windows 10? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 Pro 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-motion-blur-on-capcut-iphone-and-android/"><u>New 2024 Approved How To Add Motion Blur On CapCut? (IPhone & Android)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-edit-facebook-video-ads-for-e-commerce-business/"><u>New In 2024, How to Edit Facebook Video Ads for E-Commerce Business</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-solutions-get-your-predictive-emojis-running-again-on-iphoneipad/"><u>Top 7 Solutions: Get Your Predictive Emojis Running Again on iPhone/iPad</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-make-vintage-film-effect-1950s/"><u>Updated In 2024, How to Make Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-immediate-visual-effects-with-instagrams-chroma-keying-feature/"><u>[New] Immediate Visual Effects with Instagram’s Chroma Keying Feature</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-shades-and-tints-in-action-practical-application-for-2024/"><u>[New] Shades & Tints in Action Practical Application for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-a-list-mobile-applications-for-enhanced-gopro-videos/"><u>[Updated] A-List Mobile Applications for Enhanced GoPro Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dont-let-ios-upgrade-ruin-your-ipad-key-steps-for-a-smooth-transition-to-ios-14/"><u>Don't Let iOS Upgrade Ruin Your iPad! Key Steps for a Smooth Transition to iOS 14</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-combine-movie-tracks-in-youtube-repertoire/"><u>In 2024, Combine Movie Tracks in YouTube Repertoire</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-detailed-guide-to-rotate-videos-in-blender/"><u>In 2024, Detailed Guide to Rotate Videos in Blender</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-fps-for-youtube-videos/"><u>In 2024, Overview of FPS for YouTube Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-apex-legends-issue-error-code-23-fix/"><u>Troubleshooting Tips: Resolving Apex Legends Issue - Error Code 23 Fix</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-archive-mastery-tips-and-tricks/"><u>Twitter Archive Mastery Tips & Tricks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
 </ul></div>
 

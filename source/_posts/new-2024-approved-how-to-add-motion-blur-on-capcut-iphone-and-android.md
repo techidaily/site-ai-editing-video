@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How To Add Motion Blur On CapCut? (IPhone & Android)
-date: 2025-02-10T21:26:29.842Z
-updated: 2025-02-14T19:40:47.382Z
+date: 2025-02-28T00:47:53.428Z
+updated: 2025-03-04T08:14:11.057Z
 tags: 
   - ai
   - animation videos
@@ -36,10 +36,6 @@ CapCut is available on [App Store](https://apps.apple.com/us/app/capcut-video-ed
 Step1 After adding the desired video clip in CapCut, select it and scroll in the right direction until you can locate the “Motion Blur” option. Now tap on “Motion Blur” and increase its “Blur” and “Blend” strength according to your choice. You can also increase the Blend value accordingly.
 
 ![adjust blur and blend value](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Moreover, you can choose the direction and times of the motion blur effect. Once you are done, tap on the “Tick” icon. After some seconds, the motion blur effect will be applied to your video.
 
@@ -88,10 +84,6 @@ Besides being a powerful video editor, you can also use this tool to add a motio
 
 **Tutorial:** To see and learn how to use Videoleap effectively, you can see a quick tutorial following this link: <https://www.youtube.com/watch?v=e7twWHCVT8U>.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. NSMB – Motion Blur Video
 
 NSMB is a special app that can also work offline to add a motion blur effect to your videos. It has a simple interface that allows you to add a motion blur effect to your video instantly. Once you have uploaded the video on this app, you can easily apply the motion blur effect with a single tap.
@@ -99,10 +91,6 @@ NSMB is a special app that can also work offline to add a motion blur effect to 
 Moreover, this app does not distort the quality of your video after adding the motion blur effect. Thus, it’s an efficient app that enables you to add a motion blur to your videos without manual effort.
 
 ![nsmb motion blur video](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Download:** [**Android**](https://play.google.com/store/apps/details?id=com.wallisonfx.motionblur&hl=en&gl=US)
 
@@ -415,10 +403,6 @@ Step 4: Move the playhead to the end of the clip and drag the rotation handle ag
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To rotate a video clip using the Transform Tool...
 
 Select the "Edit" tool from the toolbar.
@@ -515,10 +499,6 @@ Select the "Edit" tool from the toolbar.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Go to the “Transform” selection, then select the rotate option.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
@@ -568,10 +548,6 @@ Here are some other things that you can do with a rotated video:
 \- Flip the video horizontally or vertically
 
 \- Change the position of the video in the 3D Viewport
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to rotate videos in Filmora
 
@@ -697,10 +673,6 @@ Step3 Go to Transitions tab located at the top of the application screen. You wi
 
 ![go to transitions tab](https://images.wondershare.com/filmora/guide/add-transitions-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Check them out and once you have selected one to apply, drag and drop it in between the video clips.
 
 ![check transitions out](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
@@ -746,10 +718,6 @@ Step5 Play the video and click on Export button to save the video.
 ### How do I add a transition overlay in OBS?
 
 You need to go to Scene Transition tab and select any transition overlay effect that is available. Thereafter, you can change the settings and parameters to customize the transition effect as per your requirements. Apart from the built-in transitions, you can download and add plugins for more transitions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you have different scene transitions in OBS?
 
@@ -815,10 +783,6 @@ Step3 Bring in the required video under Movie Library by dragging the file from 
 
 ![import media into imovie mac](https://images.wondershare.com/filmora/article-images/2022/11/import-media-into-imovie-mac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Drag and drop the video on your timeline. When you want to loop the video, drag and drop the video clip again on the timeline. Make sure there is no gap between the first clip and the second clip on the timeline. You can drag and drop the video clip multiple times on the timeline to increase its duration.
 
 ![drag video clip timeline imovie](https://images.wondershare.com/filmora/article-images/2022/11/drag-video-clip-timeline-imovie.jpg)
@@ -850,10 +814,6 @@ Step3 Drag and drop the video clip into the timeline again. Make sure that there
 ![drag and drop video clip into timeline again](https://images.wondershare.com/filmora/guide/cut-video-mac-02.jpg)
 
 Step4 You can zoom out the timeline for better viewing. Play the video to check its output on Viewer. Finally, click on the Export button and save the video in the desired file format on your Mac.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -895,20 +855,19 @@ If you want to loop a video on your Mac, iMovie is the most preferred option. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nlock-free-designs-download-banners-for-youtube-creators/"><u>[New] Unlock Free Designs Download Banners for YouTube Creators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-achieving-harmonic-transition-blends/"><u>[Updated] Achieving Harmonic Transition Blends</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-storing-solution-for-sony-a7s-ii/"><u>2024 Approved Best Storing Solution for Sony A7S II</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722981850200-beat-steam-error-code-n130-ultimate-fixes-and-tips-revealed/"><u>Beat Steam Error Code N130: Ultimate Fixes and Tips Revealed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-k70-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi K70 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>How to Use a Stabilization Tool in Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different-too/"><u>In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>In 2024, Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-pinnacle-cloud-space-for-enterprise-success/"><u>In 2024, Pinnacle Cloud Space for Enterprise Success</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-notification-troubles-discover-7-effective-solutions/"><u>IPhone Notification Troubles? Discover 7 Effective Solutions!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713953297744-new-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-cont/"><u>New A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>New How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora-for-2024/"><u>New How To Make a Video by Mouse in Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-this-article-let-me-share-with-you-how-to-start-a-vlog-ideas-and-any-tips-for-you-to-start-your-own-vlogging-channel/"><u>New In This Article Let Me Share with You How to Start a Vlog? Ideas and Any Tips for You to Start Your Own Vlogging Channel</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ultimate-zooid-design-starter-packs-for-2024/"><u>Ultimate Zooid Design Starter Packs for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/inpointing-your-place-in-youtubes-varied-landscapes-for-2024/"><u>[New] Pinpointing Your Place in YouTube's Varied Landscapes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-for-virtual-reality-content-android-friendly/"><u>[New] The Ultimate Guide for Virtual Reality Content (Android-Friendly)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-enrich-your-photography-experience-with-windows-photos-app-filters-plus-sound/"><u>[Updated] Enrich Your Photography Experience with Windows Photos App Filters + Sound</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-discovering-your-dream-makeup-routine-with-youtubes-leaders/"><u>[Updated] In 2024, Discovering Your Dream Makeup Routine with YouTube's Leaders</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-color-grading-in-final-cut-pro/"><u>2024 Approved How to Color Grading in Final Cut Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-article-talks-in-detail-about-how-to-export-imovie-video-from-iphone-mac-etc-it-also-covers-the-process-of-using-imovie-alternative-to-ed/"><u>2024 Approved This Article Talks in Detail About How to Export iMovie Video From iPhone, Mac, Etc. It Also Covers the Process of Using iMovie Alternative to Edit Videos on Mac. Check Out Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clash-of-intellectual-titans-understanding-google-palm-2-versus-openais-gpt-4/"><u>Clash of Intellectual Titans: Understanding Google PaLM 2 Versus OpenAI's GPT-4</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-fix-what-to-do-when-you-encounter-pc-app-execution-errors/"><u>Mastering the Fix: What to Do When You Encounter PC App Execution Errors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-easily-create-a-free-eye-catching-intro-videos-with-invideo/"><u>New How to Easily Create a Free Eye-Catching Intro Videos with Invideo</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-change-speed-of-video-in-final-cut-pro/"><u>New In 2024, How To Change Speed of Video in Final Cut Pro?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rising-stars-top-sierra-dvd-production-tools/"><u>Rising Stars Top Sierra DVD Production Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/strategic-evasion-the-best-room-escapes-ranked-for-2024/"><u>Strategic Evasion The Best Room Escapes Ranked for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/summiting-top-tier-nintendo-switch-joypads/"><u>Summiting Top-Tier Nintendo Switch Joypads</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-looking-for-the-best-vhs-video-effect-makers-get-to-know-the-top-list-for-2024/"><u>Updated Looking For the Best VHS Video Effect Makers? Get To Know the Top List for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop
-date: 2025-02-12T23:05:37.324Z
-updated: 2025-02-14T21:50:05.485Z
+date: 2025-02-27T22:55:05.504Z
+updated: 2025-03-04T03:25:34.159Z
 tags: 
   - ai
   - animation videos
@@ -195,14 +195,6 @@ Let’s download the free Wonder Share Filmora 11 software to proceed.
 
 ![add-white-border](https://images.wondershare.com/filmora/article-images/2022/04/add-white-border-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Add A White Border To The Video Online**
 
 You can change white borders without launching software by editing online. Kapwing is an online video editing tool that is used to edit videos, images, and GIFs. It is very easy to use and the good thing about Kapwing is, it’s free and you don’t need to sign up or add watermarks to your edited videos/images.
@@ -447,10 +439,6 @@ Let’s download the free Wonder Share Filmora 11 software to proceed.
 
 ![add-white-border](https://images.wondershare.com/filmora/article-images/2022/04/add-white-border-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Add A White Border To The Video Online**
 
 You can change white borders without launching software by editing online. Kapwing is an online video editing tool that is used to edit videos, images, and GIFs. It is very easy to use and the good thing about Kapwing is, it’s free and you don’t need to sign up or add watermarks to your edited videos/images.
@@ -482,10 +470,6 @@ Let’s start editing to add white borders step by step:
 * You can change the background colors of your choice.
 
 ![add-white-border](https://images.wondershare.com/filmora/article-images/2022/04/add-white-border-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Add a white border to the video on Android**
 
@@ -541,10 +525,6 @@ Wonder Share Filmora 11 is highly recommended to get the best and most professio
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing The Slow Playback Issues in DaVinci Resolve
 
@@ -589,10 +569,6 @@ It’s another solution to fix the **DaVinci resolve slow playback**. Render cac
 
 ![enable render cache slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 4: Disable the Live Save Feature
 
 Every change you make gets saved with the Live Save option in DaVinci Resolve. If your remote drive is linked, this feature can drag the playback speed down. You can disable it for a **DaVinci resolve faster playback**.
@@ -600,10 +576,6 @@ Every change you make gets saved with the Live Save option in DaVinci Resolve. I
 Look for the “User Preference” menu and click on the top left side button of DaVinci Resolve. Go to the “Preferences” under the user tab. From the “Project Save and load,” check the “Disable Live Save” option. Now, you should remember to manually save your projects after editing.
 
 ![disable live save feature slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Use Proxy Media Files
 
@@ -683,10 +655,6 @@ In DaVinci Resolve, full timeline proxy resolution is set by default. To enjoy a
 
 ![lower playback resolution slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 2: Change Timeline Resolution
 
 DaVinci Resolve can work on 4K high-resolution footage that might disrupt the playback. So, cutting down the resolution to speed up your playback is suggested. To do so, click the "Settings" icon from the bottom right side and enter the “Project Settings” window. Expand the “Time Resolution” menu and choose 1920x1080 HD if working on 4K or high resolutions. Now, apply the changes by hitting on “Save.”
@@ -715,19 +683,11 @@ Another solution is to use proxy media during the project editing. Proxy files a
 
 ![use proxy files slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 6: Disable Color Grades
 
 If you are still failing to resolve the slow playback issue on Davinci Resolve, try this fix. Disable color grades and other effects in the first place. To do so, head to the DaVinci Resolve Edit Page. After getting there, press the "Bypass Color Grades and Fusion Effects” button from the top right side. This way, you can surely solve the **DaVinci Resolve slow-down playback** error.
 
 ![disable color grades slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: What Makes a Slow-Motion Video Good?
 
@@ -892,22 +852,19 @@ If you are using Windows Movie Maker on your PC, we have stated how you can save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-transforming-movs-to-mp4mkv-on-pc/"><u>[New] 2024 Approved Transforming MOVs to MP4/MKV on PC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-creative-content-for-fb-video-advertising/"><u>[New] In 2024, Mastering Creative Content for Fb Video Advertising</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails/"><u>[Updated] In 2024, Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-elite-video-streamer-software-array/"><u>2024 Approved Elite Video Streamer Software Array</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-techniques-implementing-luts-in-adobe-ae/"><u>2024 Approved Expert Techniques Implementing LUTs in Adobe AE</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-premium-authored-video-distributors/"><u>2024 Approved Premium Authored Video Distributors</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-vanguard-pc-issue-no-more-with-these-fixes-for-error-code-0x00001338-resolved/"><u>Call of Duty Vanguard PC Issue? No More with These Fixes for Error Code 0X00001338 [RESOLVED]</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exclusive-sale-alert-high-end-prebuilt-gaming-desktop-msi-aegis-r2-featuring-rtx-4070-super-plus-intel-i7-at-an-unbeatable-price-below-1600/"><u>Exclusive Sale Alert: High-End Prebuilt Gaming Desktop – MSI Aegis R2 Featuring RTX 4070 Super + Intel I7 at an Unbeatable Price Below $1,600</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-put-a-filter-on-a-video-in-imovie/"><u>In 2024, How to Put a Filter on a Video in iMovie</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/size-it-up-right-instagrams-best-videography-practices/"><u>Size It Up Right Instagram's Best Videography Practices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-convert-your-videos-to-60-fps-using-these-excellent-tools/"><u>Updated In 2024, Convert Your Videos to 60 FPS Using These Excellent Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-something-about-skin-care-vlog-ideas/"><u>Updated Something About Skin Care Vlog Ideas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-quick-guide-downloading-and-prepping-vrecord/"><u>[New] 2024 Approved Quick Guide Downloading & Prepping VRecord</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/evil-genius-2-issue-fixing-the-silent-game-with-easy-solutions/"><u>Evil Genius 2 Issue: Fixing the Silent Game with Easy Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-change-text-in-premiere-pro/"><u>How To Change Text In Premiere Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-htc-frp-bypass-by-drfone-android/"><u>In 2024, About HTC FRP Bypass</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-pathway-to-stunning-visuals-these-top-7-graders-secrets/"><u>In 2024, The Pathway to Stunning Visuals These Top 7 Graders' Secrets</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/shift-playtime-across-zones-sx-series-x-time-change/"><u>Shift Playtime Across Zones: SX Series X Time Change</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supreme-storytelling-spanning-eight-movie-types-for-2024/"><u>Supreme Storytelling Spanning Eight Movie Types for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-way-to-color-grading-and-color-correction-in-filmora/"><u>Updated In 2024, Best Way To Color Grading & Color Correction in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1920s-how-to-make-for-2024/"><u>Vintage Film Effect 1920S - How to Make for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-guide-setting-up-and-utilizing-chatgpt/"><u>Win Guide: Setting Up & Utilizing ChatGPT</u></a></li>
 </ul></div>
 

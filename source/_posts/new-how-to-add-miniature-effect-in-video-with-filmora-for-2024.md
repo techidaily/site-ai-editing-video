@@ -1,7 +1,7 @@
 ---
 title: New How to Add Miniature Effect in Video with Filmora for 2024
-date: 2025-02-14T00:03:19.324Z
-updated: 2025-02-14T20:00:17.022Z
+date: 2025-02-24T23:02:58.122Z
+updated: 2025-03-04T04:30:21.180Z
 tags: 
   - ai
   - animation videos
@@ -67,10 +67,6 @@ Here you will see almost more than **20 videos.** So, instead of using the actua
 
 ![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Who will get Stock Media?**
 
 Want to get stock media? You can only have access to the stock media library if you already buy the license of Wondershare Filmora.
@@ -122,10 +118,6 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step7 Add masks on the Video
 
 Now, it's time to select a specific video portion and add a mask. Due to this, we will have a selective blur portion. For this, follow the below guidelines:
@@ -149,10 +141,6 @@ Watch the rotating and adjusting actions as shown below!
 For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
 
 ![blur the object near to camera and focus on the distant object](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-11.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Make a building or any object **Blurry** near the camera because it is not present within the depth of field.
 * While the **object is far** from the camera, it is focused because it is in the depth of the field.
@@ -260,10 +248,6 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 * Make sure you add it to 2nd video track in the timeline above the first one.
 
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step7 Add masks on the Video
 
@@ -364,10 +348,6 @@ The video is a combination of tens of thousands of frames or images that are fla
 This is how video that has been sped up for slow motion may still preserve its quality. But you can't just choose a frame rate based on taste. Frame rates vary depending on the different types of emotions. 60 fps will do if the video is a slo-mo of a person's emotion. However, if your shot contains a lot of movement and you want to show it, such as when automobiles collide or explode, you may require a higher frame rate, such as 120 fps.
 
 ![understand frame rates](https://images.wondershare.com/filmora/article-images/2022/11/understand-frame-rates.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Post processing
 
@@ -507,10 +487,6 @@ Step5 Finally, play the video and click on Export button to save the video.
 
 ## Part 3\. FAQs about Video Background Colors
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. How do I remove background color in After Effects?
 
 Import your video clip with a solid background color and place it on Timeline. Go to Effect menu> Keying> Keylight option. In Effects window and under Keylight, you will see Screen Colour option. Click on the eyedropper icon and select the background color you want to remove.
@@ -581,10 +557,6 @@ When the window pops up, click on the "Apply changes" button, and the video auto
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-6.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## An easier way to split the video
 
 No doubt, VSDC is a good option for editing the videos, but [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) has more features and better software for splitting the video. It fulfils the requirements of various users, whether it is for personal or business purposes. Also, the stylizing of the video is possible, including the quality, resolution, speed and other parameters.
@@ -628,10 +600,6 @@ The video file you select is in the centre position. Even you can preview first 
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-2.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:**
 
 Right-click on the video clip to get the option of "Cutting and Splitting" in the object menu. Or you can even press on the right side of the "Properties window". Then the pop-up window appears that helps you editing your video in VSDC video editor. Select the particular area you don't want by clicking on the "Cut Area" icon. Also, the restoration is possible when you click on the "Remove Area of Deleting" button.
@@ -647,10 +615,6 @@ At this moment, you can export the video that you have edited. Save it on your P
 A splitting tool is also available in VSDC when you want to use different video parts after applying the effects. After adding the video file from the "Export project" tab, and then click on the "Set markers". Click "Apply Changes" when all the markers are ready for splitting the clips. Option for exporting the video is present so you can save it in the format of your choice. It is simple to save the video's parts that are created from the markers.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-4.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Part3 - Splitting of one clip into more than one scene and applying the effect on them:**
 
@@ -726,10 +690,6 @@ A splitting tool is also available in VSDC when you want to use different video 
 For applying different effects on various parts of your video, split it. In this method, add the video file in the timeline and right-click. From the drop-down menu, select "Properties", and then a window appears. Keep scrolling downward, click on the button of light-green colour "Cutting and Splitting" button.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-5.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When the window pops up, click on the "Apply changes" button, and the video automatically gets split. Every part of the video is present on the timeline after one another.
 
@@ -857,17 +817,22 @@ Wondershare Filmora has undoubtedly received many positive reviews compared to o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/discover-6-top-notch-ai-models-similar-to-openais-sora-available-at-no-cost/"><u>Discover 6 Top-Notch AI Models Similar to OpenAI's Sora - Available at No Cost</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/lead-the-pack-identifying-the-best-facebook-timetabling-software/"><u>Lead the Pack Identifying the Best Facebook Timetabling Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/microsoft-surface-laptop-5-reviewed-familiar-design-innovative-upgrades-spotted-on-zdnet/"><u>Microsoft Surface Laptop 5 Reviewed: Familiar Design, Innovative Upgrades - Spotted on ZDNet</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-challenge-of-frozen-windows-updates-now-fixed/"><u>Overcome the Challenge of Frozen Windows Updates - Now Fixed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-for-beginner-3d-lut-masters-for-2024/"><u>Step-by-Step for Beginner 3D LUT Masters for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultra-hd-unveiled-delving-into-the-features-of-lg-27ud88-uhd-tv/"><u>Ultra HD Unveiled Delving Into the Features of LG 27UD88-UHD TV</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-seamless-integration-share-confidential-youtube-videos-on-gmail/"><u>[Updated] 2024 Approved Seamless Integration Share Confidential YouTube Videos on Gmail</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleashing-creative-stories-zoom-techniques-on-snapchat-for-2024/"><u>[Updated] Unleashing Creative Stories Zoom Techniques on Snapchat for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-strategies-to-enhance-the-quality-of-your-chatgpt-conversations/"><u>7 Strategies to Enhance the Quality of Your ChatGPT Conversations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/excel-essentials-unlocking-data-management-with-advanced-filter-techniques/"><u>Excel Essentials: Unlocking Data Management with Advanced Filter Techniques</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210275251-9781989838204-guided-mindfulness-meditation-for-sleep-overcoming-anxiety-and-stress-relief/"><u>Guided Mindfulness Meditation for Sleep, Overcoming Anxiety and Stress Relief | Free Book</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-airpods-syncing-problems-on-windows-11-expert-tips-and-tricks-2n4/"><u>How to Solve AirPods Syncing Problems on Windows 11 - Expert Tips & Tricks (2N4)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-fixes-prevent-watch-dogs-legion-from-crashing-on-pc/"><u>Resolved Issue: Fixes Prevent 'Watch Dogs Legion' From Crashing on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-image-clarity-issues-in-ubisofts-new-island/"><u>Resolving Image Clarity Issues in Ubisoft's New Island</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/resolving-system-threats-steps-for-dealing-with-computer-viruses-guided-by-yl-software-experts/"><u>Resolving System Threats: Steps for Dealing with Computer Viruses, Guided by YL Software Experts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
 </ul></div>
 

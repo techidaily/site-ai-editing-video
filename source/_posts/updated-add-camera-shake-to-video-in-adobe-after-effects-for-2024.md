@@ -1,7 +1,7 @@
 ---
 title: Updated Add Camera Shake to Video in Adobe After Effects for 2024
-date: 2025-02-08T21:23:44.674Z
-updated: 2025-02-14T22:54:02.138Z
+date: 2025-02-27T00:39:45.304Z
+updated: 2025-03-03T20:38:48.129Z
 tags: 
   - ai
   - animation videos
@@ -149,10 +149,6 @@ A camera shake effect can be an excellent way of adding a sense of realism to yo
 
 When it comes to video editing, knowing how to make a layer shake in After Effects is a very useful skill. Using it correctly can add subtle motion to a static frame, emphasize an important object, and even make a character quiver in fear! In this tutorial, you will learn how to effectively use the wiggle expression to affect a layer throughout the Composition.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1\. Select the layer you want to shake from your After Effects file
 
 Suppose you have an image or video of an object and want to apply it to shake effect, then it is quite easy. Just follow the steps described below.
@@ -271,10 +267,6 @@ In this expression, the first number indicates the frequency of Wiggle -- basica
 In order to make the overall effect more "choppy," you can reduce the frame rate of the video by going to Composition> Composition settings. After Effects uses a frame rate of 24.5, you can go as low as "8" if you want a choppy feel.
 
 ![how to use camera shake in premiere pro - adjust frame rate](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-after-effects-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Your entire Composition will become choppier if you reduce the frame rate, so it might not be worth it if you have other moving elements in your Composition. Only adjust the frame rate of the layer containing the wiggling object if you want it to affect that layer.
 
@@ -576,14 +568,6 @@ This is an Android-based app developed by FuzeBits Inc that allows the creation 
 
 ![VideoFX Music Video Maker](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 05Mixxx
 
 This is an interesting tool for creating professional-looking music videos using its advanced features. With the drag and drop function, using the tool becomes very easy and it supports the function where the places on the track can be marked using the Hot Keys. The tempo of the song can also be changed by controlling the pitch and its complete music mixer will let you create awesome DJ-type tracks.
@@ -630,29 +614,17 @@ This is an online music video-making service that can help you create your desir
 
 ![Rotor Videos](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 04VideoFX Music Video Maker
 
 This is an Android-based app developed by FuzeBits Inc that allows the creation of interesting music videos. Using the app, you can also record the lip-sync music and then customize it using over 50 filters like neon, mirror, thermal, and more. Preset shooting modes – fast motion, auto-pause, and stop motion is also sorted. Other editing functions include stickers, text, filters, and more.
 
 ![VideoFX Music Video Maker](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 05Mixxx
 
 This is an interesting tool for creating professional-looking music videos using its advanced features. With the drag and drop function, using the tool becomes very easy and it supports the function where the places on the track can be marked using the Hot Keys. The tempo of the song can also be changed by controlling the pitch and its complete music mixer will let you create awesome DJ-type tracks.
 
 ![Mixx](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **●** Ending Thoughts **→**
 
@@ -686,10 +658,6 @@ Step2Once it is open, select the audio clip in the timeline and then click on �
 
 ![apply audio transition](https://images.wondershare.com/filmora/article-images/2022/08/apply-audio-transition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can also use the keyboard shortcut Shift + Command + D (macOS) or Shift+ Ctrl + D (PC). This will add the “Constant Power Cross Fade” effect at the beginning and the end of the clip.
 
 Step3You can then just change the duration of the effect by simply dragging the end of the transition.
@@ -701,10 +669,6 @@ Step3You can then just change the duration of the effect by simply dragging the 
 Step1Adobe Premier Pro has two volume keyframes; Track and Clip. Make the audio larger so you can see the volume line and then under the audio name, click on the volume keyframes option to make sure “Clip Keyframes” is enabled.
 
 ![clip keyframes premiere](https://images.wondershare.com/filmora/article-images/2022/08/clip-keyframes-premiere.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2You can then press down on the Command Key (macOS) or the Control Key (PC) and drag the volume line down to add a fade-in or fade-out effect.
 
@@ -752,10 +716,6 @@ Then check the volume in Premiere to see if the audio meter is moving as you pla
 
 If your volume is fine but you still can't hear the audio, you may need to adjust several settings. Go to Edit > Preferences (on PC) or Preferences menu under the main Premiere Pro CC menu (macOS) and select “Audio Hardware” in the options that appear. You can then change the “Default Output” device to something else.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. How Do You do Audio Transitions in Premiere Pro
 
 Adding audio transitions in Premiere Pro is very easy; just open the audio that you want to edit and then Right-click (PC) or Control- Click (macOS) on either the “Constant Gain” or “Constant Power” effect from the Effects panel. Then choose “Set Selected as Default Transition” from the options in the menu.
@@ -788,22 +748,24 @@ To add a duration for the audio transitions, go to Edit > Preferences > Timeline
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-framing-the-future-expert-tips-for-picture-perfection/"><u>[New] Framing the Future Expert Tips for Picture Perfection</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-practices-in-youtube-keyword-selection/"><u>[New] In 2024, Best Practices in YouTube Keyword Selection</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-engaging-story-starter-toolkit/"><u>[Updated] In 2024, Engaging Story Starter Toolkit</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-smirk-spectacle-catching-the-funniest-twitter-talents-for-2024/"><u>[Updated] Smirk Spectacle Catching the Funniest Twitter Talents for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-color-grading-in-final-cut-pro/"><u>2024 Approved How to Color Grading in Final Cut Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-article-talks-in-detail-about-how-to-export-imovie-video-from-iphone-mac-etc-it-also-covers-the-process-of-using-imovie-alternative-to-ed/"><u>2024 Approved This Article Talks in Detail About How to Export iMovie Video From iPhone, Mac, Etc. It Also Covers the Process of Using iMovie Alternative to Edit Videos on Mac. Check Out Now</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-know-there-are-websites-to-download-free-glitch-transition-effects-for-premiere-pro-you-can-easily-download-them-and-make-awesome-videos-for-2024/"><u>Do You Know There Are Websites to Download Free Glitch Transition Effects for Premiere Pro? You Can Easily Download Them and Make Awesome Videos for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-lava-yuva-2-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Lava Yuva 2 Pro to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-smart-8-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Smart 8 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-way-to-add-transitions-to-videos-for-2024/"><u>New Easy Way to Add Transitions to Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-easily-create-a-free-eye-catching-intro-videos-with-invideo/"><u>New How to Easily Create a Free Eye-Catching Intro Videos with Invideo</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>New In 2024, HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-change-speed-of-video-in-final-cut-pro/"><u>New In 2024, How To Change Speed of Video in Final Cut Pro?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-video-editing-the-top-free-adobe-premiere-plugins/"><u>Revolutionize Your Video Editing The Top Free Adobe Premiere Plugins</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-sinister-five-how-artificum-intelligence-facilitates-criminal-activities-online/"><u>The Sinister Five: How Artificum Intelligence Facilitates Criminal Activities Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elevating-live-tiktok-content-via-zoom/"><u>[New] Elevating Live TikTok Content via Zoom</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easiest-fix-included-top-5-ways-to-convert-hdr-to-sdr-videos/"><u>2024 Approved Easiest Fix Included! Top 5 Ways to Convert HDR to SDR Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-structuring-stimulating-podcast-trailers/"><u>2024 Approved Structuring Stimulating Podcast Trailers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-reveals-improved-repairability-of-new-iphone-16-compared-to-earlier-models-insights-from-zdnet/"><u>Apple Reveals Improved Repairability of New iPhone 16 Compared to Earlier Models - Insights From ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/expanding-possibilities-with-virtual-reality-for-2024/"><u>Expanding Possibilities with Virtual Reality for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-intimate-filmmaking-approaches-for-2024/"><u>Expert Tips for Intimate Filmmaking Approaches for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-can-filmora-create-an-audio-visualizer-project-for-a-song-all-steps-from-launching-the-app-to-editing-the-text-are-detailed-here-for-2024/"><u>How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-magic-5-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Honor Magic 5 Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-effe/"><u>In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insights-into-the-drive-toward-electric-vehicle-adoption/"><u>Insights Into the Drive Toward Electric Vehicle Adoption</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-mp3-cutter-download-for-computer-and-mobile/"><u>New In 2024, MP3 Cutter Download for Computer and Mobile</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954212516-new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video-for-2024/"><u>New Ultimate Guide on How To Plan and Storyboard a Music Video for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-x-flip-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo X Flip Black and White | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713951460868-this-article-will-help-you-make-cinematic-shots-with-simple-diy-hacks-using-stuff-from-your-nearest-dollar-store-you-can-edit-your-video-to-get-pro-results-/"><u>This Article Will Help You Make Cinematic Shots with Simple DIY Hacks Using Stuff From Your Nearest Dollar Store. You Can Edit Your Video to Get Pro Results by Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-507-memorable-instagram-caption-ideas/"><u>Top 507 Memorable Instagram Caption Ideas</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unique-japanese-art-collection-premium-wallpapers-hd-backgrounds-and-stunning-visuals-discovered-by-yl-computing/"><u>Unique Japanese Art Collection: Premium Wallpapers, HD Backgrounds, and Stunning Visuals - Discovered by YL Computing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-virtual-green-screen-to-shoot-video-for-2024/"><u>Updated How To Use Virtual Green Screen to Shoot Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
 </ul></div>
 

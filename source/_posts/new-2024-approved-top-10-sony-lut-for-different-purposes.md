@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Top 10 Sony LUT for Different Purposes
-date: 2025-02-09T18:05:06.932Z
-updated: 2025-02-14T21:19:03.203Z
+date: 2025-02-26T08:57:00.990Z
+updated: 2025-03-04T06:30:16.342Z
 tags: 
   - ai
   - animation videos
@@ -65,10 +65,6 @@ One of our choices is the Filmic Tone LUT set. It enhances your creativity by ad
 
 ![Sony Lut - Filmic Tone Creative LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Filmic Tone Creative LUTs
 
 ### 3\. Sony Nature LUTs
@@ -78,10 +74,6 @@ Nature has influenced it. Nature LUTs are designed to complement the natural env
 ![Sony Lut - Sony Nature LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-3.jpg)
 
 Sony Nature LUTs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Sony A7S III, FX3 & A7 IV – S-Log 3 Correction LUTs
 
@@ -121,10 +113,6 @@ This Sony LUT adds a creamy feel to the video, making it more appealing while al
 
 ![Sony Lut - Sony LUT Dessert](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Sony LUT "Dessert"
 
 ### 9\. Sony LUTs for the premiere
@@ -134,10 +122,6 @@ If you want to make your video clip look professional without the color grading 
 ![Sony Lut - Sony LUTs for the premiere](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-9.jpg)
 
 Sony LUTs for the premiere
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 10\. Sony Base LUT pack
 
@@ -311,10 +295,6 @@ First, run Wondershare Filmora and add the video with the hoop dancer on the fir
 
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
@@ -349,10 +329,6 @@ With the two videos imported on Filmora, move the playhead to the point where th
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
@@ -364,10 +340,6 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -386,10 +358,6 @@ First, run Wondershare Filmora and add the video with the hoop dancer on the fir
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
@@ -486,10 +454,6 @@ Step3 Find the spot where you want to create a transition between the day and ni
 
 ![create a transition](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Since the transition for this tutorial is where the subject started waving, make sure to place the daytime clip at the same time the subject started waving in the nighttime clip. Hence, the timing in both clips syncs.
 
 **Masking transition**
@@ -532,10 +496,6 @@ The final result will look like this:
 
 ![final result](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-12.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Summary
 
 That is how to do this night-to-day transition night-to-day time shift effect in Filmora. By the end of this tutorial, you should be able to use the masking transition technique. You can apply and adjust it based on your needs.
@@ -564,19 +524,18 @@ That is how to do this night-to-day transition night-to-day time shift effect in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-snapcraft-universe-top-8-photo-connector/"><u>[Updated] 2024 Approved SnapCraft Universe Top 8 Photo Connector</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-safeguard-snapchat-videos-in-devices-and-oses/"><u>[Updated] In 2024, How to Safeguard Snapchat Videos in Devices & OSes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-/"><u>2024 Approved Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-downloading-and-configuring-the-epson-wf-3540-driver-on-windows-computers/"><u>Complete Guide: Downloading and Configuring the Epson WF-3540 Driver on Windows Computers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/cut-to-perfection-producing-captivating-loop-content-for-instagram-for-2024/"><u>Cut to Perfection Producing Captivating Loop Content for Instagram for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhance-your-broadcasts-with-these-manycam-substitutes-leading-live-webcam-options/"><u>Enhance Your Broadcasts with These ManyCam Substitutes: Leading Live Webcam Options</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-the-premiere-pro-video-templates-help-make-original-content-of-broadcast-quality-the-article-introduces-10-free-premiere-pro-templates-that-are-sure-to-/"><u>New The Premiere Pro Video Templates Help Make Original Content of Broadcast Quality. The Article Introduces 10 Free Premiere Pro Templates that Are Sure to Make Your Life Easy</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalized-voice-recognition-program-for-windows-whisper-and-autohotkey-methods/"><u>Personalized Voice Recognition Program for Windows: Whisper & AutoHotkey Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-overcoming-startup-problems-with-error-code-1053/"><u>Quick Fixes: Overcoming Startup Problems with Error Code 1053</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-taboo-topics-for-gpt-powered-conversations/"><u>The Taboo Topics for GPT-Powered Conversations</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-cropping-and-combining-content-in-wondershare-filmora-latest-for-2024/"><u>Updated Guide To Cropping and Combining Content in Wondershare Filmora Latest for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-hearth-warming-hear-from-happy-customers/"><u>[Updated] 2024 Approved Hearth-Warming Hear From Happy Customers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/13-napja-legjobb-a-youtube-videokra-mp3-val-konvertalas-orakig/"><u>13 Napja Legjobb - A YouTube Videókra MP3-Val Konvertálás Órákig</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-latest-upgrades-unveiling-the-new-lenovo-thinkpad-x1-insights-from-zdnet/"><u>Explore the Latest Upgrades: Unveiling the New Lenovo ThinkPad X1 - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-tecno-spark-10-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Tecno Spark 10 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-canvas-of-success-unveiling-10-essential-design-tricks/"><u>In 2024, The Canvas of Success Unveiling 10 Essential Design Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-streamerror-fixes-in-steam-for-windows-users/"><u>Mastering StreamError Fixes in Steam for Windows Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-blur-faces-in-your-videos-read-this-article-to-find-out-the-easiest-way-to-blur-the-faces-in-videos-using-adobe-premiere-pro/"><u>New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/scoring-free-150-apple-gift-cards-while-buying-your-next-mac-or-ipad-for-school-learn-the-trick/"><u>Scoring Free $150 Apple Gift Cards While Buying Your Next Mac or iPad for School - Learn the Trick!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-lava-yuva-3-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Lava Yuva 3 Phone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
 </ul></div>
 

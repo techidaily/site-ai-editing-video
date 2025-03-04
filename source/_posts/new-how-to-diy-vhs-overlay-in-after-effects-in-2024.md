@@ -1,7 +1,7 @@
 ---
 title: New How to DIY VHS Overlay in After Effects, In 2024
-date: 2025-02-07T19:50:05.917Z
-updated: 2025-02-15T00:36:25.985Z
+date: 2025-02-25T04:30:35.073Z
+updated: 2025-03-04T04:51:53.887Z
 tags: 
   - ai
   - animation videos
@@ -33,10 +33,6 @@ Step 2: Right-click on your video and select New Comp from Selection. Drag your 
 
 ![getting lumetri color effect to get vhs look](https://images.wondershare.com/filmora/article-images/2022/using-lumetri-color-effect-to-get-vhs-look.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then open the Creative tab. Increase the faded film to 40\. Set sharpening to -70\. Bring vibrance to -30.
 
 Note: Here, I changed the number to get the effect I wanted. You can change the numbers and set the values as per your requirements.
@@ -60,10 +56,6 @@ Step 6: To add a font to your video, simply search VHS font on Google. Look for 
 Step 7: Go to Layer < New < Solid and choose any color. We chose white. Now, under Effects & Presets, search for a number. Drag it to the white solid. Choose the font VCR OSD Mono. You can change the number to time or date. You can also add time manually. Select the text tool, go to the source text, hold alt, and click on the stopwatch. Write "timeToCurrentFormat() and time will be displayed on the video. Let us say we want to see the date on the video instead of time. So, change the time to date. Drag the date to the bottom right of the video to give it the look of an old VHS tape.
 
 If you are a beginner and want a simple VHS effect, you can follow these easy steps and create the VHS video that will transport you back to the 90s.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## BONUS TIP: How to Add VHS Overlays and Glitch Effects to Make Retro Videos in Filmora Video Editor?
 
@@ -187,10 +179,6 @@ The smart generation has access to HD videos and high-tech devices, yet VHS is a
 
 By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
@@ -218,10 +206,6 @@ Let's look at the steps:
 Open your draft in Filmora software and select sample colors from the Media tab on the top left.
 
 ![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
 
@@ -306,10 +290,6 @@ You can have Adobe Premiere Pro, Final Cut, DaVinci, and After Effects templates
 
 ![premiere pro templates by motion array](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. [Adobe Stock](https://stock.adobe.com/search/templates?k=premiere)
 
 While we are on the subject of template Adobe Premiere free, how can we forget about Adobe Stock? Adobe Stock is a serious archive for templates, especially for Adobe Creative Suite applications. Moreover, getting hands-on an impeccable library of stock photos, audio, and videos, is one of the strongest traits of Adobe Stock.
@@ -317,10 +297,6 @@ While we are on the subject of template Adobe Premiere free, how can we forget a
 The search filter has different options to make the search easier, for instance, application, categories, transitions, and whatnot. If you type free in the search bar, you will find Premiere Pro video templates so that downloading them wouldn’t cost a penny.
 
 ![adobe stock website interface](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. [Mixkit](https://mixkit.co/free-premiere-pro-templates/)
 
@@ -362,10 +338,6 @@ The templates can be effortlessly previewed and launched before accessing them. 
 
 ![mosterone pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The Bottom Line
 
 We are surrounded by videos 24/7\. It is true for most creative professionals in the industry who are expected to edit the video to make it more captivating and attractive. One needs to have access to free Premiere Pro templates to obtain a sense of originality as we save money and time on making videos from scratch.
@@ -387,10 +359,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -517,10 +485,6 @@ And that's all there is today! With these steps, you can create an engaging 1950
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
 
@@ -679,10 +643,6 @@ This video from the channel [NoAnnoyingCommentary](https://www.youtube.com/watch
 This video is made by [Red Arcade](https://www.youtube.com/watch?v=u1UFojIiiK8). It has attracted more than 12 million views. Admittedly, the title and the video concept are already enough to attract many viewers. But we can't say that the thumbnail did not help. It's actually really good.
 
 The thumbnail shows a screenshot from Warzone. A player's character is in the middle, with his back facing the camera. The words "AFK. Don't shoot!" are written on the wall he is facing. The character is viewed through a sniper scope. It's more "funny" than cool. But for what the video is about, it works fantastic.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Clean House \[PS5 UHD 4K\] Next-Gen Ultra Realistic Graphics PlayStation 5 Call of Duty Gameplay
 
@@ -860,16 +820,15 @@ Your best option is Wondershare Filmora. Why? Because it is a thumbnail maker an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-speedster-software-best-rapid-releases-for-tablets-and-computers-for-2024/"><u>[New] Speedster Software - Best Rapid Releases for Tablets & Computers for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-top-20-chill-country-hits-for-stress-free-dancing/"><u>In 2024, Top 20 Chill Country Hits for Stress-Free Dancing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-the-missing-entry-issue-in-windows-os/"><u>Mending the Missing Entry Issue in Windows OS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-customized-transitions-to-obs/"><u>New 2024 Approved How to Add Customized Transitions to OBS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tablet-or-e-reader-a-detailed-analysis-of-apple-ipad-vs-amazon-kindle-vs-barnes-and-noble-nook/"><u>Tablet or E-Reader? A Detailed Analysis of Apple iPad Vs. Amazon Kindle Vs. Barnes & Noble Nook</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-oppo-reno-9a-by-fonelab-android-recover-music/"><u>The way to get back lost music from Oppo Reno 9A</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>Updated 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-/"><u>Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-podcast-editing-101-how-to-edit-a-podcast/"><u>Updated Podcast Editing 101 How to Edit a Podcast</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-seamless-screen-capture-in-snapchat-for-beginners-and-pros/"><u>[New] 2024 Approved Seamless Screen Capture in Snapchat for Beginners and Pros</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-beating-the-market-top-file-managers/"><u>[Updated] In 2024, Beating the Market Top File Managers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-meme-march-unstoppable-videos-hit-the-tweetsphere/"><u>[Updated] In 2024, Meme March Unstoppable Videos Hit the Tweetsphere</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-light-and-shadow-in-hdr-portraiture-for-2024/"><u>[Updated] Mastering Light and Shadow in HDR Portraiture for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-best-software-a-gamers-livestream-compendium/"><u>In 2024, Best Software A Gamers' Livestream Compendium</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incremental-diminution-strategies-for-fl-studio-enthusiasts/"><u>In 2024, Incremental Diminution Strategies for FL Studio Enthusiasts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
 </ul></div>
 

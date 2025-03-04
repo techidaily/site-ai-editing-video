@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro
-date: 2025-02-13T23:25:22.143Z
-updated: 2025-02-14T19:47:56.213Z
+date: 2025-02-25T22:06:29.583Z
+updated: 2025-03-04T02:33:39.793Z
 tags: 
   - ai
   - animation videos
@@ -50,10 +50,6 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 
 ![set lumetri color parameters](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Navigate to the "Creative" tab in the "Lumetri Color" panel. Increase the "Faded Film" and decrease the "Sharpness," "Saturation," and "Vibrance" to your liking. Use the color wheels in the "Color Wheels & Match" section to give the right tone. Further, proceed to increase the "Vignette" value from the same tab.
 
 ![change other lumetri parameters](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-2.jpg)
@@ -73,10 +69,6 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 Proceed to apply the "Noise" effect from the "Noise & Grain" section and further adjust the "Amount of Noise" to your preference. Induce the "Wave Warp" effect and set the parameters of "Wave Height" to 2 and "Wave Width" to 1000\. Change "Direction" to 0 and "Pinning" to "Horizontal Edges."
 
 ![add noise and wave warp](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 6:** You can crop your video to a 4:3 aspect ratio to give your video more authenticity. To do this, create two "Color Matte" layers using the "New Item" icon. Name and place them over the video clip. Apply the "Crop" effect to both layers. Set the "Left" option to 86 for the first layer and the "Right" option to 86 for the second layer. Set the "Edge Feather" to 30 for both layers.
 
@@ -124,10 +116,6 @@ To refine the intensity of the VHS effect, go to the "Effects" tab located on th
 
 ![export final video](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 To conclude, there are many different overlays, effects, and filters that you can use. However, VHS effects are some of the most popular ones. People use different **VHS filters in Premiere Pro** to give their content a distinctive look. You can add these effects using different online and offline tools. One of the most popular tools is Wondershare Filmora which helps you add the VHS look to your video.
@@ -139,10 +127,6 @@ To conclude, there are many different overlays, effects, and filters that you ca
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How To Add VHS Effect in Premiere Pro: An Overview
 
@@ -159,10 +143,6 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 **Step 3:** Enable editing mode by selecting "Editing" in the main bar. Choose "Edit" from the lower section and search for the "Channel Blur" effect. Apply the effect by dragging and dropping it onto your video clip. Place the effect above previous adjustments and effects.
 
 ![add channel blur effect](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4:** In the "Channel Blur" effect tab, enable "Repeat Edge Pixel" and increase "Red Blurriness" to 30\. Repeat the same step but this time increase "Blue Blurriness" to 30 and "Red Blurriness" to 15 and change "Blur Dimensions" to "Vertical."
 
@@ -364,10 +344,6 @@ If you want to add those popular text effects to your video, you will need a pro
 
 * [How to Add Text Effects with Filmora](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Popular text effects in Filmora
 
 There are unlimited text effects available in Filmora but some of them are extremely popular that video creators regularly use in their videos. Here is the list of the popular Filmora video editor text effects that you should be aware of.
@@ -474,10 +450,6 @@ The bounce to zoom effect is widely used during a transition from one scene to a
 
 Apart from transitions, you can use the bounce to zoom effect to showcase a few important texts at the bottom of the video so that the viewers notice your text. Generally, the effect lasts for a few seconds before the text disappears. When you are using it for a larger text, you can use it for promotions and advertisements as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to Add Text Effects with Filmora
 
 When it comes to adding text effects and animations, there is no better alternative to [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Thanks to its super intuitive user interface, adding and customizing text effects in videos is as simple as text effect video online. Apart from the popular text effects we have discussed, there are so many categories of text effect and animation templates available on Filmora. Here are the steps on how to create text effect video in Filmora.
@@ -532,10 +504,6 @@ Step3Enter a name for the video and select a video shape as per your preference.
 
 ![edit video name biteable](https://images.wondershare.com/filmora/article-images/2022/08/edit-video-name-biteable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4Under Titles, select any template and it will be added to the Timeline. Similarly, you can add multiple titles templates, text templates, number templates and likewise. You will see them in the Timeline placed side by side. You can stretch their durations as per your requirements.
 
 ![select title templates biteable](https://images.wondershare.com/filmora/article-images/2022/08/select-title-templates-biteable.jpg)
@@ -543,10 +511,6 @@ Step4Under Titles, select any template and it will be added to the Timeline. Sim
 Step5Double-click on each template to edit the text in them and select the text animations as per your preference. Play the video and if you are satisfied, click on Publish button to save the video.
 
 ![edit title template biteable](https://images.wondershare.com/filmora/article-images/2022/08/edit-title-template-biteable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Use Motionden Video Maker
 
@@ -592,10 +556,6 @@ Step5Double-click on the text on Viewer window and customize the text as per you
 
 ![customize text in flexclip](https://images.wondershare.com/filmora/article-images/2022/08/customize-text-in-flexclip.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 You can make video with animated text to make your presentation video eye-catching and attention-grabbing. We have mentioned three different online text animation makers that you can use to create animated text video from scratch by choosing different video templates. You can also edit your recorded video and add animated text wherever you want using Flexclip Text Animation Tool.
@@ -624,18 +584,21 @@ You can make video with animated text to make your presentation video eye-catchi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-visual-greenprints-a-treasure-trove-of-free-templates-for-cinematic-professionals-for-2024/"><u>[New] Visual Greenprints A Treasure Trove of Free Templates for Cinematic Professionals for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-guide-to-using-snapchats-influencer-showcase/"><u>[Updated] A Guide to Using Snapchat's Influencer Showcase</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-tips-for-xbox-live-streaming-setup-for-2024/"><u>[Updated] Essential Tips for Xbox Live Streaming Setup for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-streamlining-virtual-meetings-integrating-zoom-with-skype-effortlessly-for-2024/"><u>[Updated] Streamlining Virtual Meetings Integrating Zoom with SKYPE Effortlessly for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-format-gaps-with-srt-transformations/"><u>2024 Approved Bridging Format Gaps with SRT Transformations</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-film-a-slow-motion-video/"><u>How To Film a Slow Motion Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-a-guide-to-create-your-own-lol-montage-video-for-2024/"><u>New A Guide to Create Your Own LOL Montage Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-loop-a-video-on-android/"><u>New In 2024, How to Loop a Video on Android</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-countdown-video/"><u>New In 2024, Make A Countdown Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reduce-high-cpu-demand-from-win11s-wmi-provider-host/"><u>Reduce High CPU Demand From Win11’s WMI Provider Host</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/steps-to-fade-audio-in-premier-pro/"><u>Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-this-ar/"><u>Updated Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-10-pro-ways-to-upgrade-your-twitch-broadcast-experience-for-2024/"><u>[New] 10 Pro Ways to Upgrade Your Twitch Broadcast Experience for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-detailed-methodology-to-masterboard-use-in-desktopiosandroid-zoom-sessions/"><u>[New] Detailed Methodology to Masterboard Use in Desktop/iOS/Android Zoom Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swift-and-smooth-your-ultimate-guide-to-iphone-podcast-downloading/"><u>[New] Swift & Smooth Your Ultimate Guide to iPhone Podcast Downloading</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tackling-blurred-images-in-online-meetings-with-zoom-techniques-for-2024/"><u>[New] Tackling Blurred Images in Online Meetings with Zoom Techniques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-win11-random-restarts/"><u>[RESOLVED] Win11 Random Restarts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-slow-motion-videos-using-final-cut-pro-with-ease/"><u>2024 Approved Create Slow Motion Videos Using Final Cut Pro with Ease</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-overlay-video-in-premiere-pro/"><u>2024 Approved How to Overlay Video in Premiere Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-tips-capturing-clear-voice-overs-on-camera-for-2024/"><u>Essential Tips Capturing Clear Voice Overs on Camera for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-automatic-aspect-ratios-in-imovie/"><u>Exploring Automatic Aspect Ratios in iMovie</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-awesome-free-webcam-games-for-computer/"><u>In 2024, Awesome Free Webcam Games for Computer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-changers/"><u>In 2024, Recommended Video Background Changers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-testimonial-videos-for-health-and-wellness-business-industry-for-2024/"><u>New Creating Testimonial Videos For Health And Wellness Business Industry for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>New How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/silent-bass-expert-strategies-to-remove-unwanted-rumble-from-your-speakers/"><u>Silent Bass: Expert Strategies to Remove Unwanted Rumble From Your Speakers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-achieving-gopro-slow-motion-with-quality-an-in-depth-overview/"><u>Updated 2024 Approved Achieving GoPro Slow Motion with Quality An In-Depth Overview</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-blender-a-video-editor-for-all-professor/"><u>Updated In 2024, Blender - A Video Editor for All Professor</u></a></li>
 </ul></div>
 

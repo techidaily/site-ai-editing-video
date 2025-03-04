@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How To Mirror a Video Clip in Premiere Pro
-date: 2025-02-12T21:01:07.982Z
-updated: 2025-02-14T19:20:03.123Z
+date: 2025-02-24T22:14:27.561Z
+updated: 2025-03-03T16:28:50.088Z
 tags: 
   - ai
   - animation videos
@@ -44,10 +44,6 @@ Step2 **Look** for the "**Transform**" tab.
 Step3 **Pick** the "**Horizontal** **Flip**" or "**Vertical** **Flip**" from the drop-down list.
 
 ![adobe premiere pro horizontal or vertical flip](https://images.wondershare.com/filmora/article-images/adobe-premiere-pro-horizontal-or-vertical-flip.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 **Drag** the desired flip onto the selected clip, which will immediately reverse the image displayed on the Program Monitor.
 
@@ -105,10 +101,6 @@ Step3 If you want to specify the rotation angle, you can either **enter** a valu
 
 ![filmora edit rotation angle](https://images.wondershare.com/filmora/article-images/filmora-edit-rotation-angle.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How To Create Mirror Video Effect in Wondershare Filmora
 
 Wondershare Filmora is an excellent video editing software that offers a simple solution for creating a mirror video effect. Its intuitive interface and powerful features make it possible for amateur and professional video editors to achieve stunning results. Filmora provides users with an array of tools to create a mirror effect on their video clip effortlessly.
@@ -200,10 +192,6 @@ Mirroring a video can add an interesting and unique visual effect to your videos
      data-ad-slot="1223367746"></ins>
 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices
 
 Do you know what adds a realistic effect to videos? Professionals add various types of effects to the videos to create artistic perspective flawlessly. Usually, the process of adding effects to the videos happens in the post-production phase, where professionals utilize various software. One of the commonly added effects is the motion blur effect which creates a subtle motion in the video.
@@ -227,10 +215,6 @@ CapCut is available on [App Store](https://apps.apple.com/us/app/capcut-video-ed
 Step1 After adding the desired video clip in CapCut, select it and scroll in the right direction until you can locate the “Motion Blur” option. Now tap on “Motion Blur” and increase its “Blur” and “Blend” strength according to your choice. You can also increase the Blend value accordingly.
 
 ![adjust blur and blend value](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Moreover, you can choose the direction and times of the motion blur effect. Once you are done, tap on the “Tick” icon. After some seconds, the motion blur effect will be applied to your video.
 
@@ -342,10 +326,6 @@ Apps like NSMB and Node Video work efficiently as they contain built-in motion b
 Motion blur effect can immensely change the dynamic of your professional videos. If you want to instruct about specific movements in your video, the motion blur effect can enhance it easily. In this article, we have shed light on **how to do motion blur on CapCut**. For more options, we have also provided three alternatives to CapCut for your additional help.
 
 **Tutorial:** To see and learn how to use Videoleap effectively, you can see a quick tutorial following this link: <https://www.youtube.com/watch?v=e7twWHCVT8U>.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. NSMB – Motion Blur Video
 
@@ -485,10 +465,6 @@ Alpha Matte is an important option under the Track Matte menu, as it allows you 
 
 The Alpha Inverted Matte option is quite the opposite of the Alpha Matte, and around the Alpha channel, it uses negative space from the above layer and will therefore use pixels with 0% opacity as it had 100% opacity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Luma Matte
 
 Instead of using the Alpha channel, Luma Mattes uses the brightness level or Luma channel of the upper layer to create a mask for the bottom layer.
@@ -496,10 +472,6 @@ Instead of using the Alpha channel, Luma Mattes uses the brightness level or Lum
 ### Luma Inverted Matte
 
 Opposite of the Luma Matte, the Luma Inverted Matte uses dark or low luminance areas of the upper layer to create a mask for the lower layer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Differences Between Alpha Channel and Luma Channel
 
@@ -514,10 +486,6 @@ On the other hand, a Luma channel is a video track that stores brightness inform
 ![luma channel in track matte](https://images.wondershare.com/filmora/article-images/2022/07/luma-channel-in-track-matte.png)
 
 **Video – How to use Track Mattes in Adobe After Effects - Tutorial**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -639,10 +607,6 @@ Step 1: To create a VHS look on your video, drop any video of your choice into t
 
 ![changing composition settings on after effects](https://images.wondershare.com/filmora/article-images/2022/changing-composition-settings-on-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Right-click on your video and select New Comp from Selection. Drag your video to a new composition and then go to Lumetri Color < Basic Correction. Add some contrast. You can set it to 50 or any other number of your choice. Then bring the white level down to -55.
 
 ![getting lumetri color effect to get vhs look](https://images.wondershare.com/filmora/article-images/2022/using-lumetri-color-effect-to-get-vhs-look.jpg)
@@ -670,10 +634,6 @@ Step 6: To add a font to your video, simply search VHS font on Google. Look for 
 Step 7: Go to Layer < New < Solid and choose any color. We chose white. Now, under Effects & Presets, search for a number. Drag it to the white solid. Choose the font VCR OSD Mono. You can change the number to time or date. You can also add time manually. Select the text tool, go to the source text, hold alt, and click on the stopwatch. Write "timeToCurrentFormat() and time will be displayed on the video. Let us say we want to see the date on the video instead of time. So, change the time to date. Drag the date to the bottom right of the video to give it the look of an old VHS tape.
 
 If you are a beginner and want a simple VHS effect, you can follow these easy steps and create the VHS video that will transport you back to the 90s.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## BONUS TIP: How to Add VHS Overlays and Glitch Effects to Make Retro Videos in Filmora Video Editor?
 
@@ -869,20 +829,14 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-pathway-to-creating-high-quality-youtube-ads-on-a-dime/"><u>[New] 2024 Approved The Pathway to Creating High-Quality YouTube Ads on a Dime</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-clearsnap-for-windows-quick-and-clean-shots-for-2024/"><u>[New] ClearSnap for Windows Quick & Clean Shots for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-best-editing-software-for-professional-dji-videos/"><u>[New] The Best Editing Software for Professional DJi Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-list-of-non-fbx-game-recording-solutions/"><u>[Updated] In 2024, Ultimate List of Non-FBX Game Recording Solutions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-expert-tips-for-efficient-internet-use-the-7-finest-android-apps/"><u>2024 Approved Expert Tips for Efficient Internet Use The 7 Finest Android Apps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-make-a-good-podcast-trailer/"><u>2024 Approved How To Make A Good Podcast Trailer</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-bsod-with-error-0x00000133-on-your-pc-running-windows-e/"><u>Diagnosing and Repairing BSOD with Error 0X00000133 on Your PC Running Windows E</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-green-screens-are-a-fun-way-for-creators-to-bring-their-personality-to-their-stream-allowing-them-to-dynamically-alter-their-stream-background-and-m/"><u>In 2024, Green Screens Are a Fun Way for Creators to Bring Their Personality to Their Stream, Allowing Them to Dynamically Alter Their Stream Background and Make Their Content Appear Even More Engaging and Polished</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-motion-tracking-in-video-editing/"><u>In 2024, How to Use Motion Tracking in Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-tutorial-how-to-add-motion-blur-in-blender/"><u>In 2024, Tutorial How To Add Motion Blur in Blender?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/les-meilleurs-convertisseurs-video-en-4k-gratuit-pour-windows-et-mac-passer-de-1080p-a-4k/"><u>Les Meilleurs Convertisseurs Video en 4K Gratuit Pour Windows Et Mac : Passer De 1080P À 4K</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/lumafusion-one-of-the-best-video-editors-for-ios/"><u>LumaFusion – One of the Best Video Editors for iOS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-apply-video-filters-mobile-and-desktop-for-2024/"><u>New How to Apply Video Filters Mobile and Desktop for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/steps-to-add-subtitles-in-canva/"><u>Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-11-tools-to-create-radial-blur-photo-mobile-and-desktop/"><u>Updated In 2024, 11 Tools To Create Radial Blur Photo Mobile And Desktop</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-advanced-techniques-for-capturing-presentations-for-2024/"><u>[Updated] Advanced Techniques for Capturing Presentations for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extended-review-uncomplicated-hdr-approach/"><u>[Updated] Extended Review Uncomplicated HDR Approach</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-income-comparison-exercise-monetizing-videos-on-dailymovement-and-youtube/"><u>[Updated] In 2024, Income Comparison Exercise Monetizing Videos on DailyMovement & YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-troubleshooting-when-youtube-shorts-images-fail-to-display/"><u>In 2024, Troubleshooting When YouTube Shorts Images Fail To Display</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/pc1080p/"><u>PCスクリーン撮影のための1080p記録法</u></a></li>
 </ul></div>
 

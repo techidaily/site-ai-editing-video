@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Create the Stranger Things Upside Down Effect
-date: 2025-02-09T18:02:02.554Z
-updated: 2025-02-14T23:29:16.847Z
+date: 2025-02-26T23:41:32.948Z
+updated: 2025-03-04T02:58:56.793Z
 tags: 
   - ai
   - animation videos
@@ -69,10 +69,6 @@ If you don't have a perfectly smooth transition, you can add a dissolve by going
 
 ![cut the clips](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Color Grading and Effects**
 
 After the transition, you can make the clip look a lot more like the Upside Down from the show with a color grade and Filmora effects. Follow the steps below:
@@ -159,10 +155,6 @@ The “cool” or “warm” color grading technically talks about color tempera
 
 ![further edit the color grading](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-8.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Next, move down to the color, lower the brightness and increase contrast. It makes the scene darker and more sinister than the normal world.
 
 ![move down to the color](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-9.jpg)
@@ -170,10 +162,6 @@ Step3 Next, move down to the color, lower the brightness and increase contrast. 
 Step4 Finally, go down to the vignette and drag the amount slider a tiny bit to give a Vinnette around your clip.
 
 ![go down to the vignette](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _**3) Pro Tips**_
 
@@ -203,10 +191,6 @@ Now, go to color and open the white balance menu. Drag the two sliders to change
 
 ![open the white balance menu](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Summary
 
 That is all you need to make a Stranger Things Upside Down effects to your video. Let us know if there are any other effects from tv shows you want to learn how to make.
@@ -229,10 +213,6 @@ That is all you need to make a Stranger Things Upside Down effects to your video
 If you are a Mac user, QuickTime Player is where you play and watch videos. QuickTime by Apple comes pre-installed on every Mac. It happens to be the default video player for macOS users. Under normal circumstances, QuickTime plays a video only once. However, there are times when you want to watch a video repeatedly in a loop.
 
 When you have a short video clip, it is usual that you want to watch it in a loop. The same is applicable to music videos. You may want to listen to the song repeatedly in the background while you work on your Mac. You may also want to show a demonstration video endlessly on the display screen. In all such scenarios, you have to play a loop video on QuickTime. We will illustrate how to play a video in a loop on QuickTime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Steps to Loop Video with QuickTime Player
 
@@ -294,10 +274,6 @@ Step 3: Drag and drop the video clip into the timeline again. Place it by the si
 
 Step 4: Play the video and watch it in a loop through the Viewer on Filmora. If you are satisfied, click on the Export button to save the video in any file format as per your preference.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs
 
 **How do I make my video player loop?**
@@ -372,10 +348,6 @@ On your Mac, open the video on YouTube that you want to put in a loop. Once you 
 
 Yes, you can loop any audio file on QuickTime Player. The steps are the same for looping a video. You need to play the audio and go to View> Loop option to play the audio file repeatedly. However, some have complained that looping audio may leave a gap at the beginning of the audio track.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Looping a video that we like to the highest degree is quite common. If you are playing any desired video on QuickTime Player, we have illustrated how to go for it. We have also provided you with a free and a premium QuickTime Player alternative. You can choose any of them as per your requirements to loop a video.
@@ -385,10 +357,6 @@ Looping a video that we like to the highest degree is quite common. If you are p
 Step 2: Drag and drop the desired video file from your device into the Project Media folder. Thereafter, drag and drop the video file into the timeline.
 
 ![drag video to media filmora](https://images.wondershare.com/filmora/guide/split-video-mac-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Drag and drop the video clip into the timeline again. Place it by the side of the first video clip. There should not be any gap and they should be in the same channel on the timeline. Alternative, you can also copy and paste the video clip for looping.
 
@@ -425,10 +393,6 @@ Looping a video that we like to the highest degree is quite common. If you are p
 One of the powerful editing features offered by several premium-grade video editors is motion tracking. It not only boosts the overall video quality but also helps ensuring the object is engaged throughout the video. Many users fail to apply the motion tracking effect to the videos because they don’t use a reliable tool. The primary motive of this discussion is to provide you with the best-in-class motion tracker.
 
 Not only will we tell you the name of the software, but we will also guide you through the procedure of doing this. Moreover, many of you don't know what motion tracking is. So, this article will also provide significant information about this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What Is Motion Tracking in Video Editing?
 
@@ -736,10 +700,6 @@ Mixkit supports Premiere Pro and After Effects. You can easily employ its mind-b
 
 ![add unique glitch effects mixkit](https://images.wondershare.com/filmora/article-images/2022/add-unique-glitch-effects-mixkit.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Videohive
 
 Videohive has over 7000 glitch templates. Each of the 7000 effects is unique and mind-blowing.
@@ -798,22 +758,22 @@ These transitions can make your work appear more professional and add to the fin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/banish-fallout-cuffs-from-your-gaming-experience-the-ultimate-fix/"><u>Banish Fallout Cuffs From Your Gaming Experience: The Ultimate Fix!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elite-gear-high-performance-unmatched-style-for-2024/"><u>Elite Gear High Performance, Unmatched Style for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-all-about-dji-inspire-1-detailed-survey/"><u>In 2024, All About DJI Inspire 1 Detailed Survey</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-be-aware-of-vhss-meaning-there-is-nothing-to-be-worried-about-because-we-will-guide-you-in-this-article/"><u>In 2024, Do You Want to Be Aware of VHSs Meaning? There Is Nothing to Be Worried About because We Will Guide You in This Article</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-basics-an-approachable-hdr-review/"><u>In 2024, Unveiling the Basics An Approachable HDR Review</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-easy-steps-to-export-video-in-filmora/"><u>New 2024 Approved Easy Steps to Export Video in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-film-a-slow-motion-video/"><u>New 2024 Approved How To Film a Slow Motion Video</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/probing-instagrams-max-video-length-rule/"><u>Probing Instagram's Max Video Length Rule</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/836867-9780857010797-the-five-levels-of-taijiquan/"><u>The Five Levels of Taijiquan | Free Book</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-gps-running-watches/"><u>Top Rated GPS Running Watches</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/unlock-seamless-file-transformation-with-powershell-and-visual-basic-scripts/"><u>Unlock Seamless File Transformation with PowerShell and Visual Basic Scripts</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-powertoys-text-and-click-efficiency/"><u>Unlocking PowerToys' Text and Click Efficiency</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-3-ways-to-make-time-lapse-video-on-macbook/"><u>Updated 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora-for-2024/"><u>Updated How to Correct Lens Distortion With Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-boost-your-brand-visibility-mastering-instagram-hashtags/"><u>[New] 2024 Approved Boost Your Brand Visibility – Mastering Instagram Hashtags</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/outube-snippets-get-high-quality-images-without-a-penny-paid/"><u>[New] YouTube Snippets Get High-Quality Images Without a Penny Paid</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aural-elegance-selecting-high-quality-ringtones-online/"><u>2024 Approved Aural Elegance Selecting High-Quality Ringtones Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-/"><u>2024 Approved Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-utilizing-famebit-techniques-for-youtube-sponsorship-success/"><u>2024 Approved Utilizing FameBit Techniques for YouTube Sponsorship Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-voice-personalization-for-competitive-players/"><u>Effortless Voice Personalization for Competitive Players</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-overcome-windows-aturbidity-and-pair-your-devices-tips-and-tricks/"><u>Expert Solutions: Overcome Windows Aturbidity and Pair Your Devices (Tips & Tricks)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-factory-reset-a-lenovo-laptop/"><u>How to Factory Reset a Lenovo Laptop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-the-premiere-pro-video-templates-help-make-original-content-of-broadcast-quality-the-article-introduces-10-free-premiere-pro-templates-that-are-sure-to-/"><u>New The Premiere Pro Video Templates Help Make Original Content of Broadcast Quality. The Article Introduces 10 Free Premiere Pro Templates that Are Sure to Make Your Life Easy</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/progressing-with-intels-18a-panther-lake-and-clearwater-forests-advancing-closer-to-advanced-lithography-technology/"><u>Progressing with Intel's 18A Panther Lake & Clearwater Forests: Advancing Closer to Advanced Lithography Technology</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-glitch-art-video-editing-apps-for-ios-and-android-for-2024/"><u>Top 10 Glitch Art Video Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-cropping-and-combining-content-in-wondershare-filmora-latest-for-2024/"><u>Updated Guide To Cropping and Combining Content in Wondershare Filmora Latest for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
 </ul></div>
 
